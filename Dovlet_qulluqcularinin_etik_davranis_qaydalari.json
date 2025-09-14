@@ -1,4 +1,656 @@
 {
-  "id": "Dovlet_qulluqcularinin_etik_davranis_qaydalari",
-  "raw_js": "export const Dovlet_qulluqcularinin_etik_davranis_qaydalari = {\n  name: \"Dövlət qulluqçularının etik davranış qaydaları\",\n questions: [\n    {\n     \"id\": 401,\n      \"text\": \"\\\"Dövlət qulluqçularının etik davranış qaydaları haqqında\\\" AR Qanunu nəyi müəyyən etmir?\",\n      \"options\": [\n        \"etik davranış qaydalarını\",\n        \"etik davranış prinsiplərini\", \n        \"etik davranış qaydaları və prinsiplərinə əməl edilməsi ilə bağlı iqtisadi mexanizmləri\",\n        \"etik davranış qaydaları və prinsiplərinə əməl edilməsi ilə bağlı huquqi mexanizmləri\"\n      ],\n      \"correctAnswer\": 2,\n      \"explanation\": \"Qanun etik davranış qaydaları və prinsiplərinə əməl edilməsi ilə bağlı iqtisadi mexanizmləri müəyyən etmir.\"\n    },\n    {\n     \"id\": 402,\n      \"text\": \"\\\"Dövlət qulluqçularının etik davranış qaydaları haqqında\\\" AR Qanunu kimlərə şamil edilmir?\",\n      \"options\": [\n        \"yardımçı vəzifə tutan dövlət qulluqçularına\",\n        \"inzibati vəzifə tutan dövlət qulluqçularına\",\n        \"dövlət orqanlarında çalışan bütün şəxslərə\",\n        \"dövlət qulluqçusu statusuna malik olan bütün şəxslərə\"\n      ],\n      \"correctAnswer\": 2,\n      \"explanation\": \"Qanun dövlət orqanlarında çalışan bütün şəxslərə şamil edilmir, yalnız dövlət qulluqçularına aiddir.\"\n    },\n    {\n     \"id\": 403,\n      \"text\": \"\\\"Dövlət qulluqçularının etik davranış qaydaları haqqında\\\" AR Qanununa görə hər bir dövlət qulluqçusu bu qanunun müddəalarına əməl edərkən nəyi rəhbər tutmağa borclu deyil?\",\n      \"options\": [\n        \"qanunun aliliyini\",\n        \"insan hüquqlarını\",\n        \"ictimai prinsipləri\",\n        \"yüksək etik davranış qaydalarını\"\n      ],\n      \"correctAnswer\": 2,\n      \"explanation\": \"Dövlət qulluqçusu ictimai prinsipləri deyil, digər seçimləri rəhbər tutmağa borcludur.\"\n    },\n    {\n     \"id\": 404,\n      \"text\": \"\\\"Dövlət qulluqçularının etik davranış qaydaları haqqında\\\" AR Qanununun məqsədi kimi müəyyən olunmayıb?\",\n      \"options\": [\n        \"dövlət orqanlarının və dövlət qulluğunun nüfuzunun artırılması, dövlət orqanları və dövlət qulluqçularının vətəndaşlara etimadının yüksəldilməsi\",\n        \"dövlət orqanları və dövlət qulluqçularının fəaliyyətində səmərəliliyin və şəffaflığın artırılması\",\n        \"dövlət orqanlarında korrupsiyanın və dövlət qulluqçularının fəaliyyətində maraqların toqquşmasının qarşısının alınması\",\n        \"dövlət qulluqçuları tərəfindən etik davranış qaydalarına əməl olunmasının təmin edilməsi\"\n      ],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Bu variant qanunun məqsədi kimi müəyyən olunmayıb.\"\n    },\n    {\n     \"id\": 405,\n      \"text\": \"\\\"Dövlət qulluqçularının etik davranış qaydaları haqqında\\\" AR Qanununun məqsədi kimi müəyyən olunmayıb?\",\n      \"options\": [\n        \"dövlət qulluqçuları tərəfindən etik davranış qaydalarına əməl olunmasının təmin edilməsi\",\n        \"dövlət orqanlarının və dövlət qulluqçularının fəaliyyətinin qiymətləndirilməsinə vətəndaşların təsiri imkanlarının genişləndirilməsi\",\n        \"dövlət qulluqçularından gözlənilən davranış barədə dövlət orqanlarının məlumatlandırılması\",\n        \"dövlət orqanlarında korrupsiyanın və dövlət qulluqçularının fəaliyyətində maraqların toqquşmasının qarşısının alınması\"\n      ],\n      \"correctAnswer\": 2,\n      \"explanation\": \"Dövlət qulluqçularından gözlənilən davranış barədə dövlət orqanlarının məlumatlandırılması qanunun məqsədi kimi müəyyən olunmayıb.\"\n    },\n    {\n     \"id\": 406,\n      \"text\": \"\\\"Dövlət qulluqçularının etik davranış qaydaları haqqında\\\" AR Qanuna görə dövlət qulluqçusunun qanunvericiliklə ona verilmiş hüquqların həyata keçirilməsi və vəzifələrinin yerinə yetirilməsi ilə əlaqədar fəaliyyəti necə adlanır?\",\n      \"options\": [\n        \"dövlət qulluqçusunun xidməti davranışı\",\n        \"dövlət qulluqçusunun işgüzar davranışı\",\n        \"dövlət qulluqçusunun huquqi davranışı\",\n        \"dövlət qulluqçusunun vicdanlı davranışı\"\n      ],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Bu fəaliyyət 'dövlət qulluqçusunun xidməti davranışı' adlanır.\"\n    },\n    {\n     \"id\": 407,\n      \"text\": \"Dövlət qulluqçusunun xidməti davranışı nəyə əsaslanmalıdır?\",\n      \"options\": [\n        \"\\\"dövlət qulluğu haqqında\\\" AR Qanunu ilə müəyyən edilmiş etik davranış qaydalarına və prinsiplərinə\",\n        \"\\\"dövlət qulluqçularının etik davranış qaydaları haqqında\\\" AR Qanunu ilə müəyyən edilmiş etik davranış qaydalarına və prinsiplərinə\",\n        \"\\\"Korrupsiyaya qarşı mübarizə haqqında\\\" AR Qanunu ilə müəyyən edilmiş korrupsiyanın qarşısının alınması qaydalarına və prinsiplərinə\",\n        \"hər birinə\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Xidməti davranış \\\"dövlət qulluqçularının etik davranış qaydaları haqqında\\\" AR Qanunu ilə müəyyən edilmiş etik davranış qaydalarına və prinsiplərinə əsaslanmalıdır.\"\n    },\n    {\n     \"id\": 408,\n      \"text\": \"Dövlət qulluqçusunun xidməti davranışı hansı aktlara uyğun olaraq tənzimlənir? (tam və dolğun cavabı müəyyən edin)\",\n      \"options\": [\n        \"yalnız \\\"Dövlət qulluqçularının etik davranış qaydaları haqqında\\\" AR Qanununa\",\n        \"yalnız \\\"Dövlət qulluğu haqqında\\\" AR Qanununa\",\n        \"\\\"Dövlət qulluqçularının etik davranış qaydaları haqqında\\\" AR Qanununa və digər normativ hüquqi aktlara\",\n        \"yalnız \\\"Dövlət qulluğu haqqında\\\" və \\\"Dövlət qulluqçularının etik davranış qaydaları haqqında\\\" AR Qanunlarına\"\n      ],\n      \"correctAnswer\": 2,\n      \"explanation\": \"Xidməti davranış həm bu qanuna, həm də digər normativ hüquqi aktlara uyğun olaraq tənzimlənir.\"\n    },\n    {\n     \"id\": 409,\n      \"text\": \"\\\"Dövlət qulluqçularının etik davranış qaydaları haqqında\\\" AR Qanununa görə bu qanunla müəyyən olunmuş etik davranış qaydalarını dəqiqləşdirən normalar, onlara riayət olunması ilə bağlı təminatlar dövlət orqanlarının digər normativ hüquqi aktları ilə müəyyənləşdirilə bilərmi?\",\n      \"options\": [\n        \"Müəyyənləşdirilə bilməz.\",\n        \"Müəyyənləşdirilə bilər.\",\n        \"Bununla bağlı müddəa müəyyən olunmayıb.\",\n        \"Yalnız müəyyən dövlət orqanlarının normativ hüquqi aktları ilə müəyyənləşdirilə bilər.\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Etik davranış qaydalarını dəqiqləşdirən normalar dövlət orqanlarının digər normativ hüquqi aktları ilə müəyyənləşdirilə bilər.\"\n    },\n    {\n     \"id\": 410,\n      \"text\": \"Dövlət orqanlarının digər normativ huquqi aktları ilə müəyyən olunmuş etik davranış qaydalarını dəqiqləşdirən normalar, onlara riayət olunması ilə bağlı təminatlar hansı qanunun müddəalarına zidd olmamalıdır?\",\n      \"options\": [\n        \"\\\"Dövlət qulluqçularının etik davranış qaydaları haqqında\\\" AR Qanununa\",\n        \"\\\"Korrupsiyaya qarşı mübarizə haqqında\\\" AR Qanununa\",\n        \"\\\"Dövlət qulluğu haqqında\\\" AR Qanununa\",\n        \"hər birinə\"\n      ],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Bu normalar \\\"Dövlət qulluqçularının etik davranış qaydaları haqqında\\\" AR Qanununa zidd olmamalıdır.\"\n    },\n    {\n     \"id\": 411,\n      \"text\": \"Kimlərin maraqları naminə dövlət qulluqçuları öz vəzifə borcunu səmərəli yerinə yetirməyə borcludur?\",\n      \"options\": [\n        \"cəmiyyətin\",\n        \"dövlətin\",\n        \"şəxsin\",\n        \"hamısı\"\n      ],\n      \"correctAnswer\": 3,\n      \"explanation\": \"Şəxsin, cəmiyyətin və dövlətin maraqları naminə dövlət qulluqçuları öz vəzifə borcunu səmərəli yerinə yetirməyə borcludur.\"\n    },\n    {\n     \"id\": 412,\n      \"text\": \"Dövlət qulluqçusu hansı hallarda hər bir şəxs üçün vicdanlılıq nümunəsi olmalıdır?\",\n      \"options\": [\n        \"bütün hallarda\",\n        \"iş vaxtı ərzində\",\n        \"öz rəhbəri ilə münasibətdə\",\n        \"tabeliyində olan şəxslərlə münasibətdə\"\n      ],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Dövlət qulluqçusu bütün hallarda hər bir şəxs üçün vicdanlılıq nümunəsi olmalıdır.\"\n    },\n    {\n     \"id\": 413,\n      \"text\": \"Neçə adda etik davranış qaydası müəyyən edilmişdir?\",\n      \"options\": [\n        \"12\",\n        \"13\",\n        \"14\",\n        \"15\"\n      ],\n      \"correctAnswer\": 3,\n      \"explanation\": \"15 adda etik davranış qaydası müəyyən edilmişdir.\"\n    },\n    {\n     \"id\": 414,\n      \"text\": \"\\\"Şəxsin, cəmiyyətin və dövlətin maraqları naminə dövlət qulluqçuları öz vəzifə borcunu səmərəli yerinə yetirməyə borcludur\\\" müddəası hansı etik davranış qaydasında öz əksini tapmışdır?\",\n      \"options\": [\n        \"Vicdanlı davranış\",\n        \"Peşəkarlıq və fərdi məsuliyyətin artırılması\",\n        \"Loyallıq\",\n        \"İctimai etimad\"\n      ],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Bu müddəa 'Vicdanlı davranış' etik davranış qaydasında öz əksini tapmışdır.\"\n    },\n    {\n     \"id\": 415,\n      \"text\": \"Aşağıdakılardan hansı \\\"Peşəkarlıq və fərdi məsuliyyətin artırılması\\\" ilə bağlı etik davranış qaydası kimi müəyyən olunmayıb?\",\n      \"options\": [\n        \"Dövlət qulluqçusu öz fəaliyyətini AR qanunvericiliyi ilə müəyyən olunmuş səlahiyyətlər çərçivəsində yerinə yetirməyə borcludur.\",\n        \"Dövlət qulluqçusu etik davranışı və öz peşəkar fəaliyyəti ilə dövlət orqanlarına hüquqi və fiziki şəxslərin inamını artırmalı və möhkəmləndirməlidir.\",\n        \"Dövlət qulluqçusu öz fəaliyyətini AR qanunvericiliyi ilə müəyyən olunmuş peşəkarlıq səviyyəsində yerinə yetirməyə borcludur.\",\n        \"Dövlət qulluqçusu hüquqi şəxslərin işgüzar nüfuzuna hörmətlə yanaşmalı və onların işgüzar nüfuzunu ləkələyə biləcək hərəkətlərə (və ya hərəkətsizliyə) yol verməməlidir.\"\n      ],\n      \"correctAnswer\": 3,\n      \"explanation\": \"Bu müddəa 'Peşəkarlıq və fərdi məsuliyyətin artırılması' etik davranış qaydası kimi müəyyən olunmayıb.\"\n    },\n    {\n     \"id\": 416,\n      \"text\": \"\\\"Dövlət qulluqçusu etik davranışı və öz peşəkar fəaliyyəti ilə dövlət orqanlarına hüquqi və fiziki şəxslərin inamını artırmalı və möhkəmləndirməlidir\\\" müddəası hansı etik davranış qaydasında öz əksini tapmışdır?\",\n      \"options\": [\n        \"Vicdanlı davranış\",\n        \"Peşəkarlıq və fərdi məsuliyyətin artırılması\",\n        \"Loyallıq\",\n        \"İctimai etimad\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Bu müddəa 'Peşəkarlıq və fərdi məsuliyyətin artırılması' etik davranış qaydasında öz əksini tapmışdır.\"\n    },\n    {\n     \"id\": 417,\n      \"text\": \"\\\"Dövlət qulluqçusu etik davranışı və öz peşəkar fəaliyyəti ilə dövlət orqanlarına kimlərin inamını artırmalı və möhkəmləndirməlidir? (tam və dolğun cavabı seçin)\",\n      \"options\": [\n        \"fiziki şəxslərin\",\n        \"huquqi şəxslərin\",\n        \"hüquqi və fiziki şəxslərin\",\n        \"beynəlxalq təşkilatların\"\n      ],\n      \"correctAnswer\": 2,\n      \"explanation\": \"Dövlət qulluqçusu həm hüquqi, həm də fiziki şəxslərin inamını artırmalıdır.\"\n    },\n    {\n     \"id\": 418,\n      \"text\": \"\\\"Loyallıq\\\" etik davranış qaydası ilə bağlı hansı fikir yalnışdır?\",\n      \"options\": [\n        \"Dövlət qulluqçusu onun xidməti vəzifəsinə aid olmadığı hallarda, dövlət orqanlarının, onların rəhbərlərinin fəaliyyəti ilə əlaqədar (qanunsuz fəaliyyət istisna olmaqla) tənqidi ictimai mülahizələrdən, çıxışlardan və onların fəaliyyətinə ictimai qiymət verilməsindən çəkinməlidir. Bu qayda dövlət qulluqçusunun elmi-pedaqoji fəaliyyəti ilə bağlı çıxışlarına və ya elmi yazılarına da şamil olunur.\",\n        \"Dövlət qulluqçusu dövlət qulluğu ilə bağlı vəzifələrin icrası ilə bir araya sığmayan və onun adına xələl gətirə biləcək, habelə dövlət orqanının nüfuzunu aşağı sala biləcək hərəkətlərə yol verməməlidir.\",\n        \"Dövlət qulluqçusu dövlət orqanı tərəfindən açıq çıxışlarla bağlı müəyyən olunmuş qaydalara əməl etməlidir.\",\n        \"Dövlət qulluqçusu qanunvericilikdə dövlət qulluğu ilə bağlı nəzərdə tutulmuş məhdudiyyətlərə əməl etməlidir.\"\n      ],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Bu müddəa yalnışdır - elmi-pedaqoji fəaliyyət ilə bağlı çıxışlara və yazılara bu qayda şamil olunmur.\"\n    },\n    {\n     \"id\": 419,\n      \"text\": \"Dövlət qulluqçusu onun xidməti vəzifəsinə aid olmadığı hallarda hansı hərəkətlərdən çəkinməli olması nəzərdə tutulmayıb?\",\n      \"options\": [\n        \"dövlət orqanlarının, onların rəhbərlərinin fəaliyyəti ilə əlaqədar (qanunsuz fəaliyyət istisna olmaqla) tənqidi ictimai mülahizələrdən\",\n        \"çıxışlardan\",\n        \"onların fəaliyyətinə ictimai qiymət verilməsindən\",\n        \"dövlət orqanlarının rəhbərlərinin fəaliyyəti ilə əlaqədar (qanuni fəaliyyət istisna olmaqla) tənqidi ictimai mülahizələrdən\"\n      ],\n      \"correctAnswer\": 3,\n      \"explanation\": \"Bu variant nəzərdə tutulmayıb - qanuni fəaliyyət istisna olunduğu təqdirdə tənqidi mülahizələrdən çəkinməli olmaq.\"\n    },\n    {\n     \"id\": 420,\n      \"text\": \"Dövlət qulluqçusu aşağıda göstərilən hərəkətlərdən hansını edə bilər?\",\n      \"options\": [\n        \"dövlət qulluqçusu dövlət qulluğu ilə bağlı vəzifələrin icrası ilə bir araya sığmayan\",\n        \"dövlət qulluqçusunun adına xələl gətirə biləcək\",\n        \"dövlət orqanının nüfuzunu aşağı sala biləcək\",\n        \"dövlət orqanının nüfuzunu möhkəmləndirə biləcək\"\n      ],\n      \"correctAnswer\": 3,\n      \"explanation\": \"Dövlət qulluqçusu yalnız dövlət orqanının nüfuzunu möhkəmləndirə biləcək hərəkətləri edə bilər.\"\n    },\n    {\n     \"id\": 421,\n      \"text\": \"\\\"Dövlət qulluqçularının etik davranış qaydaları haqqında\\\" ARQ-a görə aşağıdakılardan hansı \\\"Loyallıq\\\" etik davranış qaydası kimi müəyyən olunub?\",\n      \"options\": [\n        \"Dövlət qulluqçusu etik davranışı və öz peşəkar fəaliyyəti ilə dövlət orqanlarına hüquqi və fiziki şəxslərin inamını artırmalı və möhkəmləndirməlidir.\",\n        \"Dövlət qulluqçusu etik davranış qaydalarının onun tərəfindən pozulması nəticələrini aradan qaldırmağa, o cümlədən ictimai etimadın bərpası üçün tədbirlər görməyə borcludur.\",\n        \"Dövlət qulluqçusu xidməti vəzifələrinin yerinə yeritirilməsi zamanı siyasi bitərəfliyə əməl etməyə borcludur.\",\n        \"Dövlət qulluqçusu qanunvericilikdə dövlət qulluğu ilə bağlı nəzərdə tutulmuş məhdudiyyətlərə əməl etməlidir.\"\n      ],\n      \"correctAnswer\": 3,\n      \"explanation\": \"Bu müddəa 'Loyallıq' etik davranış qaydası kimi müəyyən olunub.\"\n    },\n    {\n     \"id\": 422,\n      \"text\": \"\\\"İctimai etimad\\\" etik davranış qaydası ilə bağlı hansı fikir yalnışdır?\",\n      \"options\": [\n        \"Dövlət qulluqçusu AR, dövlət orqanının və dövlət qulluğunun nüfuzunu möhkəmləndirməyə, öz adını və şərəfini uca tutmağa borcludur.\",\n        \"Dövlət qulluqçusu etik davranış qaydalarının dövlət orqanı tərəfindən pozulması nəticələrini aradan qaldırmağa borcludur.\",\n        \"Dövlət qulluqçusu dövlət orqanlarının və onların vəzifəli şəxslərinin fəaliyyəti barədə ictimaiyyəti məlumatlandıran kütləvi informasiya vasitələri nümayəndələrinin qanunla müəyyən edilmiş hallarda və qaydada doğru (dürüst) məlumatlar almasına köməklik göstərməlidir.\",\n        \"Dövlət qulluqçusu ictimai etimadın bərpası üçün tədbirlər görməyə borcludur.\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Bu fikir yanlışdır - etik davranış qaydalarının onun özü tərəfindən pozulması deyilməlidir, dövlət orqanı tərəfindən deyil.\"\n    },\n    {\n     \"id\": 423,\n      \"text\": \"Dövlət qulluqçusu dövlət orqanlarının və onların vəzifəli şəxslərinin fəaliyyəti barədə hansı subyektlər tərəfindən qanunla müəyyən edilmiş hallarda və qaydada doğru (dürüst) ictimaiyyəti məlumatlandıran məlumatlar almasına köməklik göstərməlidir?\",\n      \"options\": [\n        \"fiziki şəxslər\",\n        \"kütləvi informasiya vasitələri nümayəndələri\",\n        \"beynəlxalq təşkilatlar\",\n        \"huquqi şəxslər\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Kütləvi informasiya vasitələri nümayəndələrinin məlumat almasına köməklik göstərməlidir.\"\n    },\n    {\n     \"id\": 424,\n      \"text\": \"\\\"İctimai etimad\\\" etik davranış qaydasına aiddir?\",\n      \"options\": [\n        \"Dövlət qulluqçusu etik davranışı və öz peşəkar fəaliyyəti ilə dövlət orqanlarına hüquqi və fiziki şəxslərin inamını artırmalı və möhkəmləndirməlidir.\",\n        \"Dövlət qulluqçusu dövlət orqanlarının və onların vəzifəli şəxslərinin fəaliyyəti barədə ictimaiyyəti məlumatlandıran kütləvi informasiya vasitələri nümayəndələrinin qanunla müəyyən edilmiş hallarda və qaydada doğru (dürüst) məlumatlar almasına köməklik göstərməlidir.\",\n        \"Dövlət qulluqçusu dövlət orqanı tərəfindən açıq çıxışlarla bağlı müəyyən olunmuş qaydalara əməl etməlidir.\",\n        \"Dövlət qulluqçusu etik davranış qaydalarının dövlət orqanı tərəfindən pozulması nəticələrini aradan qaldırmağa borcludur.\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Bu müddəa 'İctimai etimad' etik davranış qaydasına aiddir.\"\n    },\n    {\n     \"id\": 425,\n      \"text\": \"\\\"İnsanların hüquq, azadlıq və qanuni maraqlarına, şərəf və ləyaqətinə və işgüzar nüfuzuna hörmət. Hüquqi şəxslərin işgüzar nüfuzuna hörmət\\\" etik davranış qaydasına ilə bağlı hansı fikir yalnışdır?\",\n      \"options\": [\n        \"Dövlət qulluqçularının fəaliyyəti insanların hüquq, azadlıq və qanuni maraqlarının təmin olunmasına (qorunmasına və müdafiəsinə) xidmət etməlidir.\",\n        \"Dövlət qulluqçusu insanların hüquq və azadlıqlarını, qanuni maraqlarını pozan, onların şərəf, ləyaqət və işgüzar nüfuzunu ləkələyə biləcək qərarlara və hərəkətlərə (və ya hərəkətsizliyə) yol verməməlidir.\",\n        \"Dövlət qulluqçusu xidməti vəzifələrinin icrası ilə bağlı fiziki şəxslərin, habelə digər dövlət qulluqçularının şəxsi həyatı, şərəf və ləyaqəti barədə ona məlum olmuş məlumatların konfidensiallığını bütün hallarda təmin etməlidir.\",\n        \"Dövlət qulluqçusu hüquqi şəxslərin işgüzar nüfuzuna hörmətlə yanaşmalı və onların işgüzar nüfuzunu ləkələyə biləcək hərəkətlərə (və ya hərəkətsizliyə) yol verməməlidir.\"\n      ],\n      \"correctAnswer\": 2,\n      \"explanation\": \"Bu fikir yanlışdır - konfidensiallıq bütün hallarda deyil, müəyyən hallarda təmin edilməlidir.\"\n    },\n   {\n \"id\": 426,\n  \"text\": \"Dövlət qulluqçusu kimlərlə münasibətdə nəzakətli, xeyirxah, diqqətli və səbrli olmalıdır?\",\n  \"options\": [\n    \"bütün şəxslərə\",\n    \"birbaşa və yuxarı rəhbəri ilə\",\n    \"tabeliyində olan şəxslərə münasibətdə\",\n    \"hamısı\"\n  ],\n  \"correctAnswer\": 0,\n  \"explanation\": \"Dövlət qulluqçusu bütün şəxslərə münasibətdə nəzakətli, xeyirxah, diqqətli və səbrli olmalıdır.\"\n},\n{\n \"id\": 427,\n  \"text\": \"Dövlət qulluqçusu bütün şəxslərə, o cümlədən birbaşa və yuxarı rəhbəri ilə və ya tabeliyində olan şəxslərə münasibətdə hansı keyfiyyətlərə malik olmalıdır?\",\n  \"options\": [\n    \"nəzakətli, xeyirxah, diqqətli və səbirli\",\n    \"nəzakətli, xeyirxah, diqqətli və səbrsiz\",\n    \"ədalətli, səmimi, vicdanlı, mərhəmətli\",\n    \"vicdanlı, mərhəmətli, diqqətli və səbirli\"\n  ],\n  \"correctAnswer\": 0,\n  \"explanation\": \"Dövlət qulluqçusu bütün şəxslərə münasibətdə nəzakətli, xeyirxah, diqqətli və səbirli olmalıdır.\"\n},\n{\n \"id\": 428,\n  \"text\": \"\\\"Dövlət qulluqçusu bütün şəxslərə, o cümlədən birbaşa və yuxarı rəhbəri ilə və ya tabeliyində olan şəxslərə münasibətdə nəzakətli, xeyirxah, diqqətli və səbirli olmalıdır\\\" müddəası hansı etik davranış qaydasında öz əksini tapmışdır?\",\n  \"options\": [\n    \"Loyallıq\",\n    \"İctimai etimad\",\n    \"Mədəni davranış\",\n    \"Qərəzsizlik\"\n  ],\n  \"correctAnswer\": 2,\n  \"explanation\": \"Bu müddəa mədəni davranış etik davranış qaydasında öz əksini tapmışdır.\"\n},\n{\n \"id\": 429,\n  \"text\": \"\\\"Əmr, sərəncam və ya tapşırıqların yerinə yetirilməsi\\\" etik davranış qaydası ilə bağlı hansı fikir yanlışdır?\",\n  \"options\": [\n    \"Dövlət qulluqçusu birbaşa və ya yuxarı rəhbərinin qanuna uyğun olan və səlahiyyətləri daxilində qəbul etdiyi yazılı əmri, sərəncamı və ya verdiyi şifahi tapşırıqları yerinə yetirməyə borcludur\",\n    \"Dövlət qulluqçusu birbaşa və ya yuxarı rəhbər tərəfindən ona verilən əmrin, sərəncamın və ya tapşırığın qanuna və ya digər normativ hüquqi akta zidd olmasına əmindirsə, bu barədə yazılı əsaslandırmanı birbaşa və ya yuxarı rəhbərinə təqdim etməlidir\",\n    \"O, birbaşa rəhbərindən bu əmr, sərəncam və ya tapşırığın yazılı şəkildə təsdiq olunmasını tələb etməlidir\",\n    \"Qanuni göstərişlərin yerinə yetirilməməsi inzibati məsuliyyətinə səbəb olur\"\n  ],\n  \"correctAnswer\": 3,\n  \"explanation\": \"Qanuni göstərişlərin yerinə yetirilməməsi inzibati deyil, intizam məsuliyyətinə səbəb olur.\"\n},\n{\n \"id\": 430,\n  \"text\": \"Dövlət qulluqçusu birbaşa və ya yuxarı rəhbərinin hansı qaydada olan yazılı əmri, sərəncamı və ya verdiyi şifahi tapşırıqları yerinə yetirməyə borcludur? (Tam və dəqiq cavabı seçin)\",\n  \"options\": [\n    \"yalnız səlahiyyətləri daxilində qəbul etdiyi\",\n    \"istənilən əmr, sərəncamı və ya verdiyi şifahi tapşırıqları\",\n    \"dövlət orqanlarının səlahiyyətləri daxilində qəbul etdiyi\",\n    \"qanuna uyğun olan və səlahiyyətləri daxilində qəbul etdiyi\"\n  ],\n  \"correctAnswer\": 3,\n  \"explanation\": \"Dövlət qulluqçusu yalnız qanuna uyğun olan və səlahiyyətləri daxilində qəbul edilmiş əmr və tapşırıqları yerinə yetirməyə borcludur.\"\n},\n{\n \"id\": 431,\n  \"text\": \"Dövlət qulluqçusu birbaşa və ya yuxarı rəhbər tərəfindən ona verilən əmrin, sərəncamın və ya tapşırığın qanuna və ya digər normativ hüquqi akta zidd olmasına əmindirsə, ilkin olaraq nə etməlidir?\",\n  \"options\": [\n    \"O, birbaşa rəhbərindən bu əmr, sərəncam və ya tapşırığın yazılı şəkildə təsdiq olunmasını tələb etməlidir\",\n    \"bu barədə yazılı əsaslandırmanı birbaşa və ya yuxarı rəhbərinə təqdim etməlidir\",\n    \"O, yuxarı rəhbərindən bu əmr, sərəncam və ya tapşırığın yazılı şəkildə təsdiq olunmasını tələb etməlidir\",\n    \"bu barədə yazılı əsaslandırmanı yalnız birbaşa rəhbərinə təqdim etməlidir\"\n  ],\n  \"correctAnswer\": 1,\n  \"explanation\": \"İlkin olaraq yazılı əsaslandırmanı birbaşa və ya yuxarı rəhbərinə təqdim etməlidir.\"\n},\n{\n \"id\": 432,\n  \"text\": \"Dövlət qulluqçusu əmr, sərəncam və ya tapşırığın yazılı şəkildə təsdiq olunmasını kimdən tələb etməlidir?\",\n  \"options\": [\n    \"birbaşa rəhbərindən\",\n    \"yuxarı rəhbərindən\",\n    \"birbaşa və yuxarı rəhbərindən\",\n    \"tələb edə bilməz (belə bir hüququ yoxdur)\"\n  ],\n  \"correctAnswer\": 0,\n  \"explanation\": \"Dövlət qulluqçusu birbaşa rəhbərindən əmr, sərəncam və ya tapşırığın yazılı şəkildə təsdiq olunmasını tələb etməlidir.\"\n},\n{\n \"id\": 433,\n  \"text\": \"\\\"Qanuni göstərişlərin yerinə yetirilməməsi intizam məsuliyyətinə səbəb olur\\\" müddəası hansı etik davranış qaydasında öz əksini tapmışdır?\",\n  \"options\": [\n    \"Maraqlar toqquşmasının qarşısının alınması\",\n    \"Loyallıq\",\n    \"Əmr, sərəncam və ya tapşırıqların yerinə yetirilməsi\",\n    \"Korrupsiyanın qarşısının alınması\"\n  ],\n  \"correctAnswer\": 2,\n  \"explanation\": \"Bu müddəa əmr, sərəncam və ya tapşırıqların yerinə yetirilməsi etik davranış qaydasında öz əksini tapmışdır.\"\n},\n{\n \"id\": 434,\n  \"text\": \"Aşağıdakılardan hansı \\\"Qərəzsizlik\\\" etik davranış qaydası ilə bağlı müddəa deyil?\",\n  \"options\": [\n    \"Dövlət qulluqçusu xidməti vəzifəsini yerinə yetirərkən və ya qərar qəbul edərkən qərəzsiz olmalı və bu zaman irqinə, milliyyətinə, dininə, dilinə, cinsinə, sosial mənşəyinə, əmlak və qulluq vəziyyətinə, əqidəsinə, ictimai və ya hər hansı digər birliyə mənsubiyyətinə görə hər hansı şəxsin və ya şəxslər qrupunun üstünlüyünə və ya belə üstünlüyün əldə edilməsi üçün şəraitin yaradılmasına yol verməməlidir\",\n    \"Dövlət qulluqçusu xidməti vəzifələrinin yerinə yeritirilməsi zamanı siyasi bitərəfliyə əməl etməyə borcludur\",\n    \"Dövlət qulluqçusu özünün və ya maraqlı şəxslərin mənafelərinin onun xidməti vəzifələrinin yerinə yetirilməsinə təsirinə yol verməməli və bu cür təsir üçün şərait yaratmamalıdır\",\n    \"Tərəflərdən biri dövlət qulluqçusunun qulluq keçdiyi dövlət orqanı olan əqdlərdə həmin dövlət qulluqçusu digər tərəf ola bilməz\"\n  ],\n  \"correctAnswer\": 3,\n  \"explanation\": \"Bu müddəa maraqlar toqquşmasının qarşısının alınması etik davranış qaydası ilə bağlıdır.\"\n},\n    {\n     \"id\": 435,\n      \"text\": \"Aşağıdakılardan hansı “Qərəzsizlik” etik davranış qaydası ilə bağlı müddəadır?\",\n      \"options\": [\n        \"Dövlət qulluqçusu xidməti vəzifələrinin yerinə yetirilməsi zamanı siyasi bitərəfliyə əməl etməyə borcludur\",\n        \"Dövlət qulluqçusu qanunvericilikdə dövlət qulluğu ilə bağlı nəzərdə tutulmuş məhdudiyyətlərə əməl etməlidir.\",\n        \"Qanuni göstərişlərin yerinə yetirilməməsi intizam məsuliyyətinə səbəb olur.\",\n        \"Tərəflərdən biri dövlət qulluqçusunun qulluq keçdiyi dövlət orqanı olan əqdlərdə həmin dövlət qulluqçusu digər tərəf ola bilməz.\"\n      ],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Qərəzsizlik qaydası siyasi bitərəfliyə əməl olunmasını nəzərdə tutur.\"\n    },\n    {\n     \"id\": 436,\n      \"text\": \"“Maddi və qeyri-maddi nemətlərin, imtiyazların və ya güzəştlərin əldə edilməsinə yol verilməməsi” etik davranış qaydası ilə bağlı hansı fikir yalnışdır?\",\n      \"options\": [\n        \"Dövlət qulluqçusunun qanunsuz olaraq maddi və qeyri-maddi nemətlər, imtiyazlar və ya güzəştlər əldə etməyə yönəlmiş hərəkətlər etməsi və ya qərarlar qəbul etməsi qadağandır.\",\n        \"Dövlət qulluqçusu onun hərəkətlərinin və ya qərarlarının maddi və qeyri-maddi nemətlər, imtiyazlar və ya güzəştlər əldə etməyə gətirib çıxarmasını istisna etməyən tədbirlər görməlidir.\",\n        \"Qanunvericiliklə müəyyən olunmuş qaydada şəxslərə əvəzsiz xidmət göstərən dövlət qulluqçusu həmin xidmətə görə hər hansı haqq tələb edə bilməz.\",\n        \"Qanunvericiliklə müəyyən olunmuş ödəniş müqabilində vətəndaşlara xidmət göstərən dövlət qulluqçusu həmin xidmətə görə nəzərdə tutulan məbləğdən artıq haqq tələb edə bilməz.\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Bu fikir yalnışdır, çünki dövlət qulluqçusu belə halların qarşısını almalıdır.\"\n    },\n    {\n     \"id\": 437,\n      \"text\": \"Qanunvericiliklə müəyyən olunmuş qaydada şəxslərə əvəzsiz xidmət göstərən dövlət qulluqçusu həmin xidmətə görə nə tələb edə bilməz?\",\n      \"options\": [\"hər hansı güzəşt\", \"hər hansı məbləğ\", \"hər hansı haqq\", \"hər hansı imtiyaz\"],\n      \"correctAnswer\": 2,\n      \"explanation\": \"Əvəzsiz xidmətlər üçün hər hansı haqq tələb olunmur.\"\n    },\n    {\n     \"id\": 438,\n      \"text\": \"Aşağıdakılardan hansı “Korrupsiyanın qarşısının alınması” ilə bağlı etik davranış qaydası kimi müəyyən olunmayıb?\",\n      \"options\": [\n        \"Dövlət qulluqçusuna qanunsuz maddi və qeyri-maddi nemətlər, imtiyazlar və ya güzəştlər təklif olunduğu hallarda, dövlət qulluqçusu onlardan imtina etməlidir.\",\n        \"Maddi və qeyri-maddi nemətlər, imtiyazlar və ya güzəştlər dövlət qulluqçusuna ondan asılı olmayan səbəblərdən verilərsə, o, bu barədə birbaşa rəhbərinə məlumat verməlidir və təhvil verməlidir.\",\n        \"Qanunvericiliklə müəyyən olunmuş qaydada şəxslərə əvəzsiz xidmət göstərən dövlət qulluqçusu həmin xidmətə görə hər hansı haqq tələb edə bilməz.\",\n        \"Tərəflərdən biri dövlət qulluqçusunun qulluq keçdiyi dövlət orqanı olan əqdlərdə həmin dövlət qulluqçusu digər tərəf ola bilməz.\"\n      ],\n      \"correctAnswer\": 3,\n      \"explanation\": \"Bu müddəa korrupsiya ilə deyil, maraqlar toqquşması ilə bağlıdır.\"\n    },\n    {\n     \"id\": 439,\n      \"text\": \"“Tərəflərdən biri dövlət qulluqçusunun qulluq keçdiyi dövlət orqanı olan əqdlərdə həmin dövlət qulluqçusu digər tərəf ola bilməz” müddəası hansı etik davranış qaydasında öz əksini tapmışdır?\",\n      \"options\": [\"Korrupsiyanın qarşısının alınması\", \"Qərəzsizlik\", \"Maraqlar toqquşmasının qarşısının alınması\", \"Maddi və qeyri-maddi nemətlərin əldə edilməsinə yol verilməməsi\"],\n      \"correctAnswer\": 2,\n      \"explanation\": \"Bu müddəa maraqlar toqquşmasının qarşısının alınması ilə bağlıdır.\"\n    },\n    {\n     \"id\": 440,\n      \"text\": \"Dövlət qulluqçusu hədiyyənin qəbul edilməsi və ya qonaqpərvərlikdən istifadə ilə bağlı qərara gələ bilmədiyi hallarda bu məsələ barədə kimin rəyini öyrənməlidir?\",\n      \"options\": [\"dövlət orqanının rəhbərinin\", \"birbaşa rəhbərinin\", \"birbaşa və dövlət orqanının rəhbərinin\", \"Belə bir hal müəyyən olunmayıb.\"],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Bu halda birbaşa rəhbərin rəyini öyrənməlidir.\"\n    },\n    {\n     \"id\": 441,\n      \"text\": \"“Maraqlar toqquşmasının qarşısının alınması” etik davranış qaydası ilə bağlı hansı fikir yalnışdır?\",\n      \"options\": [\n        \"Dövlət qulluqçusu qulluq etdiyi dövrdə maraqların toqquşmasına yol verməməlidir.\",\n        \"Dövlət qulluqçusu maraqların xarakteri barədə məlumat verməyə borcludur.\",\n        \"Dövlət qulluqçusu başqa vəzifəyə keçmə ilə bağlı təklifləri birbaşa rəhbərinə bildirməlidir.\",\n        \"Dövlət qulluğuna xitam verildikdən sonra belə, dövlət qulluqçusu əvvəl nəzarət etdiyi orqanlarda işləyə bilər.\"\n      ],\n      \"correctAnswer\": 3,\n      \"explanation\": \"Bu fikir yalnışdır, çünki qanunla belə hallara yol verilmir.\"\n    },\n    {\n     \"id\": 442,\n      \"text\": \"“Dövlət qulluğuna xitam verildikdən sonra dövlət qulluqçusu əvvəl nəzarət etdiyi orqanlarda işləyə bilməz” müddəası hansı etik davranış qaydasında öz əksini tapmışdır?\",\n      \"options\": [\"Maddi və qeyri-maddi nemətlərin əldə edilməsinə yol verilməməsi\", \"Qərəzsizlik\", \"Maraqlar toqquşmasının qarşısının alınması\", \"Korrupsiyanın qarşısının alınması\"],\n      \"correctAnswer\": 2,\n      \"explanation\": \"Bu maraqlar toqquşmasının qarşısının alınması ilə bağlı müddəadır.\"\n    },\n    {\n     \"id\": 443,\n      \"text\": \"“Maraqlar toqquşmasının qarşısının alınması” ilə bağlı dövlət qulluqçusu hansı normativ aktlarla tanış olmamalıdır?\",\n      \"options\": [\"etik davranış qaydaları\", \"korrupsiyaya qarşı mübarizə\", \"maraqların toqquşmasının qarşısının alınması\", \"dövlət sirrinin qorunması\"],\n      \"correctAnswer\": 3,\n      \"explanation\": \"Dövlət sirri ilə bağlı tanışlıq etik davranış qaydasına aid deyil.\"\n    },\n    {\n     \"id\": 444,\n      \"text\": \"Dövlət qulluqçusu istifadəsində olan dövlət əmlakından necə istifadə etməlidir?\",\n      \"options\": [\"qənaətlə və səmərəli\", \"vicdanla və ehtiyatla\", \"vicdanla və qənaətlə\", \"ehtiyatla və səmərəli\"],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Əmlakdan qənaətlə və səmərəli istifadə olunmalıdır.\"\n    },\n    {\n     \"id\": 445,\n      \"text\": \"Dövlət qulluqçusuna dövlət əmlakından hansı maraqlar naminə istifadə etməsi qadağandır?\",\n      \"options\": [\"dövlət maraqları\", \"şəxsi maraqlar\", \"ictimai maraqlar\", \"hər biri\"],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Şəxsi maraqlar naminə istifadəsi qadağandır.\"\n    },\n    {\n     \"id\": 446,\n      \"text\": \"Dövlət qulluqçusuna dövlət əmlakından hansı məqsədlər üçün istifadə etməsi qadağandır?\",\n      \"options\": [\"xidməti vəzifələrin icrası ilə əlaqədar olmayan\", \"ictimai məqsədlər üçün\", \"şəxsi məqsədlər üçün\", \"dövlət orqanlarının fəaliyyətinə uyğun olmayan\"],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Xidməti vəzifələrlə əlaqəsi olmayan istifadə qadağandır.\"\n    },\n    {\n     \"id\": 447,\n      \"text\": \"Dövlət qulluqçusu dövlət orqanında müəyyən olunmuş xidməti informasiyanın təqdim edilməsi qaydalarına əməl etməlidir müddəası hansı qaydada əks olunub?\",\n      \"options\": [\"Məlumatlardan istifadə\", \"Qərəzsizlik\", \"Maraqlar toqquşmasının qarşısının alınması\", \"Korrupsiyanın qarşısının alınması\"],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Bu müddəa məlumatlardan istifadə qaydasına aiddir.\"\n    },\n    {\n     \"id\": 448,\n      \"text\": \"“İctimai və ya siyasi fəaliyyət”lə bağlı hansı fikir yalnışdır?\",\n      \"options\": [\n        \"Dövlət qulluqçusunun ictimai və siyasi birliyə üzv olmaq hüququ yoxdur.\",\n        \"İctimai-siyasi fəaliyyət qərəzsizliyi şübhə altına almamalıdır.\",\n        \"Dövlət qulluqçusu digər qulluqçuları siyasi fəaliyyətə təhrik etməməlidir.\",\n        \"Dövlət qulluqçusu dövlət orqanlarında ictimai və siyasi birliklər yarada bilər.\"\n      ],\n      \"correctAnswer\": 3,\n      \"explanation\": \"Bu fikir yalnışdır, çünki dövlət orqanlarında belə birliklərin yaradılması qadağandır.\"\n    },\n    {\n     \"id\": 449,\n      \"text\": \"Dövlət qulluqçusunun davranışının etik davranış qaydalarına uyğunluğu kim tərəfindən təhlil edilir?\",\n      \"options\": [\"onun özü\", \"birbaşa rəhbəri\", \"yuxarı rəhbəri\", \"hər biri\"],\n      \"correctAnswer\": 3,\n      \"explanation\": \"Etik davranış qaydalarına uyğunluq hər kəs tərəfindən təhlil edilir.\"\n    },\n    {\n     \"id\": 450,\n      \"text\": \"Etik davranış qaydalarına əməl olunmasına nəzarətlə bağlı hansı fikir yalnışdır?\",\n      \"options\": [\"dövlət orqanının rəhbəri - xidməti qaydada\", \"yuxarı orqan - tabeçilik əsasında\", \"müvafiq dövlət orqanı qanunla müəyyən edilmiş qaydada\", \"struktur bölmə rəhbəri vəzifə təlimatları əsasında\"],\n      \"correctAnswer\": 3,\n      \"explanation\": \"Struktur bölmə rəhbəri bu səlahiyyətə malik deyil.\"\n    },\n    {\n     \"id\": 451,\n      \"text\": \"Dövlət orqanlarında etik davranış qaydalarına əməl olunmasına nəzarəti hansı qurumlar həyata keçirir?\",\n      \"options\": [\"həmin orqanların müvafiq qurumları\", \"nəzarət orqanı\", \"struktur vahidlərinin rəhbərləri\", \"yuxarı orqanın əməkdaşları\"],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Tam və dolğun cavab: nəzarət orqanı bu nəzarəti həyata keçirir.\"\n    },\n    {\n     \"id\": 452,\n      \"text\": \"Aşağıdakılardan hansını dövlət orqanının rəhbəri tərəfindən həyata keçirilən etik davranış qaydalarına nəzarət forması deyil?\",\n      \"options\": [\"xidməti davranışlara nəzarət etməli\", \"öz davranışı ilə nümunə göstərməli\", \"vəzifə bölgüsü aparmalı\", \"qanunvericiliyin təkmilləşdirilməsinə dair təkliflər verməli\"],\n      \"correctAnswer\": 2,\n      \"explanation\": \"Vəzifə bölgüsü etik nəzarət forması deyil.\"\n    },\n    {\n     \"id\": 453,\n      \"text\": \"Aşağıdakılardan hansı etik davranış qaydalarına nəzarət edən “Nəzarət orqanı”nın səlahiyyətlərinə aid deyil?\",\n      \"options\": [\"hüquqpozmaları aidiyyəti üzrə göndərmək\", \"qanunvericiliyin təkmilləşdirilməsinə təkliflər vermək\", \"ictimai rəy öyrənmək\", \"normativ aktlar hazırlamaq və təsdiq etmək\"],\n      \"correctAnswer\": 3,\n      \"explanation\": \"Normativ aktları təsdiq etmək səlahiyyətləri yoxdur.\"\n    },\n    {\n     \"id\": 454,\n      \"text\": \"Aşağıdakılardan hansını dövlət orqanının rəhbəri tərəfindən həyata keçirilən etik davranış qaydalarına nəzarət forması deyil?\",\n      \"options\": [\"etik davranışı izah etmək\", \"normativ akt hazırlayıb təsdiq etmək\", \"ictimai rəy öyrənmək və maarifləndirmə aparmaq\", \"intizam məsuliyyətinə cəlb etmək üçün tədbirlər görmək\"],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Normativ akt hazırlamaq rəhbərin səlahiyyəti deyil.\"\n    },\n    {\n     \"id\": 455,\n      \"text\": \"Aşağıdakılardan hansı etik davranış qaydalarına nəzarət edən “Nəzarət orqanı”nın səlahiyyətlərinə aid deyil?\",\n      \"options\": [\"nəticələrin aradan qaldırılması üçün tədbirlər görmək\", \"ictimai rəy öyrənmək\", \"araşdırmalar aparmaq və məruzələr tərtib etmək\", \"qeyri-hökumət təşkilatları ilə əməkdaşlıq etmək\"],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Nəticələrin aradan qaldırılması onların səlahiyyətinə daxil deyil.\"\n    },\n    {\n     \"id\": 456,\n      \"text\": \"Aşağıdakılardan hansını dövlət orqanının rəhbəri tərəfindən həyata keçirilən etik davranış qaydalarına nəzarət forması deyil?\",\n      \"options\": [\"işçiləri etik normalara zidd hərəkətə sövq etməmək\", \"hüquqpozmaları yoxlanılması üçün göndərmək\", \"profilaktik tədbirlər görmək\", \"kadrların seçilməsində qanuna əməl etmək\"],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Hüquqpozmaları yoxlanılması üçün göndərmək rəhbərin səlahiyyəti deyil.\"\n    },\n    {\n     \"id\": 457,\n      \"text\": \"Aşağıdakılardan hansı etik davranış qaydalarına nəzarət edən “Nəzarət orqanı”nın səlahiyyətlərinə aid deyil?\",\n      \"options\": [\"qanuna əməl edilməsini öyrənmək və ümumiləşdirmək\", \"şikayətləri qəbul etmək\", \"təkliflər vermək və təqdimatlar hazırlamaq\", \"intizam məsuliyyətinə cəlb etmək\"],\n      \"correctAnswer\": 3,\n      \"explanation\": \"İntizam məsuliyyətinə cəlb etmək onların səlahiyyətində deyil.\"\n    },\n    {\n     \"id\": 458,\n      \"text\": \"Aşağıdakılardan hansını dövlət orqanının rəhbəri tərəfindən həyata keçirilən etik davranış qaydalarına nəzarət forması deyil?\",\n      \"options\": [\"vətəndaşları məlumatlandırmaq üçün tədbirlər görmək\", \"şikayətləri qəbul etmək\", \"tədbirlər barədə ictimaiyyəti məlumatlandırmaq\", \"nəticələrin aradan qaldırılması üçün tədbirlər görmək\"],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Şikayətlərin qəbulu rəhbərin funksiyası deyil.\"\n    },\n    {\n     \"id\": 459,\n      \"text\": \"Nəzarət orqanı etik davranış qaydalarının pozulması ilə əlaqədar dövlət qulluqçusuna qarşı aparılan intizam icraatına müdaxilə edə bilərmi?\",\n      \"options\": [\"Bilməz\", \"Bilər\", \"Yalnız qanunla müəyyən edilmiş hallarda\", \"Heç bir müddəa yoxdur\"],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Nəzarət orqanı intizam icraatına müdaxilə edə bilməz.\"\n    },\n    {\n     \"id\": 460,\n      \"text\": \"Etik davranış qaydalarının pozulması dövlət qulluqçusunun hansı məsuliyyətə cəlb edilməsi üçün əsasdır?\",\n      \"options\": [\"intizam məsuliyyətinə\", \"inzibati məsuliyyətə\", \"cinayət məsuliyyətinə\", \"mülki məsuliyyətə\"],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Etik qaydaların pozulması intizam məsuliyyətinə səbəb olur.\"\n    },\n    {\n     \"id\": 461,\n      \"text\": \"Hansı hallarda dövlət qulluqçusuna qarşı intizam icraatına başlanıla bilməz?\",\n      \"options\": [\n        \"Qanunun pozulması barədə hüquqi şəxslər tərəfindən şikayət veriləndə\",\n        \"KİV-də maraqların toqquşmamasına dair məlumat dərc ediləndə\",\n        \"KİV-də etik qaydaların pozulmasına dair məlumat dərc ediləndə\",\n        \"Qanunun pozulması barədə fiziki şəxslər tərəfindən şikayət veriləndə\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Maraqların toqquşmamasına dair məlumat intizam icraatına səbəb deyil.\"\n    },\n    {\n     \"id\": 462,\n      \"text\": \"İntizam icraatı zamanı hüquq pozuntusunda cinayət tərkibi aşkar edildikdə bu barədə kimə məlumat verilməlidir?\",\n      \"options\": [\"cinayət təqibi orqanına\", \"hüquq-mühafizə orqanlarına\", \"yuxarı dövlət orqanlarına\", \"dövlət qulluqçusunun özünə\"],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Cinayət tərkibi aşkarlanarsa cinayət təqibi orqanına məlumat verilməlidir.\"\n    },\n    {\n     \"id\": 463,\n      \"text\": \"“Dövlət qulluqçularının etik davranış qaydaları haqqında” ARQ nə vaxt qəbul olunub?\",\n      \"options\": [\"31 may 2007\", \"13 yanvar 2004\", \"17 iyun 1999\", \"30 sentyabr 2015\"],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Qanun 13 yanvar 2004-cü ildə qəbul olunub.\"\n    },\n    {\n     \"id\": 464,\n      \"text\": \"“Dövlət qulluqçularının etik davranış qaydaları haqqında” ARQ nə vaxt qüvvəyə minib?\",\n      \"options\": [\"31 may 2007\", \"17 iyun 1999\", \"30 sentyabr 2015\", \"dərc edildiyi gündən\"],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Qanun 31 may 2007-ci ildə qüvvəyə minib.\"\n    }\n  ]\n};\n\n\n"
+ "id":"Dovlet_qulluqcularinin_etik_davranis_qaydalari",
+  "name": "Dövlət qulluqçularının etik davranış qaydaları",
+ "questions": [
+    {
+     "id": 401,
+      "text": "\"Dövlət qulluqçularının etik davranış qaydaları haqqında\" AR Qanunu nəyi müəyyən etmir?",
+      "options": [
+        "etik davranış qaydalarını",
+        "etik davranış prinsiplərini", 
+        "etik davranış qaydaları və prinsiplərinə əməl edilməsi ilə bağlı iqtisadi mexanizmləri",
+        "etik davranış qaydaları və prinsiplərinə əməl edilməsi ilə bağlı huquqi mexanizmləri"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Qanun etik davranış qaydaları və prinsiplərinə əməl edilməsi ilə bağlı iqtisadi mexanizmləri müəyyən etmir."
+    },
+    {
+     "id": 402,
+      "text": "\"Dövlət qulluqçularının etik davranış qaydaları haqqında\" AR Qanunu kimlərə şamil edilmir?",
+      "options": [
+        "yardımçı vəzifə tutan dövlət qulluqçularına",
+        "inzibati vəzifə tutan dövlət qulluqçularına",
+        "dövlət orqanlarında çalışan bütün şəxslərə",
+        "dövlət qulluqçusu statusuna malik olan bütün şəxslərə"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Qanun dövlət orqanlarında çalışan bütün şəxslərə şamil edilmir, yalnız dövlət qulluqçularına aiddir."
+    },
+    {
+     "id": 403,
+      "text": "\"Dövlət qulluqçularının etik davranış qaydaları haqqında\" AR Qanununa görə hər bir dövlət qulluqçusu bu qanunun müddəalarına əməl edərkən nəyi rəhbər tutmağa borclu deyil?",
+      "options": [
+        "qanunun aliliyini",
+        "insan hüquqlarını",
+        "ictimai prinsipləri",
+        "yüksək etik davranış qaydalarını"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dövlət qulluqçusu ictimai prinsipləri deyil, digər seçimləri rəhbər tutmağa borcludur."
+    },
+    {
+     "id": 404,
+      "text": "\"Dövlət qulluqçularının etik davranış qaydaları haqqında\" AR Qanununun məqsədi kimi müəyyən olunmayıb?",
+      "options": [
+        "dövlət orqanlarının və dövlət qulluğunun nüfuzunun artırılması, dövlət orqanları və dövlət qulluqçularının vətəndaşlara etimadının yüksəldilməsi",
+        "dövlət orqanları və dövlət qulluqçularının fəaliyyətində səmərəliliyin və şəffaflığın artırılması",
+        "dövlət orqanlarında korrupsiyanın və dövlət qulluqçularının fəaliyyətində maraqların toqquşmasının qarşısının alınması",
+        "dövlət qulluqçuları tərəfindən etik davranış qaydalarına əməl olunmasının təmin edilməsi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Bu variant qanunun məqsədi kimi müəyyən olunmayıb."
+    },
+    {
+     "id": 405,
+      "text": "\"Dövlət qulluqçularının etik davranış qaydaları haqqında\" AR Qanununun məqsədi kimi müəyyən olunmayıb?",
+      "options": [
+        "dövlət qulluqçuları tərəfindən etik davranış qaydalarına əməl olunmasının təmin edilməsi",
+        "dövlət orqanlarının və dövlət qulluqçularının fəaliyyətinin qiymətləndirilməsinə vətəndaşların təsiri imkanlarının genişləndirilməsi",
+        "dövlət qulluqçularından gözlənilən davranış barədə dövlət orqanlarının məlumatlandırılması",
+        "dövlət orqanlarında korrupsiyanın və dövlət qulluqçularının fəaliyyətində maraqların toqquşmasının qarşısının alınması"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dövlət qulluqçularından gözlənilən davranış barədə dövlət orqanlarının məlumatlandırılması qanunun məqsədi kimi müəyyən olunmayıb."
+    },
+    {
+     "id": 406,
+      "text": "\"Dövlət qulluqçularının etik davranış qaydaları haqqında\" AR Qanuna görə dövlət qulluqçusunun qanunvericiliklə ona verilmiş hüquqların həyata keçirilməsi və vəzifələrinin yerinə yetirilməsi ilə əlaqədar fəaliyyəti necə adlanır?",
+      "options": [
+        "dövlət qulluqçusunun xidməti davranışı",
+        "dövlət qulluqçusunun işgüzar davranışı",
+        "dövlət qulluqçusunun huquqi davranışı",
+        "dövlət qulluqçusunun vicdanlı davranışı"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Bu fəaliyyət 'dövlət qulluqçusunun xidməti davranışı' adlanır."
+    },
+    {
+     "id": 407,
+      "text": "Dövlət qulluqçusunun xidməti davranışı nəyə əsaslanmalıdır?",
+      "options": [
+        "\"dövlət qulluğu haqqında\" AR Qanunu ilə müəyyən edilmiş etik davranış qaydalarına və prinsiplərinə",
+        "\"dövlət qulluqçularının etik davranış qaydaları haqqında\" AR Qanunu ilə müəyyən edilmiş etik davranış qaydalarına və prinsiplərinə",
+        "\"Korrupsiyaya qarşı mübarizə haqqında\" AR Qanunu ilə müəyyən edilmiş korrupsiyanın qarşısının alınması qaydalarına və prinsiplərinə",
+        "hər birinə"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Xidməti davranış \"dövlət qulluqçularının etik davranış qaydaları haqqında\" AR Qanunu ilə müəyyən edilmiş etik davranış qaydalarına və prinsiplərinə əsaslanmalıdır."
+    },
+    {
+     "id": 408,
+      "text": "Dövlət qulluqçusunun xidməti davranışı hansı aktlara uyğun olaraq tənzimlənir? (tam və dolğun cavabı müəyyən edin)",
+      "options": [
+        "yalnız \"Dövlət qulluqçularının etik davranış qaydaları haqqında\" AR Qanununa",
+        "yalnız \"Dövlət qulluğu haqqında\" AR Qanununa",
+        "\"Dövlət qulluqçularının etik davranış qaydaları haqqında\" AR Qanununa və digər normativ hüquqi aktlara",
+        "yalnız \"Dövlət qulluğu haqqında\" və \"Dövlət qulluqçularının etik davranış qaydaları haqqında\" AR Qanunlarına"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Xidməti davranış həm bu qanuna, həm də digər normativ hüquqi aktlara uyğun olaraq tənzimlənir."
+    },
+    {
+     "id": 409,
+      "text": "\"Dövlət qulluqçularının etik davranış qaydaları haqqında\" AR Qanununa görə bu qanunla müəyyən olunmuş etik davranış qaydalarını dəqiqləşdirən normalar, onlara riayət olunması ilə bağlı təminatlar dövlət orqanlarının digər normativ hüquqi aktları ilə müəyyənləşdirilə bilərmi?",
+      "options": [
+        "Müəyyənləşdirilə bilməz.",
+        "Müəyyənləşdirilə bilər.",
+        "Bununla bağlı müddəa müəyyən olunmayıb.",
+        "Yalnız müəyyən dövlət orqanlarının normativ hüquqi aktları ilə müəyyənləşdirilə bilər."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Etik davranış qaydalarını dəqiqləşdirən normalar dövlət orqanlarının digər normativ hüquqi aktları ilə müəyyənləşdirilə bilər."
+    },
+    {
+     "id": 410,
+      "text": "Dövlət orqanlarının digər normativ huquqi aktları ilə müəyyən olunmuş etik davranış qaydalarını dəqiqləşdirən normalar, onlara riayət olunması ilə bağlı təminatlar hansı qanunun müddəalarına zidd olmamalıdır?",
+      "options": [
+        "\"Dövlət qulluqçularının etik davranış qaydaları haqqında\" AR Qanununa",
+        "\"Korrupsiyaya qarşı mübarizə haqqında\" AR Qanununa",
+        "\"Dövlət qulluğu haqqında\" AR Qanununa",
+        "hər birinə"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Bu normalar \"Dövlət qulluqçularının etik davranış qaydaları haqqında\" AR Qanununa zidd olmamalıdır."
+    },
+    {
+     "id": 411,
+      "text": "Kimlərin maraqları naminə dövlət qulluqçuları öz vəzifə borcunu səmərəli yerinə yetirməyə borcludur?",
+      "options": [
+        "cəmiyyətin",
+        "dövlətin",
+        "şəxsin",
+        "hamısı"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Şəxsin, cəmiyyətin və dövlətin maraqları naminə dövlət qulluqçuları öz vəzifə borcunu səmərəli yerinə yetirməyə borcludur."
+    },
+    {
+     "id": 412,
+      "text": "Dövlət qulluqçusu hansı hallarda hər bir şəxs üçün vicdanlılıq nümunəsi olmalıdır?",
+      "options": [
+        "bütün hallarda",
+        "iş vaxtı ərzində",
+        "öz rəhbəri ilə münasibətdə",
+        "tabeliyində olan şəxslərlə münasibətdə"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dövlət qulluqçusu bütün hallarda hər bir şəxs üçün vicdanlılıq nümunəsi olmalıdır."
+    },
+    {
+     "id": 413,
+      "text": "Neçə adda etik davranış qaydası müəyyən edilmişdir?",
+      "options": [
+        "12",
+        "13",
+        "14",
+        "15"
+      ],
+      "correctAnswer": 3,
+      "explanation": "15 adda etik davranış qaydası müəyyən edilmişdir."
+    },
+    {
+     "id": 414,
+      "text": "\"Şəxsin, cəmiyyətin və dövlətin maraqları naminə dövlət qulluqçuları öz vəzifə borcunu səmərəli yerinə yetirməyə borcludur\" müddəası hansı etik davranış qaydasında öz əksini tapmışdır?",
+      "options": [
+        "Vicdanlı davranış",
+        "Peşəkarlıq və fərdi məsuliyyətin artırılması",
+        "Loyallıq",
+        "İctimai etimad"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Bu müddəa 'Vicdanlı davranış' etik davranış qaydasında öz əksini tapmışdır."
+    },
+    {
+     "id": 415,
+      "text": "Aşağıdakılardan hansı \"Peşəkarlıq və fərdi məsuliyyətin artırılması\" ilə bağlı etik davranış qaydası kimi müəyyən olunmayıb?",
+      "options": [
+        "Dövlət qulluqçusu öz fəaliyyətini AR qanunvericiliyi ilə müəyyən olunmuş səlahiyyətlər çərçivəsində yerinə yetirməyə borcludur.",
+        "Dövlət qulluqçusu etik davranışı və öz peşəkar fəaliyyəti ilə dövlət orqanlarına hüquqi və fiziki şəxslərin inamını artırmalı və möhkəmləndirməlidir.",
+        "Dövlət qulluqçusu öz fəaliyyətini AR qanunvericiliyi ilə müəyyən olunmuş peşəkarlıq səviyyəsində yerinə yetirməyə borcludur.",
+        "Dövlət qulluqçusu hüquqi şəxslərin işgüzar nüfuzuna hörmətlə yanaşmalı və onların işgüzar nüfuzunu ləkələyə biləcək hərəkətlərə (və ya hərəkətsizliyə) yol verməməlidir."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Bu müddəa 'Peşəkarlıq və fərdi məsuliyyətin artırılması' etik davranış qaydası kimi müəyyən olunmayıb."
+    },
+    {
+     "id": 416,
+      "text": "\"Dövlət qulluqçusu etik davranışı və öz peşəkar fəaliyyəti ilə dövlət orqanlarına hüquqi və fiziki şəxslərin inamını artırmalı və möhkəmləndirməlidir\" müddəası hansı etik davranış qaydasında öz əksini tapmışdır?",
+      "options": [
+        "Vicdanlı davranış",
+        "Peşəkarlıq və fərdi məsuliyyətin artırılması",
+        "Loyallıq",
+        "İctimai etimad"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bu müddəa 'Peşəkarlıq və fərdi məsuliyyətin artırılması' etik davranış qaydasında öz əksini tapmışdır."
+    },
+    {
+     "id": 417,
+      "text": "\"Dövlət qulluqçusu etik davranışı və öz peşəkar fəaliyyəti ilə dövlət orqanlarına kimlərin inamını artırmalı və möhkəmləndirməlidir? (tam və dolğun cavabı seçin)",
+      "options": [
+        "fiziki şəxslərin",
+        "huquqi şəxslərin",
+        "hüquqi və fiziki şəxslərin",
+        "beynəlxalq təşkilatların"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dövlət qulluqçusu həm hüquqi, həm də fiziki şəxslərin inamını artırmalıdır."
+    },
+    {
+     "id": 418,
+      "text": "\"Loyallıq\" etik davranış qaydası ilə bağlı hansı fikir yalnışdır?",
+      "options": [
+        "Dövlət qulluqçusu onun xidməti vəzifəsinə aid olmadığı hallarda, dövlət orqanlarının, onların rəhbərlərinin fəaliyyəti ilə əlaqədar (qanunsuz fəaliyyət istisna olmaqla) tənqidi ictimai mülahizələrdən, çıxışlardan və onların fəaliyyətinə ictimai qiymət verilməsindən çəkinməlidir. Bu qayda dövlət qulluqçusunun elmi-pedaqoji fəaliyyəti ilə bağlı çıxışlarına və ya elmi yazılarına da şamil olunur.",
+        "Dövlət qulluqçusu dövlət qulluğu ilə bağlı vəzifələrin icrası ilə bir araya sığmayan və onun adına xələl gətirə biləcək, habelə dövlət orqanının nüfuzunu aşağı sala biləcək hərəkətlərə yol verməməlidir.",
+        "Dövlət qulluqçusu dövlət orqanı tərəfindən açıq çıxışlarla bağlı müəyyən olunmuş qaydalara əməl etməlidir.",
+        "Dövlət qulluqçusu qanunvericilikdə dövlət qulluğu ilə bağlı nəzərdə tutulmuş məhdudiyyətlərə əməl etməlidir."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Bu müddəa yalnışdır - elmi-pedaqoji fəaliyyət ilə bağlı çıxışlara və yazılara bu qayda şamil olunmur."
+    },
+    {
+     "id": 419,
+      "text": "Dövlət qulluqçusu onun xidməti vəzifəsinə aid olmadığı hallarda hansı hərəkətlərdən çəkinməli olması nəzərdə tutulmayıb?",
+      "options": [
+        "dövlət orqanlarının, onların rəhbərlərinin fəaliyyəti ilə əlaqədar (qanunsuz fəaliyyət istisna olmaqla) tənqidi ictimai mülahizələrdən",
+        "çıxışlardan",
+        "onların fəaliyyətinə ictimai qiymət verilməsindən",
+        "dövlət orqanlarının rəhbərlərinin fəaliyyəti ilə əlaqədar (qanuni fəaliyyət istisna olmaqla) tənqidi ictimai mülahizələrdən"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Bu variant nəzərdə tutulmayıb - qanuni fəaliyyət istisna olunduğu təqdirdə tənqidi mülahizələrdən çəkinməli olmaq."
+    },
+    {
+     "id": 420,
+      "text": "Dövlət qulluqçusu aşağıda göstərilən hərəkətlərdən hansını edə bilər?",
+      "options": [
+        "dövlət qulluqçusu dövlət qulluğu ilə bağlı vəzifələrin icrası ilə bir araya sığmayan",
+        "dövlət qulluqçusunun adına xələl gətirə biləcək",
+        "dövlət orqanının nüfuzunu aşağı sala biləcək",
+        "dövlət orqanının nüfuzunu möhkəmləndirə biləcək"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Dövlət qulluqçusu yalnız dövlət orqanının nüfuzunu möhkəmləndirə biləcək hərəkətləri edə bilər."
+    },
+    {
+     "id": 421,
+      "text": "\"Dövlət qulluqçularının etik davranış qaydaları haqqında\" ARQ-a görə aşağıdakılardan hansı \"Loyallıq\" etik davranış qaydası kimi müəyyən olunub?",
+      "options": [
+        "Dövlət qulluqçusu etik davranışı və öz peşəkar fəaliyyəti ilə dövlət orqanlarına hüquqi və fiziki şəxslərin inamını artırmalı və möhkəmləndirməlidir.",
+        "Dövlət qulluqçusu etik davranış qaydalarının onun tərəfindən pozulması nəticələrini aradan qaldırmağa, o cümlədən ictimai etimadın bərpası üçün tədbirlər görməyə borcludur.",
+        "Dövlət qulluqçusu xidməti vəzifələrinin yerinə yeritirilməsi zamanı siyasi bitərəfliyə əməl etməyə borcludur.",
+        "Dövlət qulluqçusu qanunvericilikdə dövlət qulluğu ilə bağlı nəzərdə tutulmuş məhdudiyyətlərə əməl etməlidir."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Bu müddəa 'Loyallıq' etik davranış qaydası kimi müəyyən olunub."
+    },
+    {
+     "id": 422,
+      "text": "\"İctimai etimad\" etik davranış qaydası ilə bağlı hansı fikir yalnışdır?",
+      "options": [
+        "Dövlət qulluqçusu AR, dövlət orqanının və dövlət qulluğunun nüfuzunu möhkəmləndirməyə, öz adını və şərəfini uca tutmağa borcludur.",
+        "Dövlət qulluqçusu etik davranış qaydalarının dövlət orqanı tərəfindən pozulması nəticələrini aradan qaldırmağa borcludur.",
+        "Dövlət qulluqçusu dövlət orqanlarının və onların vəzifəli şəxslərinin fəaliyyəti barədə ictimaiyyəti məlumatlandıran kütləvi informasiya vasitələri nümayəndələrinin qanunla müəyyən edilmiş hallarda və qaydada doğru (dürüst) məlumatlar almasına köməklik göstərməlidir.",
+        "Dövlət qulluqçusu ictimai etimadın bərpası üçün tədbirlər görməyə borcludur."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bu fikir yanlışdır - etik davranış qaydalarının onun özü tərəfindən pozulması deyilməlidir, dövlət orqanı tərəfindən deyil."
+    },
+    {
+     "id": 423,
+      "text": "Dövlət qulluqçusu dövlət orqanlarının və onların vəzifəli şəxslərinin fəaliyyəti barədə hansı subyektlər tərəfindən qanunla müəyyən edilmiş hallarda və qaydada doğru (dürüst) ictimaiyyəti məlumatlandıran məlumatlar almasına köməklik göstərməlidir?",
+      "options": [
+        "fiziki şəxslər",
+        "kütləvi informasiya vasitələri nümayəndələri",
+        "beynəlxalq təşkilatlar",
+        "huquqi şəxslər"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kütləvi informasiya vasitələri nümayəndələrinin məlumat almasına köməklik göstərməlidir."
+    },
+    {
+     "id": 424,
+      "text": "\"İctimai etimad\" etik davranış qaydasına aiddir?",
+      "options": [
+        "Dövlət qulluqçusu etik davranışı və öz peşəkar fəaliyyəti ilə dövlət orqanlarına hüquqi və fiziki şəxslərin inamını artırmalı və möhkəmləndirməlidir.",
+        "Dövlət qulluqçusu dövlət orqanlarının və onların vəzifəli şəxslərinin fəaliyyəti barədə ictimaiyyəti məlumatlandıran kütləvi informasiya vasitələri nümayəndələrinin qanunla müəyyən edilmiş hallarda və qaydada doğru (dürüst) məlumatlar almasına köməklik göstərməlidir.",
+        "Dövlət qulluqçusu dövlət orqanı tərəfindən açıq çıxışlarla bağlı müəyyən olunmuş qaydalara əməl etməlidir.",
+        "Dövlət qulluqçusu etik davranış qaydalarının dövlət orqanı tərəfindən pozulması nəticələrini aradan qaldırmağa borcludur."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bu müddəa 'İctimai etimad' etik davranış qaydasına aiddir."
+    },
+    {
+     "id": 425,
+      "text": "\"İnsanların hüquq, azadlıq və qanuni maraqlarına, şərəf və ləyaqətinə və işgüzar nüfuzuna hörmət. Hüquqi şəxslərin işgüzar nüfuzuna hörmət\" etik davranış qaydasına ilə bağlı hansı fikir yalnışdır?",
+      "options": [
+        "Dövlət qulluqçularının fəaliyyəti insanların hüquq, azadlıq və qanuni maraqlarının təmin olunmasına (qorunmasına və müdafiəsinə) xidmət etməlidir.",
+        "Dövlət qulluqçusu insanların hüquq və azadlıqlarını, qanuni maraqlarını pozan, onların şərəf, ləyaqət və işgüzar nüfuzunu ləkələyə biləcək qərarlara və hərəkətlərə (və ya hərəkətsizliyə) yol verməməlidir.",
+        "Dövlət qulluqçusu xidməti vəzifələrinin icrası ilə bağlı fiziki şəxslərin, habelə digər dövlət qulluqçularının şəxsi həyatı, şərəf və ləyaqəti barədə ona məlum olmuş məlumatların konfidensiallığını bütün hallarda təmin etməlidir.",
+        "Dövlət qulluqçusu hüquqi şəxslərin işgüzar nüfuzuna hörmətlə yanaşmalı və onların işgüzar nüfuzunu ləkələyə biləcək hərəkətlərə (və ya hərəkətsizliyə) yol verməməlidir."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bu fikir yanlışdır - konfidensiallıq bütün hallarda deyil, müəyyən hallarda təmin edilməlidir."
+    },
+   {
+ "id": 426,
+  "text": "Dövlət qulluqçusu kimlərlə münasibətdə nəzakətli, xeyirxah, diqqətli və səbrli olmalıdır?",
+  "options": [
+    "bütün şəxslərə",
+    "birbaşa və yuxarı rəhbəri ilə",
+    "tabeliyində olan şəxslərə münasibətdə",
+    "hamısı"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Dövlət qulluqçusu bütün şəxslərə münasibətdə nəzakətli, xeyirxah, diqqətli və səbrli olmalıdır."
+},
+{
+ "id": 427,
+  "text": "Dövlət qulluqçusu bütün şəxslərə, o cümlədən birbaşa və yuxarı rəhbəri ilə və ya tabeliyində olan şəxslərə münasibətdə hansı keyfiyyətlərə malik olmalıdır?",
+  "options": [
+    "nəzakətli, xeyirxah, diqqətli və səbirli",
+    "nəzakətli, xeyirxah, diqqətli və səbrsiz",
+    "ədalətli, səmimi, vicdanlı, mərhəmətli",
+    "vicdanlı, mərhəmətli, diqqətli və səbirli"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Dövlət qulluqçusu bütün şəxslərə münasibətdə nəzakətli, xeyirxah, diqqətli və səbirli olmalıdır."
+},
+{
+ "id": 428,
+  "text": "\"Dövlət qulluqçusu bütün şəxslərə, o cümlədən birbaşa və yuxarı rəhbəri ilə və ya tabeliyində olan şəxslərə münasibətdə nəzakətli, xeyirxah, diqqətli və səbirli olmalıdır\" müddəası hansı etik davranış qaydasında öz əksini tapmışdır?",
+  "options": [
+    "Loyallıq",
+    "İctimai etimad",
+    "Mədəni davranış",
+    "Qərəzsizlik"
+  ],
+  "correctAnswer": 2,
+  "explanation": "Bu müddəa mədəni davranış etik davranış qaydasında öz əksini tapmışdır."
+},
+{
+ "id": 429,
+  "text": "\"Əmr, sərəncam və ya tapşırıqların yerinə yetirilməsi\" etik davranış qaydası ilə bağlı hansı fikir yanlışdır?",
+  "options": [
+    "Dövlət qulluqçusu birbaşa və ya yuxarı rəhbərinin qanuna uyğun olan və səlahiyyətləri daxilində qəbul etdiyi yazılı əmri, sərəncamı və ya verdiyi şifahi tapşırıqları yerinə yetirməyə borcludur",
+    "Dövlət qulluqçusu birbaşa və ya yuxarı rəhbər tərəfindən ona verilən əmrin, sərəncamın və ya tapşırığın qanuna və ya digər normativ hüquqi akta zidd olmasına əmindirsə, bu barədə yazılı əsaslandırmanı birbaşa və ya yuxarı rəhbərinə təqdim etməlidir",
+    "O, birbaşa rəhbərindən bu əmr, sərəncam və ya tapşırığın yazılı şəkildə təsdiq olunmasını tələb etməlidir",
+    "Qanuni göstərişlərin yerinə yetirilməməsi inzibati məsuliyyətinə səbəb olur"
+  ],
+  "correctAnswer": 3,
+  "explanation": "Qanuni göstərişlərin yerinə yetirilməməsi inzibati deyil, intizam məsuliyyətinə səbəb olur."
+},
+{
+ "id": 430,
+  "text": "Dövlət qulluqçusu birbaşa və ya yuxarı rəhbərinin hansı qaydada olan yazılı əmri, sərəncamı və ya verdiyi şifahi tapşırıqları yerinə yetirməyə borcludur? (Tam və dəqiq cavabı seçin)",
+  "options": [
+    "yalnız səlahiyyətləri daxilində qəbul etdiyi",
+    "istənilən əmr, sərəncamı və ya verdiyi şifahi tapşırıqları",
+    "dövlət orqanlarının səlahiyyətləri daxilində qəbul etdiyi",
+    "qanuna uyğun olan və səlahiyyətləri daxilində qəbul etdiyi"
+  ],
+  "correctAnswer": 3,
+  "explanation": "Dövlət qulluqçusu yalnız qanuna uyğun olan və səlahiyyətləri daxilində qəbul edilmiş əmr və tapşırıqları yerinə yetirməyə borcludur."
+},
+{
+ "id": 431,
+  "text": "Dövlət qulluqçusu birbaşa və ya yuxarı rəhbər tərəfindən ona verilən əmrin, sərəncamın və ya tapşırığın qanuna və ya digər normativ hüquqi akta zidd olmasına əmindirsə, ilkin olaraq nə etməlidir?",
+  "options": [
+    "O, birbaşa rəhbərindən bu əmr, sərəncam və ya tapşırığın yazılı şəkildə təsdiq olunmasını tələb etməlidir",
+    "bu barədə yazılı əsaslandırmanı birbaşa və ya yuxarı rəhbərinə təqdim etməlidir",
+    "O, yuxarı rəhbərindən bu əmr, sərəncam və ya tapşırığın yazılı şəkildə təsdiq olunmasını tələb etməlidir",
+    "bu barədə yazılı əsaslandırmanı yalnız birbaşa rəhbərinə təqdim etməlidir"
+  ],
+  "correctAnswer": 1,
+  "explanation": "İlkin olaraq yazılı əsaslandırmanı birbaşa və ya yuxarı rəhbərinə təqdim etməlidir."
+},
+{
+ "id": 432,
+  "text": "Dövlət qulluqçusu əmr, sərəncam və ya tapşırığın yazılı şəkildə təsdiq olunmasını kimdən tələb etməlidir?",
+  "options": [
+    "birbaşa rəhbərindən",
+    "yuxarı rəhbərindən",
+    "birbaşa və yuxarı rəhbərindən",
+    "tələb edə bilməz (belə bir hüququ yoxdur)"
+  ],
+  "correctAnswer": 0,
+  "explanation": "Dövlət qulluqçusu birbaşa rəhbərindən əmr, sərəncam və ya tapşırığın yazılı şəkildə təsdiq olunmasını tələb etməlidir."
+},
+{
+ "id": 433,
+  "text": "\"Qanuni göstərişlərin yerinə yetirilməməsi intizam məsuliyyətinə səbəb olur\" müddəası hansı etik davranış qaydasında öz əksini tapmışdır?",
+  "options": [
+    "Maraqlar toqquşmasının qarşısının alınması",
+    "Loyallıq",
+    "Əmr, sərəncam və ya tapşırıqların yerinə yetirilməsi",
+    "Korrupsiyanın qarşısının alınması"
+  ],
+  "correctAnswer": 2,
+  "explanation": "Bu müddəa əmr, sərəncam və ya tapşırıqların yerinə yetirilməsi etik davranış qaydasında öz əksini tapmışdır."
+},
+{
+ "id": 434,
+  "text": "Aşağıdakılardan hansı \"Qərəzsizlik\" etik davranış qaydası ilə bağlı müddəa deyil?",
+  "options": [
+    "Dövlət qulluqçusu xidməti vəzifəsini yerinə yetirərkən və ya qərar qəbul edərkən qərəzsiz olmalı və bu zaman irqinə, milliyyətinə, dininə, dilinə, cinsinə, sosial mənşəyinə, əmlak və qulluq vəziyyətinə, əqidəsinə, ictimai və ya hər hansı digər birliyə mənsubiyyətinə görə hər hansı şəxsin və ya şəxslər qrupunun üstünlüyünə və ya belə üstünlüyün əldə edilməsi üçün şəraitin yaradılmasına yol verməməlidir",
+    "Dövlət qulluqçusu xidməti vəzifələrinin yerinə yeritirilməsi zamanı siyasi bitərəfliyə əməl etməyə borcludur",
+    "Dövlət qulluqçusu özünün və ya maraqlı şəxslərin mənafelərinin onun xidməti vəzifələrinin yerinə yetirilməsinə təsirinə yol verməməli və bu cür təsir üçün şərait yaratmamalıdır",
+    "Tərəflərdən biri dövlət qulluqçusunun qulluq keçdiyi dövlət orqanı olan əqdlərdə həmin dövlət qulluqçusu digər tərəf ola bilməz"
+  ],
+  "correctAnswer": 3,
+  "explanation": "Bu müddəa maraqlar toqquşmasının qarşısının alınması etik davranış qaydası ilə bağlıdır."
+},
+    {
+     "id": 435,
+      "text": "Aşağıdakılardan hansı “Qərəzsizlik” etik davranış qaydası ilə bağlı müddəadır?",
+      "options": [
+        "Dövlət qulluqçusu xidməti vəzifələrinin yerinə yetirilməsi zamanı siyasi bitərəfliyə əməl etməyə borcludur",
+        "Dövlət qulluqçusu qanunvericilikdə dövlət qulluğu ilə bağlı nəzərdə tutulmuş məhdudiyyətlərə əməl etməlidir.",
+        "Qanuni göstərişlərin yerinə yetirilməməsi intizam məsuliyyətinə səbəb olur.",
+        "Tərəflərdən biri dövlət qulluqçusunun qulluq keçdiyi dövlət orqanı olan əqdlərdə həmin dövlət qulluqçusu digər tərəf ola bilməz."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Qərəzsizlik qaydası siyasi bitərəfliyə əməl olunmasını nəzərdə tutur."
+    },
+    {
+     "id": 436,
+      "text": "“Maddi və qeyri-maddi nemətlərin, imtiyazların və ya güzəştlərin əldə edilməsinə yol verilməməsi” etik davranış qaydası ilə bağlı hansı fikir yalnışdır?",
+      "options": [
+        "Dövlət qulluqçusunun qanunsuz olaraq maddi və qeyri-maddi nemətlər, imtiyazlar və ya güzəştlər əldə etməyə yönəlmiş hərəkətlər etməsi və ya qərarlar qəbul etməsi qadağandır.",
+        "Dövlət qulluqçusu onun hərəkətlərinin və ya qərarlarının maddi və qeyri-maddi nemətlər, imtiyazlar və ya güzəştlər əldə etməyə gətirib çıxarmasını istisna etməyən tədbirlər görməlidir.",
+        "Qanunvericiliklə müəyyən olunmuş qaydada şəxslərə əvəzsiz xidmət göstərən dövlət qulluqçusu həmin xidmətə görə hər hansı haqq tələb edə bilməz.",
+        "Qanunvericiliklə müəyyən olunmuş ödəniş müqabilində vətəndaşlara xidmət göstərən dövlət qulluqçusu həmin xidmətə görə nəzərdə tutulan məbləğdən artıq haqq tələb edə bilməz."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Bu fikir yalnışdır, çünki dövlət qulluqçusu belə halların qarşısını almalıdır."
+    },
+    {
+     "id": 437,
+      "text": "Qanunvericiliklə müəyyən olunmuş qaydada şəxslərə əvəzsiz xidmət göstərən dövlət qulluqçusu həmin xidmətə görə nə tələb edə bilməz?",
+      "options": ["hər hansı güzəşt", "hər hansı məbləğ", "hər hansı haqq", "hər hansı imtiyaz"],
+      "correctAnswer": 2,
+      "explanation": "Əvəzsiz xidmətlər üçün hər hansı haqq tələb olunmur."
+    },
+    {
+     "id": 438,
+      "text": "Aşağıdakılardan hansı “Korrupsiyanın qarşısının alınması” ilə bağlı etik davranış qaydası kimi müəyyən olunmayıb?",
+      "options": [
+        "Dövlət qulluqçusuna qanunsuz maddi və qeyri-maddi nemətlər, imtiyazlar və ya güzəştlər təklif olunduğu hallarda, dövlət qulluqçusu onlardan imtina etməlidir.",
+        "Maddi və qeyri-maddi nemətlər, imtiyazlar və ya güzəştlər dövlət qulluqçusuna ondan asılı olmayan səbəblərdən verilərsə, o, bu barədə birbaşa rəhbərinə məlumat verməlidir və təhvil verməlidir.",
+        "Qanunvericiliklə müəyyən olunmuş qaydada şəxslərə əvəzsiz xidmət göstərən dövlət qulluqçusu həmin xidmətə görə hər hansı haqq tələb edə bilməz.",
+        "Tərəflərdən biri dövlət qulluqçusunun qulluq keçdiyi dövlət orqanı olan əqdlərdə həmin dövlət qulluqçusu digər tərəf ola bilməz."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Bu müddəa korrupsiya ilə deyil, maraqlar toqquşması ilə bağlıdır."
+    },
+    {
+     "id": 439,
+      "text": "“Tərəflərdən biri dövlət qulluqçusunun qulluq keçdiyi dövlət orqanı olan əqdlərdə həmin dövlət qulluqçusu digər tərəf ola bilməz” müddəası hansı etik davranış qaydasında öz əksini tapmışdır?",
+      "options": ["Korrupsiyanın qarşısının alınması", "Qərəzsizlik", "Maraqlar toqquşmasının qarşısının alınması", "Maddi və qeyri-maddi nemətlərin əldə edilməsinə yol verilməməsi"],
+      "correctAnswer": 2,
+      "explanation": "Bu müddəa maraqlar toqquşmasının qarşısının alınması ilə bağlıdır."
+    },
+    {
+     "id": 440,
+      "text": "Dövlət qulluqçusu hədiyyənin qəbul edilməsi və ya qonaqpərvərlikdən istifadə ilə bağlı qərara gələ bilmədiyi hallarda bu məsələ barədə kimin rəyini öyrənməlidir?",
+      "options": ["dövlət orqanının rəhbərinin", "birbaşa rəhbərinin", "birbaşa və dövlət orqanının rəhbərinin", "Belə bir hal müəyyən olunmayıb."],
+      "correctAnswer": 1,
+      "explanation": "Bu halda birbaşa rəhbərin rəyini öyrənməlidir."
+    },
+    {
+     "id": 441,
+      "text": "“Maraqlar toqquşmasının qarşısının alınması” etik davranış qaydası ilə bağlı hansı fikir yalnışdır?",
+      "options": [
+        "Dövlət qulluqçusu qulluq etdiyi dövrdə maraqların toqquşmasına yol verməməlidir.",
+        "Dövlət qulluqçusu maraqların xarakteri barədə məlumat verməyə borcludur.",
+        "Dövlət qulluqçusu başqa vəzifəyə keçmə ilə bağlı təklifləri birbaşa rəhbərinə bildirməlidir.",
+        "Dövlət qulluğuna xitam verildikdən sonra belə, dövlət qulluqçusu əvvəl nəzarət etdiyi orqanlarda işləyə bilər."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Bu fikir yalnışdır, çünki qanunla belə hallara yol verilmir."
+    },
+    {
+     "id": 442,
+      "text": "“Dövlət qulluğuna xitam verildikdən sonra dövlət qulluqçusu əvvəl nəzarət etdiyi orqanlarda işləyə bilməz” müddəası hansı etik davranış qaydasında öz əksini tapmışdır?",
+      "options": ["Maddi və qeyri-maddi nemətlərin əldə edilməsinə yol verilməməsi", "Qərəzsizlik", "Maraqlar toqquşmasının qarşısının alınması", "Korrupsiyanın qarşısının alınması"],
+      "correctAnswer": 2,
+      "explanation": "Bu maraqlar toqquşmasının qarşısının alınması ilə bağlı müddəadır."
+    },
+    {
+     "id": 443,
+      "text": "“Maraqlar toqquşmasının qarşısının alınması” ilə bağlı dövlət qulluqçusu hansı normativ aktlarla tanış olmamalıdır?",
+      "options": ["etik davranış qaydaları", "korrupsiyaya qarşı mübarizə", "maraqların toqquşmasının qarşısının alınması", "dövlət sirrinin qorunması"],
+      "correctAnswer": 3,
+      "explanation": "Dövlət sirri ilə bağlı tanışlıq etik davranış qaydasına aid deyil."
+    },
+    {
+     "id": 444,
+      "text": "Dövlət qulluqçusu istifadəsində olan dövlət əmlakından necə istifadə etməlidir?",
+      "options": ["qənaətlə və səmərəli", "vicdanla və ehtiyatla", "vicdanla və qənaətlə", "ehtiyatla və səmərəli"],
+      "correctAnswer": 0,
+      "explanation": "Əmlakdan qənaətlə və səmərəli istifadə olunmalıdır."
+    },
+    {
+     "id": 445,
+      "text": "Dövlət qulluqçusuna dövlət əmlakından hansı maraqlar naminə istifadə etməsi qadağandır?",
+      "options": ["dövlət maraqları", "şəxsi maraqlar", "ictimai maraqlar", "hər biri"],
+      "correctAnswer": 1,
+      "explanation": "Şəxsi maraqlar naminə istifadəsi qadağandır."
+    },
+    {
+     "id": 446,
+      "text": "Dövlət qulluqçusuna dövlət əmlakından hansı məqsədlər üçün istifadə etməsi qadağandır?",
+      "options": ["xidməti vəzifələrin icrası ilə əlaqədar olmayan", "ictimai məqsədlər üçün", "şəxsi məqsədlər üçün", "dövlət orqanlarının fəaliyyətinə uyğun olmayan"],
+      "correctAnswer": 0,
+      "explanation": "Xidməti vəzifələrlə əlaqəsi olmayan istifadə qadağandır."
+    },
+    {
+     "id": 447,
+      "text": "Dövlət qulluqçusu dövlət orqanında müəyyən olunmuş xidməti informasiyanın təqdim edilməsi qaydalarına əməl etməlidir müddəası hansı qaydada əks olunub?",
+      "options": ["Məlumatlardan istifadə", "Qərəzsizlik", "Maraqlar toqquşmasının qarşısının alınması", "Korrupsiyanın qarşısının alınması"],
+      "correctAnswer": 0,
+      "explanation": "Bu müddəa məlumatlardan istifadə qaydasına aiddir."
+    },
+    {
+     "id": 448,
+      "text": "“İctimai və ya siyasi fəaliyyət”lə bağlı hansı fikir yalnışdır?",
+      "options": [
+        "Dövlət qulluqçusunun ictimai və siyasi birliyə üzv olmaq hüququ yoxdur.",
+        "İctimai-siyasi fəaliyyət qərəzsizliyi şübhə altına almamalıdır.",
+        "Dövlət qulluqçusu digər qulluqçuları siyasi fəaliyyətə təhrik etməməlidir.",
+        "Dövlət qulluqçusu dövlət orqanlarında ictimai və siyasi birliklər yarada bilər."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Bu fikir yalnışdır, çünki dövlət orqanlarında belə birliklərin yaradılması qadağandır."
+    },
+    {
+     "id": 449,
+      "text": "Dövlət qulluqçusunun davranışının etik davranış qaydalarına uyğunluğu kim tərəfindən təhlil edilir?",
+      "options": ["onun özü", "birbaşa rəhbəri", "yuxarı rəhbəri", "hər biri"],
+      "correctAnswer": 3,
+      "explanation": "Etik davranış qaydalarına uyğunluq hər kəs tərəfindən təhlil edilir."
+    },
+    {
+     "id": 450,
+      "text": "Etik davranış qaydalarına əməl olunmasına nəzarətlə bağlı hansı fikir yalnışdır?",
+      "options": ["dövlət orqanının rəhbəri - xidməti qaydada", "yuxarı orqan - tabeçilik əsasında", "müvafiq dövlət orqanı qanunla müəyyən edilmiş qaydada", "struktur bölmə rəhbəri vəzifə təlimatları əsasında"],
+      "correctAnswer": 3,
+      "explanation": "Struktur bölmə rəhbəri bu səlahiyyətə malik deyil."
+    },
+    {
+     "id": 451,
+      "text": "Dövlət orqanlarında etik davranış qaydalarına əməl olunmasına nəzarəti hansı qurumlar həyata keçirir?",
+      "options": ["həmin orqanların müvafiq qurumları", "nəzarət orqanı", "struktur vahidlərinin rəhbərləri", "yuxarı orqanın əməkdaşları"],
+      "correctAnswer": 1,
+      "explanation": "Tam və dolğun cavab: nəzarət orqanı bu nəzarəti həyata keçirir."
+    },
+    {
+     "id": 452,
+      "text": "Aşağıdakılardan hansını dövlət orqanının rəhbəri tərəfindən həyata keçirilən etik davranış qaydalarına nəzarət forması deyil?",
+      "options": ["xidməti davranışlara nəzarət etməli", "öz davranışı ilə nümunə göstərməli", "vəzifə bölgüsü aparmalı", "qanunvericiliyin təkmilləşdirilməsinə dair təkliflər verməli"],
+      "correctAnswer": 2,
+      "explanation": "Vəzifə bölgüsü etik nəzarət forması deyil."
+    },
+    {
+     "id": 453,
+      "text": "Aşağıdakılardan hansı etik davranış qaydalarına nəzarət edən “Nəzarət orqanı”nın səlahiyyətlərinə aid deyil?",
+      "options": ["hüquqpozmaları aidiyyəti üzrə göndərmək", "qanunvericiliyin təkmilləşdirilməsinə təkliflər vermək", "ictimai rəy öyrənmək", "normativ aktlar hazırlamaq və təsdiq etmək"],
+      "correctAnswer": 3,
+      "explanation": "Normativ aktları təsdiq etmək səlahiyyətləri yoxdur."
+    },
+    {
+     "id": 454,
+      "text": "Aşağıdakılardan hansını dövlət orqanının rəhbəri tərəfindən həyata keçirilən etik davranış qaydalarına nəzarət forması deyil?",
+      "options": ["etik davranışı izah etmək", "normativ akt hazırlayıb təsdiq etmək", "ictimai rəy öyrənmək və maarifləndirmə aparmaq", "intizam məsuliyyətinə cəlb etmək üçün tədbirlər görmək"],
+      "correctAnswer": 1,
+      "explanation": "Normativ akt hazırlamaq rəhbərin səlahiyyəti deyil."
+    },
+    {
+     "id": 455,
+      "text": "Aşağıdakılardan hansı etik davranış qaydalarına nəzarət edən “Nəzarət orqanı”nın səlahiyyətlərinə aid deyil?",
+      "options": ["nəticələrin aradan qaldırılması üçün tədbirlər görmək", "ictimai rəy öyrənmək", "araşdırmalar aparmaq və məruzələr tərtib etmək", "qeyri-hökumət təşkilatları ilə əməkdaşlıq etmək"],
+      "correctAnswer": 0,
+      "explanation": "Nəticələrin aradan qaldırılması onların səlahiyyətinə daxil deyil."
+    },
+    {
+     "id": 456,
+      "text": "Aşağıdakılardan hansını dövlət orqanının rəhbəri tərəfindən həyata keçirilən etik davranış qaydalarına nəzarət forması deyil?",
+      "options": ["işçiləri etik normalara zidd hərəkətə sövq etməmək", "hüquqpozmaları yoxlanılması üçün göndərmək", "profilaktik tədbirlər görmək", "kadrların seçilməsində qanuna əməl etmək"],
+      "correctAnswer": 1,
+      "explanation": "Hüquqpozmaları yoxlanılması üçün göndərmək rəhbərin səlahiyyəti deyil."
+    },
+    {
+     "id": 457,
+      "text": "Aşağıdakılardan hansı etik davranış qaydalarına nəzarət edən “Nəzarət orqanı”nın səlahiyyətlərinə aid deyil?",
+      "options": ["qanuna əməl edilməsini öyrənmək və ümumiləşdirmək", "şikayətləri qəbul etmək", "təkliflər vermək və təqdimatlar hazırlamaq", "intizam məsuliyyətinə cəlb etmək"],
+      "correctAnswer": 3,
+      "explanation": "İntizam məsuliyyətinə cəlb etmək onların səlahiyyətində deyil."
+    },
+    {
+     "id": 458,
+      "text": "Aşağıdakılardan hansını dövlət orqanının rəhbəri tərəfindən həyata keçirilən etik davranış qaydalarına nəzarət forması deyil?",
+      "options": ["vətəndaşları məlumatlandırmaq üçün tədbirlər görmək", "şikayətləri qəbul etmək", "tədbirlər barədə ictimaiyyəti məlumatlandırmaq", "nəticələrin aradan qaldırılması üçün tədbirlər görmək"],
+      "correctAnswer": 1,
+      "explanation": "Şikayətlərin qəbulu rəhbərin funksiyası deyil."
+    },
+    {
+     "id": 459,
+      "text": "Nəzarət orqanı etik davranış qaydalarının pozulması ilə əlaqədar dövlət qulluqçusuna qarşı aparılan intizam icraatına müdaxilə edə bilərmi?",
+      "options": ["Bilməz", "Bilər", "Yalnız qanunla müəyyən edilmiş hallarda", "Heç bir müddəa yoxdur"],
+      "correctAnswer": 0,
+      "explanation": "Nəzarət orqanı intizam icraatına müdaxilə edə bilməz."
+    },
+    {
+     "id": 460,
+      "text": "Etik davranış qaydalarının pozulması dövlət qulluqçusunun hansı məsuliyyətə cəlb edilməsi üçün əsasdır?",
+      "options": ["intizam məsuliyyətinə", "inzibati məsuliyyətə", "cinayət məsuliyyətinə", "mülki məsuliyyətə"],
+      "correctAnswer": 0,
+      "explanation": "Etik qaydaların pozulması intizam məsuliyyətinə səbəb olur."
+    },
+    {
+     "id": 461,
+      "text": "Hansı hallarda dövlət qulluqçusuna qarşı intizam icraatına başlanıla bilməz?",
+      "options": [
+        "Qanunun pozulması barədə hüquqi şəxslər tərəfindən şikayət veriləndə",
+        "KİV-də maraqların toqquşmamasına dair məlumat dərc ediləndə",
+        "KİV-də etik qaydaların pozulmasına dair məlumat dərc ediləndə",
+        "Qanunun pozulması barədə fiziki şəxslər tərəfindən şikayət veriləndə"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Maraqların toqquşmamasına dair məlumat intizam icraatına səbəb deyil."
+    },
+    {
+     "id": 462,
+      "text": "İntizam icraatı zamanı hüquq pozuntusunda cinayət tərkibi aşkar edildikdə bu barədə kimə məlumat verilməlidir?",
+      "options": ["cinayət təqibi orqanına", "hüquq-mühafizə orqanlarına", "yuxarı dövlət orqanlarına", "dövlət qulluqçusunun özünə"],
+      "correctAnswer": 0,
+      "explanation": "Cinayət tərkibi aşkarlanarsa cinayət təqibi orqanına məlumat verilməlidir."
+    },
+    {
+     "id": 463,
+      "text": "“Dövlət qulluqçularının etik davranış qaydaları haqqında” ARQ nə vaxt qəbul olunub?",
+      "options": ["31 may 2007", "13 yanvar 2004", "17 iyun 1999", "30 sentyabr 2015"],
+      "correctAnswer": 1,
+      "explanation": "Qanun 13 yanvar 2004-cü ildə qəbul olunub."
+    },
+    {
+     "id": 464,
+      "text": "“Dövlət qulluqçularının etik davranış qaydaları haqqında” ARQ nə vaxt qüvvəyə minib?",
+      "options": ["31 may 2007", "17 iyun 1999", "30 sentyabr 2015", "dərc edildiyi gündən"],
+      "correctAnswer": 0,
+      "explanation": "Qanun 31 may 2007-ci ildə qüvvəyə minib."
+    }
+  ]
 }
+
+
