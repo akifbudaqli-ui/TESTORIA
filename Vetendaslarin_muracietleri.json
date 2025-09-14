@@ -1,4 +1,1002 @@
 {
-  "id": "Vetendaslarin_muracietleri",
-  "raw_js": "export const Vetendaslarin_muracietleri = {\n  name: \"Vətəndaşların müraciətləri\",\n  questions: [\n    {\n      \"id\": 701,\n      \"text\": \"Vətəndaşların müraciətlərinə baxılması qaydası haqqında qanun Konstitusiyanın hansı maddəsində nəzərdə tutulmuşdur?\",\n      \"options\": [\n        \"57\",\n        \"21\",\n        \"50\",\n        \"33\"\n      ],\n      \"correctAnswer\": 0,\n      \"explanation\": \"57-ci maddə vətəndaşların müraciət etmək hüququnu müəyyən edir.\"\n    },\n    {\n      \"id\": 702,\n      \"text\": \"“Vətəndaşların müraciətlərinə baxılması qaydası haqqında” qanunun məqsədləri üçün “ərizə” nədir?\",\n      \"options\": [\n        \"hüquq və azadlıqların həyata keçirilməsi ilə bağlı tələbləri nəzərdə tutan müraciət\",\n        \"pozulmuş hüquq və azadlıqların bərpası və müdafiəsi ilə bağlı tələbləri nəzərdə tutan müraciət\",\n        \"kağız üzərində və ya elektron formada tərtib edilmiş müraciət\",\n        \"müraciətə baxan subyektin və ya onun vəzifəli şəxsinin elektron ünvanına göndərilən və ya rəsmi internet saytı vasitəsilə daxil edilən müraciət\"\n      ],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Qanuna görə, ərizə hüquq və azadlıqların həyata keçirilməsi ilə bağlı tələbləri ehtiva edən müraciətdir.\"\n    },\n    {\n      \"id\": 703,\n      \"text\": \"“Vətəndaşların müraciətlərinə baxılması qaydası haqqında” qanunun məqsədləri üçün “şikayət” nədir?\",\n      \"options\": [\n        \"hüquq və azadlıqların həyata keçirilməsi ilə bağlı tələbləri nəzərdə tutan müraciət\",\n        \"pozulmuş hüquq və azadlıqların bərpası və müdafiəsi ilə bağlı tələbləri nəzərdə tutan müraciət\",\n        \"kağız üzərində və ya elektron formada tərtib edilmiş müraciət\",\n        \"müraciətə baxan subyektin və ya onun vəzifəli şəxsinin elektron ünvanına göndərilən və ya rəsmi internet saytı vasitəsilə daxil edilən müraciət\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Qanuna görə, şikayət pozulmuş hüquq və azadlıqların bərpası və müdafiəsi ilə bağlı tələbləri ehtiva edən müraciətdir.\"\n    },\n    {\n      \"id\": 704,\n      \"text\": \"“Vətəndaşların müraciətlərinə baxılması qaydası haqqında” qanun kimlərə şamil edilmir?\",\n      \"options\": [\n        \"Hərbi qulluqçulara\",\n        \"Məhkəmə icraatı ilə bağlı müraciətlərə\",\n        \"İşçilərə aid şikayətlərə\",\n        \"Qanunvericiliklə müəyyən edilmiş qaydada baxılması tələb olunan müraciətlərə\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Qanunvericiliklə müəyyən edilmiş qaydada baxılması tələb olunan məhkəmə icraatı ilə bağlı müraciətlərə bu qanun şamil edilmir.\"\n    },\n    {\n      \"id\": 705,\n      \"text\": \"Müraciətə baxan subyektin vəzifəli şəxsi kimdir?\",\n      \"options\": [\n        \"müraciətə baxan subyektin rəhbəri\",\n        \"dövlət orqanının struktur bölməsinin rəhbəri\",\n        \"dövlət qulluqçusu\",\n        \"hamısı doğrudur\"\n      ],\n      \"correctAnswer\": 3,\n      \"explanation\": \"Müraciətə baxan subyektin vəzifəli şəxsi, qanuna görə, sadalananların hamısı ola bilər.\"\n    },\n    {\n      \"id\": 706,\n      \"text\": \"Vətəndaş müraciətində nə göstərilməlidir?\",\n      \"options\": [\n        \"Müraciət edən şəxsin adı, soyadı, ünvanı\",\n        \"Müraciətin mahiyyəti, müraciət edilən orqanın adı\",\n        \"Müraciəti imzalayan şəxsin imzası, tarix\",\n        \"Hamısı düzgündür\"\n      ],\n      \"correctAnswer\": 3,\n      \"explanation\": \"Qanunun 6-cı maddəsinə əsasən, müraciətdə bu məlumatların hər biri göstərilməlidir.\"\n    },\n    {\n      \"id\": 707,\n      \"text\": \"Hansı müraciətə baxılmasına yol verilmir?\",\n      \"options\": [\n        \"Müraciət edən şəxsin şəxsiyyətini müəyyən etməyə imkan verən məlumatlar olmadıqda\",\n        \"Müraciətdə qeyri-etik ifadələr olduqda\",\n        \"Yazılı müraciətin əl ilə yazılmış forması\",\n        \"Elektron müraciətin elektron imza ilə təsdiq edilməsi\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Müraciətdə qeyri-etik ifadələr olduqda, həmin müraciətə baxılmasına yol verilmir.\"\n    },\n    {\n      \"id\": 708,\n      \"text\": \"Vətəndaşın təkrar müraciətinə baxılmasına hansı hallarda son verilir?\",\n      \"options\": [\n        \"Müraciət edən şəxsin şəxsiyyətini müəyyən etməyə imkan verən məlumatlar olmadıqda\",\n        \"Təkrar müraciətin mahiyyəti üzrə baxılaraq cavab verildikdə\",\n        \"Təkrar müraciətə baxılması zamanı yeni halların meydana çıxması\",\n        \"Vətəndaşın məhkəməyə müraciəti\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Vətəndaşın təkrar müraciətinə baxılmasına, əgər müraciətə mahiyyəti üzrə baxılaraq cavab verilibsə və yeni faktlar yoxdursa, son verilə bilər.\"\n    },\n    {\n      \"id\": 709,\n      \"text\": \"Vətəndaş müraciətinin qeydiyyatı hansı müddətdə aparılır?\",\n      \"options\": [\n        \"3 iş günü müddətində\",\n        \"5 iş günü müddətində\",\n        \"10 iş günü müddətində\",\n        \"15 iş günü müddətində\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Müraciətin daxil olduğu andan ən geci 5 iş günü müddətində qeydiyyata alınmalıdır.\"\n    },\n    {\n      \"id\": 710,\n      \"text\": \"Müraciətin cavabı necə olmalıdır?\",\n      \"options\": [\n        \"Əsaslandırılmış və dolğun olmalıdır\",\n        \"Müraciət edən şəxsin şəxsiyyətini müəyyən etməyə imkan verən məlumatlar olmalıdır\",\n        \"Təkrar müraciətin mahiyyəti üzrə baxılaraq cavab verilməlidir\",\n        \"Müraciətin cavabı verilməyə bilər\"\n      ],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Qanunun 11-ci maddəsinə əsasən, müraciətin cavabı əsaslandırılmış və dolğun olmalıdır.\"\n    },\n    {\n      \"id\": 711,\n      \"text\": \"Vətəndaş müraciətinin anonim müraciət hesab edilməsi üçün hansı məlumatlar tələb olunur?\",\n      \"options\": [\n        \"Ad, soyad, ata adı\",\n        \"Ünvan\",\n        \"Əlaqə nömrəsi\",\n        \"Məlumatlar tələb olunmur\"\n      ],\n      \"correctAnswer\": 3,\n      \"explanation\": \"Anonim müraciət, müraciət edən şəxsin kimliyini müəyyən etməyə imkan verməyən məlumatları əhatə edir. Buna görə də heç bir məlumat tələb olunmur.\"\n    },\n    {\n      \"id\": 712,\n      \"text\": \"Müraciətinə baxılması üçün tədbirlər görülmüş və ya mahiyyəti üzrə cavab verilmiş müraciətə təkrar müraciətə baxılmasına hansı halda son verilir?\",\n      \"options\": [\n        \"məhkəmənin qanuni qüvvəyə minmiş qərarı olduqda\",\n        \"təkrar müraciətdə məsələnin həlli üçün yeni məlumatlar olmadıqda\",\n        \"vətəndaşın təkrar müraciətlərinə bir il ərzində 7 dəfə mahiyyəti üzrə əsaslandırılmış cavab verildikdə\",\n        \"məişət zorakılığı barədə şikayətdə cinayət tərkibinin əlamətləri olmadıqda\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Əgər təkrar müraciətdə məsələnin həlli üçün yeni məlumatlar yoxdursa, müraciətə baxılmasına son verilir.\"\n    },\n    {\n      \"id\": 713,\n      \"text\": \"\\\"Vətəndaşların müraciətləri haqqında\\\" ARQ-na əsasən hərbi qulluqçuların və onların ailə üzvlərinin müraciətlərinə hansı müddətdə baxılır?\",\n      \"options\": [\n        \"Ən geci 15 iş günü ərzində\",\n        \"Ən geci 30 iş günü ərzində\",\n        \"15 gün ərzində\",\n        \"Bu müraciətlərə \\\"Silahlı Qüvvələrin Daxili Xidmət Nizamnaməsinə\\\" əsasən baxılır\"\n      ],\n      \"correctAnswer\": 3,\n      \"explanation\": \"Hərbi qulluqçuların və onların ailə üzvlərinin müraciətlərinə \\\"Silahlı Qüvvələrin Daxili Xidmət Nizamnaməsinə\\\" əsasən baxılır.\"\n    },\n    {\n      \"id\": 714,\n      \"text\": \"\\\"Vətəndaşların müraciətləri haqqında\\\" AR Qanununa əsasən verilənlərdən hansı \\\"müraciətə baxan subyektin vəzifəli şəxsi\\\"-i ola bilməz?\",\n      \"options\": [\n        \"dövlət orqanının struktur bölməsinin rəhbəri\",\n        \"dövlət qulluqçusu\",\n        \"bələdiyyə orqanının mütəxəssisi\",\n        \"müraciətə baxan subyektin rəhbəri\"\n      ],\n      \"correctAnswer\": 2,\n      \"explanation\": \"\\\"Müraciətə baxan subyektin vəzifəli şəxsi\\\" anlayışına bələdiyyə orqanının mütəxəssisi daxil deyil.\"\n    },\n    {\n      \"id\": 715,\n      \"text\": \"Müraciətə baxan subyekt tərəfindən müraciət hansı müddətdə araşdırılıb cavablandırılmalıdır?\",\n      \"options\": [\n        \"15 iş günü müddətində\",\n        \"10 iş günü müddətində\",\n        \"30 iş günü müddətində\",\n        \"15 gün müddətində\"\n      ],\n      \"correctAnswer\": 2,\n      \"explanation\": \"Müraciətə baxan subyekt tərəfindən müraciət 30 iş günü müddətində araşdırılıb cavablandırılmalıdır.\"\n    },\n    {\n      \"id\": 716,\n      \"text\": \"Aşağıdakılardan hansı “Vətəndaşların müraciətləri haqqında” AR Qanununa əsasən müraciət hesab edilmir?\",\n      \"options\": [\n        \"məhkəmə icraatı ilə bağlı müraciətlər\",\n        \"Ərizə\",\n        \"Şikayət\",\n        \"Təklif\"\n      ],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Məhkəmə icraatı ilə bağlı müraciətlər bu qanunun tətbiq sahəsinə aid deyil.\"\n    },\n    {\n      \"id\": 717,\n      \"text\": \"Elektron müraciətə baxılması hansı halda mümkün deyil?\",\n      \"options\": [\n        \"Elektron imza ilə təsdiq edildikdə\",\n        \"Elektron ünvanı göstərilmədikdə\",\n        \"Müraciət edən şəxsin adı, soyadı və ünvanı göstərildikdə\",\n        \"Müraciətə baxan subyektin elektron ünvanına göndərildikdə\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Elektron müraciətə baxılması üçün müraciət edən şəxsin elektron ünvanı göstərilməlidir.\"\n    },\n    {\n      \"id\": 718,\n      \"text\": \"“Vətəndaşların müraciətləri haqqında” Qanuna əsasən, “təklif” nədir?\",\n      \"options\": [\n        \"hüquq və azadlıqların həyata keçirilməsi ilə bağlı tələbləri nəzərdə tutan müraciət\",\n        \"dövlət və cəmiyyətin fəaliyyətinin tənzimlənməsi ilə bağlı məsələləri əhatə edən müraciət\",\n        \"müəyyən edilmiş qaydada baxılması tələb olunan müraciət\",\n        \"pozulmuş hüquq və azadlıqların bərpası və müdafiəsi ilə bağlı tələbləri nəzərdə tutan müraciət\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Qanuna görə, təklif dövlət və cəmiyyətin fəaliyyətinin tənzimlənməsi ilə bağlı məsələləri əhatə edən müraciətdir.\"\n    },\n    {\n      \"id\": 719,\n      \"text\": \"Müraciətinə baxılması üçün tədbirlər görülmüş və ya mahiyyəti üzrə cavab verilmiş müraciətə təkrar müraciətə baxılmasına hansı halda son verilir?\",\n      \"options\": [\n        \"məhkəmənin qanuni qüvvəyə minmiş qərarı olduqda\",\n        \"təkrar müraciətdə məsələnin həlli üçün yeni məlumatlar olmadıqda\",\n        \"vətəndaşın təkrar müraciətlərinə bir il ərzində 7 dəfə mahiyyəti üzrə əsaslandırılmış cavab verildikdə\",\n        \"məişət zorakılığı barədə şikayətdə cinayət tərkibinin əlamətləri olmadıqda\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Əgər təkrar müraciətdə məsələnin həlli üçün yeni məlumatlar yoxdursa, müraciətə baxılmasına son verilir.\"\n    },\n    {\n      \"id\": 720,\n      \"text\": \"Müraciətə baxan subyekt tərəfindən müraciət hansı müddətdə araşdırılıb cavablandırılmalıdır?\",\n      \"options\": [\n        \"15 iş günü müddətində\",\n        \"10 iş günü müddətində\",\n        \"30 iş günü müddətində\",\n        \"15 gün müddətində\"\n      ],\n      \"correctAnswer\": 2,\n      \"explanation\": \"Müraciətə baxan subyekt tərəfindən müraciət 30 iş günü müddətində araşdırılıb cavablandırılmalıdır.\"\n    },\n    {\n      \"id\": 721,\n      \"text\": \"Aşağıdakılardan hansı “Vətəndaşların müraciətləri haqqında” AR Qanununa əsasən müraciət hesab edilmir?\",\n      \"options\": [\n        \"məhkəmə icraatı ilə bağlı müraciətlər\",\n        \"Ərizə\",\n        \"Şikayət\",\n        \"Təklif\"\n      ],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Məhkəmə icraatı ilə bağlı müraciətlər bu qanunun tətbiq sahəsinə aid deyil.\"\n    },\n    {\n      \"id\": 722,\n      \"text\": \"Elektron müraciətə baxılması hansı halda mümkün deyil?\",\n      \"options\": [\n        \"Elektron imza ilə təsdiq edildikdə\",\n        \"Elektron ünvanı göstərilmədikdə\",\n        \"Müraciət edən şəxsin adı, soyadı və ünvanı göstərildikdə\",\n        \"Müraciətə baxan subyektin elektron ünvanına göndərildikdə\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Elektron müraciətə baxılması üçün müraciət edən şəxsin elektron ünvanı göstərilməlidir.\"\n    },\n    {\n      \"id\": 723,\n      \"text\": \"Müraciətə baxan subyektin səlahiyyətində olmayan müraciətə necə münasibət bildirilir?\",\n      \"options\": [\n        \"Baxılmadan saxlanılır\",\n        \"Aidiyyəti üzrə göndərilir\",\n        \"Baxılmasından imtina edilir\",\n        \"Cavab verilmədən arxalanılır\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Müraciətə baxan subyektin səlahiyyətində olmayan müraciət aidiyyəti üzrə göndərilir.\"\n    },\n    {\n      \"id\": 724,\n      \"text\": \"Müraciətinə baxılması üçün tədbirlər görülmüş və ya mahiyyəti üzrə cavab verilmiş müraciətə təkrar müraciətə baxılmasına hansı halda son verilir?\",\n      \"options\": [\n        \"məhkəmənin qanuni qüvvəyə minmiş qərarı olduqda\",\n        \"təkrar müraciətdə məsələnin həlli üçün yeni məlumatlar olmadıqda\",\n        \"vətəndaşın təkrar müraciətlərinə bir il ərzində 7 dəfə mahiyyəti üzrə əsaslandırılmış cavab verildikdə\",\n        \"məişət zorakılığı barədə şikayətdə cinayət tərkibinin əlamətləri olmadıqda\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Əgər təkrar müraciətdə məsələnin həlli üçün yeni məlumatlar yoxdursa, müraciətə baxılmasına son verilir.\"\n    },\n    {\n      \"id\": 725,\n      \"text\": \"\\\"Vətəndaşların müraciətləri haqqında\\\" ARQ-na əsasən hərbi qulluqçuların və onların ailə üzvlərinin müraciətlərinə hansı müddətdə baxılır?\",\n      \"options\": [\n        \"Ən geci 15 iş günü ərzində\",\n        \"Ən geci 30 iş günü ərzində\",\n        \"15 gün ərzində\",\n        \"Bu müraciətlərə \\\"Silahlı Qüvvələrin Daxili Xidmət Nizamnaməsinə\\\" əsasən baxılır\"\n      ],\n      \"correctAnswer\": 3,\n      \"explanation\": \"Hərbi qulluqçuların və onların ailə üzvlərinin müraciətlərinə \\\"Silahlı Qüvvələrin Daxili Xidmət Nizamnaməsinə\\\" əsasən baxılır.\"\n    },\n    {\n      \"id\": 726,\n      \"text\": \"\\\"Vətəndaşların müraciətləri haqqında\\\" AR Qanununa əsasən verilənlərdən hansı \\\"müraciətə baxan subyektin vəzifəli şəxsi\\\"-i ola bilməz?\",\n      \"options\": [\n        \"dövlət orqanının struktur bölməsinin rəhbəri\",\n        \"dövlət qulluqçusu\",\n        \"bələdiyyə orqanının mütəxəssisi\",\n        \"müraciətə baxan subyektin rəhbəri\"\n      ],\n      \"correctAnswer\": 2,\n      \"explanation\": \"\\\"Müraciətə baxan subyektin vəzifəli şəxsi\\\" anlayışına bələdiyyə orqanının mütəxəssisi daxil deyil.\"\n    },\n    {\n      \"id\": 727,\n      \"text\": \"Müraciətə baxan subyekt tərəfindən müraciət hansı müddətdə araşdırılıb cavablandırılmalıdır?\",\n      \"options\": [\n        \"15 iş günü müddətində\",\n        \"10 iş günü müddətində\",\n        \"30 iş günü müddətində\",\n        \"15 gün müddətində\"\n      ],\n      \"correctAnswer\": 2,\n      \"explanation\": \"Müraciətə baxan subyekt tərəfindən müraciət 30 iş günü müddətində araşdırılıb cavablandırılmalıdır.\"\n    },\n    {\n      \"id\": 728,\n      \"text\": \"Aşağıdakılardan hansı “Vətəndaşların müraciətləri haqqında” AR Qanununa əsasən müraciət hesab edilmir?\",\n      \"options\": [\n        \"məhkəmə icraatı ilə bağlı müraciətlər\",\n        \"Ərizə\",\n        \"Şikayət\",\n        \"Təklif\"\n      ],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Məhkəmə icraatı ilə bağlı müraciətlər bu qanunun tətbiq sahəsinə aid deyil.\"\n    },\n    {\n      \"id\": 729,\n      \"text\": \"Sual: Müraciətə baxan subyektin vəzifəli şəxsinin şəxsiyyətini müəyyən etməyə imkan verən məlumatlar olmadıqda, müraciət hansı müddətdə baxılmadan saxlanılır?\",\n      \"options\": [\n        \"1 ay müddətində\",\n        \"30 gün müddətində\",\n        \"15 gün müddətində\",\n        \"Heç bir müddətə baxılmadan saxlanılmır, baxılmasından imtina olunur.\"\n      ],\n      \"correctAnswer\": 3,\n      \"explanation\": \"Müraciətin məzmunu anonim olduqda, ona baxılmasından imtina edilir və baxılmadan saxlanılmır.\"\n    },\n    {\n      \"id\": 730,\n      \"text\": \"Müraciətin mahiyyəti üzrə cavabı hansı halda verilmir?\",\n      \"options\": [\n        \"Müraciət anonim olduqda\",\n        \"Təkrar müraciətdə yeni məlumatlar olmadıqda\",\n        \"Ərizə-şikayət ilə bağlı cavab verildikdə\",\n        \"Müraciətə baxan subyektin səlahiyyətində olmadıqda\"\n      ],\n      \"correctAnswer\": 3,\n      \"explanation\": \"Müraciətə baxan subyektin səlahiyyətində olmadıqda, o, müraciəti aidiyyəti üzrə göndərir və mahiyyəti üzrə cavab vermir.\"\n    },\n    {\n      \"id\": 731,\n      \"text\": \"Vətəndaş müraciətinin qeydiyyatı üçün hansı sənədlər tələb olunur?\",\n      \"options\": [\n        \"Şəxsiyyət vəsiqəsi\",\n        \"Qeydiyyat vərəqəsi\",\n        \"Ərizənin surəti\",\n        \"Heç biri\"\n      ],\n      \"correctAnswer\": 3,\n      \"explanation\": \"Qanuna əsasən, müraciətin qeydiyyatı üçün əlavə sənədlər tələb olunmur, yalnız müraciətin özündə tələb olunan məlumatlar kifayətdir.\"\n    },\n    {\n      \"id\": 732,\n      \"text\": \"Vətəndaşın müraciətinə baxılması üçün hansı müddətdə müraciət edə bilər?\",\n      \"options\": [\n        \"Müddət məhdudiyyəti yoxdur\",\n        \"Bir il ərzində\",\n        \"Ən geci 15 iş günü ərzində\",\n        \"Müraciət edən şəxsin istəyinə görə\"\n      ],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Müraciət etmək hüququ Konstitusiya ilə təmin olunur və onun həyata keçirilməsi üçün müddət məhdudiyyəti yoxdur.\"\n    },\n    {\n      \"id\": 733,\n      \"text\": \"Müraciətə baxılmasına hansı halda son verilə bilər?\",\n      \"options\": [\n        \"Əgər müraciət anonim olduqda\",\n        \"Təkrar müraciətdə yeni məlumatlar olmadıqda\",\n        \"Müraciətə baxan subyektin səlahiyyətində olmadıqda\",\n        \"Müraciət etmək hüququndan sui-istifadə edildikdə\"\n      ],\n      \"correctAnswer\": 3,\n      \"explanation\": \"Müraciət etmək hüququndan sui-istifadə edildikdə, yəni müraciət əsassız və ya qanunsuz olduqda, ona baxılmasına son verilə bilər.\"\n    },\n    {\n      \"id\": 734,\n      \"text\": \"Müraciət edən şəxsin şəxsiyyətini müəyyən etməyə imkan verən məlumatlar hansılardır?\",\n      \"options\": [\n        \"Ad, soyad, ata adı\",\n        \"Ünvan\",\n        \"Əlaqə nömrəsi\",\n        \"Hamısı düzgündür\"\n      ],\n      \"correctAnswer\": 3,\n      \"explanation\": \"Ad, soyad, ata adı, ünvan və əlaqə nömrəsi müraciət edən şəxsin şəxsiyyətini müəyyən etməyə imkan verən məlumatlardır.\"\n    },\n    {\n      \"id\": 735,\n      \"text\": \"Müraciətin cavablandırılması müddətinin uzadılması hansı halda mümkündür?\",\n      \"options\": [\n        \"Əsaslandırılmış səbəblər olduqda\",\n        \"Müraciət edən şəxsin istəyi ilə\",\n        \"Müraciətə baxan subyektin səlahiyyətində olduqda\",\n        \"Heç bir halda mümkün deyil\"\n      ],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Əsaslandırılmış səbəblər olduqda, müraciətin cavablandırılması müddəti uzadıla bilər.\"\n    },\n    {\n      \"id\": 736,\n      \"text\": \"Vətəndaşların müraciətlərinin qeydiyyatı hansı qaydada aparılır?\",\n      \"options\": [\n        \"Kağız üzərində\",\n        \"Elektron formada\",\n        \"Həm kağız, həm də elektron formada\",\n        \"Qeydiyyat aparılmır\"\n      ],\n      \"correctAnswer\": 2,\n      \"explanation\": \"Müraciətlərin qeydiyyatı həm kağız, həm də elektron formada aparıla bilər.\"\n    },\n    {\n      \"id\": 737,\n      \"text\": \"Müraciətin cavablandırılması üçün hansı dilin istifadəsi məcburidir?\",\n      \"options\": [\n        \"Dövlət dili\",\n        \"İngilis dili\",\n        \"Rus dili\",\n        \"Müraciət edən şəxsin dili\"\n      ],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Müraciətin cavabı dövlət dilində verilməlidir.\"\n    },\n    {\n      \"id\": 738,\n      \"text\": \"Vətəndaşların müraciətlərinə baxılması qaydası haqqında qanun hansı məqsədlə qəbul edilmişdir?\",\n      \"options\": [\n        \"Vətəndaşların müraciət etmək hüququnun təmin edilməsi\",\n        \"Dövlət orqanlarının fəaliyyətinin tənzimlənməsi\",\n        \"Vətəndaşların hüquq və azadlıqlarının müdafiəsi\",\n        \"Hamısı düzgündür\"\n      ],\n      \"correctAnswer\": 3,\n      \"explanation\": \"Qanun həm vətəndaşların müraciət etmək hüququnu təmin etmək, həm də dövlət orqanlarının fəaliyyətini tənzimləmək məqsədilə qəbul edilmişdir.\"\n    },\n    {\n      \"id\": 739,\n      \"text\": \"Müraciətə baxılmasına son verilməsi barədə qərar hansı müddətdə qəbul edilir?\",\n      \"options\": [\n        \"3 iş günü\",\n        \"5 iş günü\",\n        \"10 iş günü\",\n        \"15 iş günü\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Müraciətə baxılmasına son verilməsi barədə qərar 5 iş günü müddətində qəbul edilir.\"\n    },\n    {\n      \"id\": 740,\n      \"text\": \"Müraciətin qeydiyyatı üçün hansı məlumatlar lazımdır?\",\n      \"options\": [\n        \"Müraciətin nömrəsi\",\n        \"Tarix\",\n        \"Müraciət edən şəxsin adı\",\n        \"Hamısı düzgündür\"\n      ],\n      \"correctAnswer\": 3,\n      \"explanation\": \"Müraciətin qeydiyyatı üçün sadalananların hamısı lazımdır.\"\n    },\n    {\n      \"id\": 741,\n      \"text\": \"Vətəndaş müraciətinin surəti hansı halda verilə bilər?\",\n      \"options\": [\n        \"Yalnız müraciət edən şəxsin istəyi ilə\",\n        \"Məhkəmənin qərarı ilə\",\n        \"Müraciətə baxan subyektin rəhbərinin icazəsi ilə\",\n        \"Heç bir halda verilə bilməz\"\n      ],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Müraciətin surəti yalnız müraciət edən şəxsin istəyi ilə verilə bilər.\"\n    },\n    {\n      \"id\": 742,\n      \"text\": \"Müraciətin icrası üzərində nəzarət kim tərəfindən həyata keçirilir?\",\n      \"options\": [\n        \"Müraciətə baxan subyektin rəhbəri\",\n        \"Dövlət orqanının struktur bölməsinin rəhbəri\",\n        \"Dövlət qulluqçusu\",\n        \"Hamısı doğrudur\"\n      ],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Müraciətin icrası üzərində nəzarət müraciətə baxan subyektin rəhbəri tərəfindən həyata keçirilir.\"\n    },\n    {\n      \"id\": 743,\n      \"text\": \"Vətəndaş müraciətlərinin qeydiyyatının elektron formada aparılması hansı halda mümkündür?\",\n      \"options\": [\n        \"Yalnız elektron müraciətlər üçün\",\n        \"Yazılı müraciətlər üçün də\",\n        \"Yalnız bələdiyyələrdə\",\n        \"Yalnız dövlət orqanlarında\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Vətəndaş müraciətlərinin qeydiyyatı həm yazılı, həm də elektron formada aparıla bilər.\"\n    },\n    {\n      \"id\": 744,\n      \"text\": \"Müraciətin anonim hesab edilməsi hansı hallarda mümkündür?\",\n      \"options\": [\n        \"Müraciət edən şəxsin adı, soyadı və ünvanı göstərilmədikdə\",\n        \"Müraciətdə qeyri-etik ifadələr olduqda\",\n        \"Müraciətin mahiyyəti aydın olmadıqda\",\n        \"Müraciətə baxan subyektin səlahiyyətində olmadıqda\"\n      ],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Müraciət edən şəxsin adı, soyadı və ünvanı göstərilmədikdə, müraciət anonim hesab edilir.\"\n    },\n    {\n      \"id\": 745,\n      \"text\": \"Müraciətin qeydiyyatı üçün hansı müddət müəyyən edilir?\",\n      \"options\": [\n        \"1 iş günü\",\n        \"3 iş günü\",\n        \"5 iş günü\",\n        \"7 iş günü\"\n      ],\n      \"correctAnswer\": 2,\n      \"explanation\": \"Müraciətin qeydiyyatı ən geci 5 iş günü müddətində aparılmalıdır.\"\n    },\n    {\n      \"id\": 746,\n      \"text\": \"Vətəndaş müraciətinin cavabı hansı formada verilməlidir?\",\n      \"options\": [\n        \"Yazılı\",\n        \"Elektron\",\n        \"Həm yazılı, həm də elektron\",\n        \"Şifahi\"\n      ],\n      \"correctAnswer\": 2,\n      \"explanation\": \"Müraciətin cavabı həm yazılı, həm də elektron formada verilə bilər.\"\n    },\n    {\n      \"id\": 747,\n      \"text\": \"Müraciətə baxılmasında hansı prinsiplər rəhbər tutulur?\",\n      \"options\": [\n        \"Qanunçuluq\",\n        \"Səmərəlilik\",\n        \"Açıqlıq\",\n        \"Hamısı düzgündür\"\n      ],\n      \"correctAnswer\": 3,\n      \"explanation\": \"Qanunçuluq, səmərəlilik və açıqlıq müraciətə baxılmasında rəhbər tutulan prinsiplərdir.\"\n    },\n    {\n      \"id\": 748,\n      \"text\": \"Vətəndaşın müraciət etmək hüququ hansı qanunla tənzimlənir?\",\n      \"options\": [\n        \"Konstitusiya\",\n        \"Vətəndaşların müraciətlərinə baxılması qaydası haqqında qanun\",\n        \"İnzibati icraat haqqında qanun\",\n        \"Hamısı düzgündür\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Vətəndaşların müraciət etmək hüququ Vətəndaşların müraciətlərinə baxılması qaydası haqqında qanunla tənzimlənir.\"\n    },\n    {\n      \"id\": 749,\n      \"text\": \"Müraciətə baxılmasına son verilməsi barədə qərar kim tərəfindən qəbul edilir?\",\n      \"options\": [\n        \"Müraciətə baxan subyektin rəhbəri\",\n        \"Dövlət orqanının struktur bölməsinin rəhbəri\",\n        \"Dövlət qulluqçusu\",\n        \"Məhkəmə\"\n      ],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Müraciətə baxılmasına son verilməsi barədə qərar müraciətə baxan subyektin rəhbəri tərəfindən qəbul edilir.\"\n    },\n    {\n      \"id\": 750,\n      \"text\": \"Müraciətə baxılması üçün hansı sənədlər əlavə edilə bilər?\",\n      \"options\": [\n        \"Müraciət edən şəxsin şəxsiyyət vəsiqəsinin surəti\",\n        \"Ərizənin surəti\",\n        \"Müraciətə aid olan sənədlər\",\n        \"Heç biri\"\n      ],\n      \"correctAnswer\": 2,\n      \"explanation\": \"Müraciətə aid olan sənədlər əlavə edilə bilər.\"\n    },\n    {\n      \"id\": 751,\n      \"text\": \"Müraciətin cavablandırılması müddətinin uzadılması barədə qərar kim tərəfindən qəbul edilir?\",\n      \"options\": [\n        \"Müraciət edən şəxs\",\n        \"Müraciətə baxan subyektin rəhbəri\",\n        \"Dövlət orqanının struktur bölməsinin rəhbəri\",\n        \"Dövlət qulluqçusu\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Müraciətin cavablandırılması müddətinin uzadılması barədə qərar müraciətə baxan subyektin rəhbəri tərəfindən qəbul edilir.\"\n    },\n    {\n      \"id\": 752,\n      \"text\": \"Vətəndaş müraciətinin elektron qeydiyyatı hansı sistemdə aparılır?\",\n      \"options\": [\n        \"Elektron hökumət portalı\",\n        \"Elektron müraciət sistemi\",\n        \"Elektron qeydiyyat sistemi\",\n        \"Xüsusi proqram təminatı\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Vətəndaş müraciətlərinin elektron qeydiyyatı elektron müraciət sistemi vasitəsilə aparılır.\"\n    },\n    {\n      \"id\": 753,\n      \"text\": \"Müraciətə baxılmasına son verilməsi barədə qərarın surəti hansı müddətdə müraciət edənə göndərilir?\",\n      \"options\": [\n        \"3 iş günü müddətində\",\n        \"5 iş günü müddətində\",\n        \"10 iş günü müddətində\",\n        \"15 iş günü müddətində\"\n      ],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Müraciətə baxılmasına son verilməsi barədə qərarın surəti 3 iş günü müddətində müraciət edənə göndərilir.\"\n    },\n    {\n      \"id\": 754,\n      \"text\": \"Müraciətin icrası üzərində nəzarətin həyata keçirilməsi kimin vəzifəsinə aiddir?\",\n      \"options\": [\n        \"Müraciətə baxan subyektin rəhbəri\",\n        \"Dövlət orqanının struktur bölməsinin rəhbəri\",\n        \"Dövlət qulluqçusu\",\n        \"Hamısı doğrudur\"\n      ],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Müraciətin icrası üzərində nəzarətin həyata keçirilməsi müraciətə baxan subyektin rəhbərinin vəzifəsidir.\"\n    },\n    {\n      \"id\": 755,\n      \"text\": \"Müraciətin cavablandırılması müddətinin uzadılması barədə bildiriş hansı müddətdə müraciət edənə göndərilir?\",\n      \"options\": [\n        \"3 iş günü müddətində\",\n        \"5 iş günü müddətində\",\n        \"10 iş günü müddətində\",\n        \"15 iş günü müddətində\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Müraciətin cavablandırılması müddətinin uzadılması barədə bildiriş 5 iş günü müddətində müraciət edənə göndərilir.\"\n    },\n    {\n      \"id\": 756,\n      \"text\": \"Müraciətin cavablandırılması üçün hansı məlumatlar lazımdır?\",\n      \"options\": [\n        \"Müraciətin nömrəsi\",\n        \"Cavabın tarixi\",\n        \"Cavabın mahiyyəti\",\n        \"Hamısı düzgündür\"\n      ],\n      \"correctAnswer\": 3,\n      \"explanation\": \"Müraciətin cavablandırılması üçün sadalananların hamısı lazımdır.\"\n    },\n    {\n      \"id\": 757,\n      \"text\": \"Vətəndaş müraciəti hansı halda anonim hesab edilir?\",\n      \"options\": [\n        \"Müraciət edən şəxsin şəxsiyyətini müəyyən etməyə imkan verən məlumatlar olmadıqda\",\n        \"Müraciətdə qeyri-etik ifadələr olduqda\",\n        \"Müraciətin mahiyyəti aydın olmadıqda\",\n        \"Müraciətə baxan subyektin səlahiyyətində olmadıqda\"\n      ],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Müraciət edən şəxsin şəxsiyyətini müəyyən etməyə imkan verən məlumatlar olmadıqda, müraciət anonim hesab edilir.\"\n    },\n    {\n      \"id\": 758,\n      \"text\": \"Müraciətə baxılması hansı müddətdə tamamlanmalıdır?\",\n      \"options\": [\n        \"Ən geci 15 iş günü\",\n        \"Ən geci 30 iş günü\",\n        \"10 iş günü\",\n        \"7 gün\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Müraciətə baxılması ən geci 30 iş günü müddətində tamamlanmalıdır.\"\n    },\n    {\n      \"id\": 759,\n      \"text\": \"Elektron müraciət hansı halda baxılır?\",\n      \"options\": [\n        \"Elektron imza ilə təsdiq edildikdə\",\n        \"Elektron ünvanı göstərilmədikdə\",\n        \"Müraciət edən şəxsin adı, soyadı və ünvanı göstərildikdə\",\n        \"Müraciətə baxan subyektin elektron ünvanına göndərildikdə\"\n      ],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Elektron müraciət elektron imza ilə təsdiq edildikdə baxılır.\"\n    },\n    {\n      \"id\": 760,\n      \"text\": \"Müraciətə baxılmasına son verilməsi barədə qərarın surəti hansı dildə verilir?\",\n      \"options\": [\n        \"Dövlət dili\",\n        \"İngilis dili\",\n        \"Rus dili\",\n        \"Müraciət edən şəxsin dili\"\n      ],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Müraciətə baxılmasına son verilməsi barədə qərarın surəti dövlət dilində verilir.\"\n    },\n    {\n      \"id\": 761,\n      \"text\": \"Müraciətə baxan subyektin səlahiyyətində olmayan müraciətə necə münasibət bildirilir?\",\n      \"options\": [\n        \"Baxılmadan saxlanılır\",\n        \"Aidiyyəti üzrə göndərilir\",\n        \"Baxılmasından imtina edilir\",\n        \"Cavab verilmədən arxalanılır\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Müraciətə baxan subyektin səlahiyyətində olmayan müraciət aidiyyəti üzrə göndərilir.\"\n    },\n    {\n      \"id\": 762,\n      \"text\": \"Vətəndaşların müraciətlərinin qeydiyyatı hansı qaydada aparılır?\",\n      \"options\": [\n        \"Kağız üzərində\",\n        \"Elektron formada\",\n        \"Həm kağız, həm də elektron formada\",\n        \"Qeydiyyat aparılmır\"\n      ],\n      \"correctAnswer\": 2,\n      \"explanation\": \"Müraciətlərin qeydiyyatı həm kağız, həm də elektron formada aparıla bilər.\"\n    },\n    {\n      \"id\": 763,\n      \"text\": \"Müraciətə baxılmasına son verilməsi barədə qərar hansı müddətdə qəbul edilir?\",\n      \"options\": [\n        \"3 iş günü\",\n        \"5 iş günü\",\n        \"10 iş günü\",\n        \"15 iş günü\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Müraciətə baxılmasına son verilməsi barədə qərar 5 iş günü müddətində qəbul edilir.\"\n    },\n    {\n      \"id\": 764,\n      \"text\": \"Müraciətin cavabı hansı formada verilməlidir?\",\n      \"options\": [\n        \"Yazılı\",\n        \"Elektron\",\n        \"Həm yazılı, həm də elektron\",\n        \"Şifahi\"\n      ],\n      \"correctAnswer\": 2,\n      \"explanation\": \"Müraciətin cavabı həm yazılı, həm də elektron formada verilə bilər.\"\n    },\n    {\n      \"id\": 765,\n      \"text\": \"Müraciətə baxılmasında hansı prinsiplər rəhbər tutulur?\",\n      \"options\": [\n        \"Qanunçuluq\",\n        \"Səmərəlilik\",\n        \"Açıqlıq\",\n        \"Hamısı düzgündür\"\n      ],\n      \"correctAnswer\": 3,\n      \"explanation\": \"Qanunçuluq, səmərəlilik və açıqlıq müraciətə baxılmasında rəhbər tutulan prinsiplərdir.\"\n    },\n    {\n      \"id\": 766,\n      \"text\": \"Vətəndaşın müraciət etmək hüququ hansı qanunla tənzimlənir?\",\n      \"options\": [\n        \"Konstitusiya\",\n        \"Vətəndaşların müraciətlərinə baxılması qaydası haqqında qanun\",\n        \"İnzibati icraat haqqında qanun\",\n        \"Hamısı düzgündür\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Vətəndaşların müraciət etmək hüququ Vətəndaşların müraciətlərinə baxılması qaydası haqqında qanunla tənzimlənir.\"\n    },\n    {\n      \"id\": 767,\n      \"text\": \"Müraciətə baxılmasına son verilməsi barədə qərar kim tərəfindən qəbul edilir?\",\n      \"options\": [\n        \"Müraciətə baxan subyektin rəhbəri\",\n        \"Dövlət orqanının struktur bölməsinin rəhbəri\",\n        \"Dövlət qulluqçusu\",\n        \"Məhkəmə\"\n      ],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Müraciətə baxılmasına son verilməsi barədə qərar müraciətə baxan subyektin rəhbəri tərəfindən qəbul edilir.\"\n    },\n    {\n      \"id\": 768,\n      \"text\": \"Müraciətə baxılması üçün hansı sənədlər əlavə edilə bilər?\",\n      \"options\": [\n        \"Müraciət edən şəxsin şəxsiyyət vəsiqəsinin surəti\",\n        \"Ərizənin surəti\",\n        \"Müraciətə aid olan sənədlər\",\n        \"Heç biri\"\n      ],\n      \"correctAnswer\": 2,\n      \"explanation\": \"Müraciətə aid olan sənədlər əlavə edilə bilər.\"\n    },\n    {\n      \"id\": 769,\n      \"text\": \"Müraciətin cavablandırılması müddətinin uzadılması barədə qərar kim tərəfindən qəbul edilir?\",\n      \"options\": [\n        \"Müraciət edən şəxs\",\n        \"Müraciətə baxan subyektin rəhbəri\",\n        \"Dövlət orqanının struktur bölməsinin rəhbəri\",\n        \"Dövlət qulluqçusu\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Müraciətin cavablandırılması müddətinin uzadılması barədə qərar müraciətə baxan subyektin rəhbəri tərəfindən qəbul edilir.\"\n    },\n    {\n      \"id\": 770,\n      \"text\": \"Vətəndaş müraciətinin elektron qeydiyyatı hansı sistemdə aparılır?\",\n      \"options\": [\n        \"Elektron hökumət portalı\",\n        \"Elektron müraciət sistemi\",\n        \"Elektron qeydiyyat sistemi\",\n        \"Xüsusi proqram təminatı\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Vətəndaş müraciətlərinin elektron qeydiyyatı elektron müraciət sistemi vasitəsilə aparılır.\"\n    },\n    {\n      \"id\": 771,\n      \"text\": \"Müraciətə baxılmasına son verilməsi barədə qərarın surəti hansı müddətdə müraciət edənə göndərilir?\",\n      \"options\": [\n        \"3 iş günü müddətində\",\n        \"5 iş günü müddətində\",\n        \"10 iş günü müddətində\",\n        \"15 iş günü müddətində\"\n      ],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Müraciətə baxılmasına son verilməsi barədə qərarın surəti 3 iş günü müddətində müraciət edənə göndərilir.\"\n    },\n    {\n      \"id\": 772,\n      \"text\": \"Müraciətin icrası üzərində nəzarətin həyata keçirilməsi kimin vəzifəsinə aiddir?\",\n      \"options\": [\n        \"Müraciətə baxan subyektin rəhbəri\",\n        \"Dövlət orqanının struktur bölməsinin rəhbəri\",\n        \"Dövlət qulluqçusu\",\n        \"Hamısı doğrudur\"\n      ],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Müraciətin icrası üzərində nəzarətin həyata keçirilməsi müraciətə baxan subyektin rəhbərinin vəzifəsidir.\"\n    },\n    {\n      \"id\": 773,\n      \"text\": \"Müraciətin cavablandırılması müddətinin uzadılması barədə bildiriş hansı müddətdə müraciət edənə göndərilir?\",\n      \"options\": [\n        \"3 iş günü müddətində\",\n        \"5 iş günü müddətində\",\n        \"10 iş günü müddətində\",\n        \"15 iş günü müddətində\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Müraciətin cavablandırılması müddətinin uzadılması barədə bildiriş 5 iş günü müddətində müraciət edənə göndərilir.\"\n    },\n    {\n      \"id\": 774,\n      \"text\": \"Müraciətin cavablandırılması üçün hansı məlumatlar lazımdır?\",\n      \"options\": [\n        \"Müraciətin nömrəsi\",\n        \"Cavabın tarixi\",\n        \"Cavabın mahiyyəti\",\n        \"Hamısı düzgündür\"\n      ],\n      \"correctAnswer\": 3,\n      \"explanation\": \"Müraciətin cavablandırılması üçün sadalananların hamısı lazımdır.\"\n    },\n    {\n      \"id\": 775,\n      \"text\": \"Vətəndaş müraciəti hansı halda anonim hesab edilir?\",\n      \"options\": [\n        \"Müraciət edən şəxsin şəxsiyyətini müəyyən etməyə imkan verən məlumatlar olmadıqda\",\n        \"Müraciətdə qeyri-etik ifadələr olduqda\",\n        \"Müraciətin mahiyyəti aydın olmadıqda\",\n        \"Müraciətə baxan subyektin səlahiyyətində olmadıqda\"\n      ],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Müraciət edən şəxsin şəxsiyyətini müəyyən etməyə imkan verən məlumatlar olmadıqda, müraciət anonim hesab edilir.\"\n    },\n    {\n      \"id\": 776,\n      \"text\": \"Müraciətə baxılması hansı müddətdə tamamlanmalıdır?\",\n      \"options\": [\n        \"Ən geci 15 iş günü\",\n        \"Ən geci 30 iş günü\",\n        \"10 iş günü\",\n        \"7 gün\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Müraciətə baxılması ən geci 30 iş günü müddətində tamamlanmalıdır.\"\n    },\n    {\n      \"id\": 777,\n      \"text\": \"Elektron müraciət hansı halda baxılır?\",\n      \"options\": [\n        \"Elektron imza ilə təsdiq edildikdə\",\n        \"Elektron ünvanı göstərilmədikdə\",\n        \"Müraciət edən şəxsin adı, soyadı və ünvanı göstərildikdə\",\n        \"Müraciətə baxan subyektin elektron ünvanına göndərildikdə\"\n      ],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Elektron müraciət elektron imza ilə təsdiq edildikdə baxılır.\"\n    },\n    {\n      \"id\": 778,\n      \"text\": \"Müraciətə baxılmasına son verilməsi barədə qərarın surəti hansı dildə verilir?\",\n      \"options\": [\n        \"Dövlət dili\",\n        \"İngilis dili\",\n        \"Rus dili\",\n        \"Müraciət edən şəxsin dili\"\n      ],\n      \"correctAnswer\": 0,\n      \"explanation\": \"Müraciətə baxılmasına son verilməsi barədə qərarın surəti dövlət dilində verilir.\"\n    },\n    {\n      \"id\": 779,\n      \"text\": \"Müraciətə baxan subyektin səlahiyyətində olmayan müraciətə necə münasibət bildirilir?\",\n      \"options\": [\n        \"Baxılmadan saxlanılır\",\n        \"Aidiyyəti üzrə göndərilir\",\n        \"Baxılmasından imtina edilir\",\n        \"Cavab verilmədən arxalanılır\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Müraciətə baxan subyektin səlahiyyətində olmayan müraciət aidiyyəti üzrə göndərilir.\"\n    },\n    {\n      \"id\": 780,\n      \"text\": \"Müraciətin mahiyyəti üzrə cavabı hansı halda verilmir?\",\n      \"options\": [\n        \"Müraciət anonim olduqda\",\n        \"Təkrar müraciətdə yeni məlumatlar olmadıqda\",\n        \"Ərizə-şikayət ilə bağlı cavab verildikdə\",\n        \"Müraciətə baxan subyektin səlahiyyətində olmadıqda\"\n      ],\n      \"correctAnswer\": 3,\n      \"explanation\": \"Müraciətə baxan subyektin səlahiyyətində olmadıqda, o, müraciəti aidiyyəti üzrə göndərir və mahiyyəti üzrə cavab vermir.\"\n    },\n    {\n      \"id\": 781,\n      \"text\": \"Vətəndaşların müraciətlərinin qeydiyyatı hansı qaydada aparılır?\",\n      \"options\": [\n        \"Kağız üzərində\",\n        \"Elektron formada\",\n        \"Həm kağız, həm də elektron formada\",\n        \"Qeydiyyat aparılmır\"\n      ],\n      \"correctAnswer\": 2,\n      \"explanation\": \"Müraciətlərin qeydiyyatı həm kağız, həm də elektron formada aparıla bilər.\"\n    },\n    {\n      \"id\": 782,\n      \"text\": \"Müraciətə baxılmasına son verilməsi barədə qərar hansı müddətdə qəbul edilir?\",\n      \"options\": [\n        \"3 iş günü\",\n        \"5 iş günü\",\n        \"10 iş günü\",\n        \"15 iş günü\"\n      ],\n      \"correctAnswer\": 1,\n      \"explanation\": \"Müraciətə baxılmasına son verilməsi barədə qərar 5 iş günü müddətində qəbul edilir.\"\n    },\n    {\n      \"id\": 783,\n      \"text\": \"Müraciətin cavabı hansı formada verilməlidir?\",\n      \"options\": [\n        \"Yazılı\",\n        \"Elektron\",\n        \"Həm yazılı, həm də elektron\",\n        \"Şifahi\"\n      ],\n      \"correctAnswer\": 2,\n      \"explanation\": \"Müraciətin cavabı həm yazılı, həm də elektron formada verilə bilər.\"\n    }\n  ]\n}"
+   "id": "Vetendaslarin_muracietleri",
+  "name": "Vətəndaşların müraciətləri",
+  "questions": [
+    {
+      "id": 701,
+      "text": "Vətəndaşların müraciətlərinə baxılması qaydası haqqında qanun Konstitusiyanın hansı maddəsində nəzərdə tutulmuşdur?",
+      "options": [
+        "57",
+        "21",
+        "50",
+        "33"
+      ],
+      "correctAnswer": 0,
+      "explanation": "57-ci maddə vətəndaşların müraciət etmək hüququnu müəyyən edir."
+    },
+    {
+      "id": 702,
+      "text": "“Vətəndaşların müraciətlərinə baxılması qaydası haqqında” qanunun məqsədləri üçün “ərizə” nədir?",
+      "options": [
+        "hüquq və azadlıqların həyata keçirilməsi ilə bağlı tələbləri nəzərdə tutan müraciət",
+        "pozulmuş hüquq və azadlıqların bərpası və müdafiəsi ilə bağlı tələbləri nəzərdə tutan müraciət",
+        "kağız üzərində və ya elektron formada tərtib edilmiş müraciət",
+        "müraciətə baxan subyektin və ya onun vəzifəli şəxsinin elektron ünvanına göndərilən və ya rəsmi internet saytı vasitəsilə daxil edilən müraciət"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Qanuna görə, ərizə hüquq və azadlıqların həyata keçirilməsi ilə bağlı tələbləri ehtiva edən müraciətdir."
+    },
+    {
+      "id": 703,
+      "text": "“Vətəndaşların müraciətlərinə baxılması qaydası haqqında” qanunun məqsədləri üçün “şikayət” nədir?",
+      "options": [
+        "hüquq və azadlıqların həyata keçirilməsi ilə bağlı tələbləri nəzərdə tutan müraciət",
+        "pozulmuş hüquq və azadlıqların bərpası və müdafiəsi ilə bağlı tələbləri nəzərdə tutan müraciət",
+        "kağız üzərində və ya elektron formada tərtib edilmiş müraciət",
+        "müraciətə baxan subyektin və ya onun vəzifəli şəxsinin elektron ünvanına göndərilən və ya rəsmi internet saytı vasitəsilə daxil edilən müraciət"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Qanuna görə, şikayət pozulmuş hüquq və azadlıqların bərpası və müdafiəsi ilə bağlı tələbləri ehtiva edən müraciətdir."
+    },
+    {
+      "id": 704,
+      "text": "“Vətəndaşların müraciətlərinə baxılması qaydası haqqında” qanun kimlərə şamil edilmir?",
+      "options": [
+        "Hərbi qulluqçulara",
+        "Məhkəmə icraatı ilə bağlı müraciətlərə",
+        "İşçilərə aid şikayətlərə",
+        "Qanunvericiliklə müəyyən edilmiş qaydada baxılması tələb olunan müraciətlərə"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Qanunvericiliklə müəyyən edilmiş qaydada baxılması tələb olunan məhkəmə icraatı ilə bağlı müraciətlərə bu qanun şamil edilmir."
+    },
+    {
+      "id": 705,
+      "text": "Müraciətə baxan subyektin vəzifəli şəxsi kimdir?",
+      "options": [
+        "müraciətə baxan subyektin rəhbəri",
+        "dövlət orqanının struktur bölməsinin rəhbəri",
+        "dövlət qulluqçusu",
+        "hamısı doğrudur"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Müraciətə baxan subyektin vəzifəli şəxsi, qanuna görə, sadalananların hamısı ola bilər."
+    },
+    {
+      "id": 706,
+      "text": "Vətəndaş müraciətində nə göstərilməlidir?",
+      "options": [
+        "Müraciət edən şəxsin adı, soyadı, ünvanı",
+        "Müraciətin mahiyyəti, müraciət edilən orqanın adı",
+        "Müraciəti imzalayan şəxsin imzası, tarix",
+        "Hamısı düzgündür"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Qanunun 6-cı maddəsinə əsasən, müraciətdə bu məlumatların hər biri göstərilməlidir."
+    },
+    {
+      "id": 707,
+      "text": "Hansı müraciətə baxılmasına yol verilmir?",
+      "options": [
+        "Müraciət edən şəxsin şəxsiyyətini müəyyən etməyə imkan verən məlumatlar olmadıqda",
+        "Müraciətdə qeyri-etik ifadələr olduqda",
+        "Yazılı müraciətin əl ilə yazılmış forması",
+        "Elektron müraciətin elektron imza ilə təsdiq edilməsi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Müraciətdə qeyri-etik ifadələr olduqda, həmin müraciətə baxılmasına yol verilmir."
+    },
+    {
+      "id": 708,
+      "text": "Vətəndaşın təkrar müraciətinə baxılmasına hansı hallarda son verilir?",
+      "options": [
+        "Müraciət edən şəxsin şəxsiyyətini müəyyən etməyə imkan verən məlumatlar olmadıqda",
+        "Təkrar müraciətin mahiyyəti üzrə baxılaraq cavab verildikdə",
+        "Təkrar müraciətə baxılması zamanı yeni halların meydana çıxması",
+        "Vətəndaşın məhkəməyə müraciəti"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vətəndaşın təkrar müraciətinə baxılmasına, əgər müraciətə mahiyyəti üzrə baxılaraq cavab verilibsə və yeni faktlar yoxdursa, son verilə bilər."
+    },
+    {
+      "id": 709,
+      "text": "Vətəndaş müraciətinin qeydiyyatı hansı müddətdə aparılır?",
+      "options": [
+        "3 iş günü müddətində",
+        "5 iş günü müddətində",
+        "10 iş günü müddətində",
+        "15 iş günü müddətində"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Müraciətin daxil olduğu andan ən geci 5 iş günü müddətində qeydiyyata alınmalıdır."
+    },
+    {
+      "id": 710,
+      "text": "Müraciətin cavabı necə olmalıdır?",
+      "options": [
+        "Əsaslandırılmış və dolğun olmalıdır",
+        "Müraciət edən şəxsin şəxsiyyətini müəyyən etməyə imkan verən məlumatlar olmalıdır",
+        "Təkrar müraciətin mahiyyəti üzrə baxılaraq cavab verilməlidir",
+        "Müraciətin cavabı verilməyə bilər"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Qanunun 11-ci maddəsinə əsasən, müraciətin cavabı əsaslandırılmış və dolğun olmalıdır."
+    },
+    {
+      "id": 711,
+      "text": "Vətəndaş müraciətinin anonim müraciət hesab edilməsi üçün hansı məlumatlar tələb olunur?",
+      "options": [
+        "Ad, soyad, ata adı",
+        "Ünvan",
+        "Əlaqə nömrəsi",
+        "Məlumatlar tələb olunmur"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Anonim müraciət, müraciət edən şəxsin kimliyini müəyyən etməyə imkan verməyən məlumatları əhatə edir. Buna görə də heç bir məlumat tələb olunmur."
+    },
+    {
+      "id": 712,
+      "text": "Müraciətinə baxılması üçün tədbirlər görülmüş və ya mahiyyəti üzrə cavab verilmiş müraciətə təkrar müraciətə baxılmasına hansı halda son verilir?",
+      "options": [
+        "məhkəmənin qanuni qüvvəyə minmiş qərarı olduqda",
+        "təkrar müraciətdə məsələnin həlli üçün yeni məlumatlar olmadıqda",
+        "vətəndaşın təkrar müraciətlərinə bir il ərzində 7 dəfə mahiyyəti üzrə əsaslandırılmış cavab verildikdə",
+        "məişət zorakılığı barədə şikayətdə cinayət tərkibinin əlamətləri olmadıqda"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Əgər təkrar müraciətdə məsələnin həlli üçün yeni məlumatlar yoxdursa, müraciətə baxılmasına son verilir."
+    },
+    {
+      "id": 713,
+      "text": "\"Vətəndaşların müraciətləri haqqında\" ARQ-na əsasən hərbi qulluqçuların və onların ailə üzvlərinin müraciətlərinə hansı müddətdə baxılır?",
+      "options": [
+        "Ən geci 15 iş günü ərzində",
+        "Ən geci 30 iş günü ərzində",
+        "15 gün ərzində",
+        "Bu müraciətlərə \"Silahlı Qüvvələrin Daxili Xidmət Nizamnaməsinə\" əsasən baxılır"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Hərbi qulluqçuların və onların ailə üzvlərinin müraciətlərinə \"Silahlı Qüvvələrin Daxili Xidmət Nizamnaməsinə\" əsasən baxılır."
+    },
+    {
+      "id": 714,
+      "text": "\"Vətəndaşların müraciətləri haqqında\" AR Qanununa əsasən verilənlərdən hansı \"müraciətə baxan subyektin vəzifəli şəxsi\"-i ola bilməz?",
+      "options": [
+        "dövlət orqanının struktur bölməsinin rəhbəri",
+        "dövlət qulluqçusu",
+        "bələdiyyə orqanının mütəxəssisi",
+        "müraciətə baxan subyektin rəhbəri"
+      ],
+      "correctAnswer": 2,
+      "explanation": "\"Müraciətə baxan subyektin vəzifəli şəxsi\" anlayışına bələdiyyə orqanının mütəxəssisi daxil deyil."
+    },
+    {
+      "id": 715,
+      "text": "Müraciətə baxan subyekt tərəfindən müraciət hansı müddətdə araşdırılıb cavablandırılmalıdır?",
+      "options": [
+        "15 iş günü müddətində",
+        "10 iş günü müddətində",
+        "30 iş günü müddətində",
+        "15 gün müddətində"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Müraciətə baxan subyekt tərəfindən müraciət 30 iş günü müddətində araşdırılıb cavablandırılmalıdır."
+    },
+    {
+      "id": 716,
+      "text": "Aşağıdakılardan hansı “Vətəndaşların müraciətləri haqqında” AR Qanununa əsasən müraciət hesab edilmir?",
+      "options": [
+        "məhkəmə icraatı ilə bağlı müraciətlər",
+        "Ərizə",
+        "Şikayət",
+        "Təklif"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Məhkəmə icraatı ilə bağlı müraciətlər bu qanunun tətbiq sahəsinə aid deyil."
+    },
+    {
+      "id": 717,
+      "text": "Elektron müraciətə baxılması hansı halda mümkün deyil?",
+      "options": [
+        "Elektron imza ilə təsdiq edildikdə",
+        "Elektron ünvanı göstərilmədikdə",
+        "Müraciət edən şəxsin adı, soyadı və ünvanı göstərildikdə",
+        "Müraciətə baxan subyektin elektron ünvanına göndərildikdə"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Elektron müraciətə baxılması üçün müraciət edən şəxsin elektron ünvanı göstərilməlidir."
+    },
+    {
+      "id": 718,
+      "text": "“Vətəndaşların müraciətləri haqqında” Qanuna əsasən, “təklif” nədir?",
+      "options": [
+        "hüquq və azadlıqların həyata keçirilməsi ilə bağlı tələbləri nəzərdə tutan müraciət",
+        "dövlət və cəmiyyətin fəaliyyətinin tənzimlənməsi ilə bağlı məsələləri əhatə edən müraciət",
+        "müəyyən edilmiş qaydada baxılması tələb olunan müraciət",
+        "pozulmuş hüquq və azadlıqların bərpası və müdafiəsi ilə bağlı tələbləri nəzərdə tutan müraciət"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Qanuna görə, təklif dövlət və cəmiyyətin fəaliyyətinin tənzimlənməsi ilə bağlı məsələləri əhatə edən müraciətdir."
+    },
+    {
+      "id": 719,
+      "text": "Müraciətinə baxılması üçün tədbirlər görülmüş və ya mahiyyəti üzrə cavab verilmiş müraciətə təkrar müraciətə baxılmasına hansı halda son verilir?",
+      "options": [
+        "məhkəmənin qanuni qüvvəyə minmiş qərarı olduqda",
+        "təkrar müraciətdə məsələnin həlli üçün yeni məlumatlar olmadıqda",
+        "vətəndaşın təkrar müraciətlərinə bir il ərzində 7 dəfə mahiyyəti üzrə əsaslandırılmış cavab verildikdə",
+        "məişət zorakılığı barədə şikayətdə cinayət tərkibinin əlamətləri olmadıqda"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Əgər təkrar müraciətdə məsələnin həlli üçün yeni məlumatlar yoxdursa, müraciətə baxılmasına son verilir."
+    },
+    {
+      "id": 720,
+      "text": "Müraciətə baxan subyekt tərəfindən müraciət hansı müddətdə araşdırılıb cavablandırılmalıdır?",
+      "options": [
+        "15 iş günü müddətində",
+        "10 iş günü müddətində",
+        "30 iş günü müddətində",
+        "15 gün müddətində"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Müraciətə baxan subyekt tərəfindən müraciət 30 iş günü müddətində araşdırılıb cavablandırılmalıdır."
+    },
+    {
+      "id": 721,
+      "text": "Aşağıdakılardan hansı “Vətəndaşların müraciətləri haqqında” AR Qanununa əsasən müraciət hesab edilmir?",
+      "options": [
+        "məhkəmə icraatı ilə bağlı müraciətlər",
+        "Ərizə",
+        "Şikayət",
+        "Təklif"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Məhkəmə icraatı ilə bağlı müraciətlər bu qanunun tətbiq sahəsinə aid deyil."
+    },
+    {
+      "id": 722,
+      "text": "Elektron müraciətə baxılması hansı halda mümkün deyil?",
+      "options": [
+        "Elektron imza ilə təsdiq edildikdə",
+        "Elektron ünvanı göstərilmədikdə",
+        "Müraciət edən şəxsin adı, soyadı və ünvanı göstərildikdə",
+        "Müraciətə baxan subyektin elektron ünvanına göndərildikdə"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Elektron müraciətə baxılması üçün müraciət edən şəxsin elektron ünvanı göstərilməlidir."
+    },
+    {
+      "id": 723,
+      "text": "Müraciətə baxan subyektin səlahiyyətində olmayan müraciətə necə münasibət bildirilir?",
+      "options": [
+        "Baxılmadan saxlanılır",
+        "Aidiyyəti üzrə göndərilir",
+        "Baxılmasından imtina edilir",
+        "Cavab verilmədən arxalanılır"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Müraciətə baxan subyektin səlahiyyətində olmayan müraciət aidiyyəti üzrə göndərilir."
+    },
+    {
+      "id": 724,
+      "text": "Müraciətinə baxılması üçün tədbirlər görülmüş və ya mahiyyəti üzrə cavab verilmiş müraciətə təkrar müraciətə baxılmasına hansı halda son verilir?",
+      "options": [
+        "məhkəmənin qanuni qüvvəyə minmiş qərarı olduqda",
+        "təkrar müraciətdə məsələnin həlli üçün yeni məlumatlar olmadıqda",
+        "vətəndaşın təkrar müraciətlərinə bir il ərzində 7 dəfə mahiyyəti üzrə əsaslandırılmış cavab verildikdə",
+        "məişət zorakılığı barədə şikayətdə cinayət tərkibinin əlamətləri olmadıqda"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Əgər təkrar müraciətdə məsələnin həlli üçün yeni məlumatlar yoxdursa, müraciətə baxılmasına son verilir."
+    },
+    {
+      "id": 725,
+      "text": "\"Vətəndaşların müraciətləri haqqında\" ARQ-na əsasən hərbi qulluqçuların və onların ailə üzvlərinin müraciətlərinə hansı müddətdə baxılır?",
+      "options": [
+        "Ən geci 15 iş günü ərzində",
+        "Ən geci 30 iş günü ərzində",
+        "15 gün ərzində",
+        "Bu müraciətlərə \"Silahlı Qüvvələrin Daxili Xidmət Nizamnaməsinə\" əsasən baxılır"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Hərbi qulluqçuların və onların ailə üzvlərinin müraciətlərinə \"Silahlı Qüvvələrin Daxili Xidmət Nizamnaməsinə\" əsasən baxılır."
+    },
+    {
+      "id": 726,
+      "text": "\"Vətəndaşların müraciətləri haqqında\" AR Qanununa əsasən verilənlərdən hansı \"müraciətə baxan subyektin vəzifəli şəxsi\"-i ola bilməz?",
+      "options": [
+        "dövlət orqanının struktur bölməsinin rəhbəri",
+        "dövlət qulluqçusu",
+        "bələdiyyə orqanının mütəxəssisi",
+        "müraciətə baxan subyektin rəhbəri"
+      ],
+      "correctAnswer": 2,
+      "explanation": "\"Müraciətə baxan subyektin vəzifəli şəxsi\" anlayışına bələdiyyə orqanının mütəxəssisi daxil deyil."
+    },
+    {
+      "id": 727,
+      "text": "Müraciətə baxan subyekt tərəfindən müraciət hansı müddətdə araşdırılıb cavablandırılmalıdır?",
+      "options": [
+        "15 iş günü müddətində",
+        "10 iş günü müddətində",
+        "30 iş günü müddətində",
+        "15 gün müddətində"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Müraciətə baxan subyekt tərəfindən müraciət 30 iş günü müddətində araşdırılıb cavablandırılmalıdır."
+    },
+    {
+      "id": 728,
+      "text": "Aşağıdakılardan hansı “Vətəndaşların müraciətləri haqqında” AR Qanununa əsasən müraciət hesab edilmir?",
+      "options": [
+        "məhkəmə icraatı ilə bağlı müraciətlər",
+        "Ərizə",
+        "Şikayət",
+        "Təklif"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Məhkəmə icraatı ilə bağlı müraciətlər bu qanunun tətbiq sahəsinə aid deyil."
+    },
+    {
+      "id": 729,
+      "text": "Sual: Müraciətə baxan subyektin vəzifəli şəxsinin şəxsiyyətini müəyyən etməyə imkan verən məlumatlar olmadıqda, müraciət hansı müddətdə baxılmadan saxlanılır?",
+      "options": [
+        "1 ay müddətində",
+        "30 gün müddətində",
+        "15 gün müddətində",
+        "Heç bir müddətə baxılmadan saxlanılmır, baxılmasından imtina olunur."
+      ],
+      "correctAnswer": 3,
+      "explanation": "Müraciətin məzmunu anonim olduqda, ona baxılmasından imtina edilir və baxılmadan saxlanılmır."
+    },
+    {
+      "id": 730,
+      "text": "Müraciətin mahiyyəti üzrə cavabı hansı halda verilmir?",
+      "options": [
+        "Müraciət anonim olduqda",
+        "Təkrar müraciətdə yeni məlumatlar olmadıqda",
+        "Ərizə-şikayət ilə bağlı cavab verildikdə",
+        "Müraciətə baxan subyektin səlahiyyətində olmadıqda"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Müraciətə baxan subyektin səlahiyyətində olmadıqda, o, müraciəti aidiyyəti üzrə göndərir və mahiyyəti üzrə cavab vermir."
+    },
+    {
+      "id": 731,
+      "text": "Vətəndaş müraciətinin qeydiyyatı üçün hansı sənədlər tələb olunur?",
+      "options": [
+        "Şəxsiyyət vəsiqəsi",
+        "Qeydiyyat vərəqəsi",
+        "Ərizənin surəti",
+        "Heç biri"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Qanuna əsasən, müraciətin qeydiyyatı üçün əlavə sənədlər tələb olunmur, yalnız müraciətin özündə tələb olunan məlumatlar kifayətdir."
+    },
+    {
+      "id": 732,
+      "text": "Vətəndaşın müraciətinə baxılması üçün hansı müddətdə müraciət edə bilər?",
+      "options": [
+        "Müddət məhdudiyyəti yoxdur",
+        "Bir il ərzində",
+        "Ən geci 15 iş günü ərzində",
+        "Müraciət edən şəxsin istəyinə görə"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Müraciət etmək hüququ Konstitusiya ilə təmin olunur və onun həyata keçirilməsi üçün müddət məhdudiyyəti yoxdur."
+    },
+    {
+      "id": 733,
+      "text": "Müraciətə baxılmasına hansı halda son verilə bilər?",
+      "options": [
+        "Əgər müraciət anonim olduqda",
+        "Təkrar müraciətdə yeni məlumatlar olmadıqda",
+        "Müraciətə baxan subyektin səlahiyyətində olmadıqda",
+        "Müraciət etmək hüququndan sui-istifadə edildikdə"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Müraciət etmək hüququndan sui-istifadə edildikdə, yəni müraciət əsassız və ya qanunsuz olduqda, ona baxılmasına son verilə bilər."
+    },
+    {
+      "id": 734,
+      "text": "Müraciət edən şəxsin şəxsiyyətini müəyyən etməyə imkan verən məlumatlar hansılardır?",
+      "options": [
+        "Ad, soyad, ata adı",
+        "Ünvan",
+        "Əlaqə nömrəsi",
+        "Hamısı düzgündür"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Ad, soyad, ata adı, ünvan və əlaqə nömrəsi müraciət edən şəxsin şəxsiyyətini müəyyən etməyə imkan verən məlumatlardır."
+    },
+    {
+      "id": 735,
+      "text": "Müraciətin cavablandırılması müddətinin uzadılması hansı halda mümkündür?",
+      "options": [
+        "Əsaslandırılmış səbəblər olduqda",
+        "Müraciət edən şəxsin istəyi ilə",
+        "Müraciətə baxan subyektin səlahiyyətində olduqda",
+        "Heç bir halda mümkün deyil"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Əsaslandırılmış səbəblər olduqda, müraciətin cavablandırılması müddəti uzadıla bilər."
+    },
+    {
+      "id": 736,
+      "text": "Vətəndaşların müraciətlərinin qeydiyyatı hansı qaydada aparılır?",
+      "options": [
+        "Kağız üzərində",
+        "Elektron formada",
+        "Həm kağız, həm də elektron formada",
+        "Qeydiyyat aparılmır"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Müraciətlərin qeydiyyatı həm kağız, həm də elektron formada aparıla bilər."
+    },
+    {
+      "id": 737,
+      "text": "Müraciətin cavablandırılması üçün hansı dilin istifadəsi məcburidir?",
+      "options": [
+        "Dövlət dili",
+        "İngilis dili",
+        "Rus dili",
+        "Müraciət edən şəxsin dili"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Müraciətin cavabı dövlət dilində verilməlidir."
+    },
+    {
+      "id": 738,
+      "text": "Vətəndaşların müraciətlərinə baxılması qaydası haqqında qanun hansı məqsədlə qəbul edilmişdir?",
+      "options": [
+        "Vətəndaşların müraciət etmək hüququnun təmin edilməsi",
+        "Dövlət orqanlarının fəaliyyətinin tənzimlənməsi",
+        "Vətəndaşların hüquq və azadlıqlarının müdafiəsi",
+        "Hamısı düzgündür"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Qanun həm vətəndaşların müraciət etmək hüququnu təmin etmək, həm də dövlət orqanlarının fəaliyyətini tənzimləmək məqsədilə qəbul edilmişdir."
+    },
+    {
+      "id": 739,
+      "text": "Müraciətə baxılmasına son verilməsi barədə qərar hansı müddətdə qəbul edilir?",
+      "options": [
+        "3 iş günü",
+        "5 iş günü",
+        "10 iş günü",
+        "15 iş günü"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Müraciətə baxılmasına son verilməsi barədə qərar 5 iş günü müddətində qəbul edilir."
+    },
+    {
+      "id": 740,
+      "text": "Müraciətin qeydiyyatı üçün hansı məlumatlar lazımdır?",
+      "options": [
+        "Müraciətin nömrəsi",
+        "Tarix",
+        "Müraciət edən şəxsin adı",
+        "Hamısı düzgündür"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Müraciətin qeydiyyatı üçün sadalananların hamısı lazımdır."
+    },
+    {
+      "id": 741,
+      "text": "Vətəndaş müraciətinin surəti hansı halda verilə bilər?",
+      "options": [
+        "Yalnız müraciət edən şəxsin istəyi ilə",
+        "Məhkəmənin qərarı ilə",
+        "Müraciətə baxan subyektin rəhbərinin icazəsi ilə",
+        "Heç bir halda verilə bilməz"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Müraciətin surəti yalnız müraciət edən şəxsin istəyi ilə verilə bilər."
+    },
+    {
+      "id": 742,
+      "text": "Müraciətin icrası üzərində nəzarət kim tərəfindən həyata keçirilir?",
+      "options": [
+        "Müraciətə baxan subyektin rəhbəri",
+        "Dövlət orqanının struktur bölməsinin rəhbəri",
+        "Dövlət qulluqçusu",
+        "Hamısı doğrudur"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Müraciətin icrası üzərində nəzarət müraciətə baxan subyektin rəhbəri tərəfindən həyata keçirilir."
+    },
+    {
+      "id": 743,
+      "text": "Vətəndaş müraciətlərinin qeydiyyatının elektron formada aparılması hansı halda mümkündür?",
+      "options": [
+        "Yalnız elektron müraciətlər üçün",
+        "Yazılı müraciətlər üçün də",
+        "Yalnız bələdiyyələrdə",
+        "Yalnız dövlət orqanlarında"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vətəndaş müraciətlərinin qeydiyyatı həm yazılı, həm də elektron formada aparıla bilər."
+    },
+    {
+      "id": 744,
+      "text": "Müraciətin anonim hesab edilməsi hansı hallarda mümkündür?",
+      "options": [
+        "Müraciət edən şəxsin adı, soyadı və ünvanı göstərilmədikdə",
+        "Müraciətdə qeyri-etik ifadələr olduqda",
+        "Müraciətin mahiyyəti aydın olmadıqda",
+        "Müraciətə baxan subyektin səlahiyyətində olmadıqda"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Müraciət edən şəxsin adı, soyadı və ünvanı göstərilmədikdə, müraciət anonim hesab edilir."
+    },
+    {
+      "id": 745,
+      "text": "Müraciətin qeydiyyatı üçün hansı müddət müəyyən edilir?",
+      "options": [
+        "1 iş günü",
+        "3 iş günü",
+        "5 iş günü",
+        "7 iş günü"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Müraciətin qeydiyyatı ən geci 5 iş günü müddətində aparılmalıdır."
+    },
+    {
+      "id": 746,
+      "text": "Vətəndaş müraciətinin cavabı hansı formada verilməlidir?",
+      "options": [
+        "Yazılı",
+        "Elektron",
+        "Həm yazılı, həm də elektron",
+        "Şifahi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Müraciətin cavabı həm yazılı, həm də elektron formada verilə bilər."
+    },
+    {
+      "id": 747,
+      "text": "Müraciətə baxılmasında hansı prinsiplər rəhbər tutulur?",
+      "options": [
+        "Qanunçuluq",
+        "Səmərəlilik",
+        "Açıqlıq",
+        "Hamısı düzgündür"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Qanunçuluq, səmərəlilik və açıqlıq müraciətə baxılmasında rəhbər tutulan prinsiplərdir."
+    },
+    {
+      "id": 748,
+      "text": "Vətəndaşın müraciət etmək hüququ hansı qanunla tənzimlənir?",
+      "options": [
+        "Konstitusiya",
+        "Vətəndaşların müraciətlərinə baxılması qaydası haqqında qanun",
+        "İnzibati icraat haqqında qanun",
+        "Hamısı düzgündür"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vətəndaşların müraciət etmək hüququ Vətəndaşların müraciətlərinə baxılması qaydası haqqında qanunla tənzimlənir."
+    },
+    {
+      "id": 749,
+      "text": "Müraciətə baxılmasına son verilməsi barədə qərar kim tərəfindən qəbul edilir?",
+      "options": [
+        "Müraciətə baxan subyektin rəhbəri",
+        "Dövlət orqanının struktur bölməsinin rəhbəri",
+        "Dövlət qulluqçusu",
+        "Məhkəmə"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Müraciətə baxılmasına son verilməsi barədə qərar müraciətə baxan subyektin rəhbəri tərəfindən qəbul edilir."
+    },
+    {
+      "id": 750,
+      "text": "Müraciətə baxılması üçün hansı sənədlər əlavə edilə bilər?",
+      "options": [
+        "Müraciət edən şəxsin şəxsiyyət vəsiqəsinin surəti",
+        "Ərizənin surəti",
+        "Müraciətə aid olan sənədlər",
+        "Heç biri"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Müraciətə aid olan sənədlər əlavə edilə bilər."
+    },
+    {
+      "id": 751,
+      "text": "Müraciətin cavablandırılması müddətinin uzadılması barədə qərar kim tərəfindən qəbul edilir?",
+      "options": [
+        "Müraciət edən şəxs",
+        "Müraciətə baxan subyektin rəhbəri",
+        "Dövlət orqanının struktur bölməsinin rəhbəri",
+        "Dövlət qulluqçusu"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Müraciətin cavablandırılması müddətinin uzadılması barədə qərar müraciətə baxan subyektin rəhbəri tərəfindən qəbul edilir."
+    },
+    {
+      "id": 752,
+      "text": "Vətəndaş müraciətinin elektron qeydiyyatı hansı sistemdə aparılır?",
+      "options": [
+        "Elektron hökumət portalı",
+        "Elektron müraciət sistemi",
+        "Elektron qeydiyyat sistemi",
+        "Xüsusi proqram təminatı"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vətəndaş müraciətlərinin elektron qeydiyyatı elektron müraciət sistemi vasitəsilə aparılır."
+    },
+    {
+      "id": 753,
+      "text": "Müraciətə baxılmasına son verilməsi barədə qərarın surəti hansı müddətdə müraciət edənə göndərilir?",
+      "options": [
+        "3 iş günü müddətində",
+        "5 iş günü müddətində",
+        "10 iş günü müddətində",
+        "15 iş günü müddətində"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Müraciətə baxılmasına son verilməsi barədə qərarın surəti 3 iş günü müddətində müraciət edənə göndərilir."
+    },
+    {
+      "id": 754,
+      "text": "Müraciətin icrası üzərində nəzarətin həyata keçirilməsi kimin vəzifəsinə aiddir?",
+      "options": [
+        "Müraciətə baxan subyektin rəhbəri",
+        "Dövlət orqanının struktur bölməsinin rəhbəri",
+        "Dövlət qulluqçusu",
+        "Hamısı doğrudur"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Müraciətin icrası üzərində nəzarətin həyata keçirilməsi müraciətə baxan subyektin rəhbərinin vəzifəsidir."
+    },
+    {
+      "id": 755,
+      "text": "Müraciətin cavablandırılması müddətinin uzadılması barədə bildiriş hansı müddətdə müraciət edənə göndərilir?",
+      "options": [
+        "3 iş günü müddətində",
+        "5 iş günü müddətində",
+        "10 iş günü müddətində",
+        "15 iş günü müddətində"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Müraciətin cavablandırılması müddətinin uzadılması barədə bildiriş 5 iş günü müddətində müraciət edənə göndərilir."
+    },
+    {
+      "id": 756,
+      "text": "Müraciətin cavablandırılması üçün hansı məlumatlar lazımdır?",
+      "options": [
+        "Müraciətin nömrəsi",
+        "Cavabın tarixi",
+        "Cavabın mahiyyəti",
+        "Hamısı düzgündür"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Müraciətin cavablandırılması üçün sadalananların hamısı lazımdır."
+    },
+    {
+      "id": 757,
+      "text": "Vətəndaş müraciəti hansı halda anonim hesab edilir?",
+      "options": [
+        "Müraciət edən şəxsin şəxsiyyətini müəyyən etməyə imkan verən məlumatlar olmadıqda",
+        "Müraciətdə qeyri-etik ifadələr olduqda",
+        "Müraciətin mahiyyəti aydın olmadıqda",
+        "Müraciətə baxan subyektin səlahiyyətində olmadıqda"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Müraciət edən şəxsin şəxsiyyətini müəyyən etməyə imkan verən məlumatlar olmadıqda, müraciət anonim hesab edilir."
+    },
+    {
+      "id": 758,
+      "text": "Müraciətə baxılması hansı müddətdə tamamlanmalıdır?",
+      "options": [
+        "Ən geci 15 iş günü",
+        "Ən geci 30 iş günü",
+        "10 iş günü",
+        "7 gün"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Müraciətə baxılması ən geci 30 iş günü müddətində tamamlanmalıdır."
+    },
+    {
+      "id": 759,
+      "text": "Elektron müraciət hansı halda baxılır?",
+      "options": [
+        "Elektron imza ilə təsdiq edildikdə",
+        "Elektron ünvanı göstərilmədikdə",
+        "Müraciət edən şəxsin adı, soyadı və ünvanı göstərildikdə",
+        "Müraciətə baxan subyektin elektron ünvanına göndərildikdə"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Elektron müraciət elektron imza ilə təsdiq edildikdə baxılır."
+    },
+    {
+      "id": 760,
+      "text": "Müraciətə baxılmasına son verilməsi barədə qərarın surəti hansı dildə verilir?",
+      "options": [
+        "Dövlət dili",
+        "İngilis dili",
+        "Rus dili",
+        "Müraciət edən şəxsin dili"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Müraciətə baxılmasına son verilməsi barədə qərarın surəti dövlət dilində verilir."
+    },
+    {
+      "id": 761,
+      "text": "Müraciətə baxan subyektin səlahiyyətində olmayan müraciətə necə münasibət bildirilir?",
+      "options": [
+        "Baxılmadan saxlanılır",
+        "Aidiyyəti üzrə göndərilir",
+        "Baxılmasından imtina edilir",
+        "Cavab verilmədən arxalanılır"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Müraciətə baxan subyektin səlahiyyətində olmayan müraciət aidiyyəti üzrə göndərilir."
+    },
+    {
+      "id": 762,
+      "text": "Vətəndaşların müraciətlərinin qeydiyyatı hansı qaydada aparılır?",
+      "options": [
+        "Kağız üzərində",
+        "Elektron formada",
+        "Həm kağız, həm də elektron formada",
+        "Qeydiyyat aparılmır"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Müraciətlərin qeydiyyatı həm kağız, həm də elektron formada aparıla bilər."
+    },
+    {
+      "id": 763,
+      "text": "Müraciətə baxılmasına son verilməsi barədə qərar hansı müddətdə qəbul edilir?",
+      "options": [
+        "3 iş günü",
+        "5 iş günü",
+        "10 iş günü",
+        "15 iş günü"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Müraciətə baxılmasına son verilməsi barədə qərar 5 iş günü müddətində qəbul edilir."
+    },
+    {
+      "id": 764,
+      "text": "Müraciətin cavabı hansı formada verilməlidir?",
+      "options": [
+        "Yazılı",
+        "Elektron",
+        "Həm yazılı, həm də elektron",
+        "Şifahi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Müraciətin cavabı həm yazılı, həm də elektron formada verilə bilər."
+    },
+    {
+      "id": 765,
+      "text": "Müraciətə baxılmasında hansı prinsiplər rəhbər tutulur?",
+      "options": [
+        "Qanunçuluq",
+        "Səmərəlilik",
+        "Açıqlıq",
+        "Hamısı düzgündür"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Qanunçuluq, səmərəlilik və açıqlıq müraciətə baxılmasında rəhbər tutulan prinsiplərdir."
+    },
+    {
+      "id": 766,
+      "text": "Vətəndaşın müraciət etmək hüququ hansı qanunla tənzimlənir?",
+      "options": [
+        "Konstitusiya",
+        "Vətəndaşların müraciətlərinə baxılması qaydası haqqında qanun",
+        "İnzibati icraat haqqında qanun",
+        "Hamısı düzgündür"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vətəndaşların müraciət etmək hüququ Vətəndaşların müraciətlərinə baxılması qaydası haqqında qanunla tənzimlənir."
+    },
+    {
+      "id": 767,
+      "text": "Müraciətə baxılmasına son verilməsi barədə qərar kim tərəfindən qəbul edilir?",
+      "options": [
+        "Müraciətə baxan subyektin rəhbəri",
+        "Dövlət orqanının struktur bölməsinin rəhbəri",
+        "Dövlət qulluqçusu",
+        "Məhkəmə"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Müraciətə baxılmasına son verilməsi barədə qərar müraciətə baxan subyektin rəhbəri tərəfindən qəbul edilir."
+    },
+    {
+      "id": 768,
+      "text": "Müraciətə baxılması üçün hansı sənədlər əlavə edilə bilər?",
+      "options": [
+        "Müraciət edən şəxsin şəxsiyyət vəsiqəsinin surəti",
+        "Ərizənin surəti",
+        "Müraciətə aid olan sənədlər",
+        "Heç biri"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Müraciətə aid olan sənədlər əlavə edilə bilər."
+    },
+    {
+      "id": 769,
+      "text": "Müraciətin cavablandırılması müddətinin uzadılması barədə qərar kim tərəfindən qəbul edilir?",
+      "options": [
+        "Müraciət edən şəxs",
+        "Müraciətə baxan subyektin rəhbəri",
+        "Dövlət orqanının struktur bölməsinin rəhbəri",
+        "Dövlət qulluqçusu"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Müraciətin cavablandırılması müddətinin uzadılması barədə qərar müraciətə baxan subyektin rəhbəri tərəfindən qəbul edilir."
+    },
+    {
+      "id": 770,
+      "text": "Vətəndaş müraciətinin elektron qeydiyyatı hansı sistemdə aparılır?",
+      "options": [
+        "Elektron hökumət portalı",
+        "Elektron müraciət sistemi",
+        "Elektron qeydiyyat sistemi",
+        "Xüsusi proqram təminatı"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vətəndaş müraciətlərinin elektron qeydiyyatı elektron müraciət sistemi vasitəsilə aparılır."
+    },
+    {
+      "id": 771,
+      "text": "Müraciətə baxılmasına son verilməsi barədə qərarın surəti hansı müddətdə müraciət edənə göndərilir?",
+      "options": [
+        "3 iş günü müddətində",
+        "5 iş günü müddətində",
+        "10 iş günü müddətində",
+        "15 iş günü müddətində"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Müraciətə baxılmasına son verilməsi barədə qərarın surəti 3 iş günü müddətində müraciət edənə göndərilir."
+    },
+    {
+      "id": 772,
+      "text": "Müraciətin icrası üzərində nəzarətin həyata keçirilməsi kimin vəzifəsinə aiddir?",
+      "options": [
+        "Müraciətə baxan subyektin rəhbəri",
+        "Dövlət orqanının struktur bölməsinin rəhbəri",
+        "Dövlət qulluqçusu",
+        "Hamısı doğrudur"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Müraciətin icrası üzərində nəzarətin həyata keçirilməsi müraciətə baxan subyektin rəhbərinin vəzifəsidir."
+    },
+    {
+      "id": 773,
+      "text": "Müraciətin cavablandırılması müddətinin uzadılması barədə bildiriş hansı müddətdə müraciət edənə göndərilir?",
+      "options": [
+        "3 iş günü müddətində",
+        "5 iş günü müddətində",
+        "10 iş günü müddətində",
+        "15 iş günü müddətində"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Müraciətin cavablandırılması müddətinin uzadılması barədə bildiriş 5 iş günü müddətində müraciət edənə göndərilir."
+    },
+    {
+      "id": 774,
+      "text": "Müraciətin cavablandırılması üçün hansı məlumatlar lazımdır?",
+      "options": [
+        "Müraciətin nömrəsi",
+        "Cavabın tarixi",
+        "Cavabın mahiyyəti",
+        "Hamısı düzgündür"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Müraciətin cavablandırılması üçün sadalananların hamısı lazımdır."
+    },
+    {
+      "id": 775,
+      "text": "Vətəndaş müraciəti hansı halda anonim hesab edilir?",
+      "options": [
+        "Müraciət edən şəxsin şəxsiyyətini müəyyən etməyə imkan verən məlumatlar olmadıqda",
+        "Müraciətdə qeyri-etik ifadələr olduqda",
+        "Müraciətin mahiyyəti aydın olmadıqda",
+        "Müraciətə baxan subyektin səlahiyyətində olmadıqda"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Müraciət edən şəxsin şəxsiyyətini müəyyən etməyə imkan verən məlumatlar olmadıqda, müraciət anonim hesab edilir."
+    },
+    {
+      "id": 776,
+      "text": "Müraciətə baxılması hansı müddətdə tamamlanmalıdır?",
+      "options": [
+        "Ən geci 15 iş günü",
+        "Ən geci 30 iş günü",
+        "10 iş günü",
+        "7 gün"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Müraciətə baxılması ən geci 30 iş günü müddətində tamamlanmalıdır."
+    },
+    {
+      "id": 777,
+      "text": "Elektron müraciət hansı halda baxılır?",
+      "options": [
+        "Elektron imza ilə təsdiq edildikdə",
+        "Elektron ünvanı göstərilmədikdə",
+        "Müraciət edən şəxsin adı, soyadı və ünvanı göstərildikdə",
+        "Müraciətə baxan subyektin elektron ünvanına göndərildikdə"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Elektron müraciət elektron imza ilə təsdiq edildikdə baxılır."
+    },
+    {
+      "id": 778,
+      "text": "Müraciətə baxılmasına son verilməsi barədə qərarın surəti hansı dildə verilir?",
+      "options": [
+        "Dövlət dili",
+        "İngilis dili",
+        "Rus dili",
+        "Müraciət edən şəxsin dili"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Müraciətə baxılmasına son verilməsi barədə qərarın surəti dövlət dilində verilir."
+    },
+    {
+      "id": 779,
+      "text": "Müraciətə baxan subyektin səlahiyyətində olmayan müraciətə necə münasibət bildirilir?",
+      "options": [
+        "Baxılmadan saxlanılır",
+        "Aidiyyəti üzrə göndərilir",
+        "Baxılmasından imtina edilir",
+        "Cavab verilmədən arxalanılır"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Müraciətə baxan subyektin səlahiyyətində olmayan müraciət aidiyyəti üzrə göndərilir."
+    },
+    {
+      "id": 780,
+      "text": "Müraciətin mahiyyəti üzrə cavabı hansı halda verilmir?",
+      "options": [
+        "Müraciət anonim olduqda",
+        "Təkrar müraciətdə yeni məlumatlar olmadıqda",
+        "Ərizə-şikayət ilə bağlı cavab verildikdə",
+        "Müraciətə baxan subyektin səlahiyyətində olmadıqda"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Müraciətə baxan subyektin səlahiyyətində olmadıqda, o, müraciəti aidiyyəti üzrə göndərir və mahiyyəti üzrə cavab vermir."
+    },
+    {
+      "id": 781,
+      "text": "Vətəndaşların müraciətlərinin qeydiyyatı hansı qaydada aparılır?",
+      "options": [
+        "Kağız üzərində",
+        "Elektron formada",
+        "Həm kağız, həm də elektron formada",
+        "Qeydiyyat aparılmır"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Müraciətlərin qeydiyyatı həm kağız, həm də elektron formada aparıla bilər."
+    },
+    {
+      "id": 782,
+      "text": "Müraciətə baxılmasına son verilməsi barədə qərar hansı müddətdə qəbul edilir?",
+      "options": [
+        "3 iş günü",
+        "5 iş günü",
+        "10 iş günü",
+        "15 iş günü"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Müraciətə baxılmasına son verilməsi barədə qərar 5 iş günü müddətində qəbul edilir."
+    },
+    {
+      "id": 783,
+      "text": "Müraciətin cavabı hansı formada verilməlidir?",
+      "options": [
+        "Yazılı",
+        "Elektron",
+        "Həm yazılı, həm də elektron",
+        "Şifahi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Müraciətin cavabı həm yazılı, həm də elektron formada verilə bilər."
+    }
+  ]
 }
