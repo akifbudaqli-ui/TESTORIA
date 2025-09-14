@@ -1,4 +1,18 @@
 {
-  "id": "Gomruk",
-  "raw_js": "export const Gomruk = {\n  name: \"Gömrük\",\n  questions: [\n    {\n      text: \"Gömrük üzrə nümunə sual 1?\",\n      options: [\"A\", \"B\", \"C\", \"D\"],\n      correctAnswer: 0,\n      explanation: \"İzah 1\"\n    },\n    {\n      text: \"Gömrük üzrə nümunə sual 2?\",\n      options: [\"A\", \"B\", \"C\", \"D\"],\n      correctAnswer: 1,\n      explanation: \"İzah 2\"\n    }\n  ]\n};\n"
+ "id":"Gomruk",
+  "name": "Gömrük",
+  "questions": [
+    {
+      "text": "Gömrük üzrə nümunə sual 1?",
+      "options": ["A", "B", "C", "D"],
+      "correctAnswer": 0,
+      "explanation": "İzah 1"
+    },
+    {
+      "text": "Gömrük üzrə nümunə sual 2?",
+      "options": ["A", "B", "C", "D"],
+      "correctAnswer": 1,
+      "explanation": "İzah 2"
+    }
+  ]
 }
