@@ -1,4 +1,4 @@
 {
-  "id": "MÿQ_Kurikulum",
+  "id": "MİQ_Kurikulum",
   "raw_js": "export const MİQ_Kurikulum = {\n  name: \"MİQ(Kurikulum)\",\n  questions: [\n    {\n      text: \"MİQ_Kurikulum üzrə nümunə sual 1?\",\n      options: [\"A\", \"B\", \"C\", \"D\"],\n      correctAnswer: 0,\n      explanation: \"İzah 1\"\n    },\n    {\n      text: \"MİQ_Kurikulum üzrə nümunə sual 2?\",\n      options: [\"A\", \"B\", \"C\", \"D\"],\n      correctAnswer: 1,\n      explanation: \"İzah 2\"\n    }\n  ]\n};\n"
 }
