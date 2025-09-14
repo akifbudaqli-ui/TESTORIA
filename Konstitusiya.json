@@ -1,5 +1,5 @@
 {
-   "id": "Konstitusiya",
+   "id": "konstitusiya",
   "name": "Konstitusiya",
   "questions": [
     {
@@ -15,4 +15,4 @@
       "explanation": "İzah 2"
     }
   ]
-};
+}
