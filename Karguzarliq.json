@@ -1,4 +1,1301 @@
 {
-  "id": "Karguzarliq",
-  "raw_js": "export const Karguzarliq = {\n  name: \"Kargüzarlıq\",\n  questions: [\n  {\n    \"id\": 1,\n    \"text\": \"Kargüzarlıq nədir?\",\n    \"options\": [\n      \"təşkilatın, öz vəzifələrini həyata keçirməsi ilə əlaqədar mühasibat və mühasibat işinin təşkili üzrə fəaliyyətidir\",\n      \"dövlət orqanlarında daxili nəzarətin həyata keçirilməsi\",\n      \"təşkilatın, öz vəzifələrini həyata keçirməsi ilə əlaqədar sənədləşdirmə və sənədlərlə işin təşkili üzrə fəaliyyətidir\",\n      \"vəzifə təlimatlarının yerinə yetirilməsinə nəzarət xidmətidir\"\n    ],\n    \"answer\": \"C\",\n    \"explanation\": \"Kargüzarlıq sənədləşdirmə və sənədlərlə işin təşkili fəaliyyətidir.\"\n  },\n  {\n    \"id\": 2,\n    \"text\": \"Kargüzarlıq xidmətinin əsas vəzifələri aşağıdakılardan hansılardır?\\n1) sənədləri işlər üzrə formalaşdırmaq və arxivə vermək\\n2) icra edilmiş sənədləri struktur bölmələrindən tələb etmək\\n3) sənədlərə məxfilik qrifi vermək\\n4) sənədləri göndərmək\\n5) dövlət sirri təşkil edən məlumatların siyahısının tərtib etmək\\n6) sənədlərin icra müddətinə nəzarət etmək\",\n    \"options\": [\n      \"1,2,4,6\",\n      \"2,3,5\",\n      \"1,3,5\",\n      \"Hamısı\"\n    ],\n    \"answer\": \"A\",\n    \"explanation\": \"Əsas vəzifələr: 1,2,4,6.\"\n  },\n  {\n    \"id\": 3,\n    \"text\": \"Strukturdan, habelə sənəd dövriyyəsinin həcmindən asılı olaraq, kargüzarlıq sistemi hansı formada ola bilər?\",\n    \"options\": [\n      \"xüsusi və adi\",\n      \"mərkəzləşdirilmiş, mərkəzləşdilməmiş\",\n      \"ancaq mərkəzləşdirilmiş\",\n      \"xüsusi və ümumi\"\n    ],\n    \"answer\": \"B\",\n    \"explanation\": \"Kargüzarlıq sistemi struktur və sənəd dövriyyəsindən asılı olaraq mərkəzləşdirilmiş və ya mərkəzləşdirilməmiş ola bilər.\"\n  },\n  {\n    \"id\": 4,\n    \"text\": \"Hansı təşkilatlarda kargüzarlıq mərkəzləşdirilmiş qaydada aparılır?\",\n    \"options\": [\n      \"strukturu mürəkkəb, sənəd dövriyyəsi isə ildə 25000 sənəddən çox olan, habelə struktur bölmələri ayrı-ayrı ərazilərdə yerləşən təşkilatlarda\",\n      \"struktur bölmələrinin sayı çox, sənəd dövriyyəsi isə ildə 25000 sənədə qədər olan təşkilatlarda\",\n      \"struktur bölmələrinin sayı az, sənəd dövriyyəsi isə ildə 25000 sənədə qədər olan təşkilatlarda\",\n      \"struktur bölmələrinin sayı az, sənəd dövriyyəsi isə ildə 25000 sənəddən çox olan təşkilatlarda\"\n    ],\n    \"answer\": \"C\",\n    \"explanation\": \"Cavab cədvəldə göstərilib: C.\"\n  },\n  {\n    \"id\": 5,\n    \"text\": \"“Kargüzarlığin aparılmasına dair Təlimat”a əsasən mərkəzləşdirilmiş kargüzarlıq sistemində hansılar kargüzarlıq xidməti tərəfindən həyata keçirilir?\\n1) sənədlərin struktur bölmələrinə paylanması\\n2) korrespondensiyanın gətirilməsi\\n3) sənədlərin qeydə alınması\\n4) korrespondensiyanın qəbulu və göndərilməsi\\n5) sənədlərin rəsmiləşdirilməsi\\n6) işlərin formalaşdırılması\",\n    \"options\": [\n      \"1,2,5\",\n      \"2,4,6\",\n      \"2,3,4,5\",\n      \"Hamısı\"\n    ],\n    \"answer\": \"D\",\n    \"explanation\": \"Cavab cədvəldə göstərilib: D (Hamısı).\"\n  },\n  {\n    \"id\": 6,\n    \"text\": \"Təşkilatların və struktur bölmələrinin rəhbərləri dəyişdirildikdə, işlər və ya icrada olan sənədlər:\",\n    \"options\": [\n      \"qanunverciliyə uyğun olaraq məhv edilir\",\n      \"akt üzrə qəbul edilir və təhvil verilir\",\n      \"arxivə göndərilir\",\n      \"qanunvericilikdə belə hal nəzərdə tutulmayıb\"\n    ],\n    \"answer\": \"B\",\n    \"explanation\": \"İşlər akt üzrə qəbul-təslim edilir.\"\n  },\n  {\n    \"id\": 7,\n    \"text\": \"İşdən çıxarıldıqda və ya başqa işə keçirildikdə, icraçı onda olan işləri və sənədləri:\",\n    \"options\": [\n      \"təşkilat rəhbərinə akt üzrə təhvil verir\",\n      \"müvafiq vəzifəyə yeni təyin edilən və ya həmin vəzifəni müvəqqəti icra edən şəxsə akt üzrə təhvil verir\",\n      \"arxivə akt üzrə təhvil verir\",\n      \"dəftərxanaya və ya kargüzarlıq xidmətinə akt üzrə təhvil verir\"\n    ],\n    \"answer\": \"B\",\n    \"explanation\": \"İcraçı sənədləri yeni vəzifəli şəxsə təhvil verir.\"\n  },\n  {\n    \"id\": 8,\n    \"text\": \"Təşkilatlarda sərəncam mahiyyətli sənədlərin (qərarlar, sərəncamlar, əmrlər) yaranmasının hüquqi əsasları hansılardır?\\n1) təşkilat tərəfindən onun üzərinə düşən vəzifələrin icra edilməsi üçün, səlahiyyətləri daxilində cari təşkilati-sərəncamverici və ya inzibati-təsərrüfat fəaliyyətinin həyata keçirilməsi\\n2) qüvvədə olan qanunvericilik aktlarının tələbləri\\n3) təşkilatın aparatının işini hüquqi baxımdan tənzimləmək zərurətinin yaranması\\n4) yuxarı təşkilatların konkret tapşırıqları\",\n    \"options\": [\n      \"1,2\",\n      \"hamısı\",\n      \"2,3\",\n      \"1,4\"\n    ],\n    \"answer\": \"B\",\n    \"explanation\": \"Bütün sadalanan əsaslar hüquqi baza yaradır.\"\n  },\n  {\n    \"id\": 9,\n    \"text\": \"Sənədlər blanksız tərtib edilir:\",\n    \"options\": [\n      \"heç bir halda\",\n      \"sənədlər iki və ya daha artıq təşkilat adından hazırlanarsa\",\n      \"rəhbərin göstərişi ilə\",\n      \"təşkilatların qarşılıqlı razığı ilə\"\n    ],\n    \"answer\": \"B\",\n    \"explanation\": \"Cədvələ görə: B.\"\n  },\n  {\n    \"id\": 10,\n    \"text\": \"Aşağıdakılardan biri doğru deyil:\\n a) sərəncam mahiyyətli sənədlər üçün blanklar \\\"Sərəncam sənədləri sistemi Formulyar-nümunə\\\" - 6.38-90 dövlətlərarası standart üzrə hazırlanır\\n b) blanklar 1 nömrəli ağ yazı kağızından hazırlanmalıdır\\n c) təşkilatlarda tez-tez təkrarlanan birtipli sənədlər (bildiriş, məktub və s.) tərtib edilərkən sənədlərin mətbəə üsulu ilə hazırlanan trafaret mətnli blankları tətbiq edilə bilər\\n d) blanklarda hec bir halda açıq rəngli, zəif boyalı kağız işlətməyə yol verilmir\",\n    \"options\": [\n      \"a\",\n      \"b\",\n      \"c\",\n      \"d\"\n    ],\n    \"answer\": \"D\",\n    \"explanation\": \"Cədvələ görə cavab D-dir.\"\n  },\n  {\n    \"id\": 11,\n    \"text\": \"Təşkilatların mətbəə üsulu ilə hazırlanan blanklarında hansı rekvizitlər çap edilir?\\n1) təşkilat rəhbərinin adı\\n2) təşkilatın tam adı\\n3) təşkilatın poçt indeksi, ünvanı, məlumat almaq üçün telefon nömrəsi, faksın nömrəsi və elektron poçtu (əgər varsa)\\n4) təşkilatın möhürü\\n5) AR (NMR) adı\\n6) AR Dövlət gerbi\",\n    \"options\": [\n      \"hamısı\",\n      \"1,3,5\",\n      \"2,3,5,6\",\n      \"1,2,3,4\"\n    ],\n    \"answer\": \"C\",\n    \"explanation\": \"Cədvələ görə cavab: C.\"\n  },\n  {\n    \"id\": 12,\n    \"text\": \"Xarici dildə çap edilmiş rekvizitlərə malik blanklardan istifadə edilməsinə hansı halda yol verilir?\",\n    \"options\": [\n      \"heç bir halda\",\n      \"yalnız sənədin mətni həmin blankı göndərən təşkilat tərəfindən dövlət dilində yazıldıqda yol verilir\",\n      \"yalnız sənədin mətni həmin blankı göndərən təşkilat tərəfindən xarici dildə yazıldıqda yol verilir\",\n      \"yalnız təşkilat rəhbərinin göstərişi ilə hər zaman\"\n    ],\n    \"answer\": \"C\",\n    \"explanation\": \"Cədvələ görə cavab: C.\"\n  },\n  {\n    \"id\": 13,\n    \"text\": \"Bir qayda olaraq, sənədlərin mətnləri neçə hissədən ibarət olur?\",\n    \"options\": [\n      \"bir\",\n      \"dörd\",\n      \"üç\",\n      \"iki\"\n    ],\n    \"answer\": \"D\",\n    \"explanation\": \"Cədvələ görə cavab: D (iki hissədən).\"\n  },\n  {\n    \"id\": 14,\n    \"text\": \"Sənədin başlığı yazılır:\",\n    \"options\": [\n      \"vərəqin yuxarı sağ küncündə, mətndən əvvəl\",\n      \"vərəqin yuxarı sol küncündə,mətndən sonra\",\n      \"vərəqin ortasında, mətndən əvvəl\",\n      \"vərəqin yuxarı sol küncündə,mətndən əvvəl\"\n    ],\n    \"answer\": \"C\",\n    \"explanation\": \"Cədvələ görə cavab: C.\"\n  },\n  {\n    \"id\": 15,\n    \"text\": \"Sənəddə ən çox neçə ünvan ola bilər?\",\n    \"options\": [\n      \"bir\",\n      \"üç\",\n      \"iki\",\n      \"dörd\"\n    ],\n    \"answer\": \"D\",\n    \"explanation\": \"Cədvələ görə cavab: D.\"\n  },\n  {\n    \"id\": 16,\n    \"text\": \"Sənədin tarixi hesab edilir:\",\n    \"options\": [\n      \"sənədin imzalanmasının və ya təsdiq edilməsinin tarixi\",\n      \"sənədin daxil olduğu tarixi\",\n      \"sənədin qeydiyyata alındığı tarixi\",\n      \"sənədin hazırlandığı tarix\"\n    ],\n    \"answer\": \"A\",\n    \"explanation\": \"Cədvələ görə cavab: A.\"\n  },\n  {\n    \"id\": 17,\n    \"text\": \"Sənədin tarixi hansı ardıcıllıqla yazılır?\",\n    \"options\": [\n      \"ayın tarixi, ay, il\",\n      \"il, ay, ayın tarixi\",\n      \"ay, ili, ayın tarixi\",\n      \"ayın tarixi, il, ay\"\n    ],\n    \"answer\": \"A\",\n    \"explanation\": \"Cədvələ görə cavab: A.\"\n  },\n  {\n    \"id\": 18,\n    \"text\": \"Sənədin məqsədəuyğunluğunu və ya əsaslılığını qiymətləndirmək zəruri olduqda:\",\n    \"options\": [\n      \"sənədin razılaşdırılması tələb olunur\",\n      \"sənədin razılaşdırılması tələb olunmur\",\n      \"sənəd dəftərxanada qeydiyyata alınır\",\n      \"təşkilatın rəhbərinin göstərişi ilə məxfiləşdirilir\"\n    ],\n    \"answer\": \"A\",\n    \"explanation\": \"Cədvələ görə cavab: A.\"\n  },\n  {\n    \"id\": 19,\n    \"text\": \"Aşağıdakılardan hansı doğru deyil?\\n a) vizanın tərkibinə viza verən şəxsin soyadı və adı, onun şəxsi imzası və tarix daxildir\\n b) göndərilən sənədlərdə vizalar təşkilatda qalan nüsxədə qoyulur\\n c) sərəncam mahiyyətli sənədlərin layihələrində icraçı tərəfindən birinci nüsxədə mətnin axırıncı vərəqinin arxasında viza qoyulur\\n d) təşkilat daxilində razılaşdırma müvafiq struktur bölmələrinin kargüzarlıq xidmətləri arasında həyata keçirilir\",\n    \"options\": [\n      \"a\",\n      \"b\",\n      \"c\",\n      \"d\"\n    ],\n    \"answer\": \"D\",\n    \"explanation\": \"Cədvələ görə cavab: D.\"\n  },\n  {\n    \"id\": 20,\n    \"text\": \"Razılaşdırma qrifində hansı sözlərdən istifadə olunur:\",\n    \"options\": [\n      \"“Təsdiq edilmişdir” və “Təsdiq edirəm”\",\n      \"“Razılaşdırılmışdır” və ya “Razıyam”\",\n      \"“Təsdiq edirəm” və ya “Qəbul edirəm”\",\n      \"“Etiraz etmirəm” və ya “Razıyam”\"\n    ],\n    \"answer\": \"B\",\n    \"explanation\": \"Cədvələ görə cavab: B.\"\n  },\n  {\n    \"id\": 21,\n    \"text\": \"Razılaşdırılma qrifi yerləşdrilməlidir\",\n    \"options\": [\n      \"sənədin sonuncu vərəqinin yuxarı sol küncündə\",\n      \"sənədin titul vərəqinin aşağı sol küncündə\",\n      \"sənədin hər hansı bir vərəqində\",\n      \"sənədin titul vərəqinin yuxarı sağ küncündə\"\n    ],\n    \"answer\": \"D\",\n    \"explanation\": \"Cədvələ görə cavab: D.\"\n  },\n  {\n    \"id\": 22,\n    \"text\": \"Sənəd rəsmiləşdirilməlidir :\",\n    \"options\": [\n      \"qeydiyyata alınması məqsədilə\",\n      \"rəsmi xarakter və hüquqi qüvvə verilməsi məqsədilə\",\n      \"qanunvericilikdə nəzərdə tutulmuş qaydada məhv edilmək məqsədilə\",\n      \"arxivə göndərilmək məqsədilə\"\n    ],\n    \"answer\": \"B\",\n    \"explanation\": \"Cədvələ görə cavab: B.\"\n  },\n  {\n    \"id\": 23,\n    \"text\": \"Aşağıdakılardan hansı doğru deyil?\\n a) əgər sənəd blankda tərtib edilməmişdirsə, sənədi imzalamış şəxsin vəzifəsi tam şəkildə göstərilir\\n b) bir qayda olaraq, sənədin yalnız əsas nüsxəsi imzalanır\\n c) əgər sənəd blankda tərtib edilmişdirsə, sənədi imzalamış şəxsin vəzifəsi qısa şəkildə göstərilir\\n d) rəsmiləşdirmə sənədin imzalanması, təsdiq edilməsi və ona möhür vurulması vasitəsilə həyata keçirilir\",\n    \"options\": [\n      \"a\",\n      \"b\",\n      \"c\",\n      \"d\"\n    ],\n    \"answer\": \"B\",\n    \"explanation\": \"Cədvələ görə cavab: B.\"\n  },\n  {\n    \"id\": 24,\n    \"text\": \"Aşağıdakılardan hansı yalnışdır?\",\n    \"options\": [\n      \"komissiyanın tərtib etdiyi sənədlər imzalanarkən sənədi tərtib etmiş şəxslərin vəzifələri deyil, komissiya üzvləri arasında vəzifələrin bölgüsü göstərilir\",\n      \"kollegial orqanların sənədləri, habelə məzmununa görə iki və ya daha artıq şəxsin məsuliyyət daşıdığı sənədlər müvafiq olaraq iki və ya daha artıq imza ilə rəsmiləşdirilir\",\n      \"dövlət orqanının rəhbərinə göndərilən sənədlər göndərən dövlət orqanının rəhbəri tərəfindən, o olmadıqda isə onun vəzifəsini icra edən müavini tərəfindən imzalanmalıdır\",\n      \"əgər sənədi imzalamalı olan şəxs yoxdursa, sənəd heç bir şəxs tərəfindən imzalana bilməz\"\n    ],\n    \"answer\": \"D\",\n    \"explanation\": \"Cədvələ görə cavab: D.\"\n  },\n  {\n    \"id\": 25,\n    \"text\": \"Aşağıdakılardan hansı doğru deyil?\",\n    \"options\": [\n      \"Sənəd təsdiqetmə qrifi ilə və ya müvafiq sərəncam mahiyyətli sənəd qəbul etməklə təsdiq olunur\",\n      \"Təsdiqetmə qrifinin elementləri aşağıdakılardır: \\\"Təsdiq edilmişdir\\\" və ya \\\"Təsdiq edirəm\\\" sözləri sənədi təsdiq etmiş şəxsin vəzifəsinin adı, şəxsi imzası, adı və soyadı təsdiqetmə tarixi\",\n      \"Möhür vəzifə adı və şəxsi imza ilə üst-üstə düşməlidir\",\n      \"Dövlət gerbi əks olunmuş möhürü olmayan təşkilatlar əsas möhürdən istifadə edirlər\"\n    ],\n    \"answer\": \"C\",\n    \"explanation\": \"Cədvələ görə cavab: C.\"\n  },\n  {\n    \"id\": 26,\n    \"text\": \"Sənəd çap olunarkən vərəqdə soldan, sağdan və yuxarıdan müvafiq olaraq nə qədər sahə saxlanılmalıdır?\",\n    \"options\": [\n      \"25 mm, ən azı 8 mm, 20 mm\",\n      \"ən azı 8 mm, 10 mm, 15 mm\",\n      \"30 mm, ən azı 8 mm, 5 mm\",\n      \"20 mm, 8 mm, 2 mm\"\n    ],\n    \"answer\": \"A\",\n    \"explanation\": \"Cədvələ görə cavab: A.\"\n  },\n  {\n    \"id\": 27,\n    \"text\": \"Aşağıdakılardan hansı doğru deyil?\",\n    \"options\": [\n      \"Təşkilatın adlarında bütün sözlərin, o cümlədən köməkçi sözlərin və onların tərkibinə daxil olan xüsusi isimlərin baş hərfi böyük yazılır\",\n      \"Təşkilatların struktur bölmələrinin adının yalnız baş hərfi böyük yazılır\",\n      \"Rayon (şəhər) icra hakimiyyəti orqanlarının adlarında bütün sözlərin baş hərfi böyük yazılır\",\n      \"Sənədin hər abzasının birinci sətri sol sahənin hüdudundan beş-səkkiz çap işarəsi intervalı ilə çap edilir\"\n    ],\n    \"answer\": \"A\",\n    \"explanation\": \"Cədvələ görə cavab: A.\"\n  },\n  {\n    \"id\": 28,\n    \"text\": \"Sənədlərə hansı əlavələr ola bilər?\",\n    \"options\": [\n      \"əsas sənədin məzmununu izah edən və ya tamamlayan əlavələr\",\n      \"müvafiq sərəncam mahiyyətli sənədlərlə təsdiq edilən əlavələr\",\n      \"müstəqil sənəd olaraq müşayiət məktubu ilə göndərilən əlavələr\",\n      \"hamısı\"\n    ],\n    \"answer\": \"D\",\n    \"explanation\": \"Cədvələ görə cavab: D.\"\n  },\n  {\n    \"id\": 29,\n    \"text\": \"Hansı halda qoşmada vərəqlərin miqdarı göstərilmir?\",\n    \"options\": [\n      \"vərəqlərin sayı 10-dan az olarsa\",\n      \"heç bir halda\",\n      \"əgər qoşmalar kitab şəklində bağlanmışdırsa\",\n      \"hamısı\"\n    ],\n    \"answer\": \"C\",\n    \"explanation\": \"Cədvələ görə cavab: C.\"\n  },\n  {\n    \"id\": 30,\n    \"text\": \"Aşağıdakılardan hansı doğru deyil?\",\n    \"options\": [\n      \"sənədlərin surətlərinin aidiyyəti tərəflərə verilməsi təşkilat rəhbərliyinin icazəsi ilə həyata keçirilir\",\n      \"struktur bölməsinin rəhbəri surətlərin miqdarını, göndəriş ünvanlarını müəyyən edir və sifariş blankını imzalayır\",\n      \"sənədin surətləri kompüter (makina) üsulu ilə təşkilatın blankında deyil, adı vərəqdə hazırlanarsa, blankın rekvizitləri daxil edilmədən, sənədin mətni qismən köçürülür\",\n      \"sənədlərin surətlərinin çıxarılması üçün müvafiq rəhbər vəzifəli şəxsin göstərişi və ya icazəsi tələb olunur\"\n    ],\n    \"answer\": \"C\",\n    \"explanation\": \"Cədvələ görə cavab: C.\"\n  },\n  {\n    \"id\": 31,\n    \"text\": \"Qərarın mətni ibarət olmalıdır:\",\n    \"options\": [\n      \"fakt və nəticə hissələrindən\",\n      \"yığcam şərh və sərəncam hissələrindən\",\n      \"yığcam şərh və əsas hissələrindən\",\n      \"sərəncam və əmr hissələrindən\"\n    ],\n    \"answer\": \"B\",\n    \"explanation\": \"Cədvələ görə cavab: B.\"\n  },\n  {\n    \"id\": 32,\n    \"text\": \"Aşağıdakılardan hansı doğru deyil?\",\n    \"options\": [\n      \"qəbul edilmiş qərarlar kollegial orqanın sədri və katibi tərəfindən imzalanır\",\n      \"əgər qərar bir neçə müxtəlif xarakterli tədbirlər görülməsini tapşırırsa, sərəncam hissəsi bəndlərə bölünür\",\n      \"qərarın sərəncam hissəsinin axırıncı bəndində qərarın icrasına nəzarətin həvalə edildiyi təşkilat, struktur bölməsi və ya vəzifəli şəxs göstərilir\",\n      \"görülməli tədbirlərin izahına ehtiyac olmadıqda belə, şərh hissəsi mütləq olmalıdır\"\n    ],\n    \"answer\": \"D\",\n    \"explanation\": \"Cədvələ görə cavab: D.\"\n  },\n  {\n    \"id\": 33,\n    \"text\": \"Qəbul edilmiş qərarlar neçə gün müddətində kargüzarlıq xidməti tərəfindən icraçılara çatdırılır?\",\n    \"options\": [\n      \"5 gün\",\n      \"10 gün\",\n      \"3 gün\",\n      \"7 gün\"\n    ],\n    \"answer\": \"D\",\n    \"explanation\": \"Cədvələ görə cavab: D (7 gün).\"\n  },\n  {\n    \"id\": 34,\n    \"text\": \"Sərəncamın mətni, bir qayda olaraq, ibarət olmalıdır:\",\n    \"options\": [\n      \"yalnız şərh hissəsindən\",\n      \"yalnız təklif hissəsindən\",\n      \"yalnız nəticə hissəsindən\",\n      \"yalnız sərəncam hissəsindən\"\n    ],\n    \"answer\": \"D\",\n    \"explanation\": \"Cədvələ görə cavab: D.\"\n  },\n  {\n    \"id\": 35,\n    \"text\": \"Əmr, bir qayda olaraq, ibarət olmalıdır:\",\n    \"options\": [\n      \"yalnız şərh hissəsindən\",\n      \"əsas və nəticə hissələrindən\",\n      \"giriş və fakt hissələrindən\",\n      \"şərh və sərəncam hissələrindən\"\n    ],\n    \"answer\": \"D\",\n    \"explanation\": \"Cədvələ görə cavab: D.\"\n  },\n  {\n    \"id\": 36,\n    \"text\": \"Protokolun mətni bir qayda olaraq, ibarət olmalıdır:\",\n    \"options\": [\n      \"giriş və əsas hissələrdən\",\n      \"şərh və sərəncam hissələrindən\",\n      \"əsas və nəticə hissələrindən\",\n      \"giriş və şərh hissələrindən\"\n    ],\n    \"answer\": \"A\",\n    \"explanation\": \"Cədvələ görə cavab: A.\"\n  },\n  {\n    \"id\": 37,\n    \"text\": \"Arayışın və məlumat vərəqəsinin mətni hansı hissələrdən ibarət olmalıdır?\",\n    \"options\": [\n      \"şərh; sərəncam və əmr\",\n      \"fakt; nəticə və təklif\",\n      \"giriş; şərh və təklif\",\n      \"yalnız təklif\"\n    ],\n    \"answer\": \"B\",\n    \"explanation\": \"Cədvələ görə cavab: B.\"\n  },\n  {\n    \"id\": 38,\n    \"text\": \"Aktın mətni hansı hissələrdən ibarət olmalıdır?\",\n    \"options\": [\n      \"giriş və əsas hissələrindən\",\n      \"sərəncam və şərh hissələrindən\",\n      \"giriş və şərh hissələrindən\",\n      \"əmr və təklif hissələrindən\"\n    ],\n    \"answer\": \"C\",\n    \"explanation\": \"Cədvələ görə cavab: C.\"\n  },\n  {\n    \"id\": 39,\n    \"text\": \"Aktın hazırlanması və tərtib olunması ilə bağlı aşağıdakı fikirlərdən hansı doğru deyil?\",\n    \"options\": [\n      \"akt onun tərtib olunmasında iştirak edən şəxslərin vəzifə baxımından ən yüksək olanı tərəfindən imzalanır. Bu zaman imza etmiş şəxsin vəzifəsi göstərilir\",\n      \"akt mətninin sonunda (imzalardan qabaq) aktın nüsxələri və saxlandığı yer haqqında məlumat yerləşdirilir\",\n      \"aktın tərtib olunduğu yer və tarix aktda yazılan hadisənin yerinə və tarixinə uyğun gəlməlidir\",\n      \"aktın başlığı həmin aktda göstərilən məsələni qısa şəkildə əks etdirməli və adlıq halda feli isim ilə ifadə olunmalıdır\"\n    ],\n    \"answer\": \"A\",\n    \"explanation\": \"Cədvələ görə cavab: A.\"\n  },\n  {\n    \"id\": 40,\n    \"text\": \"Məktubun mətni, bir qayda olaraq, biri digəri ilə məntiqi surətdə bağlı hansı hissələrdən ibarət olmalıdır?\",\n    \"options\": [\n      \"giriş və əsas\",\n      \"şərh və təklif\",\n      \"fakt və nəticə\",\n      \"əmr və əsas\"\n    ],\n    \"answer\": \"C\",\n    \"explanation\": \"Cədvələ görə cavab: C.\"\n  },\n  {\n    \"id\": 41,\n    \"text\": \"Teleqramlar neçə nüsxə çap olunur?\",\n    \"options\": [\n      \"bir\",\n      \"üç\",\n      \"iki\",\n      \"istənilən sayda\"\n    ],\n    \"answer\": \"C\",\n    \"explanation\": \"Cədvələ görə cavab: C.\"\n  },\n  {\n    \"id\": 42,\n    \"text\": \"Təşkilatlarda sənədlər dövriyyəsinin təşkili hansı tələblərə cavab verməlidir?\",\n    \"options\": [\n      \"sənədlərin hərəkəti qaydasında və işlənməsi prosesində maksimum eynilik təmin olunmalıdır\",\n      \"sənədlərin hərəkəti operativ aparılmalı, nizamlanmalı və optimal şəkildə həyata keçirilməlidir\",\n      \"işin zərurətindən irəli gəlməyən instansiyalar və əməliyyatlar sənədlərin hərəkətindən kənarlaşdırılmalıdır\",\n      \"hamısı\"\n    ],\n    \"answer\": \"D\",\n    \"explanation\": \"Cədvələ görə cavab: D.\"\n  },\n  {\n    \"id\": 43,\n    \"text\": \"Gətirilən korrespondensiyanın düzgünlüyünü yoxlamaqda məqsəd nədən ibarətdir?\",\n    \"options\": [\n      \"təyinat üzrə gətirilməyən korrespondensiyanı aşkar etməkdən\",\n      \"qeydiyyatın düzgün aparılıb-aparılmamasını aşkar etməkdən\",\n      \"icra müddətini müəyyənləşdirməkdən\",\n      \"qanunvericiliklə müəyyən olunmuş qaydada məhv etməkdən\"\n    ],\n    \"answer\": \"A\",\n    \"explanation\": \"Cədvələ görə cavab: A.\"\n  },\n  {\n    \"id\": 44,\n    \"text\": \"Daxil olan bütün sənədlərdə qeyd ştampı hansı hissədə vurulur?\",\n    \"options\": [\n      \"sonuncu səhifənin üz tərəfinin aşağı sağ küncündə\",\n      \"birinci səhifənin üz tərəfinin yuxarı sol küncündə\",\n      \"sonuncu səhifənin arxa tərəfinin aşağı sağ küncündə\",\n      \"birinci səhifənin üz tərəfinin aşağı sağ küncündə\"\n    ],\n    \"answer\": \"D\",\n    \"explanation\": \"Cədvələ görə cavab: D.\"\n  },\n  {\n    \"id\": 45,\n    \"text\": \"Daxil olmuş sənədlər hansı gün baxılmaq üçün verilməlidir?\",\n    \"options\": [\n      \"hazırlandığı gün\",\n      \"imzalandığı gün\",\n      \"qeydə alındığı gün\",\n      \"göndərildiyi gün\"\n    ],\n    \"answer\": \"C\",\n    \"explanation\": \"Cədvələ görə cavab: C.\"\n  },\n  {\n    \"id\": 46,\n    \"text\": \"Kargüzarlıq xidməti tərəfindən yoxlama zamanı aşkar olunmuş nöqsanlar nəticəsində sənədlər kimə qaytarılır?\",\n    \"options\": [\n      \"İcraçıya\",\n      \"Rəhbərə\",\n      \"Mütəxəssisə\",\n      \"Heç biri\"\n    ],\n    \"answer\": \"A\",\n    \"explanation\": \"Cədvələ görə cavab: A.\"\n  },\n  {\n    \"id\": 47,\n    \"text\": \"Geniş protokollarda protokolun giriş hissəsində verilir:\\n1. İclası aparan sədrin və katibin adları və soyadları\\n2. Protokolu tərtib edən şəxsin adı və soyadı\\n3. Dəvət edilənlərin siyahısı\\n4. İclasda iştirak edən mətbuat nümayəndələrinin adları və soyadları\\n5. Müzakirə ediləcək məsələlərin adları\",\n    \"options\": [\n      \"1,2,3\",\n      \"3,4,5\",\n      \"1,3,5\",\n      \"2,4,5\"\n    ],\n    \"answer\": \"C\",\n    \"explanation\": \"Cədvələ görə cavab: C.\"\n  },\n  {\n    \"id\": 48,\n    \"text\": \"Əgər sənədi eyni dərəcəli iki və ya bir neçə vəzifəli şəxs imzalayırsa, onların imzaları hansı qaydada yerləşdirilir?\",\n    \"options\": [\n      \"Bir səviyyədə\",\n      \"Vəzifəli şəxsin adına əsasən əlifba sırası ilə\",\n      \"Təşkilatın kateqoriyasına sasən\",\n      \"Vəzifəli şəxsin soyadına əsasən əlifba sırası ilə\"\n    ],\n    \"answer\": \"A\",\n    \"explanation\": \"Cədvələ görə cavab: A.\"\n  },\n  {\n    \"id\": 49,\n    \"text\": \"Sənədlərin və onlarda olan tapşırıqların icrasına nəzarəti kim həyata keçirir?\",\n    \"options\": [\n      \"yalnız kargüzarlıq xidməti\",\n      \"təşkilatların və struktur bölmələrinin rəhbərləri\",\n      \"yalnız daxili nəzarət bölməsi\",\n      \"dəftərxana işçisi\"\n    ],\n    \"answer\": \"B\",\n    \"explanation\": \"Cədvələ görə cavab: B.\"\n  },\n  {\n    \"id\": 50,\n    \"text\": \"Sənədlərin və onlarda olan tapşırıqların icrasına bilavasitə nəzarəti kim həyata keçirir?\",\n    \"options\": [\n      \"kargüzarlıq xidməti və xüsusi yaradılmış nəzarət xidməti\",\n      \"təşkilatların və struktur bölmələrinin rəhbərləri\",\n      \"yalnız nəzarət xidməti\",\n      \"yalnız kargüzarlıq xidməti\"\n    ],\n    \"answer\": \"A\",\n    \"explanation\": \"Cədvələ görə cavab: A.\"\n  },\n  {\n    \"id\": 51,\n    \"text\": \"Sənədlərin icra müddətinə nəzarət etmək kimin vəzifəsidir?\",\n    \"options\": [\n      \"təşkilat rəhbərinin\",\n      \"struktur bölmələrin rəhbərlərinin\",\n      \"nəzarət xidmətinin\",\n      \"kargüzarlıq xidmətinin\"\n    ],\n    \"answer\": \"A\",\n    \"explanation\": \"Cədvələ görə cavab: A.\"\n  },\n  {\n    \"id\": 52,\n    \"text\": \"Aşağıdakı sənədlərdən hansılar nəzarətə götürülür?\",\n    \"options\": [\n      \"dövlət hakimiyyəti orqanlarının və ya yuxarı təşkilatların icra müddəti göstərilən tapşırıqlarını nəzərdə tutan sənədlər\",\n      \"bilavasitə normativ hüquqi aktların icrası ilə əlaqədar sənədlər\",\n      \"təşkilatların özlərinin icra müddəti göstərilən tapşırıqlarını nəzərdə tutan sənədlər\",\n      \"hər biri\"\n    ],\n    \"answer\": \"D\",\n    \"explanation\": \"Cədvələ görə cavab: D.\"\n  },\n  {\n    \"id\": 53,\n    \"text\": \"Sənədin icra müddəti nə vaxtdan hesablanır?\",\n    \"options\": [\n      \"təşkilata daxil olduğu vaxtdan\",\n      \"hazırlandığı vaxtdan\",\n      \"göndərildiyi vaxtdan\",\n      \"qeydə alındığı vaxtdan\"\n    ],\n    \"answer\": \"A\",\n    \"explanation\": \"Cədvələ görə cavab: A.\"\n  },\n  {\n    \"id\": 54,\n    \"text\": \"Sənəd dörddən çox ünvana hansı qaydada göndərilir?\",\n    \"options\": [\n      \"Bir sənəddə bütün ünvanlar göstərilir\",\n      \"Göndəriş siyahısı tərtib edilir və hər sənəddə yalnız bir ünvan göstərilir\",\n      \"Bir sənəddə iki ünvan göstərilir\",\n      \"Heç biri\"\n    ],\n    \"answer\": \"B\",\n    \"explanation\": \"Cədvələ görə cavab: B.\"\n  },\n  {\n    \"id\": 55,\n    \"text\": \"Məktublar nə üçün tərtib edilir?\",\n    \"options\": [\n      \"Xahişin, xahişə cavabın, habelə informasiya xarakterli məlumatların ifadə olunması məqsədi ilə\",\n      \"İnformasiya xarakterli məlumatların ifadə olunması məqsədi ilə\",\n      \"İnformasiyaların mətbuat orqanlarına təqdim olunması məqsədi ilə\",\n      \"Heç biri\"\n    ],\n    \"answer\": \"A\",\n    \"explanation\": \"Cədvələ görə cavab: A.\"\n  },\n  {\n    \"id\": 56,\n    \"text\": \"Aşağıdakılardan biri doğru deyil:\",\n    \"options\": [\n      \"sənəd dövriyyəsi kiçik olan təşkilatlarda nəzarət daxil olan, göndərilən və daxili sənədlərin qeydiyyat kitablarında həyata keçirilir\",\n      \"sənədlər, bir qayda olaraq, icra edilməmişdən əvvəl nəzarətdən çıxarılır\",\n      \"sənəd ancaq orada qaldırılan məsələlər həll olunduqda və sənəd göndərənə mahiyyətcə cavab verildikdə icra edilmiş sayılır\",\n      \"sənədlərin icrasının gedişi haqqında məlumat \\\"İcra haqqında qeyd\\\" sütununda qeyd edilir\"\n    ],\n    \"answer\": \"B\",\n    \"explanation\": \"Cədvələ görə cavab: B.\"\n  },\n  {\n    \"id\": 57,\n    \"text\": \"Hansı hallarda təşkilatlarda kargüzarlıq mərkəzləşdirilməmiş qaydada aparılır?\\n1. Sənəd dövriyyəsi ildə 25000 sənəddən çox olan\\n2. Sənəd dövriyyəsi ildə 25000 sənəddən az olan\\n3. Struktur bölmələri ayrı-ayrı ərazilərdə yerləşən\\n4. Struktur bölmələri bir ərazidə yerləşən\",\n    \"options\": [\n      \"1,2\",\n      \"3,4\",\n      \"1,3\",\n      \"2,4\"\n    ],\n    \"answer\": \"C\",\n    \"explanation\": \"Cədvələ görə cavab: C.\"\n  },\n  {\n    \"id\": 58,\n    \"text\": \"Razılaşdırılma qrifi ibarətdir:\\n1. “Razılaşdırılmışdır” sözü\\n2. Sənədin razılaşdırıldığı şəxsin vəzifəsi\\n3. Sənədi tərtib edən şəxsin adı və soyadı\\n4. Sənədin razılaşdırıldığı şəxsin imzası\\n5. Sənədi hazırlayan orqanın vurulmuş möhürü\",\n    \"options\": [\n      \"1,2,3\",\n      \"3,4,5\",\n      \"1,3,5\",\n      \"1,2,4\"\n    ],\n    \"answer\": \"D\",\n    \"explanation\": \"Cədvələ görə cavab: D.\"\n  },\n  {\n    \"id\": 59,\n    \"text\": \"Təşkilat daxilində razılaşdırma hansı qaydada həyata keçirilir?\",\n    \"options\": [\n      \"Təşkilatın rəhbərinin müavinləri arasında\",\n      \"Struktur bölmələrinin rəhbərləri arasında\",\n      \"İcraçının müəyyən etdiyi şəxslər arasında\",\n      \"Heç biri\"\n    ],\n    \"answer\": \"B\",\n    \"explanation\": \"Cədvələ görə cavab: B.\"\n  },\n  {\"id\": 60,\n    \"text\": \"Kiçik hərflə yazılan vəzifə adlarını seçin:\\n1. AR-nın maliyyə naziri\\n2. AR Prezidenti\\n3. Bakı Dövlət Universitetinin rektoru\\n4. AR Baş naziri\",\n    \"options\": [\n      \"1,2\",\n      \"3,4\",\n      \"1,3\",\n      \"2,4\"\n    ],\n    \"answer\": \"C\",\n    \"explanation\": \"Cədvələ görə cavab: C.\"\n  },\n  {\n    \"id\": 61,\n    \"text\": \"61. Akt kim tərəfindən imzalanır?\",\n    \"options\": [\n      \"a) Sədr\",\n      \"b) Katib\",\n      \"c) Müvafiq dövlət orqanının rəhbəri\",\n      \"d) Onun tərtib olunmasında iştirak edən şəxslər\"\n    ],\n    \"answer\": \"D\",\n    \"explanation\": \"Cədvələ görə düzgün cavab: D.\"\n  },\n  {\n    \"id\": 62,\n    \"text\": \"62. Nəzarətdə olan sənədlərin icrası haqqında təşkilatın rəhbərliyinə məlumat verilir:\",\n    \"options\": [\n      \"a) Ayda 1 dəfə\",\n      \"b) Ayda 2 dəfə\",\n      \"c) Rübdə 1 dəfə\",\n      \"d) Rübdə 2 dəfə\"\n    ],\n    \"answer\": \"A\",\n    \"explanation\": \"Cədvələ görə düzgün cavab: A.\"\n  },\n  {\n    \"id\": 63,\n    \"text\": \"63. Hansı əlavələrdə sənəd üçün zəruri olan elementlərin hamısı olmalıdır?\",\n    \"options\": [\n      \"a) Müstəqil sənəd olaraq müşayiət məktubu ilə göndərilən əlavələr\",\n      \"b) Əsas sənədin məzmununu izah edən və ya tamamlayan əlavələr\",\n      \"c) Müvafiq sərəncam mahiyyətli sənədlərlə təsdiq edilən əlavələr\",\n      \"d) Hamısı\"\n    ],\n    \"answer\": \"D\",\n    \"explanation\": \"Cədvələ görə düzgün cavab: D.\"\n  },\n  {\n    \"id\": 64,\n    \"text\": \"64. Göndərilən sənədlərdə vizalar hansı nüsxədə qoyulur?\",\n    \"options\": [\n      \"a) Göndərilən nüsxədə\",\n      \"b) Təşkilatda qalan nüsxədə\",\n      \"c) Kargüzarlıq xidmətinin müəyyən etdiyi nüsxədə\",\n      \"d) Heç biri\"\n    ],\n    \"answer\": \"B\",\n    \"explanation\": \"Cədvələ görə düzgün cavab: B.\"\n  },\n  {\n    \"id\": 65,\n    \"text\": \"65. Kollegial orqan tərəfindən qəbul edilmiş qərarlar kim tərəfindən imzalanır?\",\n    \"options\": [\n      \"a) Sədri və katibi\",\n      \"b) Məsul şəxs və icraçı\",\n      \"c) Sədr və icraçı\",\n      \"d) Katib və məsul şəxs\"\n    ],\n    \"answer\": \"A\",\n    \"explanation\": \"Cədvələ görə düzgün cavab: A.\"\n  },\n\n  {\n    \"id\": 66,\n    \"text\": \"66. Kim əmrin struktur bölmələrinə və tabelikdə olan təşkilatlara göndərmək zərurətini müəyyən edir?\",\n    \"options\": [\n      \"a) Rəhbər\",\n      \"b) İcraçı\",\n      \"c) Kargüzar\",\n      \"d) Heç biri\"\n    ],\n    \"answer\": \"B\",\n    \"explanation\": \"Əmrin hansı struktur bölməyə göndəriləcəyini müəyyən etmək icraçının vəzifəsidir, çünki o, məzmunu və aidiyyəti üzrə ünvanı bilir.\"\n  },\n  {\n    \"id\": 67,\n    \"text\": \"67. Sənədin tarixi hansı sətirdə səhv yazılmışdır?\",\n    \"options\": [\n      \"a) 12.07.20.\",\n      \"b) 12.07.2020-ci il\",\n      \"c) 12 iyul 2020-ci il\",\n      \"d) 12.07.20\"\n    ],\n    \"answer\": \"D\",\n    \"explanation\": \"Tarixdə yalnız iki rəqəmlə ili göstərmək olmaz. Doğru yazılış ili tam şəkildə göstərməklə mümkündür.\"\n  },\n  {\n    \"id\": 68,\n    \"text\": \"68. “Kargüzarlığin aparılmasına dair Təlimat”ın tələblərinə riayət edilməsinə ümumi nəzarəti hansı qurum həyata keçirir?\",\n    \"options\": [\n      \"A) AR Prezidentinin Administrasiyasının Sənədlərlə və vətəndaşların müraciətləri ilə iş Şöbəsi\",\n      \"B) AR Prezidentinin Administrasiyasının işlər İdarəsinin xüsusi şöbəsi\",\n      \"C) AR Prezidentinin Administrasiyasının Kargüzarlıq xidməti\",\n      \"D) AR Prezidentinin Administrasiyasının Dəftərxana xidməti\"\n    ],\n    \"answer\": \"A\",\n    \"explanation\": \"Ümumi nəzarət AR Prezidentinin Administrasiyasının Sənədlərlə və vətəndaşların müraciətləri ilə iş Şöbəsi tərəfindən həyata keçirilir.\"\n  },\n  {\n    \"id\": 69,\n    \"text\": \"69. “Kargüzarlığın aparılmasına dair Təlimat” hansı məsələləri tənzimləyir?\",\n    \"options\": [\n      \"A) Bu Təlimat dövlət orqanlannda, dövlət mülkiyyətində olan və paylarının (səhmlərinin) nəzarət zərfı dövlətə məxsus olmayan hüquqi şəxslərdə və büdcə təşkilatlannda kargüzarlığın aparılması işini, o cümlədən sənədlərin hazırlanmasını, qeydiyyatını, hərəkətini, icrasını, uçotunu və arxivə verilməsini tənzimləyir.\",\n      \"B) Bu Təlimat dövlət orqanlarında, dövlət mülkiyyətində olan və paylarının (səhmlərinin) nəzarət zərfi dövlətə məxsus olan hüquqi şəxslərdə və büdcə təşkilatlannda kargüzarlığın aparılması işini, o cümlədən sənədlərin hazırlanmasını, qeydiyyatını, hərəkətini, icrasını, uçotunu və arxivə verilməsini tənzimləyir.\",\n      \"C) Bu Təlimat dövlət orqanlarında, dövlət mülkiyyətində olan və paylarının (səhmlərinin) nəzarət zərfi dövlətə məxsus olan fıziki şəxslərdə və büdcə təşkilatlarında kargüzarlığın aparılması işini, o cümlədən sənədlərin hazırlanmasını, qeydiyyatını, hərəkətini, icrasını, uçotunu və arxivə verilməsini tənzimləyir.\",\n      \"D) Bu Təlimat dövlət orqanlarında, dövlət mülkiyyətində olan və paylarının (səhmlərinin) nəzarət zərü dövlətə məxsus olan hüquqi şəxslərdə və büdcə təşkilatlarında (bundan sonra təşkilatlar) kargüzarlığın apanlması işini, o cümlədən sənədlərin hazırlanmasını, qeydiyyatını, hərəkətini, icrasını, uçotunu və arxivə verilməməsini tənzimləyir.\"\n    ],\n    \"answer\": \"B\",\n    \"explanation\": \"Təlimat dövlət orqanları və dövlətə məxsus müəssisələrdə kargüzarlığın bütün mərhələlərini tənzimləyir.\"\n  },\n  {\n    \"id\": 70,\n    \"text\": \"70. Yerli icra hakimiyyəti orqanlarında kargüzarlıq hansı akt əsasında aparılır?\",\n    \"options\": [\n      \"A) AR-nın rayon, şəhər, şəhərlərdə rayon yerli özünüidarəetmə başçılarının aparatlarında sənədlərlə iş barədə Təlimat əsasında aparılır.\",\n      \"B) Dövlət orqanlannda, dövlət mülkiyyətində olan və paylarının (səhmlərinin) nəzarət zərfi dövlətə məxsus olan hüquqi şəxslərdə və büdcə təşkilatlarında kargüzarlığın aparılmasına dair Təlimat əsasında aparılır.\",\n      \"C) AR-nın rayon, şəhər, şəhərlərdə rayon icra hakimiyyəti başçılarının aparatlarında sənədlərlə iş barədə Təlimat əsasında aparılır.\",\n      \"D) AR-nın rayon, şəhər, ölkədən kənar və şəhərlərdə rayon icra hakimiyyəti başçılarının aparatlarında sənədlərlə iş barədə Təlimat əsasında aparılır.\"\n    ],\n    \"answer\": \"C\",\n    \"explanation\": \"Yerli icra hakimiyyəti orqanlarında kargüzarlıq məhz onların aparatlarında sənədlərlə iş barədə Təlimat əsasında aparılır.\"\n  },\n  {\n    \"id\": 71,\n    \"text\": \"71. “Kargüzarlığın aparılmasına dair Təlimat” a əsasən kargüzarlıq nədir?\",\n    \"options\": [\n      \"A) Kargüzarlıq təşkilatın, öz vəzifələrini həyata keçirməsi ilə əlaqədar sənədləşdirmə və sənədlərlə işin təşkili üzrə prosesdir;\",\n      \"B) Kargüzarlıq təşkilatın, öz vəzifələrini həyata keçirməsi ilə əlaqədar sənədləşdirmə və sənədlərlə işin təşkili üzrə fəaliyyət planıdır;\",\n      \"C) Kargüzarlıq təşkilatın, öz vəzifələrini həyata keçirməsi ilə əlaqədar sənədlərlə işin təşkili üzrə fəaliyyətidir.\",\n      \"D) Kargüzarlıq təşkilatın, öz vəzifələrini həyata keçirməsi ilə əlaqədar sənədləşdirmə və sənədlərlə işin təşkili üzrə fəaliyyətidir.\"\n    ],\n    \"answer\": \"D\",\n    \"explanation\": \"Təlimata görə kargüzarlıq sənədləşdirmə və sənədlərlə işin təşkili üzrə fəaliyyətdir.\"\n  },\n  {\n    \"id\": 72,\n    \"text\": \"72. Təşkilatlarda kargüzarlıq hansı dildə aparılır?\",\n    \"options\": [\n      \"A) Təşkilatlarda kargüzarlıq AR dövlət dilində və yerli əhalinin üstünlük təşkil etdiyi dildə aparılır.\",\n      \"B) Təşkilatlarda kargüzarlıq AR dövlət dilində aparılır.\",\n      \"C) Təşkilatlarda kargüzarlıq AR dövlət dilində və başqa dillərdə aparılır.\",\n      \"D) Təşkilatlarda kargüzarlıq AR dövlət dilində, o cümlədən xarici dillərdə aparılır.\"\n    ],\n    \"answer\": \"B\",\n    \"explanation\": \"Qanuna görə Azərbaycanda kargüzarlıq yalnız dövlət dilində aparılır.\"\n  },\n  {\n    \"id\": 73,\n    \"text\": \"73. Təşkilatlarda kargüzarlığın aparılması kim tərəfindən həyata keçirilir?\",\n    \"options\": [\n      \"A) Təşkilatlarda kargüzarlığın aparılması dəftərxana və ya xüsusi olaraq bu məqsəd üçün ayrılan orqan tərəfindən həyata keçirilir;\",\n      \"B) Təşkilatlarda kargüzarlığın aparılması dəftərxana əməkdaşları tərəfindən həyata keçirilir;\",\n      \"C) Təşkilatlarda kargüzarlığın aparılması xüsusi olaraq bu məqsəd üçün ayrılan bir qrup əməkdaşlar tərəfindən həyata keçirilir;\",\n      \"D) Təşkilatlarda kargüzarlığın aparılması dəftərxana və ya xüsusi olaraq bu məqsəd üçün ayrılan əməkdaşlar tərəfindən həyata keçirilir.\"\n    ],\n    \"answer\": \"D\",\n    \"explanation\": \"Kargüzarlıq ya dəftərxana, ya da xüsusi ayrılmış əməkdaşlar tərəfindən aparılır.\"\n  },\n  {\n    \"id\": 74,\n    \"text\": \"74. “Kargüzarlığın aparılmasına dair Təlimat”a əsasən kargüzarlıq xidməti tərəfindən bu Təlimatın tələblərinə riayət edilməsinə nəzarəti kim həyata keçirir?\",\n    \"options\": [\n      \"A) Kargüzarlıq xidməti tərəfindən bu Təlimatın tələblərinə riayət edilməsinə nəzarəti təşkilatın özü keçirir\",\n      \"B) Kargüzarlıq xidməti tərəfindən bu Təlimatın tələblərinə riayət edilməsinə nəzarəti təşkilatın əməkdaşları həyata keçirir;\",\n      \"C) Kargüzarlıq xidməti tərəfindən bu Təlimatın tələblərinə riayət edilməsinə nəzarəti bu məqsəd üçün ayrılan təşkilatın əməkdaşları həyata keçirir;\",\n      \"D) Kargüzarlıq xidməti tərəfindən bu Təlimatın tələblərinə riayət edilməsinə nəzarəti təşkilatın rəhbərliyi həyata keçirir.\"\n    ],\n    \"answer\": \"D\",\n    \"explanation\": \"Nəzarəti təşkilatın rəhbərliyi həyata keçirir.\"\n  },\n  {\n    \"id\": 75,\n    \"text\": \"75. “Kargüzarlığın aparılmasına dair Təlimat”a əsasən tabe təşkilatlarda kargüzarlığın aparılması qaydalarına riayət olunması üzərində nəzarətin təşkilini kim həyata keçirir?\",\n    \"options\": [\n      \"A) ... təşkilatın özü daşıyır\",\n      \"B) ... onların baş təşkilatları daşıyır.\",\n      \"C) ... Rabitə və İnformasiya Texnologiyaları Nazirliyi daşıyır\",\n      \"D) ... təşkilatın struktur bölməsi daşıyır\"\n    ],\n    \"answer\": \"B\",\n    \"explanation\": \"Tabe təşkilatlarda nəzarəti onların baş təşkilatları həyata keçirir.\"\n  },\n  {\n    \"id\": 76,\n    \"text\": \"76. “Kargüzarlığın aparılmasına dair Təlimat”a əsasən kargüzarlıq xidmətinin əsas vəzifələrinə aiddir:\",\n    \"options\": [],\n    \"answer\": null,\n    \"explanation\": \"Məlumat yoxdur\"\n  },\n  {\n    \"id\": 77,\n    \"text\": \"77. “Kargüzarlığın aparılmasına dair Təlimat”a əsasən strukturdan, habelə sənəd dövriyyəsinin həcmindən asılı olaraq, kargüzarlıq sistemi hansı formada ola bilər?\",\n    \"options\": [\n      \"A) ... xüsusi və adi ola bilər\",\n      \"B) ... mərkəzləşdirilmiş və mərkəzləşdirilməmiş ola bilər\",\n      \"C) ... ancaq mərkəzləşdirilmiş ola bilər\",\n      \"D) ... xüsusi və ümumi ola bilər\"\n    ],\n    \"answer\": \"B\",\n    \"explanation\": \"Təlimata görə kargüzarlıq mərkəzləşdirilmiş və ya mərkəzləşdirilməmiş ola bilər.\"\n  },\n  {\n    \"id\": 78,\n    \"text\": \"78. “Kargüzarlığın aparılmasına dair Təlimat”a əsasən hansı təşkilatlarda kargüzarlıq mərkəzləşdirilmiş qaydada aparılır?\",\n    \"options\": [\n      \"A) Strukturu mürəkkəb, sənəd dövriyyəsi isə ildə 25000 sənəddən çox olan, habelə struktur bölmələri ayrı-ayrı ərazilərdə yerləşən təşkilatlarda\",\n      \"B) Struktur bölmələrinin sayı çox, sənəd dövriyyəsi isə ildə 25000 sənədə qədər olan təşkilatlarda\",\n      \"C) Struktur bölmələrinin sayı az, sənəd dövriyyəsi isə ildə 25000 sənədə qədər olan təşkilatlarda\",\n      \"D) Struktur bölmələrinin sayı az, sənəd dövriyyəsi isə ildə 25000 sənəddən çox olan təşkilatlarda\"\n    ],\n    \"answer\": \"A\",\n    \"explanation\": \"Sənəd dövriyyəsi böyük və struktur mürəkkəb olduqda kargüzarlıq mərkəzləşdirilir.\"\n  },\n  {\n    \"id\": 79,\n    \"text\": \"79. Hansı hallarda təşkilatlarda kargüzarlıq mərkəzləşdirilməmiş qaydada aparılır?\",\n    \"options\": [],\n    \"answer\": null,\n    \"explanation\": \"Məlumat yoxdur\"\n  },\n  {\n    \"id\": 80,\n    \"text\": \"80. Mərkəzləşdirilməmiş kargüzarlıq sistemində kargüzarlıq xidməti hansı işləri həyata keçirir?\",\n    \"options\": [\n      \"A) ... qəbulunu, göndərilməsini, uçotunu, paylanmasını, habelə sənədlərin qeydə alınmasını, rəsmiləşdirilməsini, işlərin formalaşdırılmasını həyata keçirir;\",\n      \"B) ... qəbulunu, göndərilməsini, uçotunu, struktur bölmələrinə paylanmasını həyata keçirir;\",\n      \"C) ... yalnız mərkəzləşdirilmiş sistemdə bu funksiyaları yerinə yetirir;\",\n      \"D) ... sənədlərin qeydə alınmasını, rəsmiləşdirilməsini, işlərin formalaşdırılmasını həyata keçirir.\"\n    ],\n    \"answer\": \"A\",\n    \"explanation\": \"Mərkəzləşdirilməmiş sistemdə dəftərxana qəbul, qeydiyyat, paylama və rəsmiləşdirmə işlərini icra edir.\"\n  },\n  {\n    \"id\": 81,\n    \"text\": \"81. Təşkilat və struktur bölmələrinin rəhbərləri dəyişdirildikdə, işlər və ya icrada olan sənədlərlə hansı iş görülür?\",\n    \"options\": [\n      \"A) ... qanunverciliyə uyğun olaraq məhv edilir\",\n      \"B) ... akt üzrə qəbul edilir və təhvil verilir. Aktın bir nüsxəsi kargüzarlıq xidmətində saxlanılır.\",\n      \"C) ... arxivə göndərilir\",\n      \"D) ... Nazirlər Kabinetinə təhvil verilir\"\n    ],\n    \"answer\": \"B\",\n    \"explanation\": \"Rəhbər dəyişdikdə işlər və icrada olan sənədlər akt tərtib edilərək qəbul-təhvil qaydasında verilir.\"\n  },\n  {\n    \"id\": 82,\n    \"text\": \"82. “Kargüzarlığın aparılmasına dair Təlimat”a əsasən doğrudur:\",\n    \"options\": [\n      \"A) ... təşkilat rəhbərinə akt üzrə təhvil verir\",\n      \"B) ... müvafiq vəzifəyə yeni təyin edilən və ya həmin vəzifəni müvəqqəti icra edən şəxsə akt üzrə təhvil verir\",\n      \"C) ... arxivə akt üzrə təhvil verir\",\n      \"D) ... dəftərxanaya və ya kargüzarlıq xidmətinə akt üzrə təhvil verir\"\n    ],\n    \"answer\": \"B\",\n    \"explanation\": \"İcraçı işdən çıxarıldıqda işlər və sənədlər yeni təyin edilən və ya müvəqqəti icra edən şəxsə akt üzrə təhvil verilir.\"\n  },\n  {\n    \"id\": 83,\n    \"text\": \"83. “Kargüzarlığın aparılmasına dair Təlimat”a əsasən akta aiddir:\",\n    \"options\": [\n      \"A) Aktda ... icra vəziyyəti göstərilməməklə sadalanır.\",\n      \"B) Aktda ... icraçının adı göstərilməklə sadalanır.\",\n      \"C) Aktda ... icraçının vəzifəsi göstərilməklə sadalanır.\",\n      \"D) Aktda ... icra vəziyyəti göstərilməklə sadalanır.\"\n    ],\n    \"answer\": \"D\",\n    \"explanation\": \"Aktda bütün işlər və sənədlər icra vəziyyəti göstərilməklə sadalanır.\"\n  },\n  {\n    \"id\": 84,\n    \"text\": \"84. Təşkilatlarda sərəncam mahiyyətli sənədlərin (qərarlar, sərəncamlar, əmrlər) yaranmasının hüquqi əsaslarına aid deyil?\",\n    \"options\": [\n      \"A) Qüvvədə olan normativ hüquqi aktların tələbləri\",\n      \"B) Təşkilat rəhbərinin konkret tapşırıqları\",\n      \"C) Hüquqi baxımdan zərurətin yaranması\",\n      \"D) Cari təşkilati-sərəncamverici fəaliyyət\"\n    ],\n    \"answer\": \"C\",\n    \"explanation\": \"Sərəncam sənədlərinin hüquqi əsasları normativ aktlar, rəhbərin tapşırıqları və cari fəaliyyətlə bağlı olur, hüquqi baxımdan ümumi zərurət ayrıca əsas deyil.\"\n  },\n  {\n    \"id\": 85,\n    \"text\": \"85. Sənədlər hansı halda blanksız tərtib edilir?\",\n    \"options\": [\n      \"A) Heç bir halda blanksız tərtib edilə bilməz\",\n      \"B) İki və ya daha artıq təşkilat adından hazırlanarsa\",\n      \"C) Rəhbərin göstərişi ilə\",\n      \"D) Qarşılıqlı razılıqla\"\n    ],\n    \"answer\": \"B\",\n    \"explanation\": \"Sənəd iki və ya daha çox təşkilat adından hazırlananda blankdan istifadə olunmur.\"\n  },\n  {\n    \"id\": 86,\n    \"text\": \"86. Aşağıdakılardan biri doğru deyil:\",\n    \"options\": [\n      \"A) ... “Sərəncam sənədləri sistemi. Formulyar-nümunə” 6.38-90 standart üzrə hazırlanır\",\n      \"B) Blanklar 1 nömrəli ağ yazı kağızından hazırlanmalıdır\",\n      \"C) Tez-tez təkrarlanan sənədlər üçün trafaret mətnli blanklardan istifadə edilə bilər\",\n      \"D) Açıq rəngli, zəif boyalı kağız işlətməyə yol verilmir\"\n    ],\n    \"answer\": \"B\",\n    \"explanation\": \"Blankların kağız nömrəsi ilə bağlı məcburilik yoxdur, əsas tələblər forma və rənglə bağlıdır.\"\n  },\n  {\n    \"id\": 87,\n    \"text\": \"87. Doğru fikri müəyyən edin:\",\n    \"options\": [],\n    \"answer\": null,\n    \"explanation\": \"Məlumat yoxdur\"\n  },\n  {\n    \"id\": 88,\n    \"text\": \"88. Aşağıdakı fikirlərdən hansı doğrudur?\",\n    \"options\": [\n      \"A) Blanklarda sənəd növünün adı əlyazma ilə yazılır\",\n      \"B) Blanklarda sənəd növünün adı mətbəə üsulu ilə yazılır\",\n      \"C) Blanklarda sənəd növünün adı yazılmır\",\n      \"D) Blanklarda sənəd növünün tarixi və hazırlayan şəxsin rekvizitləri yazılır\"\n    ],\n    \"answer\": \"B\",\n    \"explanation\": \"Doğru qayda budur: sənəd növünün adı mətbəə üsulu ilə blank üzərində yazılır.\"\n  },\n  {\n    \"id\": 89,\n    \"text\": \"89. Təşkilatların mətbəə üsulu ilə hazırlanan blanklarında hansı rekvizitlər çap edilmir?\",\n    \"options\": [],\n    \"answer\": null,\n    \"explanation\": \"Məlumat yoxdur\"\n  },\n  {\n    \"id\": 90,\n    \"text\": \"90. Rekvizitlər blankın hansı hissəsində çap edilir?\",\n    \"options\": [\n      \"A) Yuxarı hissəsində eninə, AR dövlət dilində\",\n      \"B) Aşağı hissəsində eninə, AR dövlət dilində\",\n      \"C) Yuxarı sağ küncündə eninə, AR dövlət dilində\",\n      \"D) Aşağı sağ küncündə eninə, AR dövlət dilində\"\n    ],\n    \"answer\": \"A\",\n    \"explanation\": \"Rekvizitlər blankın yuxarı hissəsində, eninə və dövlət dilində çap olunur.\"\n  },\n  {\n    \"id\": 91,\n    \"text\": \"91. Xarici dildə çap edilmiş rekvizitlərə malik blanklardan istifadə edilməsinə hansı halda yol verilir?\",\n    \"options\": [\n      \"A) Yalnız sənədin mətni həmin blankı göndərən təşkilat tərəfindən xarici dildə yazıldıqda\",\n      \"B) Yalnız sənədin mətni xarici dillə yanaşı Azərbaycan dilində də yazıldıqda\",\n      \"C) Heç vaxt yol verilmir\",\n      \"D) Yalnız sənədin mətni həmin blankı qəbul edən təşkilat tərəfindən xarici dildə yazıldıqda\"\n    ],\n    \"answer\": \"A\",\n    \"explanation\": \"Xarici dildə rekvizitli blanklardan yalnız göndərən təşkilat sənədi xarici dildə hazırladıqda istifadə edilə bilər.\"\n  },\n  {\n    \"id\": 92,\n    \"text\": \"92. Plan, maliyyə, statistika sənədləri və başqa xüsusi sənədlər necə tərtib edilir?\",\n    \"options\": [\n      \"A) Qanunvericiliklə və beynəlxalq müqavilələrlə müəyyən edilmiş qaydada\",\n      \"B) Qanunvericiliklə və rəhbərin şəxsi göstərişi ilə müəyyən edilmiş qaydada\",\n      \"C) Qanunvericiliklə və daxili normativ aktlarla müəyyən edilmiş qaydada\",\n      \"D) Yalnız qanunvericiliklə müəyyən edilmiş qaydada\"\n    ],\n    \"answer\": \"C\",\n    \"explanation\": \"Belə sənədlər qanunvericiliklə yanaşı, təşkilatın daxili normativ aktları əsasında hazırlanır.\"\n  },\n  {\n    \"id\": 93,\n    \"text\": \"93. Sənədlər hazırlanarkən hansı qeydlərin yazılması zəruri deyil:\",\n    \"options\": [\n      \"A) Təşkilatın adı (blankda əks olunur)\",\n      \"B) Başlıq (xüsusilə A5 formatlı sənədlərdə)\",\n      \"C) Ünvan\",\n      \"D) Tarix və nömrə\"\n    ],\n    \"answer\": \"B\",\n    \"explanation\": \"A5 formatlı və bəzi qısa sənədlərdə başlıq yazılması tələb olunmur.\"\n  },\n  {\n    \"id\": 94,\n    \"text\": \"94. Sənədlər hazırlanarkən hansı qeydlərin yazılması zəruri deyil:\",\n    \"options\": [\n      \"A) Sənəd növünün adı\",\n      \"B) Mətnin razılaşdırılması haqqında qeydlər\",\n      \"C) Sənədin rəsmiləşdirilməsi\",\n      \"D) Sənədin hərəkəti və icrası haqqında qeydlər\"\n    ],\n    \"answer\": \"B\",\n    \"explanation\": \"Razılaşdırma qeydləri bütün sənədlərdə məcburi deyil.\"\n  },\n  {\n    \"id\": 95,\n    \"text\": \"95. Bir qayda olaraq, sənədlərin mətnləri neçə hissədən ibarət olur?\",\n    \"options\": [\n      \"A) Bir\",\n      \"B) Dörd\",\n      \"C) Üç\",\n      \"D) İki\"\n    ],\n    \"answer\": \"D\",\n    \"explanation\": \"Əksər sənədlər giriş və əsas hissədən ibarət olur.\"\n  },\n  {\n    \"id\": 96,\n    \"text\": \"96. Sənədin yaranması üçün başqa sənəd əsas olduqda, birinci hissədə göstərilir:\",\n    \"options\": [],\n    \"answer\": null,\n    \"explanation\": \"Məlumat yoxdur\"\n  },\n  {\n    \"id\": 97,\n    \"text\": \"97. Aşağıdakılardan hansı doğru deyil?\",\n    \"options\": [\n      \"A) Birinci hissədə əsas götürülmüş sənədin adı, nömrəsi, tarixi göstərilir\",\n      \"B) İkinci hissədə nəticələr, təkliflər və qərarlar ifadə olunur\",\n      \"C) Mətn yalnız son hissədən ibarət ola bilər\",\n      \"D) Birinci hissədə əsas götürülmüş faktların təsviri verilir\"\n    ],\n    \"answer\": \"C\",\n    \"explanation\": \"Sənədin mətni yalnız son hissədən ibarət ola bilməz.\"\n  },\n  {\n    \"id\": 98,\n    \"text\": \"98. Sənədin başlığı hansı hissədə yazılır?\",\n    \"options\": [\n      \"A) Vərəqin yuxarı sağ küncündə, mətndən əvvəl\",\n      \"B) Vərəqin yuxarı sol küncündə, mətndən sonra\",\n      \"C) Vərəqin ortasında, mətndən əvvəl\",\n      \"D) Vərəqin yuxarı sol küncündə, mətndən əvvəl\"\n    ],\n    \"answer\": \"C\",\n    \"explanation\": \"Sənədin başlığı adətən ortada, mətndən əvvəl yazılır.\"\n  },\n  {\n    \"id\": 99,\n    \"text\": \"99. Hansı fikir doğru deyil:\",\n    \"options\": [\n      \"A) İkinci hissənin mətni bəndlərə və yarımbəndlərə bölünə bilər\",\n      \"B) Mətn vahid şəklə salına bilər\",\n      \"C) Trafaret mətnlərdən istifadə oluna bilər\",\n      \"D) Başlıq həmişə çox uzun və ətraflı yazılmalıdır\"\n    ],\n    \"answer\": \"D\",\n    \"explanation\": \"Başlıq qısa və dəqiq olmalıdır, uzun və ətraflı olmamalıdır.\"\n  },\n  {\n    \"id\": 100,\n    \"text\": \"100. Hansı fikir doğrudur:\",\n    \"options\": [\n      \"A) Ünvan sahibinin adı, soyadı və ata adı göstərilir\",\n      \"B) Ünvan sahibinin ev ünvanı yazılır\",\n      \"C) Ünvan sahibinin təhsili yazılır\",\n      \"D) Ünvan sahibinin yalnız adı və soyadı göstərilir\"\n    ],\n    \"answer\": \"A\",\n    \"explanation\": \"Göndərilən sənədlərdə ünvan sahibinin tam adı və ata adı göstərilməlidir.\"\n  },\n  {\n    \"id\": 101,\n    \"text\": \"101. Sənəd təşkilata və ya onun struktur bölməsinə göndərilirsə düzgün cavabı seçin:\",\n    \"options\": [\n      \"A) Azərbaycan Respublikasının Yanacaq və Energetika Nazirliyinə\",\n      \"B) Azərbaycan Respublikasının İqtisadi İnkişaf Nazirliyinə\",\n      \"C) Azərbaycan Respublikasının Maliyyə Nazirliyinə\",\n      \"D) Azərbaycan Respublikasının Sosial Müdafiə Nazirliyinə\"\n    ],\n    \"answer\": \"C\",\n    \"explanation\": \"Cədvələ görə cavab Maliyyə Nazirliyinədir.\"\n  },\n  {\n    \"id\": 102,\n    \"text\": \"102. Sənəd konkret vəzifəli şəxsə ünvanlanırsa düzgün yazılış qaydasını seçin:\",\n    \"options\": [\n      \"A) Azərbaycan Respublikası Təhsil Nazirliyinin struktur bölməsinin rəhbəri cənab Babək Niftəliyevə\",\n      \"B) Azərbaycan Respublikasının Təhsil Nazirliyinin struktur bölməsinin rəhbəri cənab Babək Niftəliyevə\",\n      \"C) Azərbaycan Respublikası Təhsil Nazirliyi struktur bölməsinin rəhbəri cənab Babək Niftəliyevə\",\n      \"D) Azərbaycan Respublikası Təhsil Nazirliyinin struktur bölməsi rəhbəri cənab Babək Niftəliyevə\"\n    ],\n    \"answer\": \"B\",\n    \"explanation\": \"Düzgün qayda 'Azərbaycan Respublikasının ... Nazirliyinin ... rəhbəri' formasındadır.\"\n  },\n  {\n    \"id\": 103,\n    \"text\": \"103. Sənəd dörddən çox ünvana hansı qaydada göndərilir?\",\n    \"options\": [\n      \"A) Bütün ünvanlar bir sənəddə göstərilir\",\n      \"B) Göndəriş siyahısı tərtib olunur, hər sənəddə yalnız bir ünvan göstərilir\",\n      \"C) Hər sənəddə iki ünvan göstərilir\",\n      \"D) İstənilən qədər ünvan bir sənəddə göstərilə bilər\"\n    ],\n    \"answer\": \"B\",\n    \"explanation\": \"Dörddən çox ünvana sənəd göndəriləndə göndəriş siyahısı tərtib edilir.\"\n  },\n  {\n    \"id\": 104,\n    \"text\": \"104. Doğru variantı seçin:\",\n    \"options\": [\n      \"A) Sənədin düzgün tərtibi rəhbərin vəzifəsidir\",\n      \"B) Sənədin düzgün tərtibi icraçının vəzifəsidir\",\n      \"C) Sənədin düzgün tərtibi struktur rəhbərinin vəzifəsidir\",\n      \"D) Sənədin düzgün tərtibi icraçı köməkçisinin vəzifəsidir\"\n    ],\n    \"answer\": \"B\",\n    \"explanation\": \"Sənədin düzgün tərtibi və məzmununa görə məsuliyyət icraçıya aiddir.\"\n  },\n  {\n    \"id\": 105,\n    \"text\": \"105. Sənədin tarixi hesab edilir:\",\n    \"options\": [\n      \"A) İmzalandığı və ya təsdiq edildiyi tarix\",\n      \"B) Təşkilata daxil olduğu tarix\",\n      \"C) Qeydiyyata alındığı tarix\",\n      \"D) Hazırlandığı tarix\"\n    ],\n    \"answer\": \"A\",\n    \"explanation\": \"Sənədin tarixi onun imzalanması və ya təsdiqi günüdür.\"\n  },\n  {\n    \"id\": 106,\n    \"text\": \"106. Sənədin tarixi hansı ardıcıllıqla yazılır?\",\n    \"options\": [\n      \"A) Gün, ay, il\",\n      \"B) İl, ay, gün\",\n      \"C) Ay, il, gün\",\n      \"D) Gün, il, ay\"\n    ],\n    \"answer\": \"A\",\n    \"explanation\": \"Azərbaycan standartına görə tarix gün, ay, il ardıcıllığında yazılır.\"\n  },\n  {\n    \"id\": 107,\n    \"text\": \"107. Doğru fikir hansıdır?\",\n    \"options\": [\n      \"A) Tarixlər rəqəmlə və hərflə yazılmalıdır\",\n      \"B) Tarixlər yalnız hərflə yazılmalıdır\",\n      \"C) Tarixlər yalnız rəqəmlə yazılmalıdır\",\n      \"D) Tarixlər ümumiyyətlə yazılmır\"\n    ],\n    \"answer\": \"A\",\n    \"explanation\": \"Tarixlər həm rəqəmlə, həm də hərflə ifadə olunur.\"\n  },\n  {\n    \"id\": 108,\n    \"text\": \"108. Hansı yazılış qaydası doğru deyil:\",\n    \"options\": [\n      \"A) 15.12.20\",\n      \"B) 15.12.2020-ci il\",\n      \"C) 15 dekabr 2020-ci il\",\n      \"D) 15/12/20\"\n    ],\n    \"answer\": \"D\",\n    \"explanation\": \"Tarixlərdə '/' işarəsi istifadə edilmir, yalnız nöqtə və ya sözlə yazılır.\"\n  },\n  {\n    \"id\": 109,\n    \"text\": \"109. Sənədin tarixi kim tərəfindən qoyulur?\",\n    \"options\": [\n      \"A) Onu imzalayan və ya təsdiq edən şəxs tərəfindən\",\n      \"B) Onu hazırlayan icraçı tərəfindən\",\n      \"C) Kargüzarlıq xidməti tərəfindən\",\n      \"D) Sənədi alan şəxs tərəfindən\"\n    ],\n    \"answer\": \"A\",\n    \"explanation\": \"Tarixi sənədə hüquqi qüvvə verən şəxs, yəni imzalayan və ya təsdiq edən yazır.\"\n  },\n  {\n    \"id\": 110,\n    \"text\": \"110. Doğru fikir hansıdır?\",\n    \"options\": [\n      \"A) Qeydiyyat nömrəsi işin nomenklatur nömrəsi və sıra nömrəsindən ibarətdir, qeydə alınma zamanı verilir\",\n      \"B) Qeydiyyat nömrəsi göndərilmə zamanı verilir\",\n      \"C) Qeydiyyat nömrəsi yalnız sıra nömrəsindən ibarətdir\",\n      \"D) Qeydiyyat nömrəsi işin nomenklatur nömrəsi və sıra nömrəsindən ibarətdir, amma göndərilmə zamanı verilir\"\n    ],\n    \"answer\": \"A\",\n    \"explanation\": \"Qeydiyyat nömrəsi işin nomenklatur nömrəsi və sıra nömrəsindən ibarətdir, qeydə alınma zamanı verilir.\"\n  },\n  ]\n  }"
-}
+ "id":"Karguzarliq",
+  "name": "Kargüzarlıq",
+  "questions": [
+  {
+    "id": 1,
+    "text": "Kargüzarlıq nədir?",
+    "options": [
+      "təşkilatın, öz vəzifələrini həyata keçirməsi ilə əlaqədar mühasibat və mühasibat işinin təşkili üzrə fəaliyyətidir",
+      "dövlət orqanlarında daxili nəzarətin həyata keçirilməsi",
+      "təşkilatın, öz vəzifələrini həyata keçirməsi ilə əlaqədar sənədləşdirmə və sənədlərlə işin təşkili üzrə fəaliyyətidir",
+      "vəzifə təlimatlarının yerinə yetirilməsinə nəzarət xidmətidir"
+    ],
+    "answer": "C",
+    "explanation": "Kargüzarlıq sənədləşdirmə və sənədlərlə işin təşkili fəaliyyətidir."
+  },
+  {
+    "id": 2,
+    "text": "Kargüzarlıq xidmətinin əsas vəzifələri aşağıdakılardan hansılardır?\n1) sənədləri işlər üzrə formalaşdırmaq və arxivə vermək\n2) icra edilmiş sənədləri struktur bölmələrindən tələb etmək\n3) sənədlərə məxfilik qrifi vermək\n4) sənədləri göndərmək\n5) dövlət sirri təşkil edən məlumatların siyahısının tərtib etmək\n6) sənədlərin icra müddətinə nəzarət etmək",
+    "options": [
+      "1,2,4,6",
+      "2,3,5",
+      "1,3,5",
+      "Hamısı"
+    ],
+    "answer": "A",
+    "explanation": "Əsas vəzifələr: 1,2,4,6."
+  },
+  {
+    "id": 3,
+    "text": "Strukturdan, habelə sənəd dövriyyəsinin həcmindən asılı olaraq, kargüzarlıq sistemi hansı formada ola bilər?",
+    "options": [
+      "xüsusi və adi",
+      "mərkəzləşdirilmiş, mərkəzləşdilməmiş",
+      "ancaq mərkəzləşdirilmiş",
+      "xüsusi və ümumi"
+    ],
+    "answer": "B",
+    "explanation": "Kargüzarlıq sistemi struktur və sənəd dövriyyəsindən asılı olaraq mərkəzləşdirilmiş və ya mərkəzləşdirilməmiş ola bilər."
+  },
+  {
+    "id": 4,
+    "text": "Hansı təşkilatlarda kargüzarlıq mərkəzləşdirilmiş qaydada aparılır?",
+    "options": [
+      "strukturu mürəkkəb, sənəd dövriyyəsi isə ildə 25000 sənəddən çox olan, habelə struktur bölmələri ayrı-ayrı ərazilərdə yerləşən təşkilatlarda",
+      "struktur bölmələrinin sayı çox, sənəd dövriyyəsi isə ildə 25000 sənədə qədər olan təşkilatlarda",
+      "struktur bölmələrinin sayı az, sənəd dövriyyəsi isə ildə 25000 sənədə qədər olan təşkilatlarda",
+      "struktur bölmələrinin sayı az, sənəd dövriyyəsi isə ildə 25000 sənəddən çox olan təşkilatlarda"
+    ],
+    "answer": "C",
+    "explanation": "Cavab cədvəldə göstərilib: C."
+  },
+  {
+    "id": 5,
+    "text": "“Kargüzarlığin aparılmasına dair Təlimat”a əsasən mərkəzləşdirilmiş kargüzarlıq sistemində hansılar kargüzarlıq xidməti tərəfindən həyata keçirilir?\n1) sənədlərin struktur bölmələrinə paylanması\n2) korrespondensiyanın gətirilməsi\n3) sənədlərin qeydə alınması\n4) korrespondensiyanın qəbulu və göndərilməsi\n5) sənədlərin rəsmiləşdirilməsi\n6) işlərin formalaşdırılması",
+    "options": [
+      "1,2,5",
+      "2,4,6",
+      "2,3,4,5",
+      "Hamısı"
+    ],
+    "answer": "D",
+    "explanation": "Cavab cədvəldə göstərilib: D (Hamısı)."
+  },
+  {
+    "id": 6,
+    "text": "Təşkilatların və struktur bölmələrinin rəhbərləri dəyişdirildikdə, işlər və ya icrada olan sənədlər:",
+    "options": [
+      "qanunverciliyə uyğun olaraq məhv edilir",
+      "akt üzrə qəbul edilir və təhvil verilir",
+      "arxivə göndərilir",
+      "qanunvericilikdə belə hal nəzərdə tutulmayıb"
+    ],
+    "answer": "B",
+    "explanation": "İşlər akt üzrə qəbul-təslim edilir."
+  },
+  {
+    "id": 7,
+    "text": "İşdən çıxarıldıqda və ya başqa işə keçirildikdə, icraçı onda olan işləri və sənədləri:",
+    "options": [
+      "təşkilat rəhbərinə akt üzrə təhvil verir",
+      "müvafiq vəzifəyə yeni təyin edilən və ya həmin vəzifəni müvəqqəti icra edən şəxsə akt üzrə təhvil verir",
+      "arxivə akt üzrə təhvil verir",
+      "dəftərxanaya və ya kargüzarlıq xidmətinə akt üzrə təhvil verir"
+    ],
+    "answer": "B",
+    "explanation": "İcraçı sənədləri yeni vəzifəli şəxsə təhvil verir."
+  },
+  {
+    "id": 8,
+    "text": "Təşkilatlarda sərəncam mahiyyətli sənədlərin (qərarlar, sərəncamlar, əmrlər) yaranmasının hüquqi əsasları hansılardır?\n1) təşkilat tərəfindən onun üzərinə düşən vəzifələrin icra edilməsi üçün, səlahiyyətləri daxilində cari təşkilati-sərəncamverici və ya inzibati-təsərrüfat fəaliyyətinin həyata keçirilməsi\n2) qüvvədə olan qanunvericilik aktlarının tələbləri\n3) təşkilatın aparatının işini hüquqi baxımdan tənzimləmək zərurətinin yaranması\n4) yuxarı təşkilatların konkret tapşırıqları",
+    "options": [
+      "1,2",
+      "hamısı",
+      "2,3",
+      "1,4"
+    ],
+    "answer": "B",
+    "explanation": "Bütün sadalanan əsaslar hüquqi baza yaradır."
+  },
+  {
+    "id": 9,
+    "text": "Sənədlər blanksız tərtib edilir:",
+    "options": [
+      "heç bir halda",
+      "sənədlər iki və ya daha artıq təşkilat adından hazırlanarsa",
+      "rəhbərin göstərişi ilə",
+      "təşkilatların qarşılıqlı razığı ilə"
+    ],
+    "answer": "B",
+    "explanation": "Cədvələ görə: B."
+  },
+  {
+    "id": 10,
+    "text": "Aşağıdakılardan biri doğru deyil:\n a) sərəncam mahiyyətli sənədlər üçün blanklar \"Sərəncam sənədləri sistemi Formulyar-nümunə\" - 6.38-90 dövlətlərarası standart üzrə hazırlanır\n b) blanklar 1 nömrəli ağ yazı kağızından hazırlanmalıdır\n c) təşkilatlarda tez-tez təkrarlanan birtipli sənədlər (bildiriş, məktub və s.) tərtib edilərkən sənədlərin mətbəə üsulu ilə hazırlanan trafaret mətnli blankları tətbiq edilə bilər\n d) blanklarda hec bir halda açıq rəngli, zəif boyalı kağız işlətməyə yol verilmir",
+    "options": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "answer": "D",
+    "explanation": "Cədvələ görə cavab D-dir."
+  },
+  {
+    "id": 11,
+    "text": "Təşkilatların mətbəə üsulu ilə hazırlanan blanklarında hansı rekvizitlər çap edilir?\n1) təşkilat rəhbərinin adı\n2) təşkilatın tam adı\n3) təşkilatın poçt indeksi, ünvanı, məlumat almaq üçün telefon nömrəsi, faksın nömrəsi və elektron poçtu (əgər varsa)\n4) təşkilatın möhürü\n5) AR (NMR) adı\n6) AR Dövlət gerbi",
+    "options": [
+      "hamısı",
+      "1,3,5",
+      "2,3,5,6",
+      "1,2,3,4"
+    ],
+    "answer": "C",
+    "explanation": "Cədvələ görə cavab: C."
+  },
+  {
+    "id": 12,
+    "text": "Xarici dildə çap edilmiş rekvizitlərə malik blanklardan istifadə edilməsinə hansı halda yol verilir?",
+    "options": [
+      "heç bir halda",
+      "yalnız sənədin mətni həmin blankı göndərən təşkilat tərəfindən dövlət dilində yazıldıqda yol verilir",
+      "yalnız sənədin mətni həmin blankı göndərən təşkilat tərəfindən xarici dildə yazıldıqda yol verilir",
+      "yalnız təşkilat rəhbərinin göstərişi ilə hər zaman"
+    ],
+    "answer": "C",
+    "explanation": "Cədvələ görə cavab: C."
+  },
+  {
+    "id": 13,
+    "text": "Bir qayda olaraq, sənədlərin mətnləri neçə hissədən ibarət olur?",
+    "options": [
+      "bir",
+      "dörd",
+      "üç",
+      "iki"
+    ],
+    "answer": "D",
+    "explanation": "Cədvələ görə cavab: D (iki hissədən)."
+  },
+  {
+    "id": 14,
+    "text": "Sənədin başlığı yazılır:",
+    "options": [
+      "vərəqin yuxarı sağ küncündə, mətndən əvvəl",
+      "vərəqin yuxarı sol küncündə,mətndən sonra",
+      "vərəqin ortasında, mətndən əvvəl",
+      "vərəqin yuxarı sol küncündə,mətndən əvvəl"
+    ],
+    "answer": "C",
+    "explanation": "Cədvələ görə cavab: C."
+  },
+  {
+    "id": 15,
+    "text": "Sənəddə ən çox neçə ünvan ola bilər?",
+    "options": [
+      "bir",
+      "üç",
+      "iki",
+      "dörd"
+    ],
+    "answer": "D",
+    "explanation": "Cədvələ görə cavab: D."
+  },
+  {
+    "id": 16,
+    "text": "Sənədin tarixi hesab edilir:",
+    "options": [
+      "sənədin imzalanmasının və ya təsdiq edilməsinin tarixi",
+      "sənədin daxil olduğu tarixi",
+      "sənədin qeydiyyata alındığı tarixi",
+      "sənədin hazırlandığı tarix"
+    ],
+    "answer": "A",
+    "explanation": "Cədvələ görə cavab: A."
+  },
+  {
+    "id": 17,
+    "text": "Sənədin tarixi hansı ardıcıllıqla yazılır?",
+    "options": [
+      "ayın tarixi, ay, il",
+      "il, ay, ayın tarixi",
+      "ay, ili, ayın tarixi",
+      "ayın tarixi, il, ay"
+    ],
+    "answer": "A",
+    "explanation": "Cədvələ görə cavab: A."
+  },
+  {
+    "id": 18,
+    "text": "Sənədin məqsədəuyğunluğunu və ya əsaslılığını qiymətləndirmək zəruri olduqda:",
+    "options": [
+      "sənədin razılaşdırılması tələb olunur",
+      "sənədin razılaşdırılması tələb olunmur",
+      "sənəd dəftərxanada qeydiyyata alınır",
+      "təşkilatın rəhbərinin göstərişi ilə məxfiləşdirilir"
+    ],
+    "answer": "A",
+    "explanation": "Cədvələ görə cavab: A."
+  },
+  {
+    "id": 19,
+    "text": "Aşağıdakılardan hansı doğru deyil?\n a) vizanın tərkibinə viza verən şəxsin soyadı və adı, onun şəxsi imzası və tarix daxildir\n b) göndərilən sənədlərdə vizalar təşkilatda qalan nüsxədə qoyulur\n c) sərəncam mahiyyətli sənədlərin layihələrində icraçı tərəfindən birinci nüsxədə mətnin axırıncı vərəqinin arxasında viza qoyulur\n d) təşkilat daxilində razılaşdırma müvafiq struktur bölmələrinin kargüzarlıq xidmətləri arasında həyata keçirilir",
+    "options": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "answer": "D",
+    "explanation": "Cədvələ görə cavab: D."
+  },
+  {
+    "id": 20,
+    "text": "Razılaşdırma qrifində hansı sözlərdən istifadə olunur:",
+    "options": [
+      "“Təsdiq edilmişdir” və “Təsdiq edirəm”",
+      "“Razılaşdırılmışdır” və ya “Razıyam”",
+      "“Təsdiq edirəm” və ya “Qəbul edirəm”",
+      "“Etiraz etmirəm” və ya “Razıyam”"
+    ],
+    "answer": "B",
+    "explanation": "Cədvələ görə cavab: B."
+  },
+  {
+    "id": 21,
+    "text": "Razılaşdırılma qrifi yerləşdrilməlidir",
+    "options": [
+      "sənədin sonuncu vərəqinin yuxarı sol küncündə",
+      "sənədin titul vərəqinin aşağı sol küncündə",
+      "sənədin hər hansı bir vərəqində",
+      "sənədin titul vərəqinin yuxarı sağ küncündə"
+    ],
+    "answer": "D",
+    "explanation": "Cədvələ görə cavab: D."
+  },
+  {
+    "id": 22,
+    "text": "Sənəd rəsmiləşdirilməlidir :",
+    "options": [
+      "qeydiyyata alınması məqsədilə",
+      "rəsmi xarakter və hüquqi qüvvə verilməsi məqsədilə",
+      "qanunvericilikdə nəzərdə tutulmuş qaydada məhv edilmək məqsədilə",
+      "arxivə göndərilmək məqsədilə"
+    ],
+    "answer": "B",
+    "explanation": "Cədvələ görə cavab: B."
+  },
+  {
+    "id": 23,
+    "text": "Aşağıdakılardan hansı doğru deyil?\n a) əgər sənəd blankda tərtib edilməmişdirsə, sənədi imzalamış şəxsin vəzifəsi tam şəkildə göstərilir\n b) bir qayda olaraq, sənədin yalnız əsas nüsxəsi imzalanır\n c) əgər sənəd blankda tərtib edilmişdirsə, sənədi imzalamış şəxsin vəzifəsi qısa şəkildə göstərilir\n d) rəsmiləşdirmə sənədin imzalanması, təsdiq edilməsi və ona möhür vurulması vasitəsilə həyata keçirilir",
+    "options": [
+      "a",
+      "b",
+      "c",
+      "d"
+    ],
+    "answer": "B",
+    "explanation": "Cədvələ görə cavab: B."
+  },
+  {
+    "id": 24,
+    "text": "Aşağıdakılardan hansı yalnışdır?",
+    "options": [
+      "komissiyanın tərtib etdiyi sənədlər imzalanarkən sənədi tərtib etmiş şəxslərin vəzifələri deyil, komissiya üzvləri arasında vəzifələrin bölgüsü göstərilir",
+      "kollegial orqanların sənədləri, habelə məzmununa görə iki və ya daha artıq şəxsin məsuliyyət daşıdığı sənədlər müvafiq olaraq iki və ya daha artıq imza ilə rəsmiləşdirilir",
+      "dövlət orqanının rəhbərinə göndərilən sənədlər göndərən dövlət orqanının rəhbəri tərəfindən, o olmadıqda isə onun vəzifəsini icra edən müavini tərəfindən imzalanmalıdır",
+      "əgər sənədi imzalamalı olan şəxs yoxdursa, sənəd heç bir şəxs tərəfindən imzalana bilməz"
+    ],
+    "answer": "D",
+    "explanation": "Cədvələ görə cavab: D."
+  },
+  {
+    "id": 25,
+    "text": "Aşağıdakılardan hansı doğru deyil?",
+    "options": [
+      "Sənəd təsdiqetmə qrifi ilə və ya müvafiq sərəncam mahiyyətli sənəd qəbul etməklə təsdiq olunur",
+      "Təsdiqetmə qrifinin elementləri aşağıdakılardır: \"Təsdiq edilmişdir\" və ya \"Təsdiq edirəm\" sözləri sənədi təsdiq etmiş şəxsin vəzifəsinin adı, şəxsi imzası, adı və soyadı təsdiqetmə tarixi",
+      "Möhür vəzifə adı və şəxsi imza ilə üst-üstə düşməlidir",
+      "Dövlət gerbi əks olunmuş möhürü olmayan təşkilatlar əsas möhürdən istifadə edirlər"
+    ],
+    "answer": "C",
+    "explanation": "Cədvələ görə cavab: C."
+  },
+  {
+    "id": 26,
+    "text": "Sənəd çap olunarkən vərəqdə soldan, sağdan və yuxarıdan müvafiq olaraq nə qədər sahə saxlanılmalıdır?",
+    "options": [
+      "25 mm, ən azı 8 mm, 20 mm",
+      "ən azı 8 mm, 10 mm, 15 mm",
+      "30 mm, ən azı 8 mm, 5 mm",
+      "20 mm, 8 mm, 2 mm"
+    ],
+    "answer": "A",
+    "explanation": "Cədvələ görə cavab: A."
+  },
+  {
+    "id": 27,
+    "text": "Aşağıdakılardan hansı doğru deyil?",
+    "options": [
+      "Təşkilatın adlarında bütün sözlərin, o cümlədən köməkçi sözlərin və onların tərkibinə daxil olan xüsusi isimlərin baş hərfi böyük yazılır",
+      "Təşkilatların struktur bölmələrinin adının yalnız baş hərfi böyük yazılır",
+      "Rayon (şəhər) icra hakimiyyəti orqanlarının adlarında bütün sözlərin baş hərfi böyük yazılır",
+      "Sənədin hər abzasının birinci sətri sol sahənin hüdudundan beş-səkkiz çap işarəsi intervalı ilə çap edilir"
+    ],
+    "answer": "A",
+    "explanation": "Cədvələ görə cavab: A."
+  },
+  {
+    "id": 28,
+    "text": "Sənədlərə hansı əlavələr ola bilər?",
+    "options": [
+      "əsas sənədin məzmununu izah edən və ya tamamlayan əlavələr",
+      "müvafiq sərəncam mahiyyətli sənədlərlə təsdiq edilən əlavələr",
+      "müstəqil sənəd olaraq müşayiət məktubu ilə göndərilən əlavələr",
+      "hamısı"
+    ],
+    "answer": "D",
+    "explanation": "Cədvələ görə cavab: D."
+  },
+  {
+    "id": 29,
+    "text": "Hansı halda qoşmada vərəqlərin miqdarı göstərilmir?",
+    "options": [
+      "vərəqlərin sayı 10-dan az olarsa",
+      "heç bir halda",
+      "əgər qoşmalar kitab şəklində bağlanmışdırsa",
+      "hamısı"
+    ],
+    "answer": "C",
+    "explanation": "Cədvələ görə cavab: C."
+  },
+  {
+    "id": 30,
+    "text": "Aşağıdakılardan hansı doğru deyil?",
+    "options": [
+      "sənədlərin surətlərinin aidiyyəti tərəflərə verilməsi təşkilat rəhbərliyinin icazəsi ilə həyata keçirilir",
+      "struktur bölməsinin rəhbəri surətlərin miqdarını, göndəriş ünvanlarını müəyyən edir və sifariş blankını imzalayır",
+      "sənədin surətləri kompüter (makina) üsulu ilə təşkilatın blankında deyil, adı vərəqdə hazırlanarsa, blankın rekvizitləri daxil edilmədən, sənədin mətni qismən köçürülür",
+      "sənədlərin surətlərinin çıxarılması üçün müvafiq rəhbər vəzifəli şəxsin göstərişi və ya icazəsi tələb olunur"
+    ],
+    "answer": "C",
+    "explanation": "Cədvələ görə cavab: C."
+  },
+  {
+    "id": 31,
+    "text": "Qərarın mətni ibarət olmalıdır:",
+    "options": [
+      "fakt və nəticə hissələrindən",
+      "yığcam şərh və sərəncam hissələrindən",
+      "yığcam şərh və əsas hissələrindən",
+      "sərəncam və əmr hissələrindən"
+    ],
+    "answer": "B",
+    "explanation": "Cədvələ görə cavab: B."
+  },
+  {
+    "id": 32,
+    "text": "Aşağıdakılardan hansı doğru deyil?",
+    "options": [
+      "qəbul edilmiş qərarlar kollegial orqanın sədri və katibi tərəfindən imzalanır",
+      "əgər qərar bir neçə müxtəlif xarakterli tədbirlər görülməsini tapşırırsa, sərəncam hissəsi bəndlərə bölünür",
+      "qərarın sərəncam hissəsinin axırıncı bəndində qərarın icrasına nəzarətin həvalə edildiyi təşkilat, struktur bölməsi və ya vəzifəli şəxs göstərilir",
+      "görülməli tədbirlərin izahına ehtiyac olmadıqda belə, şərh hissəsi mütləq olmalıdır"
+    ],
+    "answer": "D",
+    "explanation": "Cədvələ görə cavab: D."
+  },
+  {
+    "id": 33,
+    "text": "Qəbul edilmiş qərarlar neçə gün müddətində kargüzarlıq xidməti tərəfindən icraçılara çatdırılır?",
+    "options": [
+      "5 gün",
+      "10 gün",
+      "3 gün",
+      "7 gün"
+    ],
+    "answer": "D",
+    "explanation": "Cədvələ görə cavab: D (7 gün)."
+  },
+  {
+    "id": 34,
+    "text": "Sərəncamın mətni, bir qayda olaraq, ibarət olmalıdır:",
+    "options": [
+      "yalnız şərh hissəsindən",
+      "yalnız təklif hissəsindən",
+      "yalnız nəticə hissəsindən",
+      "yalnız sərəncam hissəsindən"
+    ],
+    "answer": "D",
+    "explanation": "Cədvələ görə cavab: D."
+  },
+  {
+    "id": 35,
+    "text": "Əmr, bir qayda olaraq, ibarət olmalıdır:",
+    "options": [
+      "yalnız şərh hissəsindən",
+      "əsas və nəticə hissələrindən",
+      "giriş və fakt hissələrindən",
+      "şərh və sərəncam hissələrindən"
+    ],
+    "answer": "D",
+    "explanation": "Cədvələ görə cavab: D."
+  },
+  {
+    "id": 36,
+    "text": "Protokolun mətni bir qayda olaraq, ibarət olmalıdır:",
+    "options": [
+      "giriş və əsas hissələrdən",
+      "şərh və sərəncam hissələrindən",
+      "əsas və nəticə hissələrindən",
+      "giriş və şərh hissələrindən"
+    ],
+    "answer": "A",
+    "explanation": "Cədvələ görə cavab: A."
+  },
+  {
+    "id": 37,
+    "text": "Arayışın və məlumat vərəqəsinin mətni hansı hissələrdən ibarət olmalıdır?",
+    "options": [
+      "şərh; sərəncam və əmr",
+      "fakt; nəticə və təklif",
+      "giriş; şərh və təklif",
+      "yalnız təklif"
+    ],
+    "answer": "B",
+    "explanation": "Cədvələ görə cavab: B."
+  },
+  {
+    "id": 38,
+    "text": "Aktın mətni hansı hissələrdən ibarət olmalıdır?",
+    "options": [
+      "giriş və əsas hissələrindən",
+      "sərəncam və şərh hissələrindən",
+      "giriş və şərh hissələrindən",
+      "əmr və təklif hissələrindən"
+    ],
+    "answer": "C",
+    "explanation": "Cədvələ görə cavab: C."
+  },
+  {
+    "id": 39,
+    "text": "Aktın hazırlanması və tərtib olunması ilə bağlı aşağıdakı fikirlərdən hansı doğru deyil?",
+    "options": [
+      "akt onun tərtib olunmasında iştirak edən şəxslərin vəzifə baxımından ən yüksək olanı tərəfindən imzalanır. Bu zaman imza etmiş şəxsin vəzifəsi göstərilir",
+      "akt mətninin sonunda (imzalardan qabaq) aktın nüsxələri və saxlandığı yer haqqında məlumat yerləşdirilir",
+      "aktın tərtib olunduğu yer və tarix aktda yazılan hadisənin yerinə və tarixinə uyğun gəlməlidir",
+      "aktın başlığı həmin aktda göstərilən məsələni qısa şəkildə əks etdirməli və adlıq halda feli isim ilə ifadə olunmalıdır"
+    ],
+    "answer": "A",
+    "explanation": "Cədvələ görə cavab: A."
+  },
+  {
+    "id": 40,
+    "text": "Məktubun mətni, bir qayda olaraq, biri digəri ilə məntiqi surətdə bağlı hansı hissələrdən ibarət olmalıdır?",
+    "options": [
+      "giriş və əsas",
+      "şərh və təklif",
+      "fakt və nəticə",
+      "əmr və əsas"
+    ],
+    "answer": "C",
+    "explanation": "Cədvələ görə cavab: C."
+  },
+  {
+    "id": 41,
+    "text": "Teleqramlar neçə nüsxə çap olunur?",
+    "options": [
+      "bir",
+      "üç",
+      "iki",
+      "istənilən sayda"
+    ],
+    "answer": "C",
+    "explanation": "Cədvələ görə cavab: C."
+  },
+  {
+    "id": 42,
+    "text": "Təşkilatlarda sənədlər dövriyyəsinin təşkili hansı tələblərə cavab verməlidir?",
+    "options": [
+      "sənədlərin hərəkəti qaydasında və işlənməsi prosesində maksimum eynilik təmin olunmalıdır",
+      "sənədlərin hərəkəti operativ aparılmalı, nizamlanmalı və optimal şəkildə həyata keçirilməlidir",
+      "işin zərurətindən irəli gəlməyən instansiyalar və əməliyyatlar sənədlərin hərəkətindən kənarlaşdırılmalıdır",
+      "hamısı"
+    ],
+    "answer": "D",
+    "explanation": "Cədvələ görə cavab: D."
+  },
+  {
+    "id": 43,
+    "text": "Gətirilən korrespondensiyanın düzgünlüyünü yoxlamaqda məqsəd nədən ibarətdir?",
+    "options": [
+      "təyinat üzrə gətirilməyən korrespondensiyanı aşkar etməkdən",
+      "qeydiyyatın düzgün aparılıb-aparılmamasını aşkar etməkdən",
+      "icra müddətini müəyyənləşdirməkdən",
+      "qanunvericiliklə müəyyən olunmuş qaydada məhv etməkdən"
+    ],
+    "answer": "A",
+    "explanation": "Cədvələ görə cavab: A."
+  },
+  {
+    "id": 44,
+    "text": "Daxil olan bütün sənədlərdə qeyd ştampı hansı hissədə vurulur?",
+    "options": [
+      "sonuncu səhifənin üz tərəfinin aşağı sağ küncündə",
+      "birinci səhifənin üz tərəfinin yuxarı sol küncündə",
+      "sonuncu səhifənin arxa tərəfinin aşağı sağ küncündə",
+      "birinci səhifənin üz tərəfinin aşağı sağ küncündə"
+    ],
+    "answer": "D",
+    "explanation": "Cədvələ görə cavab: D."
+  },
+  {
+    "id": 45,
+    "text": "Daxil olmuş sənədlər hansı gün baxılmaq üçün verilməlidir?",
+    "options": [
+      "hazırlandığı gün",
+      "imzalandığı gün",
+      "qeydə alındığı gün",
+      "göndərildiyi gün"
+    ],
+    "answer": "C",
+    "explanation": "Cədvələ görə cavab: C."
+  },
+  {
+    "id": 46,
+    "text": "Kargüzarlıq xidməti tərəfindən yoxlama zamanı aşkar olunmuş nöqsanlar nəticəsində sənədlər kimə qaytarılır?",
+    "options": [
+      "İcraçıya",
+      "Rəhbərə",
+      "Mütəxəssisə",
+      "Heç biri"
+    ],
+    "answer": "A",
+    "explanation": "Cədvələ görə cavab: A."
+  },
+  {
+    "id": 47,
+    "text": "Geniş protokollarda protokolun giriş hissəsində verilir:\n1. İclası aparan sədrin və katibin adları və soyadları\n2. Protokolu tərtib edən şəxsin adı və soyadı\n3. Dəvət edilənlərin siyahısı\n4. İclasda iştirak edən mətbuat nümayəndələrinin adları və soyadları\n5. Müzakirə ediləcək məsələlərin adları",
+    "options": [
+      "1,2,3",
+      "3,4,5",
+      "1,3,5",
+      "2,4,5"
+    ],
+    "answer": "C",
+    "explanation": "Cədvələ görə cavab: C."
+  },
+  {
+    "id": 48,
+    "text": "Əgər sənədi eyni dərəcəli iki və ya bir neçə vəzifəli şəxs imzalayırsa, onların imzaları hansı qaydada yerləşdirilir?",
+    "options": [
+      "Bir səviyyədə",
+      "Vəzifəli şəxsin adına əsasən əlifba sırası ilə",
+      "Təşkilatın kateqoriyasına sasən",
+      "Vəzifəli şəxsin soyadına əsasən əlifba sırası ilə"
+    ],
+    "answer": "A",
+    "explanation": "Cədvələ görə cavab: A."
+  },
+  {
+    "id": 49,
+    "text": "Sənədlərin və onlarda olan tapşırıqların icrasına nəzarəti kim həyata keçirir?",
+    "options": [
+      "yalnız kargüzarlıq xidməti",
+      "təşkilatların və struktur bölmələrinin rəhbərləri",
+      "yalnız daxili nəzarət bölməsi",
+      "dəftərxana işçisi"
+    ],
+    "answer": "B",
+    "explanation": "Cədvələ görə cavab: B."
+  },
+  {
+    "id": 50,
+    "text": "Sənədlərin və onlarda olan tapşırıqların icrasına bilavasitə nəzarəti kim həyata keçirir?",
+    "options": [
+      "kargüzarlıq xidməti və xüsusi yaradılmış nəzarət xidməti",
+      "təşkilatların və struktur bölmələrinin rəhbərləri",
+      "yalnız nəzarət xidməti",
+      "yalnız kargüzarlıq xidməti"
+    ],
+    "answer": "A",
+    "explanation": "Cədvələ görə cavab: A."
+  },
+  {
+    "id": 51,
+    "text": "Sənədlərin icra müddətinə nəzarət etmək kimin vəzifəsidir?",
+    "options": [
+      "təşkilat rəhbərinin",
+      "struktur bölmələrin rəhbərlərinin",
+      "nəzarət xidmətinin",
+      "kargüzarlıq xidmətinin"
+    ],
+    "answer": "A",
+    "explanation": "Cədvələ görə cavab: A."
+  },
+  {
+    "id": 52,
+    "text": "Aşağıdakı sənədlərdən hansılar nəzarətə götürülür?",
+    "options": [
+      "dövlət hakimiyyəti orqanlarının və ya yuxarı təşkilatların icra müddəti göstərilən tapşırıqlarını nəzərdə tutan sənədlər",
+      "bilavasitə normativ hüquqi aktların icrası ilə əlaqədar sənədlər",
+      "təşkilatların özlərinin icra müddəti göstərilən tapşırıqlarını nəzərdə tutan sənədlər",
+      "hər biri"
+    ],
+    "answer": "D",
+    "explanation": "Cədvələ görə cavab: D."
+  },
+  {
+    "id": 53,
+    "text": "Sənədin icra müddəti nə vaxtdan hesablanır?",
+    "options": [
+      "təşkilata daxil olduğu vaxtdan",
+      "hazırlandığı vaxtdan",
+      "göndərildiyi vaxtdan",
+      "qeydə alındığı vaxtdan"
+    ],
+    "answer": "A",
+    "explanation": "Cədvələ görə cavab: A."
+  },
+  {
+    "id": 54,
+    "text": "Sənəd dörddən çox ünvana hansı qaydada göndərilir?",
+    "options": [
+      "Bir sənəddə bütün ünvanlar göstərilir",
+      "Göndəriş siyahısı tərtib edilir və hər sənəddə yalnız bir ünvan göstərilir",
+      "Bir sənəddə iki ünvan göstərilir",
+      "Heç biri"
+    ],
+    "answer": "B",
+    "explanation": "Cədvələ görə cavab: B."
+  },
+  {
+    "id": 55,
+    "text": "Məktublar nə üçün tərtib edilir?",
+    "options": [
+      "Xahişin, xahişə cavabın, habelə informasiya xarakterli məlumatların ifadə olunması məqsədi ilə",
+      "İnformasiya xarakterli məlumatların ifadə olunması məqsədi ilə",
+      "İnformasiyaların mətbuat orqanlarına təqdim olunması məqsədi ilə",
+      "Heç biri"
+    ],
+    "answer": "A",
+    "explanation": "Cədvələ görə cavab: A."
+  },
+  {
+    "id": 56,
+    "text": "Aşağıdakılardan biri doğru deyil:",
+    "options": [
+      "sənəd dövriyyəsi kiçik olan təşkilatlarda nəzarət daxil olan, göndərilən və daxili sənədlərin qeydiyyat kitablarında həyata keçirilir",
+      "sənədlər, bir qayda olaraq, icra edilməmişdən əvvəl nəzarətdən çıxarılır",
+      "sənəd ancaq orada qaldırılan məsələlər həll olunduqda və sənəd göndərənə mahiyyətcə cavab verildikdə icra edilmiş sayılır",
+      "sənədlərin icrasının gedişi haqqında məlumat \"İcra haqqında qeyd\" sütununda qeyd edilir"
+    ],
+    "answer": "B",
+    "explanation": "Cədvələ görə cavab: B."
+  },
+  {
+    "id": 57,
+    "text": "Hansı hallarda təşkilatlarda kargüzarlıq mərkəzləşdirilməmiş qaydada aparılır?\n1. Sənəd dövriyyəsi ildə 25000 sənəddən çox olan\n2. Sənəd dövriyyəsi ildə 25000 sənəddən az olan\n3. Struktur bölmələri ayrı-ayrı ərazilərdə yerləşən\n4. Struktur bölmələri bir ərazidə yerləşən",
+    "options": [
+      "1,2",
+      "3,4",
+      "1,3",
+      "2,4"
+    ],
+    "answer": "C",
+    "explanation": "Cədvələ görə cavab: C."
+  },
+  {
+    "id": 58,
+    "text": "Razılaşdırılma qrifi ibarətdir:\n1. “Razılaşdırılmışdır” sözü\n2. Sənədin razılaşdırıldığı şəxsin vəzifəsi\n3. Sənədi tərtib edən şəxsin adı və soyadı\n4. Sənədin razılaşdırıldığı şəxsin imzası\n5. Sənədi hazırlayan orqanın vurulmuş möhürü",
+    "options": [
+      "1,2,3",
+      "3,4,5",
+      "1,3,5",
+      "1,2,4"
+    ],
+    "answer": "D",
+    "explanation": "Cədvələ görə cavab: D."
+  },
+  {
+    "id": 59,
+    "text": "Təşkilat daxilində razılaşdırma hansı qaydada həyata keçirilir?",
+    "options": [
+      "Təşkilatın rəhbərinin müavinləri arasında",
+      "Struktur bölmələrinin rəhbərləri arasında",
+      "İcraçının müəyyən etdiyi şəxslər arasında",
+      "Heç biri"
+    ],
+    "answer": "B",
+    "explanation": "Cədvələ görə cavab: B."
+  },
+  {"id": 60,
+    "text": "Kiçik hərflə yazılan vəzifə adlarını seçin:\n1. AR-nın maliyyə naziri\n2. AR Prezidenti\n3. Bakı Dövlət Universitetinin rektoru\n4. AR Baş naziri",
+    "options": [
+      "1,2",
+      "3,4",
+      "1,3",
+      "2,4"
+    ],
+    "answer": "C",
+    "explanation": "Cədvələ görə cavab: C."
+  },
+  {
+    "id": 61,
+    "text": "61. Akt kim tərəfindən imzalanır?",
+    "options": [
+      "a) Sədr",
+      "b) Katib",
+      "c) Müvafiq dövlət orqanının rəhbəri",
+      "d) Onun tərtib olunmasında iştirak edən şəxslər"
+    ],
+    "answer": "D",
+    "explanation": "Cədvələ görə düzgün cavab: D."
+  },
+  {
+    "id": 62,
+    "text": "62. Nəzarətdə olan sənədlərin icrası haqqında təşkilatın rəhbərliyinə məlumat verilir:",
+    "options": [
+      "a) Ayda 1 dəfə",
+      "b) Ayda 2 dəfə",
+      "c) Rübdə 1 dəfə",
+      "d) Rübdə 2 dəfə"
+    ],
+    "answer": "A",
+    "explanation": "Cədvələ görə düzgün cavab: A."
+  },
+  {
+    "id": 63,
+    "text": "63. Hansı əlavələrdə sənəd üçün zəruri olan elementlərin hamısı olmalıdır?",
+    "options": [
+      "a) Müstəqil sənəd olaraq müşayiət məktubu ilə göndərilən əlavələr",
+      "b) Əsas sənədin məzmununu izah edən və ya tamamlayan əlavələr",
+      "c) Müvafiq sərəncam mahiyyətli sənədlərlə təsdiq edilən əlavələr",
+      "d) Hamısı"
+    ],
+    "answer": "D",
+    "explanation": "Cədvələ görə düzgün cavab: D."
+  },
+  {
+    "id": 64,
+    "text": "64. Göndərilən sənədlərdə vizalar hansı nüsxədə qoyulur?",
+    "options": [
+      "a) Göndərilən nüsxədə",
+      "b) Təşkilatda qalan nüsxədə",
+      "c) Kargüzarlıq xidmətinin müəyyən etdiyi nüsxədə",
+      "d) Heç biri"
+    ],
+    "answer": "B",
+    "explanation": "Cədvələ görə düzgün cavab: B."
+  },
+  {
+    "id": 65,
+    "text": "65. Kollegial orqan tərəfindən qəbul edilmiş qərarlar kim tərəfindən imzalanır?",
+    "options": [
+      "a) Sədri və katibi",
+      "b) Məsul şəxs və icraçı",
+      "c) Sədr və icraçı",
+      "d) Katib və məsul şəxs"
+    ],
+    "answer": "A",
+    "explanation": "Cədvələ görə düzgün cavab: A."
+  },
+
+  {
+    "id": 66,
+    "text": "66. Kim əmrin struktur bölmələrinə və tabelikdə olan təşkilatlara göndərmək zərurətini müəyyən edir?",
+    "options": [
+      "a) Rəhbər",
+      "b) İcraçı",
+      "c) Kargüzar",
+      "d) Heç biri"
+    ],
+    "answer": "B",
+    "explanation": "Əmrin hansı struktur bölməyə göndəriləcəyini müəyyən etmək icraçının vəzifəsidir, çünki o, məzmunu və aidiyyəti üzrə ünvanı bilir."
+  },
+  {
+    "id": 67,
+    "text": "67. Sənədin tarixi hansı sətirdə səhv yazılmışdır?",
+    "options": [
+      "a) 12.07.20.",
+      "b) 12.07.2020-ci il",
+      "c) 12 iyul 2020-ci il",
+      "d) 12.07.20"
+    ],
+    "answer": "D",
+    "explanation": "Tarixdə yalnız iki rəqəmlə ili göstərmək olmaz. Doğru yazılış ili tam şəkildə göstərməklə mümkündür."
+  },
+  {
+    "id": 68,
+    "text": "68. “Kargüzarlığin aparılmasına dair Təlimat”ın tələblərinə riayət edilməsinə ümumi nəzarəti hansı qurum həyata keçirir?",
+    "options": [
+      "A) AR Prezidentinin Administrasiyasının Sənədlərlə və vətəndaşların müraciətləri ilə iş Şöbəsi",
+      "B) AR Prezidentinin Administrasiyasının işlər İdarəsinin xüsusi şöbəsi",
+      "C) AR Prezidentinin Administrasiyasının Kargüzarlıq xidməti",
+      "D) AR Prezidentinin Administrasiyasının Dəftərxana xidməti"
+    ],
+    "answer": "A",
+    "explanation": "Ümumi nəzarət AR Prezidentinin Administrasiyasının Sənədlərlə və vətəndaşların müraciətləri ilə iş Şöbəsi tərəfindən həyata keçirilir."
+  },
+  {
+    "id": 69,
+    "text": "69. “Kargüzarlığın aparılmasına dair Təlimat” hansı məsələləri tənzimləyir?",
+    "options": [
+      "A) Bu Təlimat dövlət orqanlannda, dövlət mülkiyyətində olan və paylarının (səhmlərinin) nəzarət zərfı dövlətə məxsus olmayan hüquqi şəxslərdə və büdcə təşkilatlannda kargüzarlığın aparılması işini, o cümlədən sənədlərin hazırlanmasını, qeydiyyatını, hərəkətini, icrasını, uçotunu və arxivə verilməsini tənzimləyir.",
+      "B) Bu Təlimat dövlət orqanlarında, dövlət mülkiyyətində olan və paylarının (səhmlərinin) nəzarət zərfi dövlətə məxsus olan hüquqi şəxslərdə və büdcə təşkilatlannda kargüzarlığın aparılması işini, o cümlədən sənədlərin hazırlanmasını, qeydiyyatını, hərəkətini, icrasını, uçotunu və arxivə verilməsini tənzimləyir.",
+      "C) Bu Təlimat dövlət orqanlarında, dövlət mülkiyyətində olan və paylarının (səhmlərinin) nəzarət zərfi dövlətə məxsus olan fıziki şəxslərdə və büdcə təşkilatlarında kargüzarlığın aparılması işini, o cümlədən sənədlərin hazırlanmasını, qeydiyyatını, hərəkətini, icrasını, uçotunu və arxivə verilməsini tənzimləyir.",
+      "D) Bu Təlimat dövlət orqanlarında, dövlət mülkiyyətində olan və paylarının (səhmlərinin) nəzarət zərü dövlətə məxsus olan hüquqi şəxslərdə və büdcə təşkilatlarında (bundan sonra təşkilatlar) kargüzarlığın apanlması işini, o cümlədən sənədlərin hazırlanmasını, qeydiyyatını, hərəkətini, icrasını, uçotunu və arxivə verilməməsini tənzimləyir."
+    ],
+    "answer": "B",
+    "explanation": "Təlimat dövlət orqanları və dövlətə məxsus müəssisələrdə kargüzarlığın bütün mərhələlərini tənzimləyir."
+  },
+  {
+    "id": 70,
+    "text": "70. Yerli icra hakimiyyəti orqanlarında kargüzarlıq hansı akt əsasında aparılır?",
+    "options": [
+      "A) AR-nın rayon, şəhər, şəhərlərdə rayon yerli özünüidarəetmə başçılarının aparatlarında sənədlərlə iş barədə Təlimat əsasında aparılır.",
+      "B) Dövlət orqanlannda, dövlət mülkiyyətində olan və paylarının (səhmlərinin) nəzarət zərfi dövlətə məxsus olan hüquqi şəxslərdə və büdcə təşkilatlarında kargüzarlığın aparılmasına dair Təlimat əsasında aparılır.",
+      "C) AR-nın rayon, şəhər, şəhərlərdə rayon icra hakimiyyəti başçılarının aparatlarında sənədlərlə iş barədə Təlimat əsasında aparılır.",
+      "D) AR-nın rayon, şəhər, ölkədən kənar və şəhərlərdə rayon icra hakimiyyəti başçılarının aparatlarında sənədlərlə iş barədə Təlimat əsasında aparılır."
+    ],
+    "answer": "C",
+    "explanation": "Yerli icra hakimiyyəti orqanlarında kargüzarlıq məhz onların aparatlarında sənədlərlə iş barədə Təlimat əsasında aparılır."
+  },
+  {
+    "id": 71,
+    "text": "71. “Kargüzarlığın aparılmasına dair Təlimat” a əsasən kargüzarlıq nədir?",
+    "options": [
+      "A) Kargüzarlıq təşkilatın, öz vəzifələrini həyata keçirməsi ilə əlaqədar sənədləşdirmə və sənədlərlə işin təşkili üzrə prosesdir;",
+      "B) Kargüzarlıq təşkilatın, öz vəzifələrini həyata keçirməsi ilə əlaqədar sənədləşdirmə və sənədlərlə işin təşkili üzrə fəaliyyət planıdır;",
+      "C) Kargüzarlıq təşkilatın, öz vəzifələrini həyata keçirməsi ilə əlaqədar sənədlərlə işin təşkili üzrə fəaliyyətidir.",
+      "D) Kargüzarlıq təşkilatın, öz vəzifələrini həyata keçirməsi ilə əlaqədar sənədləşdirmə və sənədlərlə işin təşkili üzrə fəaliyyətidir."
+    ],
+    "answer": "D",
+    "explanation": "Təlimata görə kargüzarlıq sənədləşdirmə və sənədlərlə işin təşkili üzrə fəaliyyətdir."
+  },
+  {
+    "id": 72,
+    "text": "72. Təşkilatlarda kargüzarlıq hansı dildə aparılır?",
+    "options": [
+      "A) Təşkilatlarda kargüzarlıq AR dövlət dilində və yerli əhalinin üstünlük təşkil etdiyi dildə aparılır.",
+      "B) Təşkilatlarda kargüzarlıq AR dövlət dilində aparılır.",
+      "C) Təşkilatlarda kargüzarlıq AR dövlət dilində və başqa dillərdə aparılır.",
+      "D) Təşkilatlarda kargüzarlıq AR dövlət dilində, o cümlədən xarici dillərdə aparılır."
+    ],
+    "answer": "B",
+    "explanation": "Qanuna görə Azərbaycanda kargüzarlıq yalnız dövlət dilində aparılır."
+  },
+  {
+    "id": 73,
+    "text": "73. Təşkilatlarda kargüzarlığın aparılması kim tərəfindən həyata keçirilir?",
+    "options": [
+      "A) Təşkilatlarda kargüzarlığın aparılması dəftərxana və ya xüsusi olaraq bu məqsəd üçün ayrılan orqan tərəfindən həyata keçirilir;",
+      "B) Təşkilatlarda kargüzarlığın aparılması dəftərxana əməkdaşları tərəfindən həyata keçirilir;",
+      "C) Təşkilatlarda kargüzarlığın aparılması xüsusi olaraq bu məqsəd üçün ayrılan bir qrup əməkdaşlar tərəfindən həyata keçirilir;",
+      "D) Təşkilatlarda kargüzarlığın aparılması dəftərxana və ya xüsusi olaraq bu məqsəd üçün ayrılan əməkdaşlar tərəfindən həyata keçirilir."
+    ],
+    "answer": "D",
+    "explanation": "Kargüzarlıq ya dəftərxana, ya da xüsusi ayrılmış əməkdaşlar tərəfindən aparılır."
+  },
+  {
+    "id": 74,
+    "text": "74. “Kargüzarlığın aparılmasına dair Təlimat”a əsasən kargüzarlıq xidməti tərəfindən bu Təlimatın tələblərinə riayət edilməsinə nəzarəti kim həyata keçirir?",
+    "options": [
+      "A) Kargüzarlıq xidməti tərəfindən bu Təlimatın tələblərinə riayət edilməsinə nəzarəti təşkilatın özü keçirir",
+      "B) Kargüzarlıq xidməti tərəfindən bu Təlimatın tələblərinə riayət edilməsinə nəzarəti təşkilatın əməkdaşları həyata keçirir;",
+      "C) Kargüzarlıq xidməti tərəfindən bu Təlimatın tələblərinə riayət edilməsinə nəzarəti bu məqsəd üçün ayrılan təşkilatın əməkdaşları həyata keçirir;",
+      "D) Kargüzarlıq xidməti tərəfindən bu Təlimatın tələblərinə riayət edilməsinə nəzarəti təşkilatın rəhbərliyi həyata keçirir."
+    ],
+    "answer": "D",
+    "explanation": "Nəzarəti təşkilatın rəhbərliyi həyata keçirir."
+  },
+  {
+    "id": 75,
+    "text": "75. “Kargüzarlığın aparılmasına dair Təlimat”a əsasən tabe təşkilatlarda kargüzarlığın aparılması qaydalarına riayət olunması üzərində nəzarətin təşkilini kim həyata keçirir?",
+    "options": [
+      "A) ... təşkilatın özü daşıyır",
+      "B) ... onların baş təşkilatları daşıyır.",
+      "C) ... Rabitə və İnformasiya Texnologiyaları Nazirliyi daşıyır",
+      "D) ... təşkilatın struktur bölməsi daşıyır"
+    ],
+    "answer": "B",
+    "explanation": "Tabe təşkilatlarda nəzarəti onların baş təşkilatları həyata keçirir."
+  },
+  {
+    "id": 76,
+    "text": "76. “Kargüzarlığın aparılmasına dair Təlimat”a əsasən kargüzarlıq xidmətinin əsas vəzifələrinə aiddir:",
+    "options": [],
+    "answer": null,
+    "explanation": "Məlumat yoxdur"
+  },
+  {
+    "id": 77,
+    "text": "77. “Kargüzarlığın aparılmasına dair Təlimat”a əsasən strukturdan, habelə sənəd dövriyyəsinin həcmindən asılı olaraq, kargüzarlıq sistemi hansı formada ola bilər?",
+    "options": [
+      "A) ... xüsusi və adi ola bilər",
+      "B) ... mərkəzləşdirilmiş və mərkəzləşdirilməmiş ola bilər",
+      "C) ... ancaq mərkəzləşdirilmiş ola bilər",
+      "D) ... xüsusi və ümumi ola bilər"
+    ],
+    "answer": "B",
+    "explanation": "Təlimata görə kargüzarlıq mərkəzləşdirilmiş və ya mərkəzləşdirilməmiş ola bilər."
+  },
+  {
+    "id": 78,
+    "text": "78. “Kargüzarlığın aparılmasına dair Təlimat”a əsasən hansı təşkilatlarda kargüzarlıq mərkəzləşdirilmiş qaydada aparılır?",
+    "options": [
+      "A) Strukturu mürəkkəb, sənəd dövriyyəsi isə ildə 25000 sənəddən çox olan, habelə struktur bölmələri ayrı-ayrı ərazilərdə yerləşən təşkilatlarda",
+      "B) Struktur bölmələrinin sayı çox, sənəd dövriyyəsi isə ildə 25000 sənədə qədər olan təşkilatlarda",
+      "C) Struktur bölmələrinin sayı az, sənəd dövriyyəsi isə ildə 25000 sənədə qədər olan təşkilatlarda",
+      "D) Struktur bölmələrinin sayı az, sənəd dövriyyəsi isə ildə 25000 sənəddən çox olan təşkilatlarda"
+    ],
+    "answer": "A",
+    "explanation": "Sənəd dövriyyəsi böyük və struktur mürəkkəb olduqda kargüzarlıq mərkəzləşdirilir."
+  },
+  {
+    "id": 79,
+    "text": "79. Hansı hallarda təşkilatlarda kargüzarlıq mərkəzləşdirilməmiş qaydada aparılır?",
+    "options": [],
+    "answer": null,
+    "explanation": "Məlumat yoxdur"
+  },
+  {
+    "id": 80,
+    "text": "80. Mərkəzləşdirilməmiş kargüzarlıq sistemində kargüzarlıq xidməti hansı işləri həyata keçirir?",
+    "options": [
+      "A) ... qəbulunu, göndərilməsini, uçotunu, paylanmasını, habelə sənədlərin qeydə alınmasını, rəsmiləşdirilməsini, işlərin formalaşdırılmasını həyata keçirir;",
+      "B) ... qəbulunu, göndərilməsini, uçotunu, struktur bölmələrinə paylanmasını həyata keçirir;",
+      "C) ... yalnız mərkəzləşdirilmiş sistemdə bu funksiyaları yerinə yetirir;",
+      "D) ... sənədlərin qeydə alınmasını, rəsmiləşdirilməsini, işlərin formalaşdırılmasını həyata keçirir."
+    ],
+    "answer": "A",
+    "explanation": "Mərkəzləşdirilməmiş sistemdə dəftərxana qəbul, qeydiyyat, paylama və rəsmiləşdirmə işlərini icra edir."
+  },
+  {
+    "id": 81,
+    "text": "81. Təşkilat və struktur bölmələrinin rəhbərləri dəyişdirildikdə, işlər və ya icrada olan sənədlərlə hansı iş görülür?",
+    "options": [
+      "A) ... qanunverciliyə uyğun olaraq məhv edilir",
+      "B) ... akt üzrə qəbul edilir və təhvil verilir. Aktın bir nüsxəsi kargüzarlıq xidmətində saxlanılır.",
+      "C) ... arxivə göndərilir",
+      "D) ... Nazirlər Kabinetinə təhvil verilir"
+    ],
+    "answer": "B",
+    "explanation": "Rəhbər dəyişdikdə işlər və icrada olan sənədlər akt tərtib edilərək qəbul-təhvil qaydasında verilir."
+  },
+  {
+    "id": 82,
+    "text": "82. “Kargüzarlığın aparılmasına dair Təlimat”a əsasən doğrudur:",
+    "options": [
+      "A) ... təşkilat rəhbərinə akt üzrə təhvil verir",
+      "B) ... müvafiq vəzifəyə yeni təyin edilən və ya həmin vəzifəni müvəqqəti icra edən şəxsə akt üzrə təhvil verir",
+      "C) ... arxivə akt üzrə təhvil verir",
+      "D) ... dəftərxanaya və ya kargüzarlıq xidmətinə akt üzrə təhvil verir"
+    ],
+    "answer": "B",
+    "explanation": "İcraçı işdən çıxarıldıqda işlər və sənədlər yeni təyin edilən və ya müvəqqəti icra edən şəxsə akt üzrə təhvil verilir."
+  },
+  {
+    "id": 83,
+    "text": "83. “Kargüzarlığın aparılmasına dair Təlimat”a əsasən akta aiddir:",
+    "options": [
+      "A) Aktda ... icra vəziyyəti göstərilməməklə sadalanır.",
+      "B) Aktda ... icraçının adı göstərilməklə sadalanır.",
+      "C) Aktda ... icraçının vəzifəsi göstərilməklə sadalanır.",
+      "D) Aktda ... icra vəziyyəti göstərilməklə sadalanır."
+    ],
+    "answer": "D",
+    "explanation": "Aktda bütün işlər və sənədlər icra vəziyyəti göstərilməklə sadalanır."
+  },
+  {
+    "id": 84,
+    "text": "84. Təşkilatlarda sərəncam mahiyyətli sənədlərin (qərarlar, sərəncamlar, əmrlər) yaranmasının hüquqi əsaslarına aid deyil?",
+    "options": [
+      "A) Qüvvədə olan normativ hüquqi aktların tələbləri",
+      "B) Təşkilat rəhbərinin konkret tapşırıqları",
+      "C) Hüquqi baxımdan zərurətin yaranması",
+      "D) Cari təşkilati-sərəncamverici fəaliyyət"
+    ],
+    "answer": "C",
+    "explanation": "Sərəncam sənədlərinin hüquqi əsasları normativ aktlar, rəhbərin tapşırıqları və cari fəaliyyətlə bağlı olur, hüquqi baxımdan ümumi zərurət ayrıca əsas deyil."
+  },
+  {
+    "id": 85,
+    "text": "85. Sənədlər hansı halda blanksız tərtib edilir?",
+    "options": [
+      "A) Heç bir halda blanksız tərtib edilə bilməz",
+      "B) İki və ya daha artıq təşkilat adından hazırlanarsa",
+      "C) Rəhbərin göstərişi ilə",
+      "D) Qarşılıqlı razılıqla"
+    ],
+    "answer": "B",
+    "explanation": "Sənəd iki və ya daha çox təşkilat adından hazırlananda blankdan istifadə olunmur."
+  },
+  {
+    "id": 86,
+    "text": "86. Aşağıdakılardan biri doğru deyil:",
+    "options": [
+      "A) ... “Sərəncam sənədləri sistemi. Formulyar-nümunə” 6.38-90 standart üzrə hazırlanır",
+      "B) Blanklar 1 nömrəli ağ yazı kağızından hazırlanmalıdır",
+      "C) Tez-tez təkrarlanan sənədlər üçün trafaret mətnli blanklardan istifadə edilə bilər",
+      "D) Açıq rəngli, zəif boyalı kağız işlətməyə yol verilmir"
+    ],
+    "answer": "B",
+    "explanation": "Blankların kağız nömrəsi ilə bağlı məcburilik yoxdur, əsas tələblər forma və rənglə bağlıdır."
+  },
+  {
+    "id": 87,
+    "text": "87. Doğru fikri müəyyən edin:",
+    "options": [],
+    "answer": null,
+    "explanation": "Məlumat yoxdur"
+  },
+  {
+    "id": 88,
+    "text": "88. Aşağıdakı fikirlərdən hansı doğrudur?",
+    "options": [
+      "A) Blanklarda sənəd növünün adı əlyazma ilə yazılır",
+      "B) Blanklarda sənəd növünün adı mətbəə üsulu ilə yazılır",
+      "C) Blanklarda sənəd növünün adı yazılmır",
+      "D) Blanklarda sənəd növünün tarixi və hazırlayan şəxsin rekvizitləri yazılır"
+    ],
+    "answer": "B",
+    "explanation": "Doğru qayda budur: sənəd növünün adı mətbəə üsulu ilə blank üzərində yazılır."
+  },
+  {
+    "id": 89,
+    "text": "89. Təşkilatların mətbəə üsulu ilə hazırlanan blanklarında hansı rekvizitlər çap edilmir?",
+    "options": [],
+    "answer": null,
+    "explanation": "Məlumat yoxdur"
+  },
+  {
+    "id": 90,
+    "text": "90. Rekvizitlər blankın hansı hissəsində çap edilir?",
+    "options": [
+      "A) Yuxarı hissəsində eninə, AR dövlət dilində",
+      "B) Aşağı hissəsində eninə, AR dövlət dilində",
+      "C) Yuxarı sağ küncündə eninə, AR dövlət dilində",
+      "D) Aşağı sağ küncündə eninə, AR dövlət dilində"
+    ],
+    "answer": "A",
+    "explanation": "Rekvizitlər blankın yuxarı hissəsində, eninə və dövlət dilində çap olunur."
+  },
+  {
+    "id": 91,
+    "text": "91. Xarici dildə çap edilmiş rekvizitlərə malik blanklardan istifadə edilməsinə hansı halda yol verilir?",
+    "options": [
+      "A) Yalnız sənədin mətni həmin blankı göndərən təşkilat tərəfindən xarici dildə yazıldıqda",
+      "B) Yalnız sənədin mətni xarici dillə yanaşı Azərbaycan dilində də yazıldıqda",
+      "C) Heç vaxt yol verilmir",
+      "D) Yalnız sənədin mətni həmin blankı qəbul edən təşkilat tərəfindən xarici dildə yazıldıqda"
+    ],
+    "answer": "A",
+    "explanation": "Xarici dildə rekvizitli blanklardan yalnız göndərən təşkilat sənədi xarici dildə hazırladıqda istifadə edilə bilər."
+  },
+  {
+    "id": 92,
+    "text": "92. Plan, maliyyə, statistika sənədləri və başqa xüsusi sənədlər necə tərtib edilir?",
+    "options": [
+      "A) Qanunvericiliklə və beynəlxalq müqavilələrlə müəyyən edilmiş qaydada",
+      "B) Qanunvericiliklə və rəhbərin şəxsi göstərişi ilə müəyyən edilmiş qaydada",
+      "C) Qanunvericiliklə və daxili normativ aktlarla müəyyən edilmiş qaydada",
+      "D) Yalnız qanunvericiliklə müəyyən edilmiş qaydada"
+    ],
+    "answer": "C",
+    "explanation": "Belə sənədlər qanunvericiliklə yanaşı, təşkilatın daxili normativ aktları əsasında hazırlanır."
+  },
+  {
+    "id": 93,
+    "text": "93. Sənədlər hazırlanarkən hansı qeydlərin yazılması zəruri deyil:",
+    "options": [
+      "A) Təşkilatın adı (blankda əks olunur)",
+      "B) Başlıq (xüsusilə A5 formatlı sənədlərdə)",
+      "C) Ünvan",
+      "D) Tarix və nömrə"
+    ],
+    "answer": "B",
+    "explanation": "A5 formatlı və bəzi qısa sənədlərdə başlıq yazılması tələb olunmur."
+  },
+  {
+    "id": 94,
+    "text": "94. Sənədlər hazırlanarkən hansı qeydlərin yazılması zəruri deyil:",
+    "options": [
+      "A) Sənəd növünün adı",
+      "B) Mətnin razılaşdırılması haqqında qeydlər",
+      "C) Sənədin rəsmiləşdirilməsi",
+      "D) Sənədin hərəkəti və icrası haqqında qeydlər"
+    ],
+    "answer": "B",
+    "explanation": "Razılaşdırma qeydləri bütün sənədlərdə məcburi deyil."
+  },
+  {
+    "id": 95,
+    "text": "95. Bir qayda olaraq, sənədlərin mətnləri neçə hissədən ibarət olur?",
+    "options": [
+      "A) Bir",
+      "B) Dörd",
+      "C) Üç",
+      "D) İki"
+    ],
+    "answer": "D",
+    "explanation": "Əksər sənədlər giriş və əsas hissədən ibarət olur."
+  },
+  {
+    "id": 96,
+    "text": "96. Sənədin yaranması üçün başqa sənəd əsas olduqda, birinci hissədə göstərilir:",
+    "options": [],
+    "answer": null,
+    "explanation": "Məlumat yoxdur"
+  },
+  {
+    "id": 97,
+    "text": "97. Aşağıdakılardan hansı doğru deyil?",
+    "options": [
+      "A) Birinci hissədə əsas götürülmüş sənədin adı, nömrəsi, tarixi göstərilir",
+      "B) İkinci hissədə nəticələr, təkliflər və qərarlar ifadə olunur",
+      "C) Mətn yalnız son hissədən ibarət ola bilər",
+      "D) Birinci hissədə əsas götürülmüş faktların təsviri verilir"
+    ],
+    "answer": "C",
+    "explanation": "Sənədin mətni yalnız son hissədən ibarət ola bilməz."
+  },
+  {
+    "id": 98,
+    "text": "98. Sənədin başlığı hansı hissədə yazılır?",
+    "options": [
+      "A) Vərəqin yuxarı sağ küncündə, mətndən əvvəl",
+      "B) Vərəqin yuxarı sol küncündə, mətndən sonra",
+      "C) Vərəqin ortasında, mətndən əvvəl",
+      "D) Vərəqin yuxarı sol küncündə, mətndən əvvəl"
+    ],
+    "answer": "C",
+    "explanation": "Sənədin başlığı adətən ortada, mətndən əvvəl yazılır."
+  },
+  {
+    "id": 99,
+    "text": "99. Hansı fikir doğru deyil:",
+    "options": [
+      "A) İkinci hissənin mətni bəndlərə və yarımbəndlərə bölünə bilər",
+      "B) Mətn vahid şəklə salına bilər",
+      "C) Trafaret mətnlərdən istifadə oluna bilər",
+      "D) Başlıq həmişə çox uzun və ətraflı yazılmalıdır"
+    ],
+    "answer": "D",
+    "explanation": "Başlıq qısa və dəqiq olmalıdır, uzun və ətraflı olmamalıdır."
+  },
+  {
+    "id": 100,
+    "text": "100. Hansı fikir doğrudur:",
+    "options": [
+      "A) Ünvan sahibinin adı, soyadı və ata adı göstərilir",
+      "B) Ünvan sahibinin ev ünvanı yazılır",
+      "C) Ünvan sahibinin təhsili yazılır",
+      "D) Ünvan sahibinin yalnız adı və soyadı göstərilir"
+    ],
+    "answer": "A",
+    "explanation": "Göndərilən sənədlərdə ünvan sahibinin tam adı və ata adı göstərilməlidir."
+  },
+  {
+    "id": 101,
+    "text": "101. Sənəd təşkilata və ya onun struktur bölməsinə göndərilirsə düzgün cavabı seçin:",
+    "options": [
+      "A) Azərbaycan Respublikasının Yanacaq və Energetika Nazirliyinə",
+      "B) Azərbaycan Respublikasının İqtisadi İnkişaf Nazirliyinə",
+      "C) Azərbaycan Respublikasının Maliyyə Nazirliyinə",
+      "D) Azərbaycan Respublikasının Sosial Müdafiə Nazirliyinə"
+    ],
+    "answer": "C",
+    "explanation": "Cədvələ görə cavab Maliyyə Nazirliyinədir."
+  },
+  {
+    "id": 102,
+    "text": "102. Sənəd konkret vəzifəli şəxsə ünvanlanırsa düzgün yazılış qaydasını seçin:",
+    "options": [
+      "A) Azərbaycan Respublikası Təhsil Nazirliyinin struktur bölməsinin rəhbəri cənab Babək Niftəliyevə",
+      "B) Azərbaycan Respublikasının Təhsil Nazirliyinin struktur bölməsinin rəhbəri cənab Babək Niftəliyevə",
+      "C) Azərbaycan Respublikası Təhsil Nazirliyi struktur bölməsinin rəhbəri cənab Babək Niftəliyevə",
+      "D) Azərbaycan Respublikası Təhsil Nazirliyinin struktur bölməsi rəhbəri cənab Babək Niftəliyevə"
+    ],
+    "answer": "B",
+    "explanation": "Düzgün qayda 'Azərbaycan Respublikasının ... Nazirliyinin ... rəhbəri' formasındadır."
+  },
+  {
+    "id": 103,
+    "text": "103. Sənəd dörddən çox ünvana hansı qaydada göndərilir?",
+    "options": [
+      "A) Bütün ünvanlar bir sənəddə göstərilir",
+      "B) Göndəriş siyahısı tərtib olunur, hər sənəddə yalnız bir ünvan göstərilir",
+      "C) Hər sənəddə iki ünvan göstərilir",
+      "D) İstənilən qədər ünvan bir sənəddə göstərilə bilər"
+    ],
+    "answer": "B",
+    "explanation": "Dörddən çox ünvana sənəd göndəriləndə göndəriş siyahısı tərtib edilir."
+  },
+  {
+    "id": 104,
+    "text": "104. Doğru variantı seçin:",
+    "options": [
+      "A) Sənədin düzgün tərtibi rəhbərin vəzifəsidir",
+      "B) Sənədin düzgün tərtibi icraçının vəzifəsidir",
+      "C) Sənədin düzgün tərtibi struktur rəhbərinin vəzifəsidir",
+      "D) Sənədin düzgün tərtibi icraçı köməkçisinin vəzifəsidir"
+    ],
+    "answer": "B",
+    "explanation": "Sənədin düzgün tərtibi və məzmununa görə məsuliyyət icraçıya aiddir."
+  },
+  {
+    "id": 105,
+    "text": "105. Sənədin tarixi hesab edilir:",
+    "options": [
+      "A) İmzalandığı və ya təsdiq edildiyi tarix",
+      "B) Təşkilata daxil olduğu tarix",
+      "C) Qeydiyyata alındığı tarix",
+      "D) Hazırlandığı tarix"
+    ],
+    "answer": "A",
+    "explanation": "Sənədin tarixi onun imzalanması və ya təsdiqi günüdür."
+  },
+  {
+    "id": 106,
+    "text": "106. Sənədin tarixi hansı ardıcıllıqla yazılır?",
+    "options": [
+      "A) Gün, ay, il",
+      "B) İl, ay, gün",
+      "C) Ay, il, gün",
+      "D) Gün, il, ay"
+    ],
+    "answer": "A",
+    "explanation": "Azərbaycan standartına görə tarix gün, ay, il ardıcıllığında yazılır."
+  },
+  {
+    "id": 107,
+    "text": "107. Doğru fikir hansıdır?",
+    "options": [
+      "A) Tarixlər rəqəmlə və hərflə yazılmalıdır",
+      "B) Tarixlər yalnız hərflə yazılmalıdır",
+      "C) Tarixlər yalnız rəqəmlə yazılmalıdır",
+      "D) Tarixlər ümumiyyətlə yazılmır"
+    ],
+    "answer": "A",
+    "explanation": "Tarixlər həm rəqəmlə, həm də hərflə ifadə olunur."
+  },
+  {
+    "id": 108,
+    "text": "108. Hansı yazılış qaydası doğru deyil:",
+    "options": [
+      "A) 15.12.20",
+      "B) 15.12.2020-ci il",
+      "C) 15 dekabr 2020-ci il",
+      "D) 15/12/20"
+    ],
+    "answer": "D",
+    "explanation": "Tarixlərdə '/' işarəsi istifadə edilmir, yalnız nöqtə və ya sözlə yazılır."
+  },
+  {
+    "id": 109,
+    "text": "109. Sənədin tarixi kim tərəfindən qoyulur?",
+    "options": [
+      "A) Onu imzalayan və ya təsdiq edən şəxs tərəfindən",
+      "B) Onu hazırlayan icraçı tərəfindən",
+      "C) Kargüzarlıq xidməti tərəfindən",
+      "D) Sənədi alan şəxs tərəfindən"
+    ],
+    "answer": "A",
+    "explanation": "Tarixi sənədə hüquqi qüvvə verən şəxs, yəni imzalayan və ya təsdiq edən yazır."
+  },
+  {
+    "id": 110,
+    "text": "110. Doğru fikir hansıdır?",
+    "options": [
+      "A) Qeydiyyat nömrəsi işin nomenklatur nömrəsi və sıra nömrəsindən ibarətdir, qeydə alınma zamanı verilir",
+      "B) Qeydiyyat nömrəsi göndərilmə zamanı verilir",
+      "C) Qeydiyyat nömrəsi yalnız sıra nömrəsindən ibarətdir",
+      "D) Qeydiyyat nömrəsi işin nomenklatur nömrəsi və sıra nömrəsindən ibarətdir, amma göndərilmə zamanı verilir"
+    ],
+    "answer": "A",
+    "explanation": "Qeydiyyat nömrəsi işin nomenklatur nömrəsi və sıra nömrəsindən ibarətdir, qeydə alınma zamanı verilir."
+  },
+  ]
+  }
