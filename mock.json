@@ -1,0 +1,84 @@
+{
+  "categories": [
+    {
+      "id": "dovlet_bayragi",
+      "name": "Dovlet Bayragi",
+      "file": "Dovlet_Bayragi.json"
+    },
+    {
+      "id": "dovlet_dili",
+      "name": "Dovlet Dili",
+      "file": "Dovlet_Dili.json"
+    },
+    {
+      "id": "dovlet_gerbi",
+      "name": "Dovlet Gerbi",
+      "file": "Dovlet_Gerbi.json"
+    },
+    {
+      "id": "dovlet_himni",
+      "name": "Dovlet Himni",
+      "file": "Dovlet_Himni.json"
+    },
+    {
+      "id": "dovlet_qullugu",
+      "name": "Dovlet qullugu",
+      "file": "Dovlet_qullugu.json"
+    },
+    {
+      "id": "dovlet_qulluqcularinin_etik_davranis_qaydalari",
+      "name": "Dovlet qulluqcularinin etik davranis qaydalari",
+      "file": "Dovlet_qulluqcularinin_etik_davranis_qaydalari.json"
+    },
+    {
+      "id": "elektron_imza_ve_elektron_sened",
+      "name": "Elektron imza ve elektron sened",
+      "file": "Elektron_imza_ve_elektron_sened.json"
+    },
+    {
+      "id": "gomruk",
+      "name": "Gomruk",
+      "file": "Gomruk.json"
+    },
+    {
+      "id": "ÿnzibati_icraat",
+      "name": "ÿnzibati icraat",
+      "file": "ÿnzibati_icraat.json"
+    },
+    {
+      "id": "karguzarliq",
+      "name": "Karguzarliq",
+      "file": "Karguzarliq.json"
+    },
+    {
+      "id": "konstitusiya",
+      "name": "Konstitusiya",
+      "file": "Konstitusiya.json"
+    },
+    {
+      "id": "korrupsiyaya_qarsi_mubarize",
+      "name": "Korrupsiyaya qarsi mubarize",
+      "file": "Korrupsiyaya_qarsi_mubarize.json"
+    },
+    {
+      "id": "melumat_azadligi",
+      "name": "Melumat azadligi",
+      "file": "Melumat_azadligi.json"
+    },
+    {
+      "id": "mÿq_kurikulum",
+      "name": "MÿQ Kurikulum",
+      "file": "MÿQ_Kurikulum.json"
+    },
+    {
+      "id": "miqrasiya",
+      "name": "Miqrasiya",
+      "file": "Miqrasiya.json"
+    },
+    {
+      "id": "vetendaslarin_muracietleri",
+      "name": "Vetendaslarin muracietleri",
+      "file": "Vetendaslarin_muracietleri.json"
+    }
+  ]
+}

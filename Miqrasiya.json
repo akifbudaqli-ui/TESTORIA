@@ -1,0 +1,4 @@
+{
+  "id": "Miqrasiya",
+  "raw_js": "export const Miqrasiya = {\n  name: \"Miqrasiya\",\n  questions: [\n    {\n      text: \"Miqrasiya üzrə nümunə sual 1?\",\n      options: [\"A\", \"B\", \"C\", \"D\"],\n      correctAnswer: 0,\n      explanation: \"İzah 1\"\n    },\n    {\n      text: \"Miqrasiya üzrə nümunə sual 2?\",\n      options: [\"A\", \"B\", \"C\", \"D\"],\n      correctAnswer: 1,\n      explanation: \"İzah 2\"\n    }\n  ]\n};\n"
+}

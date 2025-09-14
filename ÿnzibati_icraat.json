@@ -1,0 +1,4 @@
+{
+  "id": "ÿnzibati_icraat",
+  "raw_js": "export const İnzibati_icraat = {\n  name: \"İnzibati icraat\",\n  questions: [\n    {\n      text: \"İnzibati_icraat üzrə nümunə sual 1?\",\n      options: [\"A\", \"B\", \"C\", \"D\"],\n      correctAnswer: 0,\n      explanation: \"İzah 1\"\n    },\n    {\n      text: \"İnzibati_icraat üzrə nümunə sual 2?\",\n      options: [\"A\", \"B\", \"C\", \"D\"],\n      correctAnswer: 1,\n      explanation: \"İzah 2\"\n    }\n  ]\n};\n"
+}

@@ -1,0 +1,4 @@
+{
+  "id": "Elektron_imza_ve_elektron_sened",
+  "raw_js": "export const Elektron_imza_ve_elektron_sened = {\n  name: \"Elektron imza və elektron sənəd\",\n  questions: [\n    {\n      text: \"Elektron_imza_və_elektron_sənəd üzrə nümunə sual 1?\",\n      options: [\"A\", \"B\", \"C\", \"D\"],\n      correctAnswer: 0,\n      explanation: \"İzah 1\"\n    },\n    {\n      text: \"Elektron_imza_və_elektron_sənəd üzrə nümunə sual 2?\",\n      options: [\"A\", \"B\", \"C\", \"D\"],\n      correctAnswer: 1,\n      explanation: \"İzah 2\"\n    }\n  ]\n};\n"
+}
