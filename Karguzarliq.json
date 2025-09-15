@@ -11,7 +11,7 @@
       "təşkilatın, öz vəzifələrini həyata keçirməsi ilə əlaqədar sənədləşdirmə və sənədlərlə işin təşkili üzrə fəaliyyətidir",
       "vəzifə təlimatlarının yerinə yetirilməsinə nəzarət xidmətidir"
     ],
-    "answer": "C",
+    "correctAnswer": "C",
     "explanation": "Kargüzarlıq sənədləşdirmə və sənədlərlə işin təşkili fəaliyyətidir."
   },
   {
@@ -23,7 +23,7 @@
       "1,3,5",
       "Hamısı"
     ],
-    "answer": "A",
+    "correctAnswer": "A",
     "explanation": "Əsas vəzifələr: 1,2,4,6."
   },
   {
@@ -35,7 +35,7 @@
       "ancaq mərkəzləşdirilmiş",
       "xüsusi və ümumi"
     ],
-    "answer": "B",
+    "correctAnswer": "B",
     "explanation": "Kargüzarlıq sistemi struktur və sənəd dövriyyəsindən asılı olaraq mərkəzləşdirilmiş və ya mərkəzləşdirilməmiş ola bilər."
   },
   {
@@ -47,7 +47,7 @@
       "struktur bölmələrinin sayı az, sənəd dövriyyəsi isə ildə 25000 sənədə qədər olan təşkilatlarda",
       "struktur bölmələrinin sayı az, sənəd dövriyyəsi isə ildə 25000 sənəddən çox olan təşkilatlarda"
     ],
-    "answer": "C",
+    "correctAnswer": "C",
     "explanation": "Cavab cədvəldə göstərilib: C."
   },
   {
@@ -59,7 +59,7 @@
       "2,3,4,5",
       "Hamısı"
     ],
-    "answer": "D",
+    "correctAnswer": "D",
     "explanation": "Cavab cədvəldə göstərilib: D (Hamısı)."
   },
   {
@@ -71,7 +71,7 @@
       "arxivə göndərilir",
       "qanunvericilikdə belə hal nəzərdə tutulmayıb"
     ],
-    "answer": "B",
+    "correctAnswer": "B",
     "explanation": "İşlər akt üzrə qəbul-təslim edilir."
   },
   {
@@ -83,7 +83,7 @@
       "arxivə akt üzrə təhvil verir",
       "dəftərxanaya və ya kargüzarlıq xidmətinə akt üzrə təhvil verir"
     ],
-    "answer": "B",
+    "correctAnswer": "B",
     "explanation": "İcraçı sənədləri yeni vəzifəli şəxsə təhvil verir."
   },
   {
@@ -95,7 +95,7 @@
       "2,3",
       "1,4"
     ],
-    "answer": "B",
+    "correctAnswer": "B",
     "explanation": "Bütün sadalanan əsaslar hüquqi baza yaradır."
   },
   {
@@ -107,7 +107,7 @@
       "rəhbərin göstərişi ilə",
       "təşkilatların qarşılıqlı razığı ilə"
     ],
-    "answer": "B",
+    "correctAnswer": "B",
     "explanation": "Cədvələ görə: B."
   },
   {
@@ -119,7 +119,7 @@
       "c",
       "d"
     ],
-    "answer": "D",
+    "correctAnswer": "D",
     "explanation": "Cədvələ görə cavab D-dir."
   },
   {
@@ -131,7 +131,7 @@
       "2,3,5,6",
       "1,2,3,4"
     ],
-    "answer": "C",
+    "correctAnswer": "C",
     "explanation": "Cədvələ görə cavab: C."
   },
   {
@@ -143,7 +143,7 @@
       "yalnız sənədin mətni həmin blankı göndərən təşkilat tərəfindən xarici dildə yazıldıqda yol verilir",
       "yalnız təşkilat rəhbərinin göstərişi ilə hər zaman"
     ],
-    "answer": "C",
+    "correctAnswer": "C",
     "explanation": "Cədvələ görə cavab: C."
   },
   {
@@ -155,7 +155,7 @@
       "üç",
       "iki"
     ],
-    "answer": "D",
+    "correctAnswer": "D",
     "explanation": "Cədvələ görə cavab: D (iki hissədən)."
   },
   {
@@ -167,7 +167,7 @@
       "vərəqin ortasında, mətndən əvvəl",
       "vərəqin yuxarı sol küncündə,mətndən əvvəl"
     ],
-    "answer": "C",
+    "correctAnswer": "C",
     "explanation": "Cədvələ görə cavab: C."
   },
   {
@@ -179,7 +179,7 @@
       "iki",
       "dörd"
     ],
-    "answer": "D",
+    "correctAnswer": "D",
     "explanation": "Cədvələ görə cavab: D."
   },
   {
@@ -191,7 +191,7 @@
       "sənədin qeydiyyata alındığı tarixi",
       "sənədin hazırlandığı tarix"
     ],
-    "answer": "A",
+    "correctAnswer": "A",
     "explanation": "Cədvələ görə cavab: A."
   },
   {
@@ -203,7 +203,7 @@
       "ay, ili, ayın tarixi",
       "ayın tarixi, il, ay"
     ],
-    "answer": "A",
+    "correctAnswer": "A",
     "explanation": "Cədvələ görə cavab: A."
   },
   {
@@ -215,7 +215,7 @@
       "sənəd dəftərxanada qeydiyyata alınır",
       "təşkilatın rəhbərinin göstərişi ilə məxfiləşdirilir"
     ],
-    "answer": "A",
+    "correctAnswer": "A",
     "explanation": "Cədvələ görə cavab: A."
   },
   {
@@ -227,7 +227,7 @@
       "c",
       "d"
     ],
-    "answer": "D",
+    "correctAnswer": "D",
     "explanation": "Cədvələ görə cavab: D."
   },
   {
@@ -239,7 +239,7 @@
       "“Təsdiq edirəm” və ya “Qəbul edirəm”",
       "“Etiraz etmirəm” və ya “Razıyam”"
     ],
-    "answer": "B",
+    "correctAnswer": "B",
     "explanation": "Cədvələ görə cavab: B."
   },
   {
@@ -251,7 +251,7 @@
       "sənədin hər hansı bir vərəqində",
       "sənədin titul vərəqinin yuxarı sağ küncündə"
     ],
-    "answer": "D",
+    "correctAnswer": "D",
     "explanation": "Cədvələ görə cavab: D."
   },
   {
@@ -263,7 +263,7 @@
       "qanunvericilikdə nəzərdə tutulmuş qaydada məhv edilmək məqsədilə",
       "arxivə göndərilmək məqsədilə"
     ],
-    "answer": "B",
+    "correctAnswer": "B",
     "explanation": "Cədvələ görə cavab: B."
   },
   {
@@ -275,7 +275,7 @@
       "c",
       "d"
     ],
-    "answer": "B",
+    "correctAnswer": "B",
     "explanation": "Cədvələ görə cavab: B."
   },
   {
@@ -287,7 +287,7 @@
       "dövlət orqanının rəhbərinə göndərilən sənədlər göndərən dövlət orqanının rəhbəri tərəfindən, o olmadıqda isə onun vəzifəsini icra edən müavini tərəfindən imzalanmalıdır",
       "əgər sənədi imzalamalı olan şəxs yoxdursa, sənəd heç bir şəxs tərəfindən imzalana bilməz"
     ],
-    "answer": "D",
+    "correctAnswer": "D",
     "explanation": "Cədvələ görə cavab: D."
   },
   {
@@ -299,7 +299,7 @@
       "Möhür vəzifə adı və şəxsi imza ilə üst-üstə düşməlidir",
       "Dövlət gerbi əks olunmuş möhürü olmayan təşkilatlar əsas möhürdən istifadə edirlər"
     ],
-    "answer": "C",
+    "correctAnswer": "C",
     "explanation": "Cədvələ görə cavab: C."
   },
   {
@@ -311,7 +311,7 @@
       "30 mm, ən azı 8 mm, 5 mm",
       "20 mm, 8 mm, 2 mm"
     ],
-    "answer": "A",
+    "correctAnswer": "A",
     "explanation": "Cədvələ görə cavab: A."
   },
   {
@@ -323,7 +323,7 @@
       "Rayon (şəhər) icra hakimiyyəti orqanlarının adlarında bütün sözlərin baş hərfi böyük yazılır",
       "Sənədin hər abzasının birinci sətri sol sahənin hüdudundan beş-səkkiz çap işarəsi intervalı ilə çap edilir"
     ],
-    "answer": "A",
+    "correctAnswer": "A",
     "explanation": "Cədvələ görə cavab: A."
   },
   {
@@ -335,7 +335,7 @@
       "müstəqil sənəd olaraq müşayiət məktubu ilə göndərilən əlavələr",
       "hamısı"
     ],
-    "answer": "D",
+    "correctAnswer": "D",
     "explanation": "Cədvələ görə cavab: D."
   },
   {
@@ -347,7 +347,7 @@
       "əgər qoşmalar kitab şəklində bağlanmışdırsa",
       "hamısı"
     ],
-    "answer": "C",
+    "correctAnswer": "C",
     "explanation": "Cədvələ görə cavab: C."
   },
   {
@@ -359,7 +359,7 @@
       "sənədin surətləri kompüter (makina) üsulu ilə təşkilatın blankında deyil, adı vərəqdə hazırlanarsa, blankın rekvizitləri daxil edilmədən, sənədin mətni qismən köçürülür",
       "sənədlərin surətlərinin çıxarılması üçün müvafiq rəhbər vəzifəli şəxsin göstərişi və ya icazəsi tələb olunur"
     ],
-    "answer": "C",
+    "correctAnswer": "C",
     "explanation": "Cədvələ görə cavab: C."
   },
   {
@@ -371,7 +371,7 @@
       "yığcam şərh və əsas hissələrindən",
       "sərəncam və əmr hissələrindən"
     ],
-    "answer": "B",
+    "correctAnswer": "B",
     "explanation": "Cədvələ görə cavab: B."
   },
   {
@@ -383,7 +383,7 @@
       "qərarın sərəncam hissəsinin axırıncı bəndində qərarın icrasına nəzarətin həvalə edildiyi təşkilat, struktur bölməsi və ya vəzifəli şəxs göstərilir",
       "görülməli tədbirlərin izahına ehtiyac olmadıqda belə, şərh hissəsi mütləq olmalıdır"
     ],
-    "answer": "D",
+    "correctAnswer": "D",
     "explanation": "Cədvələ görə cavab: D."
   },
   {
@@ -395,7 +395,7 @@
       "3 gün",
       "7 gün"
     ],
-    "answer": "D",
+    "correctAnswer": "D",
     "explanation": "Cədvələ görə cavab: D (7 gün)."
   },
   {
@@ -407,7 +407,7 @@
       "yalnız nəticə hissəsindən",
       "yalnız sərəncam hissəsindən"
     ],
-    "answer": "D",
+    "correctAnswer": "D",
     "explanation": "Cədvələ görə cavab: D."
   },
   {
@@ -419,7 +419,7 @@
       "giriş və fakt hissələrindən",
       "şərh və sərəncam hissələrindən"
     ],
-    "answer": "D",
+    "correctAnswer": "D",
     "explanation": "Cədvələ görə cavab: D."
   },
   {
@@ -431,7 +431,7 @@
       "əsas və nəticə hissələrindən",
       "giriş və şərh hissələrindən"
     ],
-    "answer": "A",
+    "correctAnswer": "A",
     "explanation": "Cədvələ görə cavab: A."
   },
   {
@@ -443,7 +443,7 @@
       "giriş; şərh və təklif",
       "yalnız təklif"
     ],
-    "answer": "B",
+    "correctAnswer": "B",
     "explanation": "Cədvələ görə cavab: B."
   },
   {
@@ -455,7 +455,7 @@
       "giriş və şərh hissələrindən",
       "əmr və təklif hissələrindən"
     ],
-    "answer": "C",
+    "correctAnswer": "C",
     "explanation": "Cədvələ görə cavab: C."
   },
   {
@@ -467,7 +467,7 @@
       "aktın tərtib olunduğu yer və tarix aktda yazılan hadisənin yerinə və tarixinə uyğun gəlməlidir",
       "aktın başlığı həmin aktda göstərilən məsələni qısa şəkildə əks etdirməli və adlıq halda feli isim ilə ifadə olunmalıdır"
     ],
-    "answer": "A",
+    "correctAnswer": "A",
     "explanation": "Cədvələ görə cavab: A."
   },
   {
@@ -479,7 +479,7 @@
       "fakt və nəticə",
       "əmr və əsas"
     ],
-    "answer": "C",
+    "correctAnswer": "C",
     "explanation": "Cədvələ görə cavab: C."
   },
   {
@@ -491,7 +491,7 @@
       "iki",
       "istənilən sayda"
     ],
-    "answer": "C",
+    "correctAnswer": "C",
     "explanation": "Cədvələ görə cavab: C."
   },
   {
@@ -503,7 +503,7 @@
       "işin zərurətindən irəli gəlməyən instansiyalar və əməliyyatlar sənədlərin hərəkətindən kənarlaşdırılmalıdır",
       "hamısı"
     ],
-    "answer": "D",
+    "correctAnswer": "D",
     "explanation": "Cədvələ görə cavab: D."
   },
   {
@@ -515,7 +515,7 @@
       "icra müddətini müəyyənləşdirməkdən",
       "qanunvericiliklə müəyyən olunmuş qaydada məhv etməkdən"
     ],
-    "answer": "A",
+    "correctAnswer": "A",
     "explanation": "Cədvələ görə cavab: A."
   },
   {
@@ -527,7 +527,7 @@
       "sonuncu səhifənin arxa tərəfinin aşağı sağ küncündə",
       "birinci səhifənin üz tərəfinin aşağı sağ küncündə"
     ],
-    "answer": "D",
+    "correctAnswer": "D",
     "explanation": "Cədvələ görə cavab: D."
   },
   {
@@ -539,7 +539,7 @@
       "qeydə alındığı gün",
       "göndərildiyi gün"
     ],
-    "answer": "C",
+    "correctAnswer": "C",
     "explanation": "Cədvələ görə cavab: C."
   },
   {
@@ -551,7 +551,7 @@
       "Mütəxəssisə",
       "Heç biri"
     ],
-    "answer": "A",
+    "correctAnswer": "A",
     "explanation": "Cədvələ görə cavab: A."
   },
   {
@@ -563,7 +563,7 @@
       "1,3,5",
       "2,4,5"
     ],
-    "answer": "C",
+    "correctAnswer": "C",
     "explanation": "Cədvələ görə cavab: C."
   },
   {
@@ -575,7 +575,7 @@
       "Təşkilatın kateqoriyasına sasən",
       "Vəzifəli şəxsin soyadına əsasən əlifba sırası ilə"
     ],
-    "answer": "A",
+    "correctAnswer": "A",
     "explanation": "Cədvələ görə cavab: A."
   },
   {
@@ -587,7 +587,7 @@
       "yalnız daxili nəzarət bölməsi",
       "dəftərxana işçisi"
     ],
-    "answer": "B",
+    "correctAnswer": "B",
     "explanation": "Cədvələ görə cavab: B."
   },
   {
@@ -599,7 +599,7 @@
       "yalnız nəzarət xidməti",
       "yalnız kargüzarlıq xidməti"
     ],
-    "answer": "A",
+    "correctAnswer": "A",
     "explanation": "Cədvələ görə cavab: A."
   },
   {
@@ -611,7 +611,7 @@
       "nəzarət xidmətinin",
       "kargüzarlıq xidmətinin"
     ],
-    "answer": "A",
+    "correctAnswer": "A",
     "explanation": "Cədvələ görə cavab: A."
   },
   {
@@ -623,7 +623,7 @@
       "təşkilatların özlərinin icra müddəti göstərilən tapşırıqlarını nəzərdə tutan sənədlər",
       "hər biri"
     ],
-    "answer": "D",
+    "correctAnswer": "D",
     "explanation": "Cədvələ görə cavab: D."
   },
   {
@@ -635,7 +635,7 @@
       "göndərildiyi vaxtdan",
       "qeydə alındığı vaxtdan"
     ],
-    "answer": "A",
+    "correctAnswer": "A",
     "explanation": "Cədvələ görə cavab: A."
   },
   {
@@ -647,7 +647,7 @@
       "Bir sənəddə iki ünvan göstərilir",
       "Heç biri"
     ],
-    "answer": "B",
+    "correctAnswer": "B",
     "explanation": "Cədvələ görə cavab: B."
   },
   {
@@ -659,7 +659,7 @@
       "İnformasiyaların mətbuat orqanlarına təqdim olunması məqsədi ilə",
       "Heç biri"
     ],
-    "answer": "A",
+    "correctAnswer": "A",
     "explanation": "Cədvələ görə cavab: A."
   },
   {
@@ -671,7 +671,7 @@
       "sənəd ancaq orada qaldırılan məsələlər həll olunduqda və sənəd göndərənə mahiyyətcə cavab verildikdə icra edilmiş sayılır",
       "sənədlərin icrasının gedişi haqqında məlumat \"İcra haqqında qeyd\" sütununda qeyd edilir"
     ],
-    "answer": "B",
+    "correctAnswer": "B",
     "explanation": "Cədvələ görə cavab: B."
   },
   {
@@ -683,7 +683,7 @@
       "1,3",
       "2,4"
     ],
-    "answer": "C",
+    "correctAnswer": "C",
     "explanation": "Cədvələ görə cavab: C."
   },
   {
@@ -695,7 +695,7 @@
       "1,3,5",
       "1,2,4"
     ],
-    "answer": "D",
+    "correctAnswer": "D",
     "explanation": "Cədvələ görə cavab: D."
   },
   {
@@ -707,7 +707,7 @@
       "İcraçının müəyyən etdiyi şəxslər arasında",
       "Heç biri"
     ],
-    "answer": "B",
+    "correctAnswer": "B",
     "explanation": "Cədvələ görə cavab: B."
   },
   {"id": 60,
@@ -718,7 +718,7 @@
       "1,3",
       "2,4"
     ],
-    "answer": "C",
+    "correctAnswer": "C",
     "explanation": "Cədvələ görə cavab: C."
   },
   {
@@ -730,7 +730,7 @@
       "c) Müvafiq dövlət orqanının rəhbəri",
       "d) Onun tərtib olunmasında iştirak edən şəxslər"
     ],
-    "answer": "D",
+    "correctAnswer": "D",
     "explanation": "Cədvələ görə düzgün cavab: D."
   },
   {
@@ -742,7 +742,7 @@
       "c) Rübdə 1 dəfə",
       "d) Rübdə 2 dəfə"
     ],
-    "answer": "A",
+    "correctAnswer": "A",
     "explanation": "Cədvələ görə düzgün cavab: A."
   },
   {
@@ -754,7 +754,7 @@
       "c) Müvafiq sərəncam mahiyyətli sənədlərlə təsdiq edilən əlavələr",
       "d) Hamısı"
     ],
-    "answer": "D",
+    "correctAnswer": "D",
     "explanation": "Cədvələ görə düzgün cavab: D."
   },
   {
@@ -766,7 +766,7 @@
       "c) Kargüzarlıq xidmətinin müəyyən etdiyi nüsxədə",
       "d) Heç biri"
     ],
-    "answer": "B",
+    "correctAnswer": "B",
     "explanation": "Cədvələ görə düzgün cavab: B."
   },
   {
@@ -778,7 +778,7 @@
       "c) Sədr və icraçı",
       "d) Katib və məsul şəxs"
     ],
-    "answer": "A",
+    "correctAnswer": "A",
     "explanation": "Cədvələ görə düzgün cavab: A."
   },
 
@@ -791,7 +791,7 @@
       "c) Kargüzar",
       "d) Heç biri"
     ],
-    "answer": "B",
+    "correctAnswer": "B",
     "explanation": "Əmrin hansı struktur bölməyə göndəriləcəyini müəyyən etmək icraçının vəzifəsidir, çünki o, məzmunu və aidiyyəti üzrə ünvanı bilir."
   },
   {
@@ -803,7 +803,7 @@
       "c) 12 iyul 2020-ci il",
       "d) 12.07.20"
     ],
-    "answer": "D",
+    "correctAnswer": "D",
     "explanation": "Tarixdə yalnız iki rəqəmlə ili göstərmək olmaz. Doğru yazılış ili tam şəkildə göstərməklə mümkündür."
   },
   {
@@ -815,7 +815,7 @@
       "C) AR Prezidentinin Administrasiyasının Kargüzarlıq xidməti",
       "D) AR Prezidentinin Administrasiyasının Dəftərxana xidməti"
     ],
-    "answer": "A",
+    "correctAnswer": "A",
     "explanation": "Ümumi nəzarət AR Prezidentinin Administrasiyasının Sənədlərlə və vətəndaşların müraciətləri ilə iş Şöbəsi tərəfindən həyata keçirilir."
   },
   {
@@ -827,7 +827,7 @@
       "C) Bu Təlimat dövlət orqanlarında, dövlət mülkiyyətində olan və paylarının (səhmlərinin) nəzarət zərfi dövlətə məxsus olan fıziki şəxslərdə və büdcə təşkilatlarında kargüzarlığın aparılması işini, o cümlədən sənədlərin hazırlanmasını, qeydiyyatını, hərəkətini, icrasını, uçotunu və arxivə verilməsini tənzimləyir.",
       "D) Bu Təlimat dövlət orqanlarında, dövlət mülkiyyətində olan və paylarının (səhmlərinin) nəzarət zərü dövlətə məxsus olan hüquqi şəxslərdə və büdcə təşkilatlarında (bundan sonra təşkilatlar) kargüzarlığın apanlması işini, o cümlədən sənədlərin hazırlanmasını, qeydiyyatını, hərəkətini, icrasını, uçotunu və arxivə verilməməsini tənzimləyir."
     ],
-    "answer": "B",
+    "correctAnswer": "B",
     "explanation": "Təlimat dövlət orqanları və dövlətə məxsus müəssisələrdə kargüzarlığın bütün mərhələlərini tənzimləyir."
   },
   {
@@ -839,7 +839,7 @@
       "C) AR-nın rayon, şəhər, şəhərlərdə rayon icra hakimiyyəti başçılarının aparatlarında sənədlərlə iş barədə Təlimat əsasında aparılır.",
       "D) AR-nın rayon, şəhər, ölkədən kənar və şəhərlərdə rayon icra hakimiyyəti başçılarının aparatlarında sənədlərlə iş barədə Təlimat əsasında aparılır."
     ],
-    "answer": "C",
+    "correctAnswer": "C",
     "explanation": "Yerli icra hakimiyyəti orqanlarında kargüzarlıq məhz onların aparatlarında sənədlərlə iş barədə Təlimat əsasında aparılır."
   },
   {
@@ -851,7 +851,7 @@
       "C) Kargüzarlıq təşkilatın, öz vəzifələrini həyata keçirməsi ilə əlaqədar sənədlərlə işin təşkili üzrə fəaliyyətidir.",
       "D) Kargüzarlıq təşkilatın, öz vəzifələrini həyata keçirməsi ilə əlaqədar sənədləşdirmə və sənədlərlə işin təşkili üzrə fəaliyyətidir."
     ],
-    "answer": "D",
+    "correctAnswer": "D",
     "explanation": "Təlimata görə kargüzarlıq sənədləşdirmə və sənədlərlə işin təşkili üzrə fəaliyyətdir."
   },
   {
@@ -863,7 +863,7 @@
       "C) Təşkilatlarda kargüzarlıq AR dövlət dilində və başqa dillərdə aparılır.",
       "D) Təşkilatlarda kargüzarlıq AR dövlət dilində, o cümlədən xarici dillərdə aparılır."
     ],
-    "answer": "B",
+    "correctAnswer": "B",
     "explanation": "Qanuna görə Azərbaycanda kargüzarlıq yalnız dövlət dilində aparılır."
   },
   {
@@ -875,7 +875,7 @@
       "C) Təşkilatlarda kargüzarlığın aparılması xüsusi olaraq bu məqsəd üçün ayrılan bir qrup əməkdaşlar tərəfindən həyata keçirilir;",
       "D) Təşkilatlarda kargüzarlığın aparılması dəftərxana və ya xüsusi olaraq bu məqsəd üçün ayrılan əməkdaşlar tərəfindən həyata keçirilir."
     ],
-    "answer": "D",
+    "correctAnswer": "D",
     "explanation": "Kargüzarlıq ya dəftərxana, ya da xüsusi ayrılmış əməkdaşlar tərəfindən aparılır."
   },
   {
@@ -887,7 +887,7 @@
       "C) Kargüzarlıq xidməti tərəfindən bu Təlimatın tələblərinə riayət edilməsinə nəzarəti bu məqsəd üçün ayrılan təşkilatın əməkdaşları həyata keçirir;",
       "D) Kargüzarlıq xidməti tərəfindən bu Təlimatın tələblərinə riayət edilməsinə nəzarəti təşkilatın rəhbərliyi həyata keçirir."
     ],
-    "answer": "D",
+    "correctAnswer": "D",
     "explanation": "Nəzarəti təşkilatın rəhbərliyi həyata keçirir."
   },
   {
@@ -899,14 +899,14 @@
       "C) ... Rabitə və İnformasiya Texnologiyaları Nazirliyi daşıyır",
       "D) ... təşkilatın struktur bölməsi daşıyır"
     ],
-    "answer": "B",
+    "correctAnswer": "B",
     "explanation": "Tabe təşkilatlarda nəzarəti onların baş təşkilatları həyata keçirir."
   },
   {
     "id": 76,
     "text": "76. “Kargüzarlığın aparılmasına dair Təlimat”a əsasən kargüzarlıq xidmətinin əsas vəzifələrinə aiddir:",
     "options": [],
-    "answer": null,
+    "correctAnswer": null,
     "explanation": "Məlumat yoxdur"
   },
   {
@@ -918,7 +918,7 @@
       "C) ... ancaq mərkəzləşdirilmiş ola bilər",
       "D) ... xüsusi və ümumi ola bilər"
     ],
-    "answer": "B",
+    "correctAnswer": "B",
     "explanation": "Təlimata görə kargüzarlıq mərkəzləşdirilmiş və ya mərkəzləşdirilməmiş ola bilər."
   },
   {
@@ -930,14 +930,14 @@
       "C) Struktur bölmələrinin sayı az, sənəd dövriyyəsi isə ildə 25000 sənədə qədər olan təşkilatlarda",
       "D) Struktur bölmələrinin sayı az, sənəd dövriyyəsi isə ildə 25000 sənəddən çox olan təşkilatlarda"
     ],
-    "answer": "A",
+    "correctAnswer": "A",
     "explanation": "Sənəd dövriyyəsi böyük və struktur mürəkkəb olduqda kargüzarlıq mərkəzləşdirilir."
   },
   {
     "id": 79,
     "text": "79. Hansı hallarda təşkilatlarda kargüzarlıq mərkəzləşdirilməmiş qaydada aparılır?",
     "options": [],
-    "answer": null,
+    "correctAnswer": null,
     "explanation": "Məlumat yoxdur"
   },
   {
@@ -949,7 +949,7 @@
       "C) ... yalnız mərkəzləşdirilmiş sistemdə bu funksiyaları yerinə yetirir;",
       "D) ... sənədlərin qeydə alınmasını, rəsmiləşdirilməsini, işlərin formalaşdırılmasını həyata keçirir."
     ],
-    "answer": "A",
+    "correctAnswer": "A",
     "explanation": "Mərkəzləşdirilməmiş sistemdə dəftərxana qəbul, qeydiyyat, paylama və rəsmiləşdirmə işlərini icra edir."
   },
   {
@@ -961,7 +961,7 @@
       "C) ... arxivə göndərilir",
       "D) ... Nazirlər Kabinetinə təhvil verilir"
     ],
-    "answer": "B",
+    "correctAnswer": "B",
     "explanation": "Rəhbər dəyişdikdə işlər və icrada olan sənədlər akt tərtib edilərək qəbul-təhvil qaydasında verilir."
   },
   {
@@ -973,7 +973,7 @@
       "C) ... arxivə akt üzrə təhvil verir",
       "D) ... dəftərxanaya və ya kargüzarlıq xidmətinə akt üzrə təhvil verir"
     ],
-    "answer": "B",
+    "correctAnswer": "B",
     "explanation": "İcraçı işdən çıxarıldıqda işlər və sənədlər yeni təyin edilən və ya müvəqqəti icra edən şəxsə akt üzrə təhvil verilir."
   },
   {
@@ -985,7 +985,7 @@
       "C) Aktda ... icraçının vəzifəsi göstərilməklə sadalanır.",
       "D) Aktda ... icra vəziyyəti göstərilməklə sadalanır."
     ],
-    "answer": "D",
+    "correctAnswer": "D",
     "explanation": "Aktda bütün işlər və sənədlər icra vəziyyəti göstərilməklə sadalanır."
   },
   {
@@ -997,7 +997,7 @@
       "C) Hüquqi baxımdan zərurətin yaranması",
       "D) Cari təşkilati-sərəncamverici fəaliyyət"
     ],
-    "answer": "C",
+    "correctAnswer": "C",
     "explanation": "Sərəncam sənədlərinin hüquqi əsasları normativ aktlar, rəhbərin tapşırıqları və cari fəaliyyətlə bağlı olur, hüquqi baxımdan ümumi zərurət ayrıca əsas deyil."
   },
   {
@@ -1009,7 +1009,7 @@
       "C) Rəhbərin göstərişi ilə",
       "D) Qarşılıqlı razılıqla"
     ],
-    "answer": "B",
+    "correctAnswer": "B",
     "explanation": "Sənəd iki və ya daha çox təşkilat adından hazırlananda blankdan istifadə olunmur."
   },
   {
@@ -1021,14 +1021,14 @@
       "C) Tez-tez təkrarlanan sənədlər üçün trafaret mətnli blanklardan istifadə edilə bilər",
       "D) Açıq rəngli, zəif boyalı kağız işlətməyə yol verilmir"
     ],
-    "answer": "B",
+    "correctAnswer": "B",
     "explanation": "Blankların kağız nömrəsi ilə bağlı məcburilik yoxdur, əsas tələblər forma və rənglə bağlıdır."
   },
   {
     "id": 87,
     "text": "87. Doğru fikri müəyyən edin:",
     "options": [],
-    "answer": null,
+    "correctAnswer": null,
     "explanation": "Məlumat yoxdur"
   },
   {
@@ -1040,14 +1040,14 @@
       "C) Blanklarda sənəd növünün adı yazılmır",
       "D) Blanklarda sənəd növünün tarixi və hazırlayan şəxsin rekvizitləri yazılır"
     ],
-    "answer": "B",
+    "correctAnswer": "B",
     "explanation": "Doğru qayda budur: sənəd növünün adı mətbəə üsulu ilə blank üzərində yazılır."
   },
   {
     "id": 89,
     "text": "89. Təşkilatların mətbəə üsulu ilə hazırlanan blanklarında hansı rekvizitlər çap edilmir?",
     "options": [],
-    "answer": null,
+    "correctAnswer": null,
     "explanation": "Məlumat yoxdur"
   },
   {
@@ -1059,7 +1059,7 @@
       "C) Yuxarı sağ küncündə eninə, AR dövlət dilində",
       "D) Aşağı sağ küncündə eninə, AR dövlət dilində"
     ],
-    "answer": "A",
+    "correctAnswer": "A",
     "explanation": "Rekvizitlər blankın yuxarı hissəsində, eninə və dövlət dilində çap olunur."
   },
   {
@@ -1071,7 +1071,7 @@
       "C) Heç vaxt yol verilmir",
       "D) Yalnız sənədin mətni həmin blankı qəbul edən təşkilat tərəfindən xarici dildə yazıldıqda"
     ],
-    "answer": "A",
+    "correctAnswer": "A",
     "explanation": "Xarici dildə rekvizitli blanklardan yalnız göndərən təşkilat sənədi xarici dildə hazırladıqda istifadə edilə bilər."
   },
   {
@@ -1083,7 +1083,7 @@
       "C) Qanunvericiliklə və daxili normativ aktlarla müəyyən edilmiş qaydada",
       "D) Yalnız qanunvericiliklə müəyyən edilmiş qaydada"
     ],
-    "answer": "C",
+    "correctAnswer": "C",
     "explanation": "Belə sənədlər qanunvericiliklə yanaşı, təşkilatın daxili normativ aktları əsasında hazırlanır."
   },
   {
@@ -1095,7 +1095,7 @@
       "C) Ünvan",
       "D) Tarix və nömrə"
     ],
-    "answer": "B",
+    "correctAnswer": "B",
     "explanation": "A5 formatlı və bəzi qısa sənədlərdə başlıq yazılması tələb olunmur."
   },
   {
@@ -1107,7 +1107,7 @@
       "C) Sənədin rəsmiləşdirilməsi",
       "D) Sənədin hərəkəti və icrası haqqında qeydlər"
     ],
-    "answer": "B",
+    "correctAnswer": "B",
     "explanation": "Razılaşdırma qeydləri bütün sənədlərdə məcburi deyil."
   },
   {
@@ -1119,14 +1119,14 @@
       "C) Üç",
       "D) İki"
     ],
-    "answer": "D",
+    "correctAnswer": "D",
     "explanation": "Əksər sənədlər giriş və əsas hissədən ibarət olur."
   },
   {
     "id": 96,
     "text": "96. Sənədin yaranması üçün başqa sənəd əsas olduqda, birinci hissədə göstərilir:",
     "options": [],
-    "answer": null,
+    "correctAnswer": null,
     "explanation": "Məlumat yoxdur"
   },
   {
@@ -1138,7 +1138,7 @@
       "C) Mətn yalnız son hissədən ibarət ola bilər",
       "D) Birinci hissədə əsas götürülmüş faktların təsviri verilir"
     ],
-    "answer": "C",
+    "correctAnswer": "C",
     "explanation": "Sənədin mətni yalnız son hissədən ibarət ola bilməz."
   },
   {
@@ -1150,7 +1150,7 @@
       "C) Vərəqin ortasında, mətndən əvvəl",
       "D) Vərəqin yuxarı sol küncündə, mətndən əvvəl"
     ],
-    "answer": "C",
+    "correctAnswer": "C",
     "explanation": "Sənədin başlığı adətən ortada, mətndən əvvəl yazılır."
   },
   {
@@ -1162,7 +1162,7 @@
       "C) Trafaret mətnlərdən istifadə oluna bilər",
       "D) Başlıq həmişə çox uzun və ətraflı yazılmalıdır"
     ],
-    "answer": "D",
+    "correctAnswer": "D",
     "explanation": "Başlıq qısa və dəqiq olmalıdır, uzun və ətraflı olmamalıdır."
   },
   {
@@ -1174,7 +1174,7 @@
       "C) Ünvan sahibinin təhsili yazılır",
       "D) Ünvan sahibinin yalnız adı və soyadı göstərilir"
     ],
-    "answer": "A",
+    "correctAnswer": "A",
     "explanation": "Göndərilən sənədlərdə ünvan sahibinin tam adı və ata adı göstərilməlidir."
   },
   {
@@ -1186,7 +1186,7 @@
       "C) Azərbaycan Respublikasının Maliyyə Nazirliyinə",
       "D) Azərbaycan Respublikasının Sosial Müdafiə Nazirliyinə"
     ],
-    "answer": "C",
+    "correctAnswer": "C",
     "explanation": "Cədvələ görə cavab Maliyyə Nazirliyinədir."
   },
   {
@@ -1198,7 +1198,7 @@
       "C) Azərbaycan Respublikası Təhsil Nazirliyi struktur bölməsinin rəhbəri cənab Babək Niftəliyevə",
       "D) Azərbaycan Respublikası Təhsil Nazirliyinin struktur bölməsi rəhbəri cənab Babək Niftəliyevə"
     ],
-    "answer": "B",
+    "correctAnswer": "B",
     "explanation": "Düzgün qayda 'Azərbaycan Respublikasının ... Nazirliyinin ... rəhbəri' formasındadır."
   },
   {
@@ -1210,7 +1210,7 @@
       "C) Hər sənəddə iki ünvan göstərilir",
       "D) İstənilən qədər ünvan bir sənəddə göstərilə bilər"
     ],
-    "answer": "B",
+    "correctAnswer": "B",
     "explanation": "Dörddən çox ünvana sənəd göndəriləndə göndəriş siyahısı tərtib edilir."
   },
   {
@@ -1222,7 +1222,7 @@
       "C) Sənədin düzgün tərtibi struktur rəhbərinin vəzifəsidir",
       "D) Sənədin düzgün tərtibi icraçı köməkçisinin vəzifəsidir"
     ],
-    "answer": "B",
+    "correctAnswer": "B",
     "explanation": "Sənədin düzgün tərtibi və məzmununa görə məsuliyyət icraçıya aiddir."
   },
   {
@@ -1234,7 +1234,7 @@
       "C) Qeydiyyata alındığı tarix",
       "D) Hazırlandığı tarix"
     ],
-    "answer": "A",
+    "correctAnswer": "A",
     "explanation": "Sənədin tarixi onun imzalanması və ya təsdiqi günüdür."
   },
   {
@@ -1246,7 +1246,7 @@
       "C) Ay, il, gün",
       "D) Gün, il, ay"
     ],
-    "answer": "A",
+    "correctAnswer": "A",
     "explanation": "Azərbaycan standartına görə tarix gün, ay, il ardıcıllığında yazılır."
   },
   {
@@ -1258,7 +1258,7 @@
       "C) Tarixlər yalnız rəqəmlə yazılmalıdır",
       "D) Tarixlər ümumiyyətlə yazılmır"
     ],
-    "answer": "A",
+    "correctAnswer": "A",
     "explanation": "Tarixlər həm rəqəmlə, həm də hərflə ifadə olunur."
   },
   {
@@ -1270,7 +1270,7 @@
       "C) 15 dekabr 2020-ci il",
       "D) 15/12/20"
     ],
-    "answer": "D",
+    "correctAnswer": "D",
     "explanation": "Tarixlərdə '/' işarəsi istifadə edilmir, yalnız nöqtə və ya sözlə yazılır."
   },
   {
@@ -1282,7 +1282,7 @@
       "C) Kargüzarlıq xidməti tərəfindən",
       "D) Sənədi alan şəxs tərəfindən"
     ],
-    "answer": "A",
+    "correctAnswer": "A",
     "explanation": "Tarixi sənədə hüquqi qüvvə verən şəxs, yəni imzalayan və ya təsdiq edən yazır."
   },
   {
@@ -1294,8 +1294,8 @@
       "C) Qeydiyyat nömrəsi yalnız sıra nömrəsindən ibarətdir",
       "D) Qeydiyyat nömrəsi işin nomenklatur nömrəsi və sıra nömrəsindən ibarətdir, amma göndərilmə zamanı verilir"
     ],
-    "answer": "A",
+    "correctAnswer": "A",
     "explanation": "Qeydiyyat nömrəsi işin nomenklatur nömrəsi və sıra nömrəsindən ibarətdir, qeydə alınma zamanı verilir."
-  }
+  },
   ]
   }
