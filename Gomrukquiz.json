@@ -4,7 +4,7 @@
   "questions": [
     {
       "id": 1000,
-      "text": "Gömrük İttifaqı nədir?",
+      "question": "Gömrük İttifaqı nədir?",
       "options": [
         "İki və ya daha çox ölkə arasında ticarət sazişi",
         "Daxili tariflərin qaldırıldığı və xarici ticarət siyasətinin vahid olduğu iqtisadi birlik",
@@ -16,7 +16,7 @@
     },
     {
       "id": 1001,
-      "text": "Malların mənşə ölkəsini təsdiq edən sənəd nə adlanır?",
+      "question": "Malların mənşə ölkəsini təsdiq edən sənəd nə adlanır?",
       "options": [
         "Daşıma sənədi",
         "Faktura",
@@ -28,7 +28,7 @@
     },
     {
       "id": 1002,
-      "text": "Gömrük rüsumu nədir?",
+      "question": "Gömrük rüsumu nədir?",
       "options": [
         "İdxal olunan mallardan alınmayan vergi",
         "Malların gömrük sərhədindən keçirilməsi zamanı alınan pul yığımı",
@@ -40,7 +40,7 @@
     },
     {
       "id": 1003,
-      "text": "Azərbaycanda gömrük rüsumları hansı qanunvericilik aktları ilə tənzimlənir?",
+      "question": "Azərbaycanda gömrük rüsumları hansı qanunvericilik aktları ilə tənzimlənir?",
       "options": [
         "Yalnız Vergi Məcəlləsi",
         "Yalnız Mülki Məcəllə",
@@ -52,7 +52,7 @@
     },
     {
       "id": 1004,
-      "text": "Səyyar gömrük nəzarəti hansı məqsədlə aparılır?",
+      "question": "Səyyar gömrük nəzarəti hansı məqsədlə aparılır?",
       "options": [
         "Yalnız hava limanlarında",
         "Gömrük postlarından kənarda, gömrük qanunvericiliyinə riayət olunmasını yoxlamaq üçün",
@@ -64,7 +64,7 @@
     },
     {
       "id": 1005,
-      "text": "Gömrük nəzarət zonası nədir?",
+      "question": "Gömrük nəzarət zonası nədir?",
       "options": [
         "Gömrük binalarının ərazisi",
         "Malların və nəqliyyat vasitələrinin gömrük orqanlarının nəzarətində olduğu xüsusi ayrılmış ərazi",
@@ -76,7 +76,7 @@
     },
     {
       "id": 1006,
-      "text": "Gömrük qiyməti nədir?",
+      "question": "Gömrük qiyməti nədir?",
       "options": [
         "Yalnız malın alış qiyməti",
         "Malların gömrük məqsədləri üçün müəyyən edilən dəyəri",
@@ -88,7 +88,7 @@
     },
     {
       "id": 1007,
-      "text": "Gömrük rəsmiləşdirilməsi nə vaxt başa çatır?",
+      "question": "Gömrük rəsmiləşdirilməsi nə vaxt başa çatır?",
       "options": [
         "Gömrük bəyannaməsi təqdim edildikdə",
         "Mallar gömrük nəzarəti zonasından çıxdıqda",
@@ -100,7 +100,7 @@
     },
     {
       "id": 1008,
-      "text": "Gömrük laboratoriyaları nə üçün fəaliyyət göstərir?",
+      "question": "Gömrük laboratoriyaları nə üçün fəaliyyət göstərir?",
       "options": [
         "Qida məhsullarının keyfiyyətini yoxlamaq üçün",
         "Dərmanların tərkibini analiz etmək üçün",
@@ -112,7 +112,7 @@
     },
     {
       "id": 1009,
-      "text": "Gömrük bələdçisi (broker) nə iş görür?",
+      "question": "Gömrük bələdçisi (broker) nə iş görür?",
       "options": [
         "Yalnız daşıma xidməti göstərir",
         "Təmsil etdiyi şəxslərin adından gömrük əməliyyatlarını həyata keçirir",
@@ -124,7 +124,7 @@
     },
     {
       "id": 1010,
-      "text": "Gömrük rejimlərinin neçə növü var?",
+      "question": "Gömrük rejimlərinin neçə növü var?",
       "options": [
         "15",
         "20",
@@ -136,7 +136,7 @@
     },
     {
       "id": 1011,
-      "text": "Nəqliyyat vasitələrinin gömrük nəzarətinə cəlb edilməsi hansı hallarda aparılır?",
+      "question": "Nəqliyyat vasitələrinin gömrük nəzarətinə cəlb edilməsi hansı hallarda aparılır?",
       "options": [
         "Yalnız nəqliyyat vasitəsi xarici ölkədən gəldikdə",
         "Nəqliyyat vasitəsi gömrük sərhədindən keçərkən",
@@ -148,7 +148,7 @@
     },
     {
       "id": 1012,
-      "text": "Aksizli mallara nümunə hansıdır?",
+      "question": "Aksizli mallara nümunə hansıdır?",
       "options": [
         "Dəftərxana ləvazimatları",
         "Şokolad məhsulları",
@@ -160,7 +160,7 @@
     },
     {
       "id": 1013,
-      "text": "Gömrük postu nədir?",
+      "question": "Gömrük postu nədir?",
       "options": [
         "Yalnız sənədlərin yoxlanıldığı yer",
         "Gömrük əməliyyatlarının həyata keçirildiyi məntəqə",
@@ -172,7 +172,7 @@
     },
     {
       "id": 1014,
-      "text": "Tranzit gömrük rejimi nə üçündür?",
+      "question": "Tranzit gömrük rejimi nə üçündür?",
       "options": [
         "Malların satışına icazə vermək üçün",
         "Malların bir ölkədən keçib, digər ölkəyə çatdırılması üçün",
@@ -184,7 +184,7 @@
     },
     {
       "id": 1015,
-      "text": "Gömrük orqanlarının fəaliyyətində şəffaflıq prinsipi hansı məqsədi daşıyır?",
+      "question": "Gömrük orqanlarının fəaliyyətində şəffaflıq prinsipi hansı məqsədi daşıyır?",
       "options": [
         "Rüşvəti artırmaq",
         "Gömrük əməliyyatlarında gizliliyi təmin etmək",
@@ -196,7 +196,7 @@
     },
     {
       "id": 1016,
-      "text": "Gömrük yoxlaması hansı metodlarla aparıla bilər?",
+      "question": "Gömrük yoxlaması hansı metodlarla aparıla bilər?",
       "options": [
         "Yalnız vizual yoxlama",
         "Yalnız rentgen avadanlığı ilə",
@@ -208,7 +208,7 @@
     },
     {
       "id": 1017,
-      "text": "Gömrük statistikası nə üçün aparılır?",
+      "question": "Gömrük statistikası nə üçün aparılır?",
       "options": [
         "Yalnız gömrük işçilərinin sayını müəyyən etmək üçün",
         "Dövlət büdcəsinin gəlirlərini hesablamaq üçün",
@@ -220,7 +220,7 @@
     },
     {
       "id": 1018,
-      "text": "Sərbəst iqtisadi zona (SİZ) nədir?",
+      "question": "Sərbəst iqtisadi zona (SİZ) nədir?",
       "options": [
         "Gömrük rüsumlarının və vergilərinin tamamilə tətbiq edilmədiyi xüsusi ərazi",
         "Yalnız kənd təsərrüfatı fəaliyyəti üçün nəzərdə tutulmuş sahə",
@@ -232,7 +232,7 @@
     },
     {
       "id": 1019,
-      "text": "Gömrük xidmətinin əsas funksiyası nədir?",
+      "question": "Gömrük xidmətinin əsas funksiyası nədir?",
       "options": [
         "Yalnız sərhədlərin qorunması",
         "Ölkənin iqtisadi təhlükəsizliyini qorumaq və gömrük qanunvericiliyinə nəzarət etmək",
