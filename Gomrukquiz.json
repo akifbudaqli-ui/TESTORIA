@@ -1,0 +1,246 @@
+{
+  "id": "gomruk_quiz",
+  "name": "Gömrük Quiz",
+  "questions": [
+    {
+      "id": 1000,
+      "text": "Gömrük İttifaqı nədir?",
+      "options": [
+        "İki və ya daha çox ölkə arasında ticarət sazişi",
+        "Daxili tariflərin qaldırıldığı və xarici ticarət siyasətinin vahid olduğu iqtisadi birlik",
+        "Yalnız bir ölkənin gömrük sistemini əhatə edən birlik",
+        "Ölkələr arasında mədəni mübadiləni tənzimləyən saziş"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gömrük İttifaqı, üzv ölkələr arasında gömrük rüsumlarının və ticarət məhdudiyyətlərinin aradan qaldırıldığı, eyni zamanda üçüncü ölkələrə qarşı vahid ticarət siyasətinin tətbiq edildiyi iqtisadi birlikdir."
+    },
+    {
+      "id": 1001,
+      "text": "Malların mənşə ölkəsini təsdiq edən sənəd nə adlanır?",
+      "options": [
+        "Daşıma sənədi",
+        "Faktura",
+        "Mənşə sertifikatı",
+        "Gömrük bəyannaməsi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Malların mənşə sertifikatı, həmin malların hansı ölkədə istehsal edildiyini təsdiq edən rəsmi sənəddir."
+    },
+    {
+      "id": 1002,
+      "text": "Gömrük rüsumu nədir?",
+      "options": [
+        "İdxal olunan mallardan alınmayan vergi",
+        "Malların gömrük sərhədindən keçirilməsi zamanı alınan pul yığımı",
+        "Yalnız ixrac zamanı tətbiq edilən cərimə",
+        "Dövlət tərəfindən tətbiq edilən kredit növü"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gömrük rüsumu, malların ölkənin gömrük sərhədindən keçirilməsi zamanı gömrük orqanları tərəfindən alınan məcburi pul yığımıdır."
+    },
+    {
+      "id": 1003,
+      "text": "Azərbaycanda gömrük rüsumları hansı qanunvericilik aktları ilə tənzimlənir?",
+      "options": [
+        "Yalnız Vergi Məcəlləsi",
+        "Yalnız Mülki Məcəllə",
+        "Gömrük Məcəlləsi və Tarif Qanunu",
+        "Yalnız İnzibati Xətalar Məcəlləsi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Gömrük rüsumları, Gömrük Məcəlləsi, 'Gömrük tarifi haqqında' Qanun və digər normativ hüquqi aktlarla tənzimlənir."
+    },
+    {
+      "id": 1004,
+      "text": "Səyyar gömrük nəzarəti hansı məqsədlə aparılır?",
+      "options": [
+        "Yalnız hava limanlarında",
+        "Gömrük postlarından kənarda, gömrük qanunvericiliyinə riayət olunmasını yoxlamaq üçün",
+        "Yalnız ixrac əməliyyatlarında",
+        "Yalnız şəxsi əşyaların yoxlanılması üçün"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Səyyar gömrük nəzarəti, malların və nəqliyyat vasitələrinin gömrük orqanlarının xüsusi ayrılmış yerlərindən kənarda yoxlanılmasıdır."
+    },
+    {
+      "id": 1005,
+      "text": "Gömrük nəzarət zonası nədir?",
+      "options": [
+        "Gömrük binalarının ərazisi",
+        "Malların və nəqliyyat vasitələrinin gömrük orqanlarının nəzarətində olduğu xüsusi ayrılmış ərazi",
+        "Yalnız sərnişinlərin gözlədiyi sahə",
+        "Bütün ölkənin sərhədyanı ərazisi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gömrük nəzarət zonası, mallar və nəqliyyat vasitələri üzərində gömrük nəzarətinin həyata keçirildiyi xüsusi ayrılmış ərazidir."
+    },
+    {
+      "id": 1006,
+      "text": "Gömrük qiyməti nədir?",
+      "options": [
+        "Yalnız malın alış qiyməti",
+        "Malların gömrük məqsədləri üçün müəyyən edilən dəyəri",
+        "Malların pərakəndə satış qiyməti",
+        "Malların daşınma xərcləri"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gömrük qiyməti, malların gömrük sərhədindən keçirilməsi zamanı rüsum və vergilərin hesablanması üçün əsas götürülən dəyərdir."
+    },
+    {
+      "id": 1007,
+      "text": "Gömrük rəsmiləşdirilməsi nə vaxt başa çatır?",
+      "options": [
+        "Gömrük bəyannaməsi təqdim edildikdə",
+        "Mallar gömrük nəzarəti zonasından çıxdıqda",
+        "Gömrük rüsumları və vergiləri ödənildikdə",
+        "Gömrük orqanları tərəfindən müvafiq icazə verildikdə"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Gömrük rəsmiləşdirilməsi, mallar üzərində bütün gömrük əməliyyatları tamamlandıqdan və gömrük ödənişləri ödənildikdən sonra başa çatır."
+    },
+    {
+      "id": 1008,
+      "text": "Gömrük laboratoriyaları nə üçün fəaliyyət göstərir?",
+      "options": [
+        "Qida məhsullarının keyfiyyətini yoxlamaq üçün",
+        "Dərmanların tərkibini analiz etmək üçün",
+        "Malların tərkibini və xarakteristikalarını müəyyən etmək üçün",
+        "Yalnız kimyəvi məhsulları yoxlamaq üçün"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Gömrük laboratoriyaları, gömrük nəzarəti altında olan malların tərkibinin, keyfiyyətinin və digər xarakteristikalarının analizi ilə məşğul olur."
+    },
+    {
+      "id": 1009,
+      "text": "Gömrük bələdçisi (broker) nə iş görür?",
+      "options": [
+        "Yalnız daşıma xidməti göstərir",
+        "Təmsil etdiyi şəxslərin adından gömrük əməliyyatlarını həyata keçirir",
+        "Yalnız beynəlxalq maliyyə əməliyyatlarını tənzimləyir",
+        "Malların anbarlarda saxlanılmasını təmin edir"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gömrük bələdçisi, lisenziyalı hüquqi şəxs olaraq gömrük sərhədindən malların keçirilməsi ilə bağlı əməliyyatları müştərinin adından həyata keçirir."
+    },
+    {
+      "id": 1010,
+      "text": "Gömrük rejimlərinin neçə növü var?",
+      "options": [
+        "15",
+        "20",
+        "10",
+        "25"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Azərbaycan Respublikası Gömrük Məcəlləsinə görə, 16 gömrük rejimi müəyyən edilmişdir."
+    },
+    {
+      "id": 1011,
+      "text": "Nəqliyyat vasitələrinin gömrük nəzarətinə cəlb edilməsi hansı hallarda aparılır?",
+      "options": [
+        "Yalnız nəqliyyat vasitəsi xarici ölkədən gəldikdə",
+        "Nəqliyyat vasitəsi gömrük sərhədindən keçərkən",
+        "Nəqliyyat vasitəsinin sahibi dəyişdikdə",
+        "Hər hansı bir şübhə yarandıqda"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nəqliyyat vasitəsi gömrük sərhədindən keçərkən gömrük nəzarətinə cəlb edilir."
+    },
+    {
+      "id": 1012,
+      "text": "Aksizli mallara nümunə hansıdır?",
+      "options": [
+        "Dəftərxana ləvazimatları",
+        "Şokolad məhsulları",
+        "Siqaret və alkoqollu içkilər",
+        "Kənd təsərrüfatı məhsulları"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Aksizli mallar, dövlət tərəfindən xüsusi vergi (aksiz) ilə vergiyə cəlb olunan mallardır. Bura əsasən, siqaret, alkoqollu içkilər, neft məhsulları daxildir."
+    },
+    {
+      "id": 1013,
+      "text": "Gömrük postu nədir?",
+      "options": [
+        "Yalnız sənədlərin yoxlanıldığı yer",
+        "Gömrük əməliyyatlarının həyata keçirildiyi məntəqə",
+        "Yalnız malların saxlandığı anbar",
+        "Gömrük işçilərinin ofisi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gömrük postu, malların və nəqliyyat vasitələrinin gömrük sərhədindən keçirilməsi zamanı gömrük əməliyyatlarının aparıldığı məntəqədir."
+    },
+    {
+      "id": 1014,
+      "text": "Tranzit gömrük rejimi nə üçündür?",
+      "options": [
+        "Malların satışına icazə vermək üçün",
+        "Malların bir ölkədən keçib, digər ölkəyə çatdırılması üçün",
+        "Malların müvəqqəti idxalı üçün",
+        "Malların ölkə daxilində daşınması üçün"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tranzit gömrük rejimi, xarici malların gömrük nəzarəti altında gömrük ərazisi üzərindən keçirilməsidir."
+    },
+    {
+      "id": 1015,
+      "text": "Gömrük orqanlarının fəaliyyətində şəffaflıq prinsipi hansı məqsədi daşıyır?",
+      "options": [
+        "Rüşvəti artırmaq",
+        "Gömrük əməliyyatlarında gizliliyi təmin etmək",
+        "Korrupsiya hallarının qarşısını almaq",
+        "Əməliyyatları yavaşlatmaq"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Şəffaflıq prinsipi, gömrük əməliyyatlarının aydın, açıq və şəffaf şəkildə aparılmasını, bu yolla korrupsiyanın qarşısını almağı nəzərdə tutur."
+    },
+    {
+      "id": 1016,
+      "text": "Gömrük yoxlaması hansı metodlarla aparıla bilər?",
+      "options": [
+        "Yalnız vizual yoxlama",
+        "Yalnız rentgen avadanlığı ilə",
+        "Sənədli və fiziki yoxlama",
+        "Yalnız əl ilə yoxlama"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Gömrük yoxlaması həm sənədlər əsasında, həm də malların fiziki şəkildə yoxlanılması ilə həyata keçirilə bilər."
+    },
+    {
+      "id": 1017,
+      "text": "Gömrük statistikası nə üçün aparılır?",
+      "options": [
+        "Yalnız gömrük işçilərinin sayını müəyyən etmək üçün",
+        "Dövlət büdcəsinin gəlirlərini hesablamaq üçün",
+        "Ölkənin xarici ticarətini təhlil etmək üçün",
+        "Yalnız idxal məhsullarının miqdarını qeyd etmək üçün"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Gömrük statistikası, idxal və ixrac malları haqqında məlumatları toplayaraq ölkənin xarici ticarət dövriyyəsini təhlil etməyə imkan verir."
+    },
+    {
+      "id": 1018,
+      "text": "Sərbəst iqtisadi zona (SİZ) nədir?",
+      "options": [
+        "Gömrük rüsumlarının və vergilərinin tamamilə tətbiq edilmədiyi xüsusi ərazi",
+        "Yalnız kənd təsərrüfatı fəaliyyəti üçün nəzərdə tutulmuş sahə",
+        "Gömrük nəzarətinin daha sərt olduğu ərazi",
+        "Malların gömrük sərhədindən sərbəst keçdiyi istənilən ərazi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sərbəst iqtisadi zona, iqtisadi fəaliyyət üçün cəlbedici şərait yaratmaq məqsədilə xüsusi vergi və gömrük rejimlərinin tətbiq edildiyi ərazidir."
+    },
+    {
+      "id": 1019,
+      "text": "Gömrük xidmətinin əsas funksiyası nədir?",
+      "options": [
+        "Yalnız sərhədlərin qorunması",
+        "Ölkənin iqtisadi təhlükəsizliyini qorumaq və gömrük qanunvericiliyinə nəzarət etmək",
+        "Daxili bazarı qorumaq",
+        "Yalnız idxal-ixrac sənədlərini yoxlamaq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gömrük xidmətinin əsas funksiyası, dövlətin iqtisadi təhlükəsizliyini təmin etmək, xarici ticarət dövriyyəsinə nəzarət etmək və gömrük qanunvericiliyinin icrasını təmin etməkdir."
+    }
+  ]
+}
