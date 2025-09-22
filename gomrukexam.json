@@ -1,0 +1,246 @@
+{
+  "id": "gomruk_quiz",
+  "name": "Gömrük Quiz",
+  "questions": [
+    {
+      "id": 1100,
+      "question": "Gömrük İttifaqı nədir?",
+      "options": [
+        "İki və ya daha çox ölkə arasında ticarət sazişi",
+        "Daxili tariflərin qaldırıldığı və xarici ticarət siyasətinin vahid olduğu iqtisadi birlik",
+        "Yalnız bir ölkənin gömrük sistemini əhatə edən birlik",
+        "Ölkələr arasında mədəni mübadiləni tənzimləyən saziş"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gömrük İttifaqı, üzv ölkələr arasında gömrük rüsumlarının və ticarət məhdudiyyətlərinin aradan qaldırıldığı, eyni zamanda üçüncü ölkələrə qarşı vahid ticarət siyasətinin tətbiq edildiyi iqtisadi birlikdir."
+    },
+    {
+      "id": 1101,
+      "question": "Malların mənşə ölkəsini təsdiq edən sənəd nə adlanır?",
+      "options": [
+        "Daşıma sənədi",
+        "Faktura",
+        "Mənşə sertifikatı",
+        "Gömrük bəyannaməsi"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Malların mənşə sertifikatı, həmin malların hansı ölkədə istehsal edildiyini təsdiq edən rəsmi sənəddir."
+    },
+    {
+      "id": 1102,
+      "question": "Gömrük rüsumu nədir?",
+      "options": [
+        "Ölkələr arasında diplomatik ödəniş",
+        "Malların idxal və ixracına görə dövlət tərəfindən alınan vergi",
+        "Yalnız idxal mallarına tətbiq edilən cərimə",
+        "İxrac mallarının keyfiyyətini ölçən rüsum"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gömrük rüsumu, malların idxalı və ixracı zamanı dövlət tərəfindən alınan vergidir."
+    },
+    {
+      "id": 1103,
+      "question": "Gömrük bəyannaməsi nə üçündür?",
+      "options": [
+        "Yük maşınının texniki vəziyyətini göstərir",
+        "Malların gömrükdə bəyan edilməsini təmin edir",
+        "Malların daşınma yolunu təsdiqləyir",
+        "Malların keyfiyyətini ölçür"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gömrük bəyannaməsi, malların gömrük orqanlarına bəyan edilməsi üçün istifadə olunan əsas sənəddir."
+    },
+    {
+      "id": 1104,
+      "question": "İdxal nə deməkdir?",
+      "options": [
+        "Malların xaricə satılması",
+        "Malların ölkəyə gətirilməsi",
+        "Malların daxildə daşınması",
+        "Malların tranzit keçidi"
+      ],
+      "correctAnswer": 1,
+      "explanation": "İdxal, xarici ölkələrdən malların daxili bazara gətirilməsi deməkdir."
+    },
+    {
+      "id": 1105,
+      "question": "İxrac nə deməkdir?",
+      "options": [
+        "Malların ölkədən kənara satılması",
+        "Malların ölkəyə gətirilməsi",
+        "Malların gömrük anbarında saxlanması",
+        "Malların tranzit yüklənməsi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "İxrac, ölkədə istehsal olunan malların xarici ölkələrə satılmasıdır."
+    },
+    {
+      "id": 1106,
+      "question": "Tranzit nədir?",
+      "options": [
+        "Malların bir ölkədən digərinə gömrük ərazisindən keçərək daşınması",
+        "Malların daxili bazarda satışı",
+        "Malların anbarlarda saxlanması",
+        "Malların idxal üçün bəyanı"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tranzit, malların bir ölkənin ərazisindən keçərək digər ölkəyə daşınmasıdır."
+    },
+    {
+      "id": 1107,
+      "question": "Gömrük nəzarətinin məqsədi nədir?",
+      "options": [
+        "Yalnız vergi toplamaq",
+        "Ölkənin iqtisadi və təhlükəsizlik maraqlarını qorumaq",
+        "Malların keyfiyyətini ölçmək",
+        "Gömrük əməkdaşlarını yoxlamaq"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gömrük nəzarətinin əsas məqsədi dövlətin iqtisadi maraqlarını, təhlükəsizliyini qorumaq və qanunsuz malların qarşısını almaqdır."
+    },
+    {
+      "id": 1108,
+      "question": "Gömrük İttifaqına misal olan birlik hansıdır?",
+      "options": [
+        "Avropa İttifaqı",
+        "NATO",
+        "BMT",
+        "UNICEF"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Avropa İttifaqı, üzv ölkələr arasında gömrük rüsumlarının aradan qaldırıldığı və vahid ticarət siyasətinin tətbiq edildiyi nümunədir."
+    },
+    {
+      "id": 1109,
+      "question": "Gömrük anbarı nə üçündür?",
+      "options": [
+        "Malların gömrük nəzarətindən əvvəl saxlandığı yer",
+        "Malların yalnız daxili bazara paylanması üçün",
+        "Malların istehsal olunduğu yer",
+        "Malların satıldığı bazar"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Gömrük anbarı, malların gömrük rüsumları ödənilmədən əvvəl saxlandığı yerdir."
+    },
+    {
+      "id": 1110,
+      "question": "Əlavə Dəyər Vergisi (ƏDV) gömrükdə hansı əməliyyata tətbiq olunur?",
+      "options": [
+        "Yalnız ixrac mallarına",
+        "Yalnız tranzit mallarına",
+        "İdxal olunan mallara",
+        "Yalnız daxili istehsal mallarına"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ƏDV idxal olunan mallara tətbiq edilir."
+    },
+    {
+      "id": 1111,
+      "question": "Gömrük nəzarətində 'yaşıl dəhliz' nə deməkdir?",
+      "options": [
+        "Malların tam yoxlamadan keçirilməsi",
+        "Malların yoxlamasız və sürətli buraxılması",
+        "Yalnız idxal mallarına aid dəhliz",
+        "Yalnız tranzit malları üçün keçid"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Yaşıl dəhliz sistemi malların risk əsaslı seçilərək tez buraxılmasına imkan verir."
+    },
+    {
+      "id": 1112,
+      "question": "Gömrük nəzarətində 'qırmızı dəhliz' nə deməkdir?",
+      "options": [
+        "Malların risk əsaslı tam yoxlanması",
+        "Malların heç bir yoxlamasız keçməsi",
+        "Malların saxlanması",
+        "Malların tranzit daşınması"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Qırmızı dəhliz malların daha ciddi gömrük yoxlamasına yönəldilməsi deməkdir."
+    },
+    {
+      "id": 1113,
+      "question": "Gömrük tarifləri əsasən nə üçün tətbiq olunur?",
+      "options": [
+        "Yerli istehsalı qorumaq və dövlət büdcəsinə gəlir gətirmək",
+        "Malların keyfiyyətini artırmaq",
+        "Sərhəd mübahisələrini həll etmək",
+        "İxrac mallarını ucuzlaşdırmaq"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Gömrük tarifləri dövlət gəlirlərini artırmaq və yerli istehsalı qorumaq məqsədilə tətbiq olunur."
+    },
+    {
+      "id": 1114,
+      "question": "Gömrük qanunvericiliyini pozan şəxslərə hansı tədbir görülə bilər?",
+      "options": [
+        "Cərimə və malların müsadirəsi",
+        "Mükafatlandırma",
+        "Gömrük rüsumlarının azaldılması",
+        "Gömrük əməkdaşlarının dəyişdirilməsi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Gömrük qanunvericiliyini pozan şəxslərə qarşı cərimə tətbiq edilə və mallar müsadirə oluna bilər."
+    },
+    {
+      "id": 1115,
+      "question": "Gömrük orqanlarının əsas funksiyası nədir?",
+      "options": [
+        "Dövlət büdcəsini idarə etmək",
+        "Sərhədləri qorumaq, idxal və ixracı tənzimləmək",
+        "Maliyyə bazarını idarə etmək",
+        "Yalnız turizmi inkişaf etdirmək"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gömrük orqanlarının əsas funksiyası dövlət sərhədlərində malların qanuni dövriyyəsini təmin etməkdir."
+    },
+    {
+      "id": 1116,
+      "question": "Malların gömrük dəyəri necə müəyyən olunur?",
+      "options": [
+        "Malların faktura qiymətinə əsasən",
+        "Malların çəkisinə görə",
+        "Gömrük əməkdaşının şəxsi qərarı ilə",
+        "Yalnız ixrac ölkəsinin qanunları ilə"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Gömrük dəyəri əsasən malların faktura qiyməti əsasında müəyyən olunur."
+    },
+    {
+      "id": 1117,
+      "question": "Gömrük qanunvericiliyinə görə qadağan olunmuş mallar hansı kateqoriyaya aiddir?",
+      "options": [
+        "Qanunsuz dövriyyəsi təhlükəli olan mallar",
+        "Yalnız yeyinti malları",
+        "Yalnız sənaye malları",
+        "Yalnız kənd təsərrüfatı malları"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Qadağan olunmuş mallar qanunsuz dövriyyəsi təhlükəli olan mallardır (narkotiklər, silahlar və s.)."
+    },
+    {
+      "id": 1118,
+      "question": "Gömrük nəzarəti hansı mərhələdə həyata keçirilir?",
+      "options": [
+        "Yalnız mallar ölkəyə daxil olduqda",
+        "Yalnız mallar ölkədən çıxdıqda",
+        "Həm idxal, həm ixrac, həm də tranzit zamanı",
+        "Yalnız daxili bazarda satış zamanı"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Gömrük nəzarəti idxal, ixrac və tranzit əməliyyatlarının hamısında həyata keçirilir."
+    },
+    {
+      "id": 1119,
+      "question": "Gömrük rüsumları və vergiləri ödəməkdən yayınma hansı nəticəyə səbəb ola bilər?",
+      "options": [
+        "Malların müsadirəsi və cərimə",
+        "Malların qiymətinin artırılması",
+        "Gömrük əməkdaşının dəyişdirilməsi",
+        "Malların keyfiyyətinin yüksəldilməsi"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Gömrük rüsumları və vergilərindən yayınma halında mallar müsadirə edilə və cərimə tətbiq oluna bilər."
+    }
+  ]
+}
