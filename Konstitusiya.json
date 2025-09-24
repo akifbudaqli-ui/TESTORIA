@@ -2,10 +2,10 @@
    "id": "konstitusiya",
   "name": "Konstitusiya",
   "questions": [
-   {
+  {
 "id": 1,
 "text": "Azərbaycan Respublikasının Qanunu Milli Məclis tərəfindən 23 aprel 2019-cu ildə qəbul olunmuşdur. Qanun 2019-cu ilin may ayının 8-də Prezident tərəfindən imzalanmış VƏ həmin ayın 12-də \"Azərbaycan\" qəzetində dərc edilmişdir. Qanunda onun 2019-cu il avqust ayının 1-dən qüvvəyə minməsi göstərilmişdir. Bu mümkündürmü və qanun nə vaxtdan qüvvəyə minmiş hesab olunur?  ",
-       “options”: [  Lakin qanun 2019-cu ilin sentyabr ayının 1-dən qüvvəyə minəcəkdir;  ",
+       "options": [  "Lakin qanun 2019-cu ilin sentyabr ayının 1-dən qüvvəyə minəcəkdir;",
         "Xeyr, mümkün deyil. Çünki qanun dərc edildiyi gün qüvvəyə minir.  Buna görə də həmin qanun 2019-cu ilin may ayının 12-dən qüvvəyə minmişdir;  ",
         "Xeyr, mümkün deyil.  Qanun qəbul edildiyi gün, yəni 23 aprel 2019-cu ildə qüvvəyə minmişdir;  ",
         "Bəli, mümkündür.  Qanun 2019-cu ilin avqust ayının 01-dən qüvvəyə minəcəkdir.  "
@@ -15,7 +15,7 @@
     {
       "id": 2,
        "text": "AR Konstitusiyasına ilk əlavə neçənci ildə olunmuşdur?  ",
-       “options”: [  "24 avqust 2002-ci il  ",
+       "options": [  "24 avqust 2002-ci il  ",
          "18 mart 2009-cu il  ",
          "26 sentyabr 2016-cı il  ",
          "26 oktyabr 2016-cı il  "
@@ -25,7 +25,7 @@
     {
       "id": 3,
        "text": "Konstitusiyanın preambulasında Azərbaycan xalqı hansı aktda əks olunan prinsipləri əsas götürür?  ",
-       “options”: [  "«AR-da Ümumxalq səsverməsinin təmin edilməsi haqqında» Konstitusiya Aktında əks olunan prinsipləri  ",
+       "options": [  "«AR-da Ümumxalq səsverməsinin təmin edilməsi haqqında» Konstitusiya Aktında əks olunan prinsipləri  ",
          "«AR-nın dövlət müstəqilliyi haqqında» Konstitusiya Aktında əks olunan prinsipləri  ",
          "«AR-nın dövlət suverenliyi haqqında» Konstitusiya Aktında əks olunan prinsipləri  ",
          "«AR-nın dövlətçiliyi haqqında» Konstitusiya Aktında əks olunan prinsipləri  "
@@ -35,7 +35,7 @@
     {
       "id": 4,
        "text": "Konstitusiyanın preambulasında Azərbaycan xalqı təntənəli surətdə neçə ülvi niyyətini bəyan edir?  ",
-       “options”: [  "6 niyyətini  ",
+       "options": [  "6 niyyətini  ",
          "5 niyyətini  ",
          "4 niyyətini  ",
          "7 niyyətini  "
@@ -45,7 +45,7 @@
     {
       "id": 5,
        "text": "AR Konstitusiyası hansı ifadə ilə başlayır?  ",
-       “options”: [  "Azərbaycan Respublikası  ",
+       "options": [  "Azərbaycan Respublikası  ",
          "Azərbaycan Xalqı  ",
          "Azərbaycan Dövləti  ",
          "Azərbaycan Vətəndaşları  "
@@ -55,7 +55,7 @@
     {
       "id": 6,
        "text": "AR Konstitusiyasının birinci bölməsi neçə fəsil və neçə maddədən ibarətdir?  ",
-       “options”: [  "I bölmə iki fəsildən: xalq hakimiyyəti (1-6-cı maddələr və dövlətin əsasları (7-23-cü maddələr) - ibarətdir.  ",
+       "options": [  "I bölmə iki fəsildən: xalq hakimiyyəti (1-6-cı maddələr və dövlətin əsasları (7-23-cü maddələr) - ibarətdir.  ",
          "I bölmə iki fəsildən: xalq hakimiyyəti (1-7-ci maddələr və dövlətin əsasları (10-23-cü maddələr) ibarətdir.  ",
          "I bölmə üç fəsildən: xalq hakimiyyəti (1-6-cı maddələr dövlətin əsasları (7-23-cü maddələr və Əsas insan və hüquq azadlıqlarından (24-72-ci maddələr) ibarətdir.  ",
          "I bölmə bir fəsildən xalq hakimiyyəti (1-6-cı maddələr) ibarətdir.  "
@@ -65,7 +65,7 @@
     {
       "id": 7,
        "text": "AR Konstitusiyasına əsasən Hakimiyyətin mənbəyi ilə bağlı göstərilən fikirlərdən hansı doğrudur?  ",
-       “options”: [  "Azərbaycan xalqı AR ərazisində və ondan kənarda yaşayan, Azərbaycan dövlətinə və qanunlarına tabe sayılan AR vətəndaşlarından ibarətdir, bu isə beynəlxalq hüquqla müəyyənləşdirilmiş normaları istisna etmir.  ",
+       "options": [  "Azərbaycan xalqı AR ərazisində və ondan kənarda yaşayan, Azərbaycan dövlətinə və qanunlarına tabe sayılan AR vətəndaşlarından ibarətdir, bu isə beynəlxalq hüquqla müəyyənləşdirilmiş normaları istisna etmir.  ",
          "Azərbaycan xalqı AR ərazisində və ondan kənarda yaşayan, Azərbaycan dövlətinə və qanunlarına tabe sayılan AR vətəndaşlarından ibarətdir, bu isə beynəlxalq hüquqla müəyyənləşdirilmiş normaları istisna edir.  ",
          "Azərbaycan xalqı AR ərazisində və ondan kənarda yaşayan, AR-na və qanunlarına, habelə beynəlxalq müqavilələrə tabe sayılan AR vətəndaşlarından ibarətdir, bu isə beynəlxalq hüquqla müəyyənləşdirilmiş normaları istisna etmir.  ",
          "Azərbaycan xalqı AR ərazisində və ondan kənarda yaşayan, Azərbaycan dövlətinə və qanunlarına tabe sayılan AR vətəndaşından ibarətdir, bu isə beynəlxalq hüquqla müəyyənləşdirilməmiş normaları istisna etmir.  "
@@ -75,7 +75,7 @@
     {
       "id": 8,
        "text": "AR Konstitusiyasına əsasən aşağıdakılardan hansı Azərbaycan xalqının suveren hüququdur?  ",
-       “options”: [  "Bilavasitə ümumxalq səsverməsi referendum və ümumi, bərabər və birbaşa seçki hüququ əsasında sərbəst, gizli və şəxsi səsvermə yolu ilə seçilmiş nümayəndələri vasitəsi ilə həyata keçirmək  ",
+       "options": [  "Bilavasitə ümumxalq səsverməsi referendum və ümumi, bərabər və birbaşa seçki hüququ əsasında sərbəst, gizli və şəxsi səsvermə yolu ilə seçilmiş nümayəndələri vasitəsi ilə həyata keçirmək  ",
          "Sərbəst və müstəqil öz müqəddəratını həll etmək və öz idarəetmə formasını müəyyən etməmək  ",
          "Bilavasitə ümumxalq səsverməsi referendum və ümumi, bərabər və gizli seçki hüququ əsasında sərbəst, birbaşa və şəxsi səsvermə yolu ilə seçilmiş nümayəndələri vasitəsi ilə həyata keçirmək  ",
          "Sərbəst və müstəqil öz müqəddəratını həll etmək və öz idarəetmə formasını müəyyən etmək  "
@@ -85,7 +85,7 @@
     {
       "id": 9,
        "text": "Azərbaycan xalqı Öz suveren hüququnu necə həyata keçirir?  ",
-       “options”: [  "referendum VƏ ümumi, bərabər və birbaşa seçki hüququ əsasında sərbəst, gizli VƏ şəxsi səsvermə yolu ilə seçilmiş nümayəndələri vasitəsilə  ",
+       "options": [  "referendum VƏ ümumi, bərabər və birbaşa seçki hüququ əsasında sərbəst, gizli VƏ şəxsi səsvermə yolu ilə seçilmiş nümayəndələri vasitəsilə  ",
          "referendum və ümumi, gizli və birbaşa seçki hüququ əsasında sərbəst, bərabər və şəxsi səsvermə yolu ilə seçilmiş nümayəndələri vasitəsilə  ",
          "referendum və ümumi, bərabər və şəxsi seçki hüququ əsasında sərbəst, gizli və birbaşa səsvermə yolu ilə seçilmiş nümayəndələri vasitəsilə  ",
          "referendum VƏ ümumi, bərabər və birbaşa seçki hüququ əsasında sərbəst, açıq VƏ birgə səsvermə yolu ilə seçilmiş bələdiyyə nümayəndələri vasitəsilə  "
@@ -95,7 +95,7 @@
     {
       "id": 10,
       "text": "AR Konstitusiyasına uyğun olaraq Azərbaycan xalqı hansı niyyətlərini bəyan edir?\n1.  Xalqın iradəsinin ifadəsi kimi, qanunların aliliyini təmin edən hüquqi, dünyəvi dövlət qurmaq  \n2.  Ədalətli iqtisadi və sosial qaydalara uyğun olaraq, hamının layiqli həyat səviyyəsini təmin etmək  \n3.  Konstitusiya çərçivəsində unitar respublika yaratmaq  \n4.  AR-nın beynəlxalq müqavilələrə qoşulmasını təmin etmək  \n5.  Ümumbəşəri dəyərlərə sadiq olaraq, bütün dünya xalqları ilə dostluq, sülh və əmin-amanlıq şəraitində yaşamaq və bu məqsədlə qarşılıqlı fəaliyyət göstərmək  ",
-       “options”: [  "1, 2, 3  ",
+       "options": [  "1, 2, 3  ",
          "1, 3, 5  ",
          "1, 2, 5  ",
          "1, 4, 5  "
@@ -105,7 +105,7 @@
     {
       "id": 11,
       "text": "AR Konstitusiyasına edilmiş əlavə və dəyişikliklərin düzgün siyahısını seçin:\n1. 2002-ci il avqustun 24-də ümumxalq səsverməsində (referendumda) qəbul edilmiş əlavə və dəyişikliklər\n2.  2009-cu il martın 18-də ümumxalq səsverməsində (referendumda) qəbul edilmiş əlavə və dəyişikliklər  \n3.  2016-cı il sentyabrın 26-da keçirilmiş ümumxalq səsverməsində (referendumda) qəbul edilmiş dəyişikliklər  \n4.  2002-ci il avqustun 24-də ümumxalq səsverməsində (referendumda) qəbul edilmiş dəyişikliklər  \n5.  2009-cu il martın 18-də ümumxalq səsverməsində (referendumda) qəbul edilmiş dəyişikliklər  \n6.  2016-cı il sentyabrın 26-da keçirilmiş ümumxalq səsverməsində (referendumda) qəbul edilmiş əlavə və dəyişikliklər  ",
-       “options”: [  "1, 3, 5  ",
+       "options": [  "1, 3, 5  ",
          "2, 3, 4  ",
          "2, 4, 6  ",
          "4, 5, 6  "
@@ -115,7 +115,7 @@
     {
       "id": 12,
       "text": "Azərbaycan xalqı ibarətdir:\n1. AR ərazisində yaşayan vətəndaşlardan\n2.  AR ərazisindən kənarda yaşayan vətəndaşlardan  \n3. AR ərazisində yaşayan hər bir şəxsdən\n4. Azərbaycan Respublikasına və onun qanunlarına tabe sayılan vətəndaşlardan\n5.  Azərbaycan dövlətinə və onun qanunlarına tabe sayılan vətəndaşlardan  ",
-       “options”: [  "1.3.5  ",
+       "options": [  "1.3.5  ",
          "1.2.5  ",
          "3.4.5  ",
          "2.3.4  "
@@ -125,7 +125,7 @@
     {
       "id": 13,
        "text": "AR Konstitusiyasının preambulasında (Giriş hissəsində) hansı hüquqi norma müəyyən edilir?  ",
-       “options”: [  "AR Konstitusiyasının preambulasında heç bir hüquqi norma müəyyən edilməmiş-dir, Konstitusiyamızın qəbul edilməsinin məqsədi və bir sıra mühüm niyyətlər bəyan olunmuşdur.  ",
+       "options": [  "AR Konstitusiyasının preambulasında heç bir hüquqi norma müəyyən edilməmiş-dir, Konstitusiyamızın qəbul edilməsinin məqsədi və bir sıra mühüm niyyətlər bəyan olunmuşdur.  ",
          "AR Konstitusiyasının preambulasında tətbiq edildiyi subyektlərin dairəsinə görə - ümumi və ya müəyyən ərazi, müəyyən kateqoriya şəxslər üçün tətbiqi nəzərdə tutulmuş normalar müəyyən edilmişdir  ",
          "AR Konstitusiyasının preambulasında hüququn sahələrinə görə mülki hüquq normaları, cinayət hüquq normaları, əmək hüquq normaları müəyyən edilmişdir  ",
          "AR Konstitusiyasının preambulasında qüvvədə olma müddətinə görə - müddətsiz və müvəqqəti normalar müəyyən edilmişdir  "
@@ -135,7 +135,7 @@
     {
       "id": 14,
        "text": "Hansı məsələlər yalnız referendumla həll oluna bilər?\n1) AR Konstitusiyasının qəbul edilməsi və ona dəyişikliklər edilməsi   \n2) AR Konstitusiyasının qəbul edilməsi və ona əlavələr edilməsi   \n3) AR Dövlət sərhədlərinin dəyişdirilməsi\n4) AR ərazisinin özgəninkiləşdirilməsi   \n5) AR Konstitusiya Qanunlarının qəbul edilməsi və ona dəyişikliklər edilməsi  ",
-       “options”: [  "1, 2, 3  ",
+       "options": [  "1, 2, 3  ",
          "3, 4, 5  ",
          "1, 3, 5  ",
          "1, 3  "
@@ -145,7 +145,7 @@
     {
       "id": 15,
        "text": "AR Konstitusiyasına əsasən ümumxalq səsverməsi-referendum yolu ilə həll edilən məsələlər maddəsinə görə doğrudur:  ",
-       “options”: [  "Azərbaycan xalqı öz hüquqları və azadlıqları ilə bağlı olan hər bir məsələni referendumla həll edə bilər.  ",
+       "options": [  "Azərbaycan xalqı öz hüquqları və azadlıqları ilə bağlı olan hər bir məsələni referendumla həll edə bilər.  ",
          "AR Konstitusiyasının qəbul edilməsi və ona dəyişikliklər edilməsi məsələsi digər üsullarla yanaşı referendumla da həll oluna bilər.  ",
          "AR dövlət sərhədlərinin dəyişdirilməsi yalnız referendumla həll oluna bilər.  ",
          "AR Konstitusiyasının qəbul edilməsi və ona əlavələr edilməsi məsələsi digər üsullarla yanaşı referendumla da həll oluna bilər.  "
@@ -155,7 +155,7 @@
     {
       "id": 16,
        "text": "Azərbaycan xalqını kim təmsil edə bilər?  ",
-       “options”: [  "Nazirlik və ona bərabər tutulan dövlət orqanlarının rəhbərləri  ",
+       "options": [  "Nazirlik və ona bərabər tutulan dövlət orqanlarının rəhbərləri  ",
          "Yerli İcra Hakimiyyətinin başçıları  ",
          "Məhkəmə Hakimləri  ",
          "AR Milli Məclisin deputatları  "
@@ -165,7 +165,7 @@
     {
       "id": 17,
        "text": "AR Konstitusiyasına əsasən xalqı təmsil etmək hüququna aid deyil:  ",
-       “options”: [  "Xalqın seçdiyi səlahiyyətli nümayəndələrindən başqa heç kəsin xalqı təmsil etmək hüququ yoxdur.  ",
+       "options": [  "Xalqın seçdiyi səlahiyyətli nümayəndələrindən başqa heç kəsin xalqı təmsil etmək hüququ yoxdur.  ",
          "Xalqın seçdiyi səlahiyyətli nümayəndələrindən başqa heç kəsin xalqın adından danışmaq hüququ yoxdur.  ",
          "Xalqın seçdiyi səlahiyyətli nümayəndələrindən başqa heç kəsin xalqın adından müraciət etmək hüququ yoxdur.  ",
          "Xalqın seçdiyi səlahiyyətli nümayəndələrindən başqa heç kəsin xalqı təmsil etmək, öz adından danışmaq və xalqın adından müraciət etmək hüququ yoxdur.  "
@@ -175,7 +175,7 @@
     {
       "id": 18,
        "text": "Azərbaycan dövlətinin təməlini nə (və ya kim) təşkil edir?  ",
-       “options”: [  "Xalqın birliyi  ",
+       "options": [  "Xalqın birliyi  ",
          "Xalqın vahidliyi  ",
          "Xalqın varisliyi  ",
          "Xalqın suverenliyi  "
@@ -185,7 +185,7 @@
     {
       "id": 19,
        "text": "AR Konstitusiyasına əsasən xalqın vahidliyi maddəsinə görə doğru deyil:  ",
-       “options”: [  "Azərbaycan xalqı vahiddir.  ",
+       "options": [  "Azərbaycan xalqı vahiddir.  ",
          "Azərbaycan xalqının vahidliyi Azərbaycan dövlətinin təməlini təşkil edir.  ",
          "Azərbaycan dövləti bütün AR-da yaşayan insan və vətəndaşların ümumi və bölünməz vətənidir.  ",
          "AR bütün AR vətəndaşlarının ümumi və bölünməz vətənidir.  "
@@ -195,7 +195,7 @@
     {
       "id": 20,
        "text": "Azərbaycan dövləti necə Respublikadır?  ",
-       “options”: [  "Demokratik, hüquqi, dünyəvi, unikal  ",
+       "options": [  "Demokratik, hüquqi, dünyəvi, unikal  ",
          "Demokratik, federativ, dünyəvi, unitar  ",
          "Demokratik, hüquqi, müstəqil, unitar  ",
          "Demokratik, hüquqi, dünyəvi, unitar  "
@@ -205,7 +205,7 @@
     {
       "id": 21,
        "text": "Azərbaycan necə dövlətdir?  ",
-       “options”: [  "Demokratik  ",
+       "options": [  "Demokratik  ",
          "Hüquqi  ",
          "Unitar  ",
          "Dünyəvi  "
@@ -215,7 +215,7 @@
     {
       "id": 22,
        "text": "AR-da dövlət hakimiyyəti daxili və xarici məsələlərdə necə məhdudlaşır?  ",
-       “options”: [  "AR-da dövlət hakimiyyəti daxili məsələlərdə yalnız hüquqla, xarici məsələlərdə isə AR-ın tərəfdar çıxdığı beynəlxalq müqavilələrdən irəli gələn müddəalarla məhdudlaşır.  ",
+       "options": [  "AR-da dövlət hakimiyyəti daxili məsələlərdə yalnız hüquqla, xarici məsələlərdə isə AR-ın tərəfdar çıxdığı beynəlxalq müqavilələrdən irəli gələn müddəalarla məhdudlaşır.  ",
          "AR-da dövlət hakimiyyəti daxili məsələlərdə yalnız hüquqla, xarici məsələlərdə isə yalnız AR-ın tərəfdar çıxdığı beynəlxalq müqavilələrdən irəli gələn müddəalarla məhdudlaşır.  ",
          "AR-da dövlət hakimiyyəti daxili məsələlərdə yalnız hüquqla, xarici məsələlərdə isə yalnız AR-ın tərəfdar çıxdığı beynəlxalq hüquq normalarından irəli gələn müddəalarla məhdudlaşır.  ",
          "AR-da dövlət hakimiyyəti daxili məsələlərdə hüquqla, xarici məsələlərdə isə yalnız AR-ın tərəfdar çıxdığı beynəlxalq müqavilələrdən irəli gələn müddəalarla məhdudlaşır.  "
@@ -225,7 +225,7 @@
     {
       "id": 23,
        "text": "AR-da dövlət hakimiyyəti xarici məsələlərdə nə ilə məhdudlaşır?  ",
-       “options”: [  "Hüquqla  ",
+       "options": [  "Hüquqla  ",
          "Beynəlxalq müqavilələrdən irəli gələn müddəalarla  ",
          "Yalnız hüquqla  ",
          "Yalnız Beynəlxalq müqavilələrdən irəli gələn müddəalarla  "
@@ -235,7 +235,7 @@
     {
       "id": 24,
        "text": "AR Konstitusiyasına əsasən qanunvericilik, icra və məhkəmə hakimiyyətlərinin qarşılıqlı fəaliyyət göstərməsi nə əsasında müəyyən edilir?  ",
-       “options”: [  "Konstitusiya  ",
+       "options": [  "Konstitusiya  ",
          "Qanun  ",
          "Qərar  ",
          "Konstitusiya qanunu  "
@@ -245,7 +245,7 @@
     {
       "id": 25,
        "text": "AR Konstitusiyasına əsasən qanunvericilik, icra VƏ məhkəmə hakimiyyətləri necə fəaliyyət göstərir?  ",
-       “options”: [  "Bu Konstitusiyanın və Qanunların müddəalarına əsasən qarşılıqlı fəaliyyət göstərir və öz səlahiyyətləri çərçivəsində müstəqildirlər.  ",
+       "options": [  "Bu Konstitusiyanın və Qanunların müddəalarına əsasən qarşılıqlı fəaliyyət göstərir və öz səlahiyyətləri çərçivəsində müstəqildirlər.  ",
          "Bu Konstitusiyanın müddəalarına əsasən qarşılıqlı fəaliyyət göstərir VƏ Öz səlahiyyətləri çərçivəsində müstəqildirlər.  ",
          "Bu Konstitusiyanın VƏ Konstitusiya Qanunlarının müddəalarına əsasən qarşılıqlı fəaliyyət göstərir VƏ Öz səlahiyyətləri çərçivəsində müstəqildirlər.  ",
          "Bu Konstitusiyanın müddəalarına əsasən qarşılıqlı fəaliyyət göstərir VƏ Öz səlahiyyətləri çərçivəsində sərbəstdirlər.  "
@@ -255,7 +255,7 @@
     {
       "id": 26,
        "text": "AR Konstitusiyasına əsasən Azərbaycan dövlətinin başçısı ilə bağlı fikirlərdən biri doğru deyil:  ",
-       “options”: [  O, ölkənin daxilində və xarici münasibətlərdə Azərbaycan dövlətini təmsil edir.  ",
+       "options": [  "O, ölkənin daxilində və xarici münasibətlərdə Azərbaycan dövlətini təmsil edir.  ",
          "AR Prezidenti Azərbaycan xalqının vahidliyini təcəssüm etdirir və Azərbaycan dövlətçiliyinin varisliyini təmin edir.  ",
          "AR Prezidenti Azərbaycan dövlətinin müstəqilliyinin, ərazi bütövlüyünün və AR-nın tərəfdar çıxdığı beynəlxalq müqavilələrə riayət olunmasının təminatçısıdır.  ",
          "AR Prezidenti AR Silahlı Qüvvələrinin Ali Baş Komandanıdır  "
@@ -265,7 +265,7 @@
     {
       "id": 27,
        "text": "AR Prezidenti nəyi təmin edir?  ",
-       “options”: [  "Dövlətçiliyin varisliyini  ",
+       "options": [  "Dövlətçiliyin varisliyini  ",
          "AR dövlət büdcəsinin icrasını  ",
          "Dövlətçiliyin vahidliyini  ",
          "Dövlət iqtisadi proqramlarının həyata keçirilməsini  "
@@ -275,7 +275,7 @@
     {
       "id": 28,
        "text": "\"AR öz təhlükəsizliyini və müdafiəsini təmin etmək məqsədi ilə Silahlı Qüvvələr yaradır. Silahlı Qüvvələr Azərbaycan Ordusundan VƏ başqa silahlı birləşmələrdən ibarətdir\" cümləsi AR Konstitusiyasına neçənci ildə yeni redaksiya ilə verilmişdir?  ",
-       “options”: [  "1995-ci il noyabrın 12-də ümumxalq səsverməsində referendumda  ",
+       "options": [  "1995-ci il noyabrın 12-də ümumxalq səsverməsində referendumda  ",
          "2002-ci il avqustun 24-də ümumxalq səsverməsində referendumda qəbul edilmiş dəyişikliklərlə  ",
          "2009-cu il martın 18-də ümumxalq səsverməsində referendumda qəbul edilmiş əlavə və dəyişikliklərlə.  ",
          "2016-cı il sentyabrın 26-da keçirilmiş ümumxalq səsverməsində referendumda qəbul edilmiş əlavə və dəyişikliklərlə.  "
@@ -285,7 +285,7 @@
     {
       "id": 29,
        "text": "AR Prezidenti Respublikanın daxilində kimi təmsil edir?  ",
-       “options”: [  "Azərbaycan Xalqını  ",
+       "options": [  "Azərbaycan Xalqını  ",
          "Azərbaycan Dövlətini  ",
          "Azərbaycan Respublikasını  ",
          "Heç biri doğru deyil  "
@@ -295,7 +295,7 @@
     {
       "id": 30,
        "text": "AR Konstitusiyasına əsasən dövlətin ali məqsədi nədən ibarətdir?  ",
-       “options”: [  "AR vətəndaşlarına layiqli həyat səviyyəsinin təmin edilməsi dövlətin ali məqsədidir.  ",
+       "options": [  "AR vətəndaşlarına layiqli həyat səviyyəsinin təmin edilməsi dövlətin ali məqsədidir.  ",
          "İnsan və vətəndaş hüquqlarının və azadlıqlarının təmin edilməsi dövlətin ali məqsədidir.  ",
          "İnsan və vətəndaş hüquqlarının və azadlıqlarının, AR vətəndaşlarına ləyaqətli həyat səviyyəsinin təmin edilməsi dövlətin ali məqsədidir.  ",
          "İnsan və vətəndaş hüquqlarının və azadlıqlarının, AR vətəndaşlarına layiqli həyat səviyyəsinin təmin edilməsi dövlətin ali məqsədidir.  "
@@ -305,7 +305,7 @@
     {
       "id": 31,
        "text": "AR Konstitusiyasına əsasən aşağıdakılardan hansı düzgündür?  ",
-       “options”: [  "Azərbaycan dövləti bazar münasibətləri əsasında sosial yönümlü iqtisadiyyatın inkişafına şərait yaradır, azad sahibkarlığa təminat verir, sosial VƏ iqtisadi münasibətlərdə inhisarçılığa və haqsız rəqabətə yol vermir.  ",
+       "options": [  "Azərbaycan dövləti bazar münasibətləri əsasında sosial yönümlü iqtisadiyyatın inkişafına şərait yaradır, azad sahibkarlığa təminat verir, sosial VƏ iqtisadi münasibətlərdə inhisarçılığa və haqsız rəqabətə yol vermir.  ",
          "Azərbaycan dövləti bazar münasibətləri əsasında sosial yönümlü iqtisadiyyatın inkişafına şərait yaradır, azad sahibkarlığa təminat verir, sosial münasibətlərdə inhisarçılığa və haqsız rəqabətə yol vermir.  ",
          "Azərbaycan dövləti bazar münasibətləri əsasında sosial yönümlü iqtisadiyyatın inkişafına şərait yaradır, azad sahibkarlığa təminat verir, iqtisadi münasibətlərdə inhisarçılığa və haqsız rəqabətə yol vermir.  ",
          "Azərbaycan dövləti bazar münasibətləri əsasında sosial yönümlü iqtisadiyyatın inkişafına şərait yaradır, azad sahibkarlığa təminat verir, iqtisadi münasibətlərdə inhisarçılığa və haqsız rəqabətə yol verir.  "
@@ -315,7 +315,7 @@
     {
       "id": 32,
        "text": "AR Konstitusiyasına əsasən təbii ehtiyatlar kimə mənsubdur?  ",
-       “options”: [  "Təbii ehtiyatlar hər hansı fiziki və ya hüquqi şəxslərin hüquqlarına Və mənafelərinə xələl gətirmədən Azərbaycan Dövlətinə mənsubdur.  ",
+       "options": [  "Təbii ehtiyatlar hər hansı fiziki və ya hüquqi şəxslərin hüquqlarına Və mənafelərinə xələl gətirmədən Azərbaycan Dövlətinə mənsubdur.  ",
          "Təbii ehtiyatlar hər hansı fiziki və ya vəzifəli şəxslərin hüquqlarına və mənafelərinə xələl gətirmədən Azərbaycan Respublikasına mənsubdur.  ",
          "Təbii ehtiyatlar hər hansı fiziki və ya hüquqi şəxslərin hüquqlarına və azadlıqlarına xələl gətirmədən Azərbaycan Respublikasına mənsubdur.  ",
          "Təbii ehtiyatlar hər hansı fiziki və ya hüquqi şəxslərin hüquqlarına VƏ mənafelərinə xələl gətirmədən Azərbaycan Respublikasına mənsubdur.  "
@@ -325,7 +325,7 @@
     {
       "id": 33,
        "text": "Sosial inkişaf və dövlətlə bağlı fikirlərdən biri yalnışdır:  ",
-       “options”: [  "Azərbaycan dövləti mədəniyyətin, təhsilin, səhiyyənin, elmin, iqtisadiyyatın inkişafına yardım göstərir, ölkənin təbiətini, xalqın tarixi, maddi və mənəvi irsini qoruyur.  ",
+       "options": [  "Azərbaycan dövləti mədəniyyətin, təhsilin, səhiyyənin, elmin, iqtisadiyyatın inkişafına yardım göstərir, ölkənin təbiətini, xalqın tarixi, maddi və mənəvi irsini qoruyur.  ",
          "Azərbaycan dövləti mədəniyyətin, turizmin, səhiyyənin, elmin, incəsənətin inkişafına yardım göstərir, ölkənin təbiətini, xalqın tarixi, maddi və mənəvi irsini qoruyur.  ",
          "Azərbaycan dövləti mədəniyyətin, təhsilin, iqtisadiyyatın, elmin, incəsənətin inkişafına yardım göstərir, ölkənin təbiətini, xalqın tarixi, maddi və mənəvi irsini qoruyur.  ",
          "Azərbaycan dövləti mədəniyyətin, təhsilin, səhiyyənin, elmin, incəsənətin inkişafına yardım göstərir, ölkənin təbiətini, xalqın tarixi, maddi və mənəvi irsini qoruyur.  "
@@ -335,7 +335,7 @@
     {
       "id": 34,
       "text": "Dövlətin himayəsində olanları seçin:\n1.  Ailə  \n2.  Nikah  \n3.  Əmək  \n4. Valideyn qayğısından məhrum uşaqlar\n5.  Qəyyumları olmayan uşaqlar  \n6.  Təhsil  ",
-       “options”: [  "1.2.3.4.5.6  ",
+       "options": [  "1.2.3.4.5.6  ",
          "1.3.4.5.6  ",
          "1.2.4.5.6  ",
          "1.2.4.5  "
@@ -345,7 +345,7 @@
     {
       "id": 35,
        "text": "AR Dövlət bayrağına aid deyil:  ",
-       “options”: [  "Dövlət bayrağı bərabər enli üç üfüqi zolaqdan ibarətdir  ",
+       "options": [  "Dövlət bayrağı bərabər enli üç üfüqi zolaqdan ibarətdir  ",
          "Yuxarı zolaq mavi, orta zolaq qırmızı, aşağı zolaq yaşıl rəngdədir  ",
          "Bayrağın ortasında qırmızı rəngli aypara ilə səkkizguşəli ulduz təsvir edilmişdir  ",
          "Bayrağın eninin uzunluğuna nisbəti 1:2-dir  "
@@ -355,7 +355,7 @@
     {
       "id": 36,
        "text": "Konstitusiyaya görə dinə münasibəti ifadə edir:  ",
-       “options”: [  "Dinin dövlətdən ayrılması və bütün dinlərin Konstitusiya qanunu qarşısında bərabər olması  ",
+       "options": [  "Dinin dövlətdən ayrılması və bütün dinlərin Konstitusiya qanunu qarşısında bərabər olması  ",
          "Dinin dövlətdən ayrılması və bütün dinlərin qanun qarşısında bərabər olması  ",
          "Dinin dövlətdən ayrılması və bütün dinlərin Konstitusiya qanunu və Qanun qarşısında bərabər olması  ",
          "İslam dininin dövlət dini elan edilməsi  "
@@ -365,7 +365,7 @@
     {
       "id": 37,
        "text": "AR Konstitusiyasına görə AR ərazisinin tərkib hissəsinin daha düzgün cavabı hansı bənddə göstərilmişdir?  ",
-       “options”: [  "AR daxili suları, Xəzər dənizinin (gölünün) AR-na mənsub olan bölməsi  ",
+       "options": [  "AR daxili suları, Xəzər dənizinin (gölünün) AR-na mənsub olan bölməsi  ",
          "AR daxili və xarici suları, Xəzər dənizinin (gölünün) AR-na mənsub olan bölməsi, AR üzərindəki hava məkanı  ",
          "AR daxili suları, Xəzər dənizi (gölü), Kür və Araz çayının AR-na mənsub olan bölməsi, AR üzərindəki hava məkanı  ",
          "AR daxili suları, Xəzər dənizinin (gölünün) AR-na mənsub olan bölməsi, AR üzərindəki hava məkanı  "
@@ -375,7 +375,7 @@
     {
       "id": 38,
        "text": "AR Konstitusiyasına əsasən AR-ın ərazisi:  ",
-       “options”: [  "vahiddir, bölünməzdir, ayrılmazdır  ",
+       "options": [  "vahiddir, bölünməzdir, ayrılmazdır  ",
          "vahiddir, toxunulmazdır, bölünməzdir  ",
          "vahiddir, toxunulmazdır, pozulmazdır  ",
          "vahiddir, toxunulmazdır, ayrılmazdır  "
@@ -385,7 +385,7 @@
     {
       "id": 39,
        "text": "Dövlət bayrağının istifadə qaydaları müəyyən edilir:  ",
-       “options”: [  "Fərmanla  ",
+       "options": [  "Fərmanla  ",
          "Konstitusiya qanunu ilə  ",
          "Qərarla  ",
          "Heç biri  "
@@ -395,7 +395,7 @@
     {
       "id": 40,
        "text": "Din və dövlət maddəsinə aid deyil:  ",
-       “options”: [  "Azərbaycan Respublikasında din dövlətdən ayrıdır.  ",
+       "options": [  "Azərbaycan Respublikasında din dövlətdən ayrıdır.  ",
          "Bütün dini etiqadlar qanun qarşısında bərabərdir.  ",
          "Dövlət təhsil sistemi dünyəvi xarakter daşıyır.  ",
          "Təhsil sisteminə dövlət tərəfindən nəzarət edilir.  "
@@ -405,7 +405,7 @@
     {
       "id": 41,
        "text": "AR Konstitusiyasına əsasən hansı borclar AR tərəfindən öhdəlik kimi qəbul edilə və ödənilə bilməz?  ",
-       “options”: [  "Azərbaycan xalqına qarşı və ya dövlət çevrilişinə kömək məqsədi ilə alınmış borclar AR tərəfindən öhdəlik kimi qəbul edilə və ödənilə bilməz.  ",
+       "options": [  "Azərbaycan xalqına qarşı və ya dövlət çevrilişinə kömək məqsədi ilə alınmış borclar AR tərəfindən öhdəlik kimi qəbul edilə və ödənilə bilməz.  ",
          "Azərbaycan dövlətinə qarşı qiyama və dövlət çevrilişinə kömək məqsədi ilə alınmış borclar AR tərəfindən öhdəlik kimi qəbul edilə və ödənilə bilməz.  ",
          "Azərbaycan hakimiyyətinə qarşı qiyama və ya dövlət çevrilişinə kömək məqsədi ilə alınmış borclar AR tərəfindən öhdəlik kimi qəbul edilə və ödənilə bilməz.  ",
          "Azərbaycan vətəndaşlarına qarşı qiyama və ya hakimiyyət çevrilişinə kömək məqsədi ilə alınmış borclar AR tərəfindən öhdəlik kimi qəbul edilə və ödənilə bilməz.  "
@@ -415,7 +415,7 @@
     {
       "id": 42,
       "text": "AR Konstitusiyasına görə Rusiyanın ərazisində yerləşən Kataman dövləti (p.s Adı şərtidir) AR-nın tərkib hissəsi olmaq niyyətindədir. Bununla bağlı həmin dövlət bütün şərtləri yerinə yetirməyə hazırdır.  Azərbaycan Respublikasına inzibati bölgə kimi Kataman dövlətinin daxil olması üçün Azərbaycan dövləti nə etməlidir?  ",
-       “options”: [  "AR Milli Məclisində növbədənkənar iclas keçirilməlidir və qərar qəbul edilməlidir.  ",
+       "options": [  "AR Milli Məclisində növbədənkənar iclas keçirilməlidir və qərar qəbul edilməlidir.  ",
          "AR Prezidentinin sərəncamına əsasən ümumxalq səsverməsi referendum keçirilməlidir.  ",
          "AR Xarici İşlər Nazirliyinin Prezidentə təqdimatı əsasında AR əhalisi arasında ümumxalq səsverməsi referendum keçirilməlidir.  ",
          "AR əhalisi arasında ümumxalq səsverməsi - referendum keçirilməlidir.  "
@@ -425,7 +425,7 @@
     {
       "id": 43,
        "text": "AR başqa dövlətlərlə münasibətlərini hansı əsasda qurur?  ",
-       “options”: [  "Hamılıqla qəbul edilmiş Beynəlxalq Hüquq Normalarında nəzərdə tutulmuş prinsiplər əsasında  ",
+       "options": [  "Hamılıqla qəbul edilmiş Beynəlxalq Hüquq Normalarında nəzərdə tutulmuş prinsiplər əsasında  ",
          "Hamılıqla qəbul edilmiş Beynəlxalq Protokol Qaydalarında nəzərdə tutulmuş prinsiplər əsasında  ",
          "Hamılıqla qəbul edilmiş Beynəlxalq Müqavilələrdə nəzərdə tutulmuş prinsiplər əsasında  ",
          "Hamılıqla qəbul edilmiş Beynəlxalq Hüquq Normalarında nəzərdə tutulmamış prinsiplər əsasında  "
@@ -435,7 +435,7 @@
     {
       "id": 44,
        "text": "Aşağıdakı fikirlərdən hansı düzgündür?  ",
-       “options”: [  "Mülkiyyətdən insan və vətəndaş hüquqları və azadlıqları, əhalinin və respublikanın mənafeləri, şəxsiyyətin ləyaqəti lehinə istifadə edilə bilməz  ",
+       "options": [  "Mülkiyyətdən insan və vətəndaş hüquqları və azadlıqları, əhalinin və respublikanın mənafeləri, şəxsiyyətin ləyaqəti lehinə istifadə edilə bilməz  ",
          "Mülkiyyətdən insan va vətəndaş hüquqları və azadlıqları, cəmiyyətin və dövlətin mənafeləri, şəxsiyyətin ləyaqəti əleyhinə istifadə edilə bilməz  ",
          "Mülkiyyətdən insan və vətəndaş hüquqları və azadlıqları, cəmiyyətin və dövlətin mənafeləri, millətin ləyaqəti lehinə istifadə edilə bilməz  ",
          "Mülkiyyətdən insan və vətəndaş hüquqları və azadlıqları, toplunun və dövlətin mənafeləri, şəxsiyyətin ləyaqəti lehinə istifadə edilə bilməz  "
@@ -445,7 +445,7 @@
     {
       "id": 45,
        "text": "AR-da iqtisadiyyatın inkişafı nəyə əsaslanır?  ",
-       “options”: [  "Xalqın rifahının yüksəldilməsinə  ",
+       "options": [  "Xalqın rifahının yüksəldilməsinə  ",
          "Azad sahibkarlığa  ",
          "Müxtəlif mülkiyyət növlərinə  ",
          "Sosialyönümlü iqtisadiyyata  "
@@ -455,7 +455,7 @@
     {
       "id": 46,
        "text": "AR Konstitusiyasına əsasən mülkiyyət hansı növlərdə ola bilər?  ",
-       “options”: [  "Mülkiyyət dövlət mülkiyyəti, xüsusi mülkiyyət və bələdiyyə mülkiyyəti növündə ola bilər;  ",
+       "options": [  "Mülkiyyət dövlət mülkiyyəti, xüsusi mülkiyyət və bələdiyyə mülkiyyəti növündə ola bilər;  ",
          "Mülkiyyət dövlət mülkiyyəti, ümumxalq mülkiyyəti və xüsusi mülkiyyət növündə ola bilər;  ",
          "Mülkiyyət dövlət mülkiyyəti, xüsusi mülkiyyət və ictimai mülkiyyəti növündə ola bilər;  ",
          "Mülkiyyət ümumxalq mülkiyyəti, ictimai mülkiyyət və özəl mülkiyyət növündə ola bilər.  "
@@ -465,7 +465,7 @@
     {
       "id": 47,
        "text": "AR Konstitusiyasında sadalanan insan və vətəndaş hüquqları VƏ azadlıqları necə tətbiq edilir?  ",
-       “options”: [  "Konstitusiyada sadalanan insan VƏ vətəndaş hüquqları və azadlıqları AR qanunvericiliyinə uyğun tətbiq edilir;  ",
+       "options": [  "Konstitusiyada sadalanan insan VƏ vətəndaş hüquqları və azadlıqları AR qanunvericiliyinə uyğun tətbiq edilir;  ",
          "Konstitusiyada sadalanan insan VƏ vətəndaş hüquqları və azadlıqları AR Prezidentinin müəyyən etdiyi qaydalara uyğun tətbiq edilir;  ",
          "Konstitusiyada sadalanan insan VƏ vətəndaş hüquqları və azadlıqları AR-nın tərəfdar çıxdığı beynəlxalq müqavilələrə uyğun tətbiq edilir;  ",
          "Konstitusiyada sadalanan insan və vətəndaş hüquqları və azadlıqları haqq-ədalətə və qanunçuluğa uyğun tətbiq edilir.  "
@@ -475,7 +475,7 @@
     {
       "id": 48,
       "text": "AR Konstitusiyasına əsasən uşaqları hansı fəaliyyətə cəlb etmək qadağandır?\n1.  Həyatına təhlükə törədə bilən  \n2.  Normal inkişafına təhlükə törədə bilən  \n3. Sağlamlığına təhlükə törədə bilən\n4.  Əqli inkişafına təhlükə törədə bilən  \n5.  Mənəviyyatına təhlükə törədə bilən  ",
-       “options”: [  "1, 2, 3  ",
+       "options": [  "1, 2, 3  ",
          "2, 3, 5  ",
          "2, 4, 5  ",
          "1, 3, 5  "
@@ -485,7 +485,7 @@
     {
       "id": 49,
        "text": "AR Konstitusiyasına görə doğru deyil:  ",
-       “options”: [  "Cəmiyyətin əsas özəyi kimi ailə dövlətin ümumi himayəsindədir  ",
+       "options": [  "Cəmiyyətin əsas özəyi kimi ailə dövlətin ümumi himayəsindədir  ",
          "Uşaqların qayğısına qalmaq və onları tərbiyə etmək valideynlərin borcudur Bu borcun yerinə yetirilməsinə dövlət nəzarət edir.  ",
          "Valideynləri və ya qəyyumları olmayan, valideyn qayğısından məhrum olan uşaqlar dövlətin himayəsindədirlər.  ",
          "15 yaşına çatmamış uşaqlar işə götürülə bilməzlər.  "
@@ -495,7 +495,7 @@
     {
       "id": 50,
       "text": "AR Konstitusiyasına uyğun olaraq düzgün olan bəndləri müəyyən edin:\n1.  AR dövlət rəmzləri AR Dövlət bayrağı, AR Dövlət gerbi və AR Dövlət himnidir.  \n2. AR Dövlət bayrağı bərabər enli üç üfüqi zolaqdan ibarətdir.  Yuxarı zolaq göy, orta zolaq qırmızı, aşağı zolaq yaşıl rəngdədir və qırmızı zolağın ortasında bayrağın hər iki üzündə ağ rəngli aypara ilə səkkizguşəli ulduz təsvir edilmişdir.  \n3.  Bayrağın uzunluğunun eninə nisbəti 1:2-dir.  \n4.  AR Dövlət bayrağının və AR Dövlət gerbinin təsviri, AR Dövlət himninin musiqisi və mətni Konstitusiya qanunu ilə müəyyən edilir.  ",
-       “options”: [  "1, 2, 4  ",
+       "options": [  "1, 2, 4  ",
          "1, 4  ",
          "2, 3, 4  ",
          "1, 2, 3, 4  "
@@ -505,7 +505,7 @@
     {
       "id": 51,
        "text": "AR Konstitusiyasına əsasən AR dövlət bayrağı, dövlət gerbinin təsviri, dövlət Himninin musiqisi və mətni müəyyən edilir:  ",
-       “options”: [  "Qanunla  ",
+       "options": [  "Qanunla  ",
          "Qərarla  ",
          "Konstitusiya ilə  ",
          "Heç biri ilə  "
@@ -515,7 +515,7 @@
     {
       "id": 52,
        "text": "Aşağıdakı fəsillərdən hansına əlavə edilə bilməz?  ",
-       “options”: [  "Qanunvericilik Hakimiyyəti  ",
+       "options": [  "Qanunvericilik Hakimiyyəti  ",
          "Dövlətin əsasları  ",
          "İcra hakimiyyəti  ",
          "Məhkəmə hakimiyyəti  "
@@ -525,7 +525,7 @@
     {
       "id": 53,
        "text": "Aşağıdakı maddələrdən hansı referenduma çıxarıla bilməz?  ",
-       “options”: [  "Silahlı qüvvələr  ",
+       "options": [  "Silahlı qüvvələr  ",
          "Ərazi  ",
          "Azərbaycan Dövləti  ",
          "Xalqın vahidliyi  "
@@ -535,7 +535,7 @@
     {
       "id": 54,
        "text": "Aşağıdakı bölmələrdən hansına əlavə edilə bilməz?  ",
-       “options”: [  "Dövlət hakimiyyəti  ",
+       "options": [  "Dövlət hakimiyyəti  ",
          "Ümumi müddəalar  ",
          "Yerli özünüidarəetmə  ",
          "Hüquq və Qanun  "
@@ -545,7 +545,7 @@
     {
       "id": 55,
        "text": "AR Konstitusiyasına əsasən AR dövlət dilinin Azərbaycan dili olması hansı maddədə öz əksini tapmışdır?  ",
-       “options”: [  "23-cü maddədə  ",
+       "options": [  "23-cü maddədə  ",
          "20-ci maddədə  ",
          "21-ci maddədə  ",
          "19-cu maddədə  "
@@ -555,7 +555,7 @@
     {
       "id": 56,
        "text": "1-ci bölmədə bu adda maddə yoxdur?  ",
-       “options”: [  "Dövlətin borclarına qoyulan məhdudiyyətlər  ",
+       "options": [  "Dövlətin borclarına qoyulan məhdudiyyətlər  ",
          "Silahlı qüvvələr  ",
          "Pul vahidi  ",
          "Məsuliyyət  "
@@ -565,7 +565,7 @@
     {
       "id": 57,
        "text": "Hüquqlar və azadlıqlar hər kəsin cəmiyyət və başqa şəxslər qarşısında nəyini müəyyən edir?  ",
-       “options”: [  "Məsuliyyətini və öhdəliklərini  ",
+       "options": [  "Məsuliyyətini və öhdəliklərini  ",
          "Sərbəstliyini və müstəqilliyini  ",
          "Məsuliyyətini və vəzifələrini  ",
          "Vəzifələrini və bərabərliyini  "
@@ -575,7 +575,7 @@
     {
       "id": 58,
        "text": "Konstitusiyaya əsasən aşağıdakılardan biri yalnışdır:  ",
-       “options”: [  "İnsan ləyaqəti qorunur və ona hörmət edilir  ",
+       "options": [  "İnsan ləyaqəti qorunur və ona hörmət edilir  ",
          "Hüquqlardan sui-istifadəyə yol verilmir  ",
          "Hüquq və vəzifələrlə bağlı qərarlar qəbul edən dövlət orqanları və dövlət hakimiyyəti səlahiyyətlərinin daşıyıcıları ilə münasibətlərdə hər kəsin bərabər hüquqları təmin edilir  ",
          "Sağlamlıq imkanları məhdud olanlar Konstitusiyada təsbit olunmuş bütün hüquqlardan istifadə edir və vəzifələri daşıyırlar  "
@@ -585,7 +585,7 @@
     {
       "id": 59,
        "text": "Bərabərlik hüququ ilə bağlı fikirlərdən biri yalnışdır:  ",
-       “options”: [  "Hamı qanun və məhkəmə qarşısında bərabərdir.  ",
+       "options": [  "Hamı qanun və məhkəmə qarşısında bərabərdir.  ",
          "Kişi ilə qadının eyni hüquqları və azadlıqları vardır.  ",
          "Ər ilə arvadın hüquqları bərabərdir  ",
          "İnsan VƏ vətəndaş hüquqlarını və azadlıqlarını irqi, etnik, dini, dil, cinsi, mənşəyi, əqidə, siyasi VƏ sosial mənsubiyyətə görə məhdudlaşdırmaq qadağandır.  "
@@ -595,7 +595,7 @@
     {
       "id": 60,
        "text": "Mülkiyyət hüququ nədir?  ",
-       “options”: [  "Mülkiyyət hüququ - Hər kəsin təkbaşına və ya başqaları ilə birlikdə əmlaka sahib olmaq, əmlakdan istifadə etmək və onun barəsində sərəncam vermək hüquqlarından ibarətdir.  ",
+       "options": [  "Mülkiyyət hüququ - Hər kəsin təkbaşına və ya başqaları ilə birlikdə əmlaka sahib olmaq, əmlakdan istifadə etmək və onun barəsində sərəncam vermək hüquqlarından ibarətdir.  ",
          "Mülkiyyət hüququ mülkiyyətçinin təkbaşına və ya başqaları ilə birlikdə əmlaka sahib olmaq, əmlakdan istifadə etmək və onun barəsində qərar vermək hüquqlarından ibarətdir.  ",
          "Mülkiyyət hüququ mülkiyyətçinin təkbaşına və ya başqaları ilə birlikdə əmlaka sahib olmaq, əmlakdan istifadə etmək və onun barəsində sərəncam vermək hüquqlarından ibarətdir.  ",
          "Mülkiyyət hüququ mülkiyyətçinin təkbaşına və ya başqaları ilə birlikdə əmlaka sahib olmaq, əmlakdan istifadə etmək və onun barəsində sərəncam vermək azadlıqlarından ibarətdir.  "
@@ -605,7 +605,7 @@
     {
       "id": 61,
        "text": "Konstitusiyaya görə dövlət sərhədlərinin dəyişdirilməsi VƏ Konstitusiyada dəyişikliklər hansı yolla mümkündür?  ",
-       “options”: [  "Nazirlər Kabinetinin qərarı ilə  ",
+       "options": [  "Nazirlər Kabinetinin qərarı ilə  ",
          "Prezidentin fərmanıyla  ",
          "Yalnız referendumla  ",
          "Nazirlər Kabinetinin sərəncamıyla  "
@@ -615,7 +615,7 @@
     {
       "id": 62,
        "text": "AR Konstitusiyasında bu adda bölmə yoxdur?  ",
-       “options”: [  "ümumi müddəalar  ",
+       "options": [  "ümumi müddəalar  ",
          "əsas hüquqlar, azadlıqlar və vəzifələr  ",
          "qanunvericilik hakimiyyəti  ",
          "yerli özünüidarəetmə  "
@@ -625,7 +625,7 @@
     {
       "id": 63,
        "text": "AR Konstitusiyasında bu adda fəsil yoxdur?  ",
-       “options”: [  "Xalq hakimiyyəti  ",
+       "options": [  "Xalq hakimiyyəti  ",
          "İcra hakimiyyəti  ",
          "AR Konstitusiyasına əlavələr  ",
          "Dövlət hakimiyyəti  "
@@ -635,7 +635,7 @@
     {
       "id": 64,
        "text": "AR Konstitusiyasında bu adda maddələr yoxdur?  ",
-       “options”: [  Sağlamlığın bərpası huququ  ",
+       "options": [  "Sağlamlığın bərpası huququ  ",
         "Sağlamlığın qorunması hüququ;  Sağlam ətraf mühitdə yaşamaq hüququ  ",
         "Mənzil hüququ;  Mənzil toxunulmazlığı hüququ  ",
         "Vətəndaşlıq hüququ;  Vətəndaşlıq hüququnun təminatı  "
@@ -645,7 +645,7 @@
     {
       "id": 65,
        "text": "\"Azərbaycan dövləti iqtisadi münasibətlərdə inhisarçılığa və haqsız rəqabətə yol vermir\" müddəası hansı maddədə öz əksini tapıb?  ",
-       “options”: [  "Sosial inkişaf və dövlət  ",
+       "options": [  "Sosial inkişaf və dövlət  ",
          "İqtisadi inkişaf və dövlət  ",
          "Təbii ehtiyatlar  ",
          "Mülkiyyət  "
@@ -655,7 +655,7 @@
     {
       "id": 66,
        "text": "\"İnsan və vətəndaş hüquqlarının və azadlıqlarının əsas prinsipi\" maddəsi ilə bağlı hansı fikir yalnışdır?  ",
-       “options”: [  "İnsan ləyaqəti qorunur və ona hörmət edilir.  ",
+       "options": [  "İnsan ləyaqəti qorunur və ona hörmət edilir.  ",
          "Hər kəsin doğulduğu andan toxunulmaz, pozulmaz və ayrılmaz hüquqları və azadlıqları vardır.  ",
          "Hüquqlar və azadlıqlar hər kəsin cəmiyyət və dövlət qarşısında məsuliyyətini və vəzifələrini də əhatə edir.  ",
          "Hüquqlardan sui-istifadəyə yol verilmir.  "
@@ -665,39 +665,29 @@
     {
       "id": 67,
       "text": "Müstəsna cəza tədbiri kimi ölüm cəzası, tam ləğv edilənədək, hansı hallarda müəyyən edilə bilər?",
-       “options”: [  "dövlətə qarşı xüsusilə ağır cinayətlərə görə qanunla  ",
+       "options": [  "dövlətə qarşı xüsusilə ağır cinayətlərə görə qanunla  ",
          "insan həyatına qarşı xüsusilə ağır cinayətlərə görə qanunla  ",
          "insan sağlamlığına qarşı xüsusilə ağır cinayətlərə görə qanunla  ",
          "hamısı  "
       ],
       "correctAnswer": 3
     },
-    {
-      "id": 68,
-      "text": "Konstitusiyaya görə vətəndaşların əsas hüquqlarından biridir:",
-       “options”: [  ,
-      "correctAnswer": 3
-    },
+ 
     {
       "id": 69,
       "text": "Aşağıdakı fikirlərdən hansı doğrudur?",
-       “options”: [  "Şəxsin təqsirsiz olduğuna əsaslı şübhələr varsa, onun təqsirli bilinməsinə yol verilir  ",
+       "options": [  "Şəxsin təqsirsiz olduğuna əsaslı şübhələr varsa, onun təqsirli bilinməsinə yol verilir  ",
          "Cinayətin törədilməsində təqsirləndirilən şəxs özünün təqsirsizliyini sübuta yetirməyə borcludur  ",
          "Cinayətin törədilməsində təqsirləndirilən hər bir şəxs, onun təqsiri qanunla nəzərdə tutulan qaydada sübuta yetirilibsə və bu barədə məhkəmənin qanuni qüvvəyə minmiş hökmü varsa, təqsirsiz sayılır  ",
          "Ədalət mühakiməsi həyata keçirilərkən qanunu pozmaqla əldə edilmiş sübutlardan istifadə oluna bilməz  "
       ],
       "correctAnswer": 3
     },
-    {
-      "id": 70,
-       "text": "”Dövlət vərəsəlik hüququna təminat verir.” müddəası hansı maddədə öz əksini tapıb?  ",
-       “options”: [  ,
-      "correctAnswer": 1
-    },
+   
     {
       "id": 71,
       "text": "AR Konstitusiyasına əsasən müqəddəs hesab edilir:",
-       “options”: [  "Dövlət rəmzlərinə hörmət;  ",
+       "options": [  "Dövlət rəmzlərinə hörmət;  ",
          "Vətəni müdafiə;  ",
          "Vətənə sədaqət;  ",
          "Ətraf mühitin qorunması;  "
@@ -705,15 +695,9 @@
       "correctAnswer": 2
     },
     {
-      "id": 72,
-       "text": "Fikir hansı maddəyə aiddir?\n«Bu Konstitusiyada sadalanan insan və vətəndaş hüquqları və azadlıqları AR-nın tərəfdar çıxdığı beynəlxalq müqavilələrə uyğun tətbiq edilir»  ",
-       “options”: [  ,
-      "correctAnswer": 2
-    },
-    {
       "id": 73,
       "text": "Aşağıdakı fikirlərdən hansı təqsirsizlik prezumpsiyasında təsbit olunmamışdır?",
-       “options”: [  "Məhkəmə hökmü olmasa kimsə cinayətdə təqsirli sayıla bilməz.  ",
+       "options": [  "Məhkəmə hökmü olmasa kimsə cinayətdə təqsirli sayıla bilməz.  ",
          "Cinayət törədilməsində təqsirləndirilən hər bir şəxs məhkum edilməzdən əvvəl dinlənilməlidir.  ",
          "Cinayət törədilməsində təqsirləndirilən şəxs özünün təqsirsizliyini sübuta yetirməyə borclu deyildir.  ",
          "Şəxsin təqsirli olduğuna əsaslı şübhələr varsa, onun təqsirli bilinməsinə yol verilmir.  "
@@ -723,7 +707,7 @@
     {
       "id": 74,
        "text": "İnsan və vətəndaş hüquq və azadlıqlarının əsas prinsipinə aid deyil?  ",
-       “options”: [  "Hər kəsin doğulduğu andan toxunulmaz, pozulmaz və ayrılmaz hüquqları və azadlıqları vardır  ",
+       "options": [  "Hər kəsin doğulduğu andan toxunulmaz, pozulmaz və ayrılmaz hüquqları və azadlıqları vardır  ",
          "Hüquqlar və azadlıqlar hər kəsin cəmiyyət və başqa şəxslər qarşısında məsuliyyətini və vəzifələrini də əhatə edir  ",
          "Hüquq və vəzifələrlə bağlı qərarlar qəbul edən dövlət orqanları və dövlət hakimiyyəti səlahiyyətlərinin daşıyıcıları ilə münasibətlərdə hər kəsin bərabər hüquqları təmin edilir  "
       ],
@@ -732,7 +716,7 @@
     {
       "id": 75,
       "text": "AR Konstitusiyasına əsasən uyğunluğu müəyyən edin:\n1. Əmək hüququ\n2. Nikah hüququ\n3.  Ailə, uşaqlar və dövlət\na) Uşaqları onların həyatına, sağlamlığına və ya mənəviyyatına təhlükə törədə bilən fəaliyyətə cəlb etmək qadağandır.\nb) 18 yaşına çatmış əmək qabiliyyətli uşaqlar əmək qabiliyyəti olmayan valideynlərini saxlamağa borcludurlar.   \nc) Uşaqlara qayğı göstərmək, onları tərbiyə etmək valideynlərin həm hüququ, həm də borcudur.   \nd) Fərdi və kollektiv əmək mübahisələri qanunla müəyyənləşdirilmiş qaydada həll edilir.   \ne) Heç kəs zorla işlədilə bilməz.  ",
-       “options”: [  "1-a, 2-b e, 3-c  ",
+       "options": [  "1-a, 2-b e, 3-c  ",
          "1-b d, 2-c e, 3-a  ",
          "1-e, 2-b c, 3-a  ",
          "1-d e, 2-b c, 3-a  "
@@ -742,7 +726,7 @@
     {
       "id": 76,
       "text": "AR Konstitusiyasına əsasən uyğunsuzluğu müəyyən edin.\n1.  Yaşamaq hüququ - Müstəsna cəza tədbiri kimi ölüm cəzası, tam ləğv edilənədək, yalnız dövlətə, insan həyatına və sağlamlığına qarşı xüsusilə ağır cinayətlərə görə qanunla müəyyən edilə bilər.  \n2.  Şərəf və ləyaqətin müdafiəsi hüququ - Qanunla müəyyən edilmiş hallar istisna olmaqla, heç kəs onun xəbəri olmadan və ya etirazına baxmadan izlənilə bilməz, video və foto çəkilişinə, səs yazısına və digər bu cür hərəkətlərə məruz qoyula bilməz.  \n3.  Əmək hüququ - Təqaüdlərin və sosial müavinətlərin minimum məbləği qanunla müəyyən edilir.  \n4.  Sağlamlığın qorunması hüququ - İnsanların həyatı və sağlamlığı üçün təhlükə törədən faktları və halları gizlədən vəzifəli şəxslər qanun əsasında məsuliyyətə cəlb edilirlər.  \n5.  Ana dilindən istifadə hüququ -Heç kəs ana dilindən istifadə hüququndan məhrum edilə bilməz.  ",
-       “options”: [  "2.3  ",
+       "options": [  "2.3  ",
          "2.5  ",
          "1.4.5  ",
          "3.4.5  "
@@ -752,7 +736,7 @@
     {
       "id": 77,
        "text": "AR Konstitusiyasına əsasən verilən müddəa hansı subyektin adından göstərilmişdir?\n“Bazar münasibətləri əsasında sosial yönümlü iqtisadiyyatın inkişafına şərait yaradır, azad sahibkarlığa təminat verir, iqtisadi münasibətlərdə inhisarçılığa və haqsız rəqabətə yol vermir.”  ",
-       “options”: [  "Azərbaycan Respublikası  ",
+       "options": [  "Azərbaycan Respublikası  ",
          "AR Prezidenti  ",
          "Azərbaycan xalqı  ",
          "Azərbaycan dövləti  "
@@ -762,7 +746,7 @@
     {
       "id": 78,
       "text": "AR Konstitusiyasına əsasən uyğunluğu müəyyən edin.\n1. İnsan və vətəndaş hüquqlarının və azadlıqlarının təminatı\n2. Vətəndaşlıq hüququnun təminatı\n3.  İnsan və vətəndaş hüquqlarının və azadlıqlarının müdafiəsi\na) AR vətəndaşı heç bir halda AR-dan qovula və ya xarici dövlətə verilə bilməz.   \nb) Heç bir halda heç kəs din, vicdan, fikir və əqidəsini açıqlamağa məcbur edilə bilməz və bunlara görə təqsirləndirilə bilməz.   \nc) Hər kəs qanunla qadağan olunmayan hərəkətləri edə bilər və heç kəs qanunla nəzərdə tutulmayan hərəkətləri etməyə məcbur edilə bilməz.   \nd) Hər kəsin qanunla qadağan olunmayan üsul və vasitələrlə öz hüquqlarını və azadlıqlarını müdafiə etmək hüququ vardır.   \ne) AR vətəndaşı AR vətəndaşlığından (onun qanunla müəyyən edilmiş itirilmə halları istisna olmaqla) məhrum edilə bilməz.  ",
-       “options”: [  "1-a, 2-b, c 3-d, e  ",
+       "options": [  "1-a, 2-b, c 3-d, e  ",
          "1-b, c 2-a, e 3-d  ",
          "1-b 2-c, e 3-a, d  ",
          "1-c 2-a, d 3-b, e  "
@@ -770,15 +754,9 @@
       "correctAnswer": 1
     },
     {
-      "id": 79,
-       "text": "Fikir hansı maddəyə aiddir?\n- \n\"Hər kəs tarix və mədəniyyət abidələrini qorumalıdır\"  ",
-       “options”: [  ,
-      "correctAnswer": 1
-    },
-    {
       "id": 80,
       "text": "AR vətəndaşının AR-dan qovulması qaydası nə ilə müəyyən edilir?",
-       “options”: [  "Qanunla  ",
+       "options": [  "Qanunla  ",
          "Qərarla  ",
          "Fərmanla  ",
          "Heç biri doğru deyil  "
@@ -788,35 +766,18 @@
     {
       "id": 81,
       "text": "Konstitusiyanı və qanunları pozan birliklərin fəaliyyətinə xitam verilə bilər:",
-       “options”: [  "Yalnız məhkəmə qaydasında;  ",
+       "options": [  "Yalnız məhkəmə qaydasında;  ",
          "AR Ədliyyə Nazirliyi tərəfindən;  ",
          "AR Baş Prokurorluğu tərəfindən;  ",
          "AR Milli Məclisi tərəfindən;  "
       ],
       "correctAnswer": 0
     },
-    {
-      "id": 82,
-       "text": "Konstitusiyada təsbit olunmuş hüquqlar sırasına daxil deyil:  ",
-       “options”: [  ,
-      "correctAnswer": 1
-    },
-    {
-      "id": 83,
-      "text": "Konstitusiyaya əsasən aşağıdakılardan biri yalnışdır:",
-       “options”: [  ,
-      "correctAnswer": 2
-    },
-    {
-      "id": 84,
-      "text": "Minimum təhsil standartlarını müəyyən edir:",
-       “options”: [  ,
-      "correctAnswer": 2
-    },
+   
     {
       "id": 85,
        "text": "Hər kəsin hansı məlumatların düzəldilməsini və ya çıxarılmasını (ləğv edilməsini) tələb etmək hüququ vardır?  ",
-       “options”: [  "Barəsində toplanmış, tam olmayan, habelə qanunun tələbləri pozulmaqla əldə edilmiş məlumatları  ",
+       "options": [  "Barəsində toplanmış, tam olmayan, habelə qanunun tələbləri pozulmaqla əldə edilmiş məlumatları  ",
         "Barəsində toplanmış və həqiqətə uyğun olan, tam olmayan, habelə qanunun tələbləri pozulmaqla əldə edilmiş məlumatlar",
         "Barəsində toplanmış və həqiqətə uyğun olmayan, tam olmayan, habelə qanunun tələbləri pozulmaqla əldə edilmiş məlumatlar",
         "Barəsində toplanmış və həqiqətə uyğun olan, tam olan, habelə qanunun tələbləri pozulmamaqla əldə edilmiş məlumatlar"
@@ -826,7 +787,7 @@
     {
       "id": 86,
        "text": "Vəzifəyə seçilmə və ya təyinat yolu ilə qanunvericilik, icra və ya məhkəmə hakimiyyəti orqanlarında işləyən, AR Konstitusiyasına sadiq qalacağına and içmiş şəxs hansı halda vəzifədən getmiş sayılır və bir daha həmin vəzifəni tuta bilməz?  ",
-       “options”: [  "İnsanlığa qarşı cinayətlərdə ittiham edilibsə  ",
+       "options": [  "İnsanlığa qarşı cinayətlərdə ittiham edilibsə  ",
          "Dövlətə qarşı cinayətdə, o cümlədən dövlətə qarşı qiyamda və ya dövlət çevrilişində ittiham edilibsə  ",
          "Dövlətə qarşı cinayətdə, o cümlədən dövlətə qarşı qiyamda və ya dövlət çevrilişində ittiham edilibsə və bu ittiham əsasında məhkum olunubsa  ",
          "Korrupsiya ilə bağlı ittiham edilibsə  "
@@ -836,7 +797,7 @@
     {
       "id": 87,
       "text": "AR Konstitusiyasına əsasən vətəndaşlıq hüququnun təminatı ilə bağlı verilənlərdən biri doğru deyildir.",
-       “options”: [  "AR vətəndaşı AR vətəndaşlığından (onun qanunla müəyyən edilmiş itirilmə halları istisna olmaqla) məhrum edilə bilməz.  ",
+       "options": [  "AR vətəndaşı AR vətəndaşlığından (onun qanunla müəyyən edilmiş itirilmə halları istisna olmaqla) məhrum edilə bilməz.  ",
          "AR vətəndaşı heç bir halda AR-dan qovula və ya xarici dövlətə verilə bilməz.  ",
          "AR onun ərazisindən kənarda müvəqqəti və ya daimi yaşayan AR vətəndaşlarının hüquqi müdafiəsinə təminat verir və onlara hamilik edir.  ",
          "AR vətəndaşları dövlət orqanlarında qulluq etmək imkanına malikdirlər.  "
@@ -846,7 +807,7 @@
     {
       "id": 88,
       "text": "AR Konstitusiyasına əsasən doğru deyildir?\n1.  AR əhalinin danışdığı başqa dillərin sərbəst işlədilməsinə və inkişafına zəmanət verir.  \n2.  Hər kəsin doğulduğu andan toxunulmaz, pozulmaz və ayrılmaz hüquqları və vəzifələri vardır.  \n3.  Hüquqlar və azadlıqlar hər kəsin cəmiyyət və başqa şəxslər qarşısında məsuliyyətini və vəzifələrini də əhatə edir.  \n4.  Dövlət hər kəsin hüquqlarının və azadlıqlarının müdafiəsinə təminat verir.  \n5.  Heç kəs heç bir halda mülkiyyətindən məhrum edilə bilməz.  ",
-       “options”: [  "1.3.5  ",
+       "options": [  "1.3.5  ",
          "2.3.4  ",
          "1.2.5  ",
          "4.5  "
@@ -856,7 +817,7 @@
     {
       "id": 89,
       "text": "Bu Konstitusiyada sadalanan insan və vətəndaş hüquqları və azadlıqları nəyə uyğun olaraq tətbiq edilir?",
-       “options”: [  "Konstitusiya  ",
+       "options": [  "Konstitusiya  ",
          "AR tərəfdar çıxdığı beynəlxalq müqavilələrə  ",
          "Hamılıqla qəbul edilmiş beynəlxalq hüquq normalarına  ",
          "Konstitusiya qanununa  "
@@ -866,22 +827,17 @@
     {
       "id": 90,
       "text": "AR Konstitusiyasına əsasən vətəndaşların vəzifələrinin əsası ilə bağlı yanlışdır:",
-       “options”: [  "Qanunu bilməmək məsuliyyətdən azad etmir.  ",
+       "options": [  "Qanunu bilməmək məsuliyyətdən azad etmir.  ",
         "Hər bir şəxs başqa şəxslərin hüquq və azadlıqlarına hörmət bəsləməlidir.",
          "İnsan ləyaqəti qorunur və ona hörmət edilir  "
       ],
       "correctAnswer": 3
     },
-    {
-      "id": 91,
-      "text": "AR Konstitusiyasına əsasən doğru variantı göstərin:",
-       “options”: [  ,
-      "correctAnswer": 3
-    },
+  
     {
       "id": 92,
       "text": "AR Konstitusiyasına əsasən Tətil hüququna aid deyil:",
-       “options”: [  "Hər kəsin təkbaşına və ya başqaları ilə birlikdə tətil etmək hüququ vardır  ",
+       "options": [  "Hər kəsin təkbaşına və ya başqaları ilə birlikdə tətil etmək hüququ vardır  ",
          "Əmək müqaviləsi əsasında işləyənlərin tətil etmək hüququ heç bir halda məhdudlaşdırıla bilinməz  ",
          "AR Silahlı Qüvvələrində və digər silahlı birləşmələrdə xidmət edən hərbi qulluqçular və mülki şəxslər tətil edə bilməzlər  ",
         "Fərdi və kollektiv əmək mübahisələri qanunla müəyyənləşdirilmiş qaydada həll edilir"
@@ -891,7 +847,7 @@
     {
       "id": 93,
       "text": "AR vətəndaşları dövlətin idarə olunmasında iştirak etmək hüquqlarını necə həyata keçirirlər?",
-       “options”: [  "yalnız özləri iştirak etməklə  ",
+       "options": [  "yalnız özləri iştirak etməklə  ",
          "yalnız nümayəndələri vasitəsi ilə  ",
          "bilavasitə və nümayəndələri vasitəsilə  ",
          "qanunvericilikdə belə hal nəzərdə tutulmayıb  "
@@ -901,23 +857,18 @@
     {
       "id": 94,
        "text": "AR Konstitusiyasında təsbit olunmuş insan və vətəndaş hüquq və azadlıqlarının həyata keçirilməsini kim məhdudlaşdıra bilər?  ",
-       “options”: [  "Prezident  ",
+       "options": [  "Prezident  ",
          "Məhkəmələr  ",
          "yalnız Konstitusiya Məhkəməsi  ",
          "heç kəs  "
       ],
       "correctAnswer": 3
     },
-    {
-      "id": 95,
-       "text": "AR Konstitusiyasına görə kimlərin başqa dövlətə verilməsinə yol verilmir?\n1) başqa dövlətin ərazisində cinayət törədib AR-da həbs edilən şəxslərin\n2) siyasi əqidəsinə görə təqib edilən şəxslərin\n3) başqa dövlətin ərazisində törətdiyi cinayətə görə AR-da cinayət məsuliyyətinə cəlb olunan şəxslərin\n4) başqa dövlətin ərazisində törətdiyi cinayətə görə AR-da məhkum olunan və məhkumluğu ödənilməyən və ya götürülməyən şəxslərin\n5) AR-da cinayət sayılmayan əmələ görə təqib edilən şəxslərin  ",
-       “options”: [  ,
-      "correctAnswer": 3
-    },
+   
     {
       "id": 96,
       "text": "Səlahiyyətli orqanların tutduğu, həbsə aldığı və cinayət törədilməsində ittiham etdiyi hər bir şəxsə onun hüquqları bildirilir?",
-       “options”: [  "yalnız həbsə alındığı andan  ",
+       "options": [  "yalnız həbsə alındığı andan  ",
          "tutulduğu, həbsə alındığı və cinayət törədilməsində ittiham edildiyi andan  ",
          "heç bir halda  ",
          "tutulduğu, həbsə alındığı və cinayət törədilməsində ittiham edildiyi andan 1 həftə sonra  "
@@ -927,7 +878,7 @@
     {
       "id": 97,
       "text": "“Qanunda nəzərdə tutulmuş hallar istisna olmaqla şəxsin mülkiyyətinə qəsd etmək qadağandır” - fikri hansı maddəyə aiddir?",
-       “options”: [  "Mülkiyyət  ",
+       "options": [  "Mülkiyyət  ",
          "Mülkiyyət hüququ  ",
          "Təhlükəsiz yaşamaq hüququ  ",
          "Şəxsi toxunulmazlıq hüququ  "
@@ -937,7 +888,7 @@
     {
       "id": 98,
        "text": "AR Konstitusiyası qüvvəyə mindiyi gündən hansı müddətdə AR Konstitusiya Məhkəməsi haqqında AR Qanunu qəbul edilməlidir?  ",
-       “options”: [  "1 il müddətində  ",
+       "options": [  "1 il müddətində  ",
          "2 il müddətində  ",
          "3 il müddətində  ",
          "4 il müddətində  "
@@ -947,7 +898,7 @@
     {
       "id": 99,
       "text": "Mülkiyyət kim tərəfindən müdafiə olunur və mülkiyyət hüququ nə ilə qorunur?",
-       “options”: [  "Prezident tərəfindən və qanunla  ",
+       "options": [  "Prezident tərəfindən və qanunla  ",
          "dövlət tərəfindən və qanunla  ",
          "xalq tərəfindən və qanunla  ",
          "Prezident tərəfindən və konstitusiya ilə  "
@@ -957,7 +908,7 @@
     {
       "id": 100,
       "text": "”Şəxsi toxunulmazlıq hüququ” ilə bağlı hansı fikir yalnışdır?",
-       “options”: [  "Bütün hallarda şəxsi və ailə həyatına müdaxilə etmək qadağandır.  ",
+       "options": [  "Bütün hallarda şəxsi və ailə həyatına müdaxilə etmək qadağandır.  ",
          "Qanunla müəyyən edilmiş hallar istisna olmaqla, üçüncü şəxslər haqqında məlumat almaq məqsədi ilə elektron formada və ya kağız üzərində aparılan informasiya ehtiyatlarına daxil olmaq qadağandır.  ",
          "Məlumatın aid olduğu şəxsin buna razılığını aşkar ifadə etdiyi hallar, ayrı seçkiliyə yol verməmək şərtilə anonim xarakterli statistik məlumatların emalı və qanunun yol verdiyi digər hallar istisna olmaqla, informasiya texnologiyalarından şəxsi həyata, o cümlədən əqidəyə, dini və etnik mənsubiyyətə dair məlumatların açıqlanması üçün istifadə edilə bilməz.  ",
          "Fərdi məlumatların dairəsi, habelə onların emalı, toplanması, ötürülməsi, istifadəsi və mühafizəsi şərtləri qanunla müəyyən edilir.  "
@@ -967,7 +918,7 @@
     {
       "id": 101,
        "text": "Uşaqlara qayğı göstərmək, onları tərbiyə etmək valideynlərin ..............?  ",
-       “options”: [  "həm hüququ, həm də borcudur  ",
+       "options": [  "həm hüququ, həm də borcudur  ",
          "vəzifəsidir.  "
       ],
       "correctAnswer": 2
@@ -975,7 +926,7 @@
     {
       "id": 102,
       "text": "Aşağıdakılardan hansı doğru deyil?",
-       “options”: [  "Əmək fərdi və ictimai rifahın əsasıdır.  ",
+       "options": [  "Əmək fərdi və ictimai rifahın əsasıdır.  ",
          "Hər kəsin əməyə olan qabiliyyəti əsasında sərbəst surətdə özünə fəaliyyət növü, peşə, məşğuliyyət və iş yeri seçmək hüququ vardır.  ",
          "Heç kəs zorla işlədilə bilməz.  ",
         "Əmək müqavilələri könüllü bağlanılır.  Heç kəs əmək müqaviləsi bağlamağa məcbur edilə bilməz.  "
@@ -985,56 +936,34 @@
     {
       "id": 103,
        "text": "Aşağıdakılardan hansı müddəa yalnışdır?  ",
-       “options”: [  "Hər kəsin heç bir ayrı-seçkilik qoyulmadan öz işinə görə dövlətin müəyyənləşdirdiyi orta əmək haqqı miqdarından az olmayan haqq almaq hüququ vardır.  ",
+       "options": [  "Hər kəsin heç bir ayrı-seçkilik qoyulmadan öz işinə görə dövlətin müəyyənləşdirdiyi orta əmək haqqı miqdarından az olmayan haqq almaq hüququ vardır.  ",
          "İşsizlərin dövlətdən sosial müavinət almaq hüququ vardır.  ",
          "Dövlət işsizliyin aradan qaldırılması üçün bütün imkanlarından istifadə edir.  "
       ],
       "correctAnswer": 1
     },
-    {
-      "id": 104,
-       "text": "Konstitusiyaya görə hər bir kəsin dinə müstəqil münasibətini müəyyənləşdirir:  ",
-       “options”: [  ,
-      "correctAnswer": 1
-    },
+  
     {
       "id": 105,
       "text": "AR Konstitusiyasına əsasən şəxsi toxunulmazlıq hüququna aid deyil:",
-       “options”: [  "Qanunla müəyyən edilmiş hallar istisna olmaqla, heç kəsin onun xəbəri olmadan və ya etirazına baxmadan izlənməsi, şəxsi və ailə həyatına müdaxilə edilməsi qadağandır  "
+       "options": [  "Qanunla müəyyən edilmiş hallar istisna olmaqla, heç kəsin onun xəbəri olmadan və ya etirazına baxmadan izlənməsi, şəxsi və ailə həyatına müdaxilə edilməsi qadağandır  "
       ],
       "correctAnswer": 1
     },
-    {
-      "id": 106,
-      "text": "Məntiqi uyğunluğu müəyyən edin:\n1. Şəxsi toxunulmazlıq\n2. Mənzil toxunulmazlığı\n3. ...",
-       “options”: [  ,
-      "correctAnswer": 0
-    },
+ 
     {
       "id": 107,
       "text": "AR Konstitusiyasına əsasən Sosial təminat hüququna aid deyil:",
-       “options”: [  "Hər kəs xəstəliyinə, əlilliyinə, ailə üzvünü və əmək qabiliyyətini itirdiyinə, işsizliyə görə sosial təminat almaq hüququna malikdir  ",
+       "options": [  "Hər kəs xəstəliyinə, əlilliyinə, ailə üzvünü və əmək qabiliyyətini itirdiyinə, işsizliyə görə sosial təminat almaq hüququna malikdir  ",
         "Təqaüdlərin və sosial müavinətlərin minimum məbləği qanunla müəyyən edilir",
         "Dövlət xeyriyyəçilik fəaliyyətinin, könüllü sosial sığortanın və sosial təminatın başqa növlərinin inkişafı üçün imkanlar yaradır"
       ],
       "correctAnswer": 1
     },
     {
-      "id": 108,
-      "text": "AR Konstitusiyasına görə vətəndaşların əsas vəzifələrindən biridir:",
-       “options”: [  ,
-      "correctAnswer": 1
-    },
-    {
-      "id": 109,
-      "text": "Konstitusiyada təsbit edilmiş insan və vətəndaş hüquqlarının və azadlıqlarının təmin etmək hansı orqanların borcudur?\n1. Prokurorluq\n2. Ədliyyə\n3. Qanunvericilik\n4. İcra\n5. Bələdiyyə\n6.  Məhkəmə  ",
-       “options”: [  ,
-      "correctAnswer": 2
-    },
-    {
       "id": 110,
       "text": "Əmək müqaviləsi ilə işləyənlərə hansı müddətdə müvafiq olaraq qanunla müəyyən edilmiş iş günü və ödənişli məzuniyyət verilməsi təmin edilir?",
-       “options”: [  "gündə 8 saatdan artıq olmayan iş günü, ildə azı bir dəfə 30 təqvim günündən az olmayan ödənişli məzuniyyət verilməsi  ",
+       "options": [  "gündə 8 saatdan artıq olmayan iş günü, ildə azı bir dəfə 30 təqvim günündən az olmayan ödənişli məzuniyyət verilməsi  ",
         "gündə 8 saatdan artıq olmayan iş günü, ildə azı bir dəfə 21 iş günündən az olmayan ödənişli məzuniyyət verilməsi",
         "gündə 8 saatdan artıq olmayan iş günü, ildə azı bir dəfə 21 təqvim günündən az olmayan ödənişli məzuniyyət verilməsi",
         "gündə 12 saatdan artıq olmayan iş günü, ildə azı bir dəfə 21 təqvim günündən az olmayan ödənişli məzuniyyət verilməsi"
@@ -1044,7 +973,7 @@
     {
       "id": 111,
       "text": "Aşağıdakı hansı müddəada yalnışlıq var?",
-       “options”: [  "Hər kəsin sağlam ətraf mühitdə yaşamaq hüququ vardır.  ",
+       "options": [  "Hər kəsin sağlam ətraf mühitdə yaşamaq hüququ vardır.  ",
          "Hər kəsin ətraf mühitin əsl vəziyyəti haqqında məlumat toplamaq və ekoloji hüquqpozma ilə əlaqədar onun sağlamlığına və əmlakına vurulmuş zərərin əvəzini almaq hüququ vardır.  ",
          "Heç kəs ətraf mühitə, təbii ehtiyatlara istənilən təhlükə törədə və ya zərər vura bilməz.  ",
          "Dövlət ekoloji tarazlığın saxlanılmasına, yabanı bitkilərin və vəhşi heyvanların qanunla müəyyən edilmiş növlərinin qorunmasına təminat verir.  "
@@ -1054,7 +983,7 @@
     {
       "id": 112,
        "text": "Aşağıdakılardan hansı doğru deyil?  ",
-       “options”: [  "Dövlət yalnız dövlət mülkiyyəti əsasında fəaliyyət göstərən səhiyyənin inkişafı üçün zəruri tədbirlər görür.  ",
+       "options": [  "Dövlət yalnız dövlət mülkiyyəti əsasında fəaliyyət göstərən səhiyyənin inkişafı üçün zəruri tədbirlər görür.  ",
          "Dövlət sanitariya-epidemiologiya salamatlığına təminat verir, tibbi sığortanın müxtəlif növləri üçün imkanlar yaradır.  ",
          "İnsanların həyatı və sağlamlığı üçün təhlükə törədən faktları və halları gizlədən vəzifəli şəxslər qanun əsasında məsuliyyətə cəlb edilirlər.  "
       ],
@@ -1063,7 +992,7 @@
     {
       "id": 113,
        "text": "Aşağıdakılardan hansı doğru deyil?  ",
-       “options”: [  "Dövlət pulsuz icbari orta ixtisas təhsil almaq hüququnu təmin edir.  ",
+       "options": [  "Dövlət pulsuz icbari orta ixtisas təhsil almaq hüququnu təmin edir.  ",
         "Dövlət minimum təhsil standartlarını müəyyən edir.",
          "Maddi vəziyyətdən asılı olmayaraq istedadlı şəxslərin təhsili davam etdirməsinə dövlət zəmanət verir.  "
       ],
@@ -1072,7 +1001,7 @@
     {
       "id": 114,
        "text": "Aşağıdakılardan hansı Konstitusiyada azadlıq kimi müəyyən olunub?  ",
-       “options”: [  "təhsil  ",
+       "options": [  "təhsil  ",
          "yaradıcılıq  ",
          "vətəndaşlıq  ",
          "müraciət etmək  "
@@ -1080,15 +1009,9 @@
       "correctAnswer": 1
     },
     {
-      "id": 115,
-       "text": "“İrqi, milli, dini, sosial və hər hansı digər meyara əsaslanan ədavət və düşmənçilik oyadan təşviqata və təbliğata yol verilmir.” müddəası hansı maddədə müəyyən olunub?  ",
-       “options”: [  ,
-      "correctAnswer": 2
-    },
-    {
       "id": 116,
       "text": "Aşağıdakılardan hansı doğru deyil?",
-       “options”: [  "AR vətəndaşı heç bir halda AR vətəndaşlığından məhrum edilə bilməz.  ",
+       "options": [  "AR vətəndaşı heç bir halda AR vətəndaşlığından məhrum edilə bilməz.  ",
          "AR vətəndaşı heç bir halda AR-dan qovula və ya xarici dövlətə verilə bilməz.  ",
          "AR onun ərazisindən kənarda müvəqqəti və ya daimi yaşayan AR vətəndaşlarının hüquqi müdafiəsinə təminat verir və onlara hamilik edir.  ",
          "AR vətəndaşı AR vətəndaşlığından (onun qanunla müəyyən edilmiş itirilmə halları istisna olmaqla) məhrum edilə bilməz.  "
@@ -1098,7 +1021,7 @@
     {
       "id": 117,
       "text": "Dövlətə qarşı qiyama və ya dövlət çevrilişinə müstəqil müqavimət göstərmək.........................?",
-       “options”: [  "AR-nın hər bir vətəndaşının hüququdur.  ",
+       "options": [  "AR-nın hər bir vətəndaşının hüququdur.  ",
         "Hər bir vətəndaşın vəzifəsidir.",
          "Hər bir vətəndaşın hüququdur.  "
       ],
@@ -1107,7 +1030,7 @@
     {
       "id": 118,
        "text": "Aşağıdakılardan hansı doğru deyil?  ",
-       “options”: [  "Hərbi qulluqçular bu hüquqdan fərdi və kollektiv qaydada istifadə edə bilərlər.  ",
+       "options": [  "Hərbi qulluqçular bu hüquqdan fərdi və kollektiv qaydada istifadə edə bilərlər.  ",
          "Hər bir müraciətə qanunla müəyyən edilmiş qaydada və müddətlərdə yazılı cavab verilməlidir.  ",
         "AR vətəndaşlarının dövlət orqanlarının və onların vəzifəli şəxslərinin, siyasi partiyaların, həmkarlar ittifaqlarının və digər ictimai birliklərin, habelə ayrı-ayrı vətəndaşların fəaliyyətini və ya işini tənqid etmək hüququ vardır. Tənqidə görə təqib qadağandır.  Təhqir və böhtan tənqid sayıla bilməz.  "
       ],
@@ -1116,7 +1039,7 @@
     {
       "id": 119,
       "text": "Aşağıdakılardan hansı doğru deyil?",
-       “options”: [  "Hər kəs öz imkanlarından, qabiliyyətindən və əmlakından sərbəst istifadə edərək təkbaşına və ya başqaları ilə birlikdə azad sahibkarlıq fəaliyyəti və ya qanunla qadağan edilməmiş digər iqtisadi fəaliyyət növü ilə məşğul ola bilər.  ",
+       "options": [  "Hər kəs öz imkanlarından, qabiliyyətindən və əmlakından sərbəst istifadə edərək təkbaşına və ya başqaları ilə birlikdə azad sahibkarlıq fəaliyyəti və ya qanunla qadağan edilməmiş digər iqtisadi fəaliyyət növü ilə məşğul ola bilər.  ",
          "Dövlət sahibkarlıq sahəsində dövlət maraqlarının müdafiəsi ilə bağlı tənzimləməni həyata keçirmir.  ",
          "Dövlət sahibkarlıq sahəsində insan həyatının müdafiəsi ilə bağlı tənzimləməni həyata keçirir.  ",
          "Dövlət sahibkarlıq sahəsində insan sağlamlığının müdafiəsi ilə bağlı tənzimləməni həyata keçirir.  "
@@ -1126,7 +1049,7 @@
     {
       "id": 120,
       "text": "AR Konstitusiyasına əsasən hansı hallarda sosial təminat hüququna malikdir? Tam və doğru cavabı müəyyən edin.\n1. Qanunla müəyyən edilmiş yaş həddinə çatdıqda\n2. Xəstəliyinə görə\n3. Əlilliyinə görə\n4. Ailə üzvünü itirdiyinə\n5. Əmək qabiliyyətini itirdiyinə\n6. İşsizliyə görə\n7.  Qanunla nəzərdə tutulmuş digər hallarda  ",
-       “options”: [  "1,2,3,4,5,7  ",
+       "options": [  "1,2,3,4,5,7  ",
          "1,2,4,6  ",
          "1,2,3,5,6,7  ",
          "2,3,4,5,6,7  "
@@ -1136,7 +1059,7 @@
     {
       "id": 121,
       "text": "Aşağıdakı müddəlardan hansı biri AR Konstitusiyasında təsbit olunmamışdır?",
-       “options”: [  "Hər kəsin ana dilindən istifadə etmək hüququ vardır  ",
+       "options": [  "Hər kəsin ana dilindən istifadə etmək hüququ vardır  ",
          "Heç kəs ana dilindən istifadə hüququndan məhrum edilə bilməz.  ",
          "Hər kəsin öz şərəf və ləyaqətini müdafıə etmək hüququ var.  ",
          "Qanunla nəzərdə tutulmuş hallardan başqa heç bir hal şəxsiyyətin ləyaqətinin alçaldılmasına əsas verə bilməz.  "
@@ -1146,7 +1069,7 @@
     {
       "id": 122,
       "text": "Aşağıdakılardan hansı AR Konstitusiyasının “Əmək hüququ” maddəsində təsbit olunub? Tam və doğru cavabı müəyyən edin.\n1.  Hər kəsin orta aylıq əmək haqqı miqdarından az olmayan haqq almaq hüququ vardır.  \n2.  Hər kəsin əməyə olan qabiliyyəti əsasında sərbəst surətdə özünə fəaliyyət növü, peşə, məşğuliyyət və iş yeri seçmək hüququ vardır.  \n3. Heç kəs zorla işlədilə bilməz.\n4.  Əmək müqavilələri sərbəst bağlanılır.    Heç kəs əmək müqaviləsi bağlamağa məcbur edilə bilməz.  \n5.  İşsizlərin dövlətdən sosial təminat almaq hüququ var.  \n6.  Dövlət işsizliyin aradan qaldırılması üçün bütün imkanlarından istifadə edir.  ",
-       “options”: [  "1,2,3,4,5  ",
+       "options": [  "1,2,3,4,5  ",
          "1,2,4,6  ",
          "1,2,3,5,6  ",
          "2,3,4,6  "
@@ -1154,21 +1077,9 @@
       "correctAnswer": 3
     },
     {
-      "id": 123,
-       "text": "”Ədalət mühakiməsi həyata keçirilərkən qanunu pozmaqla əldə edilmiş sübutlardan istifadə oluna bilməz.” müddəası Konstitusiyanın hansı maddəsində müəyyən edilib?  ",
-       “options”: [  ,
-      "correctAnswer": 2
-    },
-    {
-      "id": 124,
-       "text": "”Hər kəsin dövlət orqanlarının yaxud onların vəzifəli şəxslərinin qanuna zidd hərəkətləri və ya hərəkətsizliyi nəticəsində vurulmuş zərərin dövlət tərəfindən ödənilməsi hüququ vardır.” müddəası hansı maddədə öz əksini tapmışdır?  ",
-       “options”: [  ,
-      "correctAnswer": 0
-    },
-    {
       "id": 125,
       "text": "Aşağıdakılardan hansı doğru deyil?",
-       “options”: [  "Hər kəsin dövlət orqanlarının ona münasibətdə özbaşınalığı istisna edən vicdanlı davranışına hüququ vardır.  ",
+       "options": [  "Hər kəsin dövlət orqanlarının ona münasibətdə özbaşınalığı istisna edən vicdanlı davranışına hüququ vardır.  ",
         "Cinayət, habelə hakimiyyətdən sui istifadə nəticəsində zərər çəkmiş şəxsin hüquqları qanunla qorunur.  Zərər çəkmiş şəxsin ədalət mühakiməsinin həyata keçirilməsində iştirak etmək və ona vurulmuş zərərin ödənilməsini tələb etmək hüququ vardır.  ",
          "Hər kəsin dövlət orqanlarının yaxud onların vəzifəli şəxslərinin qanuna zidd hərəkətləri və ya hərəkətsizliyi nəticəsində vurulmuş zərərin dövlət tərəfindən ödənilməsi hüququ vardır.  ",
          "Dövlət, dövlət qulluqçuları ilə birlikdə, dövlət qulluqçularının qanuna zidd hərəkətləri və hərəkətsizliyi nəticəsində insan hüquq və azadlıqlarına dəymiş ziyana görə və onların təminatının pozulmasına görə inzibati məsuliyyət daşıyır.  "
@@ -1178,7 +1089,7 @@
     {
       "id": 126,
       "text": "AR ərazisində daimi yaşayan və ya müvəqqəti qalan əcnəbilərin və vətəndaşlığı olmayan şəxslərin hüquq və azadlıqları hansı hüququ aktlara uyğun olaraq məhdudlaşdırıla bilər? (tam və dolğun cavabı seçin)   ",
-       “options”: [  "yalnız beynəlxalq hüquq normalarına və AR qanunlarına  ",
+       "options": [  "yalnız beynəlxalq hüquq normalarına və AR qanunlarına  ",
          "yalnız AR qanunlarına  ",
          "yalnız beynəlxalq hüquq normalarına  ",
          "Konstitusiya qanunlarına  "
@@ -1188,7 +1099,7 @@
     {
       "id": 127,
       "text": "Hüquq və azadlıqların məhdudlaşdırılması hansı nəticəyə mütənasib olmalıdır?",
-       “options”: [  "Azərbaycan xalqı tərəfindən gözlənilən nəticəyə  ",
+       "options": [  "Azərbaycan xalqı tərəfindən gözlənilən nəticəyə  ",
          "dövlət tərəfindən gözlənilən nəticəyə  ",
          "digər dövlətlər tərəfindən gözlənilən nəticəyə  ",
          "beynəlxalq təşkilatlar tərəfindən gözlənilən nəticəyə  "
@@ -1198,7 +1109,7 @@
     {
       "id": 128,
        "text": "Aşağıdakılardan hansı doğru deyil?  ",
-       “options”: [  "İnsan və vətəndaş hüquqlarının və azadlıqlarının pozulması ilə əlaqədar mübahisələri AR İnsan Hüquqları üzrə Müvəkkili həll edir.  ",
+       "options": [  "İnsan və vətəndaş hüquqlarının və azadlıqlarının pozulması ilə əlaqədar mübahisələri AR İnsan Hüquqları üzrə Müvəkkili həll edir.  ",
          "Heç kəs törədildiyi zaman hüquq pozuntusu sayılmayan əmələ görə məsuliyyət daşımır və hüquq pozuntusu törədildikdən sonra yeni qanunla bu cür hərəkətlərə görə məsuliyyət aradan qaldırılmışsa və ya yüngülləşdirilmişsə, yeni qanun tətbiq edilir.  ",
          "Hər kəs qanunla qadağan olunmayan hərəkətləri edə bilər və heç kəs qanunla nəzərdə tutulmayan hərəkətləri etməyə məcbur edilə bilməz.  "
       ],
@@ -1207,7 +1118,7 @@
     {
       "id": 129,
        "text": "Aşağıdakılardan hansı “vətənə sədaqət” maddəsində müəyyən olunub?  ",
-       “options”: [  "Qanunla müəyyən edilmiş qaydada vətəndaşlar hərbi xidmət keçirlər.  ",
+       "options": [  "Qanunla müəyyən edilmiş qaydada vətəndaşlar hərbi xidmət keçirlər.  ",
          "Vətəndaşların əqidəsi həqiqi hərbi xidmət keçməyə ziddirsə, qanunla müəyyən edilmiş hallarda həqiqi hərbi xidmətin alternativ xidmətlə əvəz olunmasına yol verilir.  ",
          "Vəzifəyə seçilmə və ya təyinat yolu ilə qanunvericilik, icra və ya məhkəmə hakimiyyəti orqanlarında işləyən, AR Konstitusiyasına sadiq qalacağına and içmiş şəxs dövlətə qarşı cinayətdə, o cümlədən dövlətə qarşı qiyamda və ya dövlət çevrilişində ittiham edilibsə və bu ittiham əsasında məhkum olunubsa, həmin vəzifədən getmiş sayılır və bir daha bu vəzifəni tuta bilməz.  "
       ],
@@ -1216,7 +1127,7 @@
     {
       "id": 130,
        "text": "Tarix və mədəniyyət abidələrini və ətraf mühiti qorumaq kimin borcudur?  ",
-       “options”: [  "hər bir vətəndaşın  ",
+       "options": [  "hər bir vətəndaşın  ",
          "hər bir şəxsin  ",
          "hər bir kəsin  ",
          "əmək qabiliyyətli olan hər bir şəxsin  "
@@ -1226,7 +1137,7 @@
     {
       "id": 131,
       "text": "“Məsuliyyət” maddəsində aşağıdakılardan hansı müəyyən olunmayıb?",
-       “options”: [  "Konstitusiyanın və qanunların pozulması qanunla müəyyən edilən məsuliyyətə səbəb olur.  ",
+       "options": [  "Konstitusiyanın və qanunların pozulması qanunla müəyyən edilən məsuliyyətə səbəb olur.  ",
          "Konstitusiyada və qanunlarda nəzərdə tutulan hüquqlardan sui-istifadə qanunla müəyyən edilən məsuliyyətə səbəb olur.  ",
          "Konstitusiyada və qanunlarda nəzərdə tutulan vəzifələrin yerinə yetirilməməsi qanunla müəyyən edilən məsuliyyətə səbəb olur.  ",
          "Heç kəs AR Konstitusiyasına və ya qanunlarına zidd vəzifələrin icrasına məcbur edilə bilməz.  "
@@ -1236,7 +1147,7 @@
     {
       "id": 132,
        "text": "AR Konstitusiyasina əsasən doğru olan müddəanı seçin:  ",
-       “options”: [  "Konstitusiyanı və qanunları pozan birliklərin fəaliyyətinə yalnız qanunla müəyyən edilmiş qaydada xitam verilə bilər.  ",
+       "options": [  "Konstitusiyanı və qanunları pozan birliklərin fəaliyyətinə yalnız qanunla müəyyən edilmiş qaydada xitam verilə bilər.  ",
          "Məlumatın aid olduğu şəxsin aşkar razılığı ifadə edildiyi hallarda informasiya texnologiyalarından onun şəxsi həyatı, əqidəsi, dini və etnik mənsubiyyəti ilə bağlı məlumatların açıqlanması üçün istifadə edilə bilər.  ",
          "Dövlət sahibkarlıq sahəsində hər bir tənzimləməni həyata keçirir.  ",
          "Hər kəsin hüquq və azadlıqlarının müdafiəsinə yalnız məhkəmə qaydasında təminat verilir.  "
@@ -1246,7 +1157,7 @@
     {
       "id": 133,
       "text": "Aşağıdakı mülahizələrdən hansı biri doğru deyildir?",
-       “options”: [  "Həyata keçirilməsi məhdudlaşdırılan hüquq və azadlıqlar haqqında əhaliyə məhdudlaşdırıldığı andan məlumat verilir.  ",
+       "options": [  "Həyata keçirilməsi məhdudlaşdırılan hüquq və azadlıqlar haqqında əhaliyə məhdudlaşdırıldığı andan məlumat verilir.  ",
          "Heç bir halda heç kəs din, vicdan, fikir və əqidəsini açıqlamağa məcbur edilə bilməz və bunlara görə təqsirləndirilə bilməz.  ",
          "Bu Konstitusiyanın heç bir müddəası insan və vətəndaş hüquqlarının və azadlıqlarının ləğvinə yönəldilmiş müddəa kimi təfsir edilə bilməz.  ",
          "AR ərazisində insan və vətəndaş hüquqları və azadlıqları birbaşa qüvvədədir.  "
@@ -1256,7 +1167,7 @@
     {
       "id": 134,
       "text": "Aşağıdakılardan hansı biri yanlışdır?",
-       “options”: [  "Qanunla müəyyən edilmiş vergiləri və başqa dövlət ödənişlərini tam həcmdə və vaxtında ödəmək hər bir kəsin borcudur.  ",
+       "options": [  "Qanunla müəyyən edilmiş vergiləri və başqa dövlət ödənişlərini tam həcmdə və vaxtında ödəmək hər bir kəsin borcudur.  ",
          "Vətənə sədaqət toxunulmazdır.  ",
         "Heç kəs qanunla nəzərdə tutulmuş əsaslar olmadan və qanunda göstərilmiş həcmdən əlavə vergiləri və başqa dövlət ödənişləri ödəməyə məcbur edilə bilməz.",
          "Vəzifəyə seçilmə və ya təyinat yolu ilə qanunvericilik, icra və ya məhkəmə hakimiyyəti orqanlarında işləyən şəxslər öz vəzifələrini dürüst və layiqincə yerinə yetirməməyə görə məsuliyyət daşıyırlar və qanunla müəyyən edilmiş hallarda and içirlər.  "
@@ -1264,15 +1175,9 @@
       "correctAnswer": 1
     },
     {
-      "id": 135,
-      "text": "Hər bir şəxs:\n1. AR Konstitusiyasına əməl etməlidir\n2.  AR qanunlarına əməl etməlidir\n3. başqa şəxslərin hüquqlarına hörmət bəsləməlidir\n4. başqa şəxslərin azadlıqlarına hörmət bəsləməlidir\n5. qanunla müəyyən edilmiş digər vəzifələri yerinə yetirməlidir  ",
-       “options”: [  ,
-      "correctAnswer": 1
-    },
-    {
       "id": 136,
       "text": "Tənqidə görə təqib qadağandır fikri hansı maddəyə aiddir?",
-       “options”: [  "Şəxsi toxunulmazlıq hüququ  ",
+       "options": [  "Şəxsi toxunulmazlıq hüququ  ",
          "Müraciət etmək hüququ  ",
          "Sərbəst toplaşmaq azadlığı  ",
          "Heç biri  "
@@ -1280,15 +1185,9 @@
       "correctAnswer": 1
     },
     {
-      "id": 137,
-      "text": "AR Konstitusiyasına uyğun olaraq mülkiyyət hüququ mülkiyyətçinin təkbaşına və ya başqaları ilə birlikdə hansı hüquqlarından ibarətdir?\n1. Əmlaka sahib olmaq\n2. Əmlakdan istifadə etmək\n3. Onun barəsində sərəncam vermək\n4.  Onun barəsində qərar vermək  ",
-       “options”: [  ,
-      "correctAnswer": 0
-    },
-    {
       "id": 138,
        "text": "AR Konstitusiyanın birinci bölməsində əks etdirilmiş ____ əlaqədar AR Konstitusiyasına ___ təklif edilə bilməz.  ",
-       “options”: [  "əsaslarla; dəyişikliklər  ",
+       "options": [  "əsaslarla; dəyişikliklər  ",
         "müddəalarla;  əlavələr  "
       ],
       "correctAnswer": 0
@@ -1296,7 +1195,7 @@
     {
       "id": 139,
       "text": "AR Konstitusiyasına görə iqtisadi inkişaf və dövlətlə bağlı müddəalardan düzgün olanları seçin:\n1. Azərbaycan dövləti azad sahibkarlığa təminat verir;\n2.  Azərbaycan dövləti bazar münasibətləri əsasında sosial yönümlü iqtisadiyyatın inkişafına şərait yaradır;  \n3.  Azərbaycan dövləti xalqın və hər bir vətəndaşın rifahının yüksəldilməsi, onun sosial müdafiəsi və layiqli həyat səviyyəsi qayğısına qalır;  \n4.  Hər kəs qanunla qadağan edilməmiş digər iqtisadi fəaliyyət növü ilə məşğul ola bilər;  \n5.  AR-da iqtisadiyyatın inkişafı xüsusi mülkiyyət növünə əsaslanaraq xalqın rifahının yüksəldilməsinə xidmət edir;  \n6.  Azərbaycan dövləti iqtisadi münasibətlərdə inhisarçılığa və haqsız rəqabətə yol vermir.  ",
-       “options”: [  "1.2.3  ",
+       "options": [  "1.2.3  ",
          "1.2.6  ",
          "4.5.6  ",
          "3.4.5  "
@@ -1306,39 +1205,29 @@
     {
       "id": 140,
       "text": "AR sərhədləri hansı akt əsasında dəyişdirilə bilər?",
-       “options”: [  "qanun  ",
+       "options": [  "qanun  ",
          "fərman  ",
          "sərəncam  ",
          "qərar  "
       ],
       "correctAnswer": 0
     },
-    {
-      "id": 141,
-      "text": "Qanunda nəzərdə tutulmuş hallar istisna olmaqla, şəxsə qarşı hansı hərəkətlər etmək qadağandır?\n1. Şəxsin həyatına qəsd etmək\n2. Şəxsin fiziki və mənəvi sağlamlığına qəsd etmək\n3. Şəxsin mülkiyyətinə qəsd etmək\n4. Şəxsin mənzilinə qəsd etmək\n5.  Şəxsə qarşı zor işlətmək  ",
-       “options”: [  ,
-      "correctAnswer": 2
-    },
+ 
     {
       "id": 142,
       "text": "Aşağıdakı fikirlərdən hansı nikah hüququna aid deyil?",
-       “options”: [  Heç kəs zorla evləndirilə bilməz.  ",
+       "options": [  "Heç kəs zorla evləndirilə bilməz.  ",
         "Nikah və ailə dövlətin himayəsindədir. Analıq, atalıq, uşaqlıq qanunla mühafizə olunur.  Dövlət çoxuşaqlı ailələrə yardım göstərir  ",
         "Ər ilə arvadın hüquq və azadlıqları bərabərdir.  Uşaqlara qayğı göstərmək valideynlərin həm hüququ, həm də borcudur.  ",
          "Valideynlərə hörmət etmək, onların qayğısına qalmaq uşaqların borcudur.  "
       ],
       "correctAnswer": 2
     },
-    {
-      "id": 143,
-      "text": "Milli Məclisin ilk iclasını cağırır... (Bununla bağlı İnstagram səhifəmizdə əlavə konspekt mövcuddur. Nəzər sala bilərsiniz)",
-       “options”: [  ,
-      "correctAnswer": 1
-    },
+
     {
       "id": 144,
       "text": "İctimai Televiziya və Radio Yayımları qurumunun Yayım Şurasının üzvlərini hansı subyekt təyin edir?",
-       “options”: [  "AR Milli Məclisi;  ",
+       "options": [  "AR Milli Məclisi;  ",
          "AR Prezidenti;  ",
          "AR Konstitusiya Məhkəməsi;  ",
          "AR Baş Naziri;  "
@@ -1348,7 +1237,7 @@
     {
       "id": 145,
       "text": "AR Konstitusiyasına əsasən hansı qurumun üzvlərinin bir qismini AR Milli Məclisi seçir?\n1. AR Mərkəzi Seçki Komissiyasının;\n2.  AR Dövlət Qulluğunu İdarəetmə Şurasının;  \n3. AR Korrupsiyaya Qarşı Mübarizə üzrə Komissiyanın;\n4. AR Məhkəmə-Hüquq Şurasının;\n5.  İctimai Televiziya və Radio Yayımları qurumunun Yayım Şurasının.  ",
-       “options”: [  "1-2-3;  ",
+       "options": [  "1-2-3;  ",
         "2-3-4;",
         "1-2-3-4-5;",
          "2-3-5.  "
@@ -1358,7 +1247,7 @@
     {
       "id": 146,
        "text": "AR Konstitusiyasına əsasən AR Milli Məclisinin 2-ci vitse-spikerinin (sədr müavini) vəzifəyə təyin olunması haqqında normativ aktın qəbul edilmə qaydası nə ilə müəyyən edilir?  ",
-       “options”: [  "Qanunla  ",
+       "options": [  "Qanunla  ",
          "Qərarla  ",
          "Konstitusiya  ",
          "Fərmanla  "
@@ -1366,15 +1255,9 @@
       "correctAnswer": 1
     },
     {
-      "id": 147,
-       "text": "AR-da qanunvericilik hakimiyyətini hansı orqan həyata keçirir?  ",
-       “options”: [  ,
-      "correctAnswer": 1
-    },
-    {
       "id": 148,
       "text": "AR Milli Məclisinin deputatları hansı formada seçilirlər?",
-       “options”: [  "AR Milli Məclisinin deputatları majoritar seçki sistemi ümumi, qeyri-bərabər və dolayı seçki hüququ əsasında sərbəst, şəxsi və gizli səsvermə yolu ile seçilirlər  ",
+       "options": [  "AR Milli Məclisinin deputatları majoritar seçki sistemi ümumi, qeyri-bərabər və dolayı seçki hüququ əsasında sərbəst, şəxsi və gizli səsvermə yolu ile seçilirlər  ",
         "AR Milli Məclisinin deputatları majoritar seçki sistemi ümumi, bərabər va birbaşa seçki hüququ əsasında sərbəst, şəxsi və güclü səsvermə yolu ilə seçilirlər",
          "AR Milli Məclisinin deputatları majoritar seçki sistemi, ümumi, bərabər və birbaşa seçki hüququ əsasında sərbəst, şəxsi ve gizli səsvermə yolu ilə seçilirlər.  ",
          "AR Milli Məclisinin deputatları proporsional seçki sistemi ümumi, bərabər və birbaşa seçki hüququ əsasında sərbəst, şəxsi va açıq səsvermə yolu ilə seçilirlər.  "
@@ -1384,7 +1267,7 @@
     {
       "id": 149,
        "text": "AR Milli Məclisinin çağırışının səlahiyyət müddəti neçə ildir?  ",
-       “options”: [  "5  ",
+       "options": [  "5  ",
          "7  ",
          "10  "
       ],
@@ -1393,7 +1276,7 @@
     {
       "id": 150,
       "text": "AR Konstitusiyasına uyğun olaraq AR Milli Məclisinin çağırışının səlahiyyət müddəti nə zaman uzadılır?",
-       “options”: [  "Müharibə şəraitində hərbi əməliyyatların aparılması AR Milli Məclisinə seçkilərin keçirilməsini mümkün etmədikdə;  ",
+       "options": [  "Müharibə şəraitində hərbi əməliyyatların aparılması AR Milli Məclisinə seçkilərin keçirilməsini mümkün etmədikdə;  ",
          "Fövqəladə vəziyyət zamanı və ya müharibə şəraitində hərbi əməliyyatların aparılması AR Milli Məclisinə seçkilərin keçirilməsini mümkün etmədikdə;  ",
          "Müharibə və ya sülh şəraitində hərbi əməliyyatların aparılması MM-ə seçkilərin keçirilməsini mümkün etmədikdə;  ",
          "Müharibə şəraitində hərbi əməliyyatların aparılması MM-ə seçkilərin keçirilməsini mümkün etmədikdə AR Prezidentinin təklifi ilə…  "
@@ -1403,7 +1286,7 @@
     {
       "id": 151,
       "text": "AR Konstitusiyasına uyğun olaraq AR Milli Məclisinin çağırışının səlahiyyət müddətinin uzadılması barədə qərar hansı qaydada qəbul olunur?",
-       “options”: [  "Mərkəzi Seçki Komissiyasının müraciətinə əsasən Ali Məhkəmə tərəfındən qəbul edilir.  ",
+       "options": [  "Mərkəzi Seçki Komissiyasının müraciətinə əsasən Ali Məhkəmə tərəfındən qəbul edilir.  ",
          "Konstitusiya məhkəməsinin müraciətinə əsasən Mərkəzi Seçki Komissiyası tərəfındən qəbul edilir.  ",
          "Mərkəzi Seçki Komissiyasının müraciətinə əsasən Konstitusiya Məhkəməsi tərəfındən qəbul edilir.  ",
          "Mərkəzi Seçki Komissiyasının müraciətinə əsasən Prezident tərəfındən qəbul edilir.  "
@@ -1413,7 +1296,7 @@
     {
       "id": 152,
        "text": "Milli Məclisin hər çağırışının seçkiləri nə zaman keçirilir?  ",
-       “options”: [  "Hər beş ildən bir noyabr ayının birinci bazar günü  ",
+       "options": [  "Hər beş ildən bir noyabr ayının birinci bazar günü  ",
         "Hər beş ildən bir oktyabr ayının birinci bazar günü",
         "Hər beş ildən bir noyabr ayının birinci bazar ertəsi günü"
       ],
@@ -1422,7 +1305,7 @@
     {
       "id": 153,
       "text": "Milli Məclis deputatlarının səlahiyyət müddəti hansı müddətlə məhdudlaşır?",
-       “options”: [  "AR Prezidentinin səlahiyyət müddəti ilə məhdudlaşır.  ",
+       "options": [  "AR Prezidentinin səlahiyyət müddəti ilə məhdudlaşır.  ",
         "AR Konstitusiya məhkəməsinin hakimlərinin səlahiyyət müddəti ilə məhdudlaşır.",
          "AR Nazirlər Kabinetinin səlahiyyət müddəti ilə məhdudlaşır.  ",
          "AR Milli Məclisinin çağırışının səlahiyyət müddəti ilə məhdudlaşır.  "
@@ -1432,23 +1315,18 @@
     {
       "id": 154,
        "text": "AR Konstitusiyasına uyğun olaraq AR Milli Məclisinin deputatlığından çıxanların yerinə yeni seçkilər keçirilərsə, yeni seçilən deputatın səlahiyyət müddəti nə ilə məhdudlaşır?  ",
-       “options”: [  "Deputatlıqdan çıxanların yerinə yeni seçkilər keçirilərsə, yeni seçilən deputatın səlahiyyat müddəti deputatlıqdan çıxanın qalan səlahiyyət müddəti ilə məhdudlaşır.  ",
+       "options": [  "Deputatlıqdan çıxanların yerinə yeni seçkilər keçirilərsə, yeni seçilən deputatın səlahiyyat müddəti deputatlıqdan çıxanın qalan səlahiyyət müddəti ilə məhdudlaşır.  ",
          "Deputatlıqdan çıxanların yerinə yeni seçkilər keçirilərsə, yeni seçilən deputatının səlahiyyət müddətini Milli Məclisin sədri müəyyən edir.  ",
          "Deputatlıqdan çıxanların yerinə yeni seçkilər keçirilərsə, yeri seçilən deputatın səlahiyyət müddətini Konstitusiya Məhkəməsi müəyyən edir.  ",
          "Deputatlıqdan çıxanların yerinə yeni seçkilər keçirilərsə, yeni seçilən deputatın səlahiyyət müddəti yenidən 5 il olacaqdır.  "
       ],
       "correctAnswer": 0
     },
-    {
-      "id": 155,
-      "text": "Aşağıdakı hallardan hansında deputatlar mandatdan məhrum edilmir?",
-       “options”: [  ,
-      "correctAnswer": 2
-    },
+
     {
       "id": 156,
       "text": "Milli Məclis Dövlət Qulluğuna dair 122 səs çoxluğu ilə qanun layihəsi qəbul edib, AR Prezidentinə imzalamaq üçün göndərdi. Ancaq Prezident imzalamayıb etirazı ilə birlikdə geri qaytardı.  Bu zaman MM həmin məsələyə dair minimum neçə səs çoxluğu ilə yenidən qanun qəbul etməlidir?  ",
-       “options”: [  "83  ",
+       "options": [  "83  ",
          "95  ",
          "63  ",
          "42  "
@@ -1458,45 +1336,21 @@
     {
       "id": 157,
        "text": "AR Milli Məclisinin işinin təşkilinə aid deyil?  ",
-       “options”: [  "İdarəetmə Şurasını yaradır  "
+       "options": [  "İdarəetmə Şurasını yaradır  "
       ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 158,
-      "text": "AR Milli Məclisinə seçkilərdə səslərin düzgün hesablanmadığı aşkar olunduqda:",
-       “options”: [  ,
       "correctAnswer": 3
     },
     {
       "id": 159,
       "text": "Milli Məclisin sessiyasının çağırılmasını kim tələb edə bilər",
-       “options”: [  "Heç biri  "
+       "options": [  "Heç biri  "
       ],
       "correctAnswer": 3
     },
     {
-      "id": 160,
-      "text": "AR Milli Məclisi deputatının məsuliyyətə cəlb olunmasına qoyulan qadağanlardan doğru olmayanları seçin.\n1. AR Milli Məclisinin deputatları AR Milli Məclisindəki fəaliyyətinə görə\n2. Səsverməyə görə\n3. Söylədiyi fikrə görə\n4. Cinayət törətdikdə və məhkəmənin qanuni qüvvəyə minmiş hökmü olduqda\n5. Cinayət başında yaxalandığı halda\n6.  Toxunulmazlığa xitam verildikdə  ",
-       “options”: [  ,
-      "correctAnswer": 3
-    },
-    {
-      "id": 161,
-      "text": "AR Konstitusiyasına uyğun olaraq deputat ola bilər:\n1. AR-nın seçkilərdə iştirak etmək hüququna malik olan hər bir vətəndaşı qanunla müəyyən edilmiş qaydada\n2. Ikili vətəndaşlığı olan şəxslər\n3. Başqa dövlətlər qarşısında öhdəliyi olmayan şəxslər\n4. Icra və ya məhkəmə hakimiyyəti sistemlərində qulluq etməyən şəxslər\n5.  Elmi, pedaqoji və yaradıcılıq faaliyyəti ilə məşğul olan şəxslər  ",
-       “options”: [  ,
-      "correctAnswer": 1
-    },
-    {
-      "id": 162,
-      "text": "AR Konstitusiyasına uyğun olaraq deputat ola bilər:\n1. Elmi, pedaqoji və yaradıcılıq fəaliyyəti istisna olmaqla başqa ödənişli fəaliyyətlə məşğul olan şəxslər\n2. Din xadimləri olmayan, fəaliyyət qabiliyyətsizliyi məhkəmə tərəfindən təsdiq edilməyən şəxslər\n3. Cinayətə uyğun olaraq məhkum olunmuş şəxslər\n4. AR vətəndaşı",
-       “options”: [  ,
-      "correctAnswer": 2
-    },
-    {
       "id": 163,
       "text": "AR Konstitusiyasına uyğun olaraq Milli Məclisə Seçkilərin nəticələrinin düzgünlüyünü yoxlayır və təsdiq edir:",
-       “options”: [  "Qanunla müəyyən olunmuş qaydada AR Ali Məhkəməsi  ",
+       "options": [  "Qanunla müəyyən olunmuş qaydada AR Ali Məhkəməsi  ",
         "Qanunla müəyyən olunmuş qaydada AR Konstitusiya Məhkəməsi",
         "Qanunla müəyyən olunmuş qaydada AR Mərkəzi Seçki Komissiyası",
         "Qanunla müəyyən olunmuş qaydada AR Prezidenti"
@@ -1506,7 +1360,7 @@
     {
       "id": 164,
       "text": "AR Konstitusiyasına uyğun olaraq AR Milli Məclisi deputatlarının səlahiyyətləri nə zaman bitir?",
-       “options”: [  "AR Milli Məclisi deputatlarının selahiyyətləri AR Milli Məclisinin yeni cağırışının ilk iclas günü bitir.  ",
+       "options": [  "AR Milli Məclisi deputatlarının selahiyyətləri AR Milli Məclisinin yeni cağırışının ilk iclas günü bitir.  ",
          "AR Milli Məclisi deputatlarının səlahiyyətləri AR Milli Məclisinin təsdiq olunması barədə Konstitusiya Məhkəməsinin rəsmən elan olunmasından sonra bitir.  ",
          "AR Milli Məclisi deputatlarının selahiyyətləri AR Milli Məclisinə seçkilərin keçirildiyi gün bitir.  ",
          "AR Milli Məclisi deputatlarının səlahiyyətləri qanunla müəyyən olunmuş qaydada AR Konstitusiya Məhkəməsinin müəyyən etdiyi vaxt bitir.  "
@@ -1516,7 +1370,7 @@
     {
       "id": 165,
       "text": "AR Konstitusiyasına əsasən doğrudur.",
-       “options”: [  "Deputatlıqdan çıxanların yerinə seçkilər Milli Məclisin səlahiyyət müddətinin bitməsinə 120 gündən çox müddət qalarsa keçirilmir.  ",
+       "options": [  "Deputatlıqdan çıxanların yerinə seçkilər Milli Məclisin səlahiyyət müddətinin bitməsinə 120 gündən çox müddət qalarsa keçirilmir.  ",
          "AR Milli Məclisi 63 deputatının səlahiyyətləri təsdiq olunduqda salahiyyətlidir.  ",
          "AR Milli Məclisi hər il 4 növbəti yaz, payız, qapalı və növbədənkənar sessiyalarına yığılır.  ",
          "AR Milli Məclisinin 83 deputatının səlahiyyətləri təsdiq edildikdən sonra AR Milli Məclisinin ilk iclası həmin gündən başlayaraq bir həftədən gec olmayaraq çağırılır.  "
@@ -1526,7 +1380,7 @@
     {
       "id": 166,
       "text": "AR Kostitusiyasına əsasən Milli Məclisinin ilk iclasının keçirilmə vaxtını AR Konstitusiya Məhkəməsi müəyyən edir:",
-       “options”: [  "AR Milli Məclisinə seçkilərdən sonra martın 10-dək onun 83 deputatının səlahiyyətləri təsdiq edilməzsə, AR Milli Məclisinin ilk iclasının keçirilmə vaxtını AR Konstitusiya Məhkəməsi müəyyən edir.  ",
+       "options": [  "AR Milli Məclisinə seçkilərdən sonra martın 10-dək onun 83 deputatının səlahiyyətləri təsdiq edilməzsə, AR Milli Məclisinin ilk iclasının keçirilmə vaxtını AR Konstitusiya Məhkəməsi müəyyən edir.  ",
          "AR Milli Məclisinə seçkilərdən sonra martın 18-dək onun 95 deputatının səlahiyyətləri təsdiq edilməzsə, AR Milli Məclisinin ilk iclasının keçirilmə vaxtını AR Konstitusiya Məhkəməsi müəyyən edir.  ",
          "AR Milli Məclisinə seçkilərdən sonra martın 10-dək onun 95 deputatının səlahiyyətləri təsdiq edilməzsə, AR Milli Məclisinin ilk iclasının keçirilmə vaxtını AR Konstitusiya Məhkəməsi müəyyən edir.  "
       ],
@@ -1535,7 +1389,7 @@
     {
       "id": 167,
        "text": "AR Konstitusiyasına uyğun olaraq AR Milli Məclisinin növbədənkənar sessiyalarını kim çağırır?  ",
-       “options”: [  "AR Milli Məclisinin sessiyalarını AR Milli Məclisinin sədri çağırır.  ",
+       "options": [  "AR Milli Məclisinin sessiyalarını AR Milli Məclisinin sədri çağırır.  ",
          "AR Milli Məclisinin növbədənkənar sessiyalarını AR Milli Məclisinin sədri çağırır.  ",
          "AR Milli Məclisinin növbədənkənar sessiyalarını AR Prezidenti və AR Milli Məclisinin 42 deputatı çağırır  ",
         "AR Milli Məclisinin növbədənkənar sessiyalarını AR Prezidenti va ya AR Milli Məclisinin 42 deputatı və AR Milli Məclisinin sədri çağırır"
@@ -1545,14 +1399,14 @@
     {
       "id": 168,
       "text": "AR Konstitusiyasına uygun olaraq AR Milli Məclisinin növbədənkənar sessiyaları çağırılır:",
-       “options”: [  "AR Prezidentinin və AR Milli Məclisinin 42 deputatının tələbi əsasında  "
+       "options": [  "AR Prezidentinin və AR Milli Məclisinin 42 deputatının tələbi əsasında  "
       ],
       "correctAnswer": 2
     },
     {
       "id": 169,
       "text": "AR Konstitusiyasına uyğun olaraq AR Milli Məclisinin növbədənkənar sessiyasının gündəliyini kim müəyyənləşdirir?",
-       “options”: [  "AR Milli Məclisinin növbədənkənar sessiyasının gündəliyini müvafiq olaraq onun çağırılmasını tələb edənlər müəyyənləşdirir.  ",
+       "options": [  "AR Milli Məclisinin növbədənkənar sessiyasının gündəliyini müvafiq olaraq onun çağırılmasını tələb edənlər müəyyənləşdirir.  ",
          "AR Milli Məclisinin növbədənkənar sessiyasınun gündəliyini müvafiq olaraq AR Milli Məclisin sədri müəyyənləşdirir.  ",
          "AR Milli Məclisinin növbədənkənar sessiyasının gündəliyini müvafiq olaraq AR Konstitusiya Məhkəmasinin sədri müəyyənləşdirir.  ",
          "AR Milli Məclisinin növbədənkənar sessiyasının gündəliyini müvafiq olaraq onun çağırılmasını tələb edənlər və AR Milli Məclisinin sədri müəyyənlaşdirir.  "
@@ -1562,7 +1416,7 @@
     {
       "id": 170,
        "text": "AR Konstitusiyasına uyğun olaraq nə zaman növbədənkənar sessiyanın işi bitir?  ",
-       “options”: [  "AR Milli Məclisinin növbədənkənar sessiyasının gündəlikdəki məsələlərə baxılmaq zərurətinin yaranmadığı hallarda növbədənkənar sessiyanın işi bitir.  ",
+       "options": [  "AR Milli Məclisinin növbədənkənar sessiyasının gündəlikdəki məsələlərə baxılmaq zərurətinin yaranmadığı hallarda növbədənkənar sessiyanın işi bitir.  ",
          "Milli Məclisin növbədənkənar sessiyasının gündəlikdəki məsələlərin bir qisminə baxıldıqdan sonra növbədənkənar sessiyanın işi bitir.  ",
          "AR Milli Məclisinin növbədənkənar sessiyasının gündəlikdaki məsələlərə baxıldıqdan sonra növbədənkənar sessiyanın işi bitir.  ",
          "AR Milli Məclisinin yaz va payız sessiyasının gündəlikdaki məsələlərə baxıldıqdan sonra növbədənkənar sessiyanın işi bitir.  "
@@ -1572,7 +1426,7 @@
     {
       "id": 171,
        "text": "AR Konstitusiyasına uyğun olaraq AR Milli Məclisinin sessiyalarının iclasları necə keçirilir?  ",
-       “options”: [  "Yalnız açıq  ",
+       "options": [  "Yalnız açıq  ",
          "Yalnız qapalı  ",
         "Açıq, müstəsna hallarda qapalı",
          "Heç biri  "
@@ -1582,7 +1436,7 @@
     {
       "id": 172,
       "text": "AR Konstitusiyasına uyğun olaraq AR Milli Məclisinin sessiyası hansı halda qapalı keçirilə bilər?",
-       “options”: [  "AR Milli Məclisinin qapalı sessiyası AR Milli Məclisinin 83 deputatının tələbi ilə keçirilə bilər.  ",
+       "options": [  "AR Milli Məclisinin qapalı sessiyası AR Milli Məclisinin 83 deputatının tələbi ilə keçirilə bilər.  ",
          "AR Milli Məclisinin qapalı sessiyası AR Prezidentinin tələbi ilə keçirilə bilər.  ",
          "AR Milli Məclisinin qapalı sessiyası AR Milli Məclisinin 42 deputatının və ya AR Konstitusiya Məhkəməsinin 6 hakiminin tələbi ilə keçirilə bilər.  ",
          "AR Milli Məclisinin qapalı sessiyası AR Milli Məclisinin 83 deputanının və ya AR Prezidentinin tələbi ilə keçirilə bilər.  "
@@ -1592,7 +1446,7 @@
     {
       "id": 173,
        "text": "AR Kostitusiyasına əsasən AR Milli Məclisinin deputatı hansı hallarda mandatından məhrum edilmir?  ",
-       “options”: [  "Seçkilər zamanı səslərin düzgün hesablanmadığı aşkar olunduqda;  ",
+       "options": [  "Seçkilər zamanı səslərin düzgün hesablanmadığı aşkar olunduqda;  ",
          "Milli Məclis deputatları öz səlahiyyətlərini daimi icra edə bilmədikdə va qanunda nəzərdə tutulmuş digər hallarda;  ",
          "AR vətəndaşlığından çıxdıqda və ya başqa dövlətin vətəndaşlığını qəbul etdikdə;  ",
          "Cinayət törətdikdə və məhkəmənin qanuni qüvvəyə minmiş hökmü olduqda  "
@@ -1602,7 +1456,7 @@
     {
       "id": 174,
       "text": "AR Kostitusiyasına əsasən AR Milli Məclisinin deputatı hansı hallarda mandatından məhrum edilmir?",
-       “options”: [  "elmi, pedaqoji və yaradıcılıq fəaliyyəti ilə məşğul olduqda;  ",
+       "options": [  "elmi, pedaqoji və yaradıcılıq fəaliyyəti ilə məşğul olduqda;  ",
          "Özü imtina etdikdə;  ",
          "AR Milli Məclisinin deputatları səsvermə hüququnu şəxsən həyata keçirmədikdə;  ",
          "Deputat üçün qanunla müəyyən edilmiş etik davranış qaydalarını kobud surətdə pozduqda  "
@@ -1612,14 +1466,14 @@
     {
       "id": 175,
        "text": "AR Konstitusiyasına uyğun olaraq AR Milli Məclisinin deputatlığından məhrumetmə haqqında qərar hansı qaydada qəbul edilir?  ",
-       “options”: [  "Konstitusiya qanunu ilə  "
+       "options": [  "Konstitusiya qanunu ilə  "
       ],
       "correctAnswer": 1
     },
     {
       "id": 176,
       "text": "AR Kostitusiyasına əsasən doğrudur:",
-       “options”: [  "AR Milli Məclisinin deputatı səlahiyyət müddəti ərzində cinayət başında yaxalanma hallarından başqa, cinayət məsuliyyətinə cəlb edilə bilməz, tutula bilməz, onun barəsində məhkəmə qaydasında inzibati tənbeh tədbirləri tətbiq edilə bilməz, axtarışa məruz qala bilməz, şəxsi müayinə edilə bilməz.  ",
+       "options": [  "AR Milli Məclisinin deputatı səlahiyyət müddəti ərzində cinayət başında yaxalanma hallarından başqa, cinayət məsuliyyətinə cəlb edilə bilməz, tutula bilməz, onun barəsində məhkəmə qaydasında inzibati tənbeh tədbirləri tətbiq edilə bilməz, axtarışa məruz qala bilməz, şəxsi müayinə edilə bilməz.  ",
         "AR Milli Məclisinin deputatı səlahiyyət müddəti ərzində cinayət başında yaxalanma hallarından başqa, cinayət məsuliyyətinə cəlb edilə bilməz, tutula bilməz, onun barəsində məhkəmə qaydasında intizam tanbeh tədbirləri tətbiq edilə bilməz, axtarışa məruz qala bilməz, şəxsi müayinə edilə bilməz",
          "AR Milli Məclisinin deputatı səlahiyyət müddəti ərzində cinayət başında yaxalanma hallarından başqa, intizam məsuliyyətinə cəlb edilə bilməz, tutula bilməz, onun barəsində məhkəmə qaydasında inzibati tənbeh tədbirləri tətbiq edilə bilməz, axtarışa məruz qala bilməz, şəxsi müayinə edilə bilməz.  ",
          "AR Milli Məclisinin deputatı səlahiyyət müddəti ərzində cinayət başında yaxalanma hallarından başqa, cinayət məsuliyyatinə cəlb edilə bilməz, tutula bilməz, onun barəsində məhkəmə qaydasında inzibati tənbeh tədbirləri tətbiq edilə bilməz, axtarışa məruz qala bilməz ancaq şəxsi müayinə edilə bilər.  "
@@ -1629,7 +1483,7 @@
     {
       "id": 177,
       "text": "AR Milli Məclis deputatının toxunulmazlığına xitam verilməsi ardıcıllığını seçin:",
-       “options”: [  "AR Milli Məclisinin deputatı cinayət başında yaxalanarsa onu tutan orqan bu barədə dərhal AR Ali Məhkəməsinin sədrinə xəbər verir və AR Ali Məhkəməsinin sədrinin təqdimatına əsəsən AR Milli Məclisi xitam barəsində qərar çıxarır.  ",
+       "options": [  "AR Milli Məclisinin deputatı cinayət başında yaxalanarsa onu tutan orqan bu barədə dərhal AR Ali Məhkəməsinin sədrinə xəbər verir və AR Ali Məhkəməsinin sədrinin təqdimatına əsəsən AR Milli Məclisi xitam barəsində qərar çıxarır.  ",
          "AR Milli Maclisinin deputatı cinayət başında yaxalanarsa onu tutan orqan bu barədə dərhal AR Baş prokuroruna xəbər verir və AR Bas prokurorunun təqdimatına əsasən AR Milli Məclisi xitam barəsində qərar çıxarır.  ",
          "AR Milli Məclisinin deputatı cinayət başında yaxalanarsa onu tutan orqan bu barədə dərhal AR Baş prokuroruna xəbər verir və Baş prokurorun qərarı ilə AR Milli Məclisinin deputatının toxunulmazlığına xitam verilir.  ",
          "AR Milli Məclisinin deputatı cinayət başında yaxalanarsa onu tutan orqan bu barədə dərhal AR Baş prokuroruna xəbər verir və AR Baş prokurorunun təqdimatına əsasən AR Prezidenti xitam barəsində qərar çıxarır.  "
@@ -1639,7 +1493,7 @@
     {
       "id": 178,
        "text": "AR Konstitusiyasına uygun olaraq hansı halda AR Milli Məclisinin deputatlarının salahiyyətləri itirilir?  ",
-       “options”: [  "Özü imtina etdikdə  ",
+       "options": [  "Özü imtina etdikdə  ",
         "Bu Konstitusiyanın 93-cu maddəsinin III hissəsinin tələbini pozduqda",
         "Deputat üçün qanunla müəyyən edilmiş etik davranış qaydalarını kobud surətdə pozduqda",
          "Öz səlahiyyətlərini daimi icra edə bilmədikdə və qanunda nəzərdə tutulmuş digər hallarda  "
@@ -1649,7 +1503,7 @@
     {
       "id": 179,
       "text": "AR Konstitusiyasına uygun olaraq AR Milli Məclisinin deputatları səlahiyyətlərinin itirilməsi barədə qərarın qəbul edilmə qaydası müəyyən edilir:",
-       “options”: [  "Əsasnamə ilə  ",
+       "options": [  "Əsasnamə ilə  ",
          "Qanunla  ",
          "AR Milli Məclisinin sədrinin qərarı ilə  ",
          "Konstitusiya qanunu ilə  "
@@ -1659,7 +1513,7 @@
     {
       "id": 180,
       "text": "AR Konstitusiyasına uyğun olaraq səlahiyyət müddəti ərzində AR Milli Məclisi deputatının toxunulmazdır.",
-       “options”: [  "Səlahiyyət müddəti ərzində AR Milli Məclisi deputatının şəxsiyyəti toxunulmazdır.  ",
+       "options": [  "Səlahiyyət müddəti ərzində AR Milli Məclisi deputatının şəxsiyyəti toxunulmazdır.  ",
          "Bütün hallarda AR Milli Məclisi deputatının şəxsiyyəti toxunulmazdır.  ",
          "Səlahiyyət müddəti ərzində va ondan sonrakı müddətdə AR Milli Məclisi deputatının şəxsiyyəti toxunulmazdır.  ",
          "Səlahiyyət müddəti AR Milli Məclisi deputatının şəxsiyyəti, mülkiyyəti va əmlakı toxunulmazdır.  "
@@ -1669,7 +1523,7 @@
     {
       "id": 181,
        "text": "Milli Məclisin deputatı səlahiyyət müddəti ərzində cinayət məsuliyyətinə cəlb edilə bilər?  ",
-       “options”: [  "Heç bir halda  ",
+       "options": [  "Heç bir halda  ",
         "Hakim partiyanın siyasi kursunu tənqid etdikdə",
         "Sahibkarlıq, kommersiya va başqa ödənişli fəaliyyətlə məşğul olduqda",
          "Cinayət başında yaxalandıqda  "
@@ -1679,7 +1533,7 @@
     {
       "id": 182,
        "text": "AR Konstitusiyası AR Milli Məclisi deputatının məsuliyyətə cəlb olunmasına hansı qadağalar qoyur?  ",
-       “options”: [  "AR Milli Məclisinin deputatlar heç bir halda məsuliyyətə cəlb oluna bilməzlar.  ",
+       "options": [  "AR Milli Məclisinin deputatlar heç bir halda məsuliyyətə cəlb oluna bilməzlar.  ",
         "AR Milli Məclisinin deputatları AR Milli Məclisindəki fəaliyyətinə, səsverməyə və söylədiyi fikrə görə məsuliyyətə cəlb oluna bilməzlər.  Razılığı olmadan onlardan bu hallarla əlaqədar izahat, ifadə tələb edilə bilməz.  ",
         "AR Milli Məclisinin deputatları AR Milli Məclisindən kənardakı fəaliyyətinə, səsverməyə və söylədiyi fikrə görə məsuliyyətə cəlb oluna bilməzlər.  Razılığı olmadan onlardan bu hallarla əlaqədar izahat, ifadə tələb edilə bilməz.  ",
          "AR Konstitusiyası AR Milli Məclisi deputatının məsuliyyətə cəlb olunmasına heç bir qadağa qoymur.  "
@@ -1689,7 +1543,7 @@
     {
       "id": 183,
        "text": "AR Konstitusiyasına uyğun olaraq AR Milli Məclisinin iş qaydasını hansı orqan müəyyən edir?  ",
-       “options”: [  "AR Kostitusiya Məhkəməsi AR Milli Məclisinin iş qaydasını müəyyən edir.  ",
+       "options": [  "AR Kostitusiya Məhkəməsi AR Milli Məclisinin iş qaydasını müəyyən edir.  ",
          "AR Ali Məhkəməsi AR Milli Məclisinin iş qaydasını müəyyən edir.  ",
          "AR Milli Məclisi öz iş qaydasını müəyyən edir.  ",
          "AR Prezidenti AR Milli Məclisinin iş qaydasını müəyyən edir.  "
@@ -1699,7 +1553,7 @@
     {
       "id": 184,
       "text": "AR Milli Məclisinin işinin təşkilinə aiddir:",
-       “options”: [  "Öz iş qaydasını müəyyən edir və Milli Məclisin müvafiq orqanlarını yaradır, o cümlədən öz sədrini və onun müavinlərini seçir, nazirliklər, komitələr və komissiyalar təşkil edir, hesablama Palatası yaradır.  ",
+       "options": [  "Öz iş qaydasını müəyyən edir və Milli Məclisin müvafiq orqanlarını yaradır, o cümlədən öz sədrini və onun müavinlərini seçir, nazirliklər, komitələr və komissiyalar təşkil edir, hesablama Palatası yaradır.  ",
          "Öz iş qaydasını müəyyən edir və öz sədrini və onun müavinlərini seçir, komitələr va komissiyalar təşkil edir, Hesablama Palatası yaradır.  ",
          "Öz iş qaydasını müəyyən edir və Milli Məclisin müvafiq orqanlarını yaradır, o cümlədən öz sədrini və onun müavinlərini seçir, və komissiyalar təşkil edir, hesablama palatası yaradır.  ",
          "Milli Məclisin müvafiq orqanlarını yaradır, o cümlədən öz sədrini və onun müavinlərini seçir, komitələr və komissiyalar təşkil edir, Hesablama Palatası yaradır.  "
@@ -1707,15 +1561,9 @@
       "correctAnswer": 1
     },
     {
-      "id": 185,
-      "text": "AR Milli Məclisinin qabul etdiyi aktları seçin:\n1. Konstitusiya qanunu\n2. Fərman\n3. Qanun\n4. Sərəncam\n5.  Qərar  ",
-       “options”: [  ,
-      "correctAnswer": 2
-    },
-    {
       "id": 186,
       "text": "AR Konstitusiyasına uyğun olaraq AR Milli Məclisində Konstitusiya qanunları, qanunlar və qərarlar hansı qaydada qəbul edilir?",
-       “options”: [  "AR Milli Məclisində Konstitusiya qanunları, qanunlar va qərarlar Konstitusiya ilə nəzərdə tutulmuş qaydada qəbul edilir.  ",
+       "options": [  "AR Milli Məclisində Konstitusiya qanunları, qanunlar va qərarlar Konstitusiya ilə nəzərdə tutulmuş qaydada qəbul edilir.  ",
          "AR Milli Məclisində Konstitusiya qanunları, qanunlar və qərarlar qanunla nəzərdə tutulmuş qaydada qaydada qəbul edilir.  ",
          "AR Milli Məclisində Konstitusiya qanunları, qanunlar və qərarlar Konstitusiya qanunu ila nəzərdə tutulmuş qaydada qaydada qəbul edilir.  ",
          "AR Milli Məclisində Konstitusiya qanunları, qanunlar və qərarlar sarəncamla nəzərdə tutulmuş qaydada qəbul edilir.  "
@@ -1725,7 +1573,7 @@
     {
       "id": 187,
        "text": "AR Konstitusiyasına uyğun olaraq AR Milli Məclisinin deputatları səsvermə hüququnu necə hayata keçirirlər.  ",
-       “options”: [  "AR Milli Məclisinin deputatlar səsvermə hüququnu şəxsən həyata keçirirlar.  ",
+       "options": [  "AR Milli Məclisinin deputatlar səsvermə hüququnu şəxsən həyata keçirirlar.  ",
          "AR Milli Məclisinin deputatları səsvermə hüququnu nümayəndələri vasitəsilə həyata keçirirlər.  ",
          "AR Milli Məclisinin deputatları sasvermə hüququnu şəxsən və ya nümayəndələri vasitəsilə həyata keçirirlər  ",
          "AR Milli Məclisinin deputatlar səsvermə hüququnu vəkilləri vasitəsilə həyata keçirirlar.  "
@@ -1735,7 +1583,7 @@
     {
       "id": 188,
        "text": "AR Konstitusiyasına uyğun olaraq hansı hallarda Qanunlarda və Milli Məclisin qərarlarında konkret tapşırıqlar nəzərdə tutula bilər?  ",
-       “options”: [  "Qanunlarda və Milli Məclisin qərarlarında icra hakimiyyəti va məhkəma orqanlarına konkret tapşırıqlar Konstitusiya ilə nəzərdə tutulmuş hallarda nəzərdə tutula bilər.  ",
+       "options": [  "Qanunlarda və Milli Məclisin qərarlarında icra hakimiyyəti va məhkəma orqanlarına konkret tapşırıqlar Konstitusiya ilə nəzərdə tutulmuş hallarda nəzərdə tutula bilər.  ",
          "Qanunlarda və Milli Məclisin qərarlarında icra hakimiyyəti və məhkəmə orqanlarına konkret tapşırıqlar qanunla nəzərdə tutulmuş hallarda nəzərdə tutula bilər  ",
         "Qanunlarda və AR Milli Məclisinin qərarlarında icra hakimiyyəti və məhkəmə orqanlarına konkret tapşırıqlar bütün hallarda nəzərdə tutula bilər.",
          "Qanunlarda və AR Milli Məclisinin qərarlarında icra hakimiyyəti və məhkəmə orqanlarına konkret tapşırıqlar nəzərdə tutula bilməz.  "
@@ -1745,7 +1593,7 @@
     {
       "id": 189,
        "text": "AR Konstitusiyasına uyğun olaraq Milli Məclis aşağıdakı məsələlərə dair ümumi qaydalar müəyyən etmir:  ",
-       “options”: [  "AR Prezidentinin seçkiləri;  ",
+       "options": [  "AR Prezidentinin seçkiləri;  ",
         "AR Milli Məclisinə seçkilər və AR Milli Məclisinin deputatlarının statusu,",
         "Referendumun təyin edilməsi"
       ],
@@ -1754,7 +1602,7 @@
     {
       "id": 190,
       "text": "AR Konstitusiyasına uyğun olaraq Milli Məclis aşağıdakı məsələlərə dair ümumi qaydalar müəyyən etmir:",
-       “options”: [  "məhkəmə quruluşu və hakimlərin statusu; prokurorluq; vəkillik va notariat;  ",
+       "options": [  "məhkəmə quruluşu və hakimlərin statusu; prokurorluq; vəkillik va notariat;  ",
         "məhkəmə icraatı, məhkəmə qərarlarının icrası;",
         "bələdiyyələrə seçkilər və bələdiyyələrin statusu;",
          "fövqəladə vəziyyət rejimi və hərbi vəziyyət rejiminin elan edilməsi  "
@@ -1764,7 +1612,7 @@
     {
       "id": 191,
        "text": "AR Konstitusiyasına uyğun olaraq AR Milli Məclisi aşağıdakı məsələlərə dair ümumi qaydalar müəyyən etmir.  ",
-       “options”: [  "Mülki hüquq obyektlari;  ",
+       "options": [  "Mülki hüquq obyektlari;  ",
          "Əqdlər, mülki müqavilələr, nümayəndəlik və vərəsəlik  "
       ],
       "correctAnswer": 0
@@ -1772,7 +1620,7 @@
     {
       "id": 192,
        "text": "AR Konstitusiyasına uyğun olaraq AR Milli Məclisi aşağıdakı məsələlərə dair ümumi qaydalar müəyyən etmir.  ",
-       “options”: [  "mülkiyyət hüququ, o cümlədən dövlət, xüsusi və bələdiyyə mülkiyyətinin hüquqi rejimi, əqli mülkiyyət hüququ; digər əşya hüquqları: öhdəlik hüququ;  ",
+       "options": [  "mülkiyyət hüququ, o cümlədən dövlət, xüsusi və bələdiyyə mülkiyyətinin hüquqi rejimi, əqli mülkiyyət hüququ; digər əşya hüquqları: öhdəlik hüququ;  ",
          "ailə münasibətləri, o cümlədən himayəçilik va qəyyumluq;  ",
          "maliyyə fəaliyyatinin əsasları, vergilər, rüsumlar va ödənişlər;  ",
         "qanunları imzalayır və dərc edir"
@@ -1782,38 +1630,28 @@
     {
       "id": 193,
       "text": "AR Konstitusiyasına uyğun olaraq AR Milli Məclisi aşağıdakı məsələlərə dair ümumi qaydalar müəyyən etmir:",
-       “options”: [  "əmək münasibətləri və sosial təminat;  ",
+       "options": [  "əmək münasibətləri və sosial təminat;  ",
          "cinayətlərin və başqa hüquq pozuntularının müəyyən edilməsi, onların törədilməsinə görə məsuliyyətin təyin edilməsi;  ",
          "ali hərbi va ali xüsusi rütbələr verir;  ",
         "dövlət qulluğu"
       ],
       "correctAnswer": 2
     },
-    {
-      "id": 194,
-       "text": "AR Konstitusiyasına uyğun olaraq AR Milli Məclisi aşağıdakı məsələlərə dair ümumi qaydalar müəyyən etmir:  ",
-       “options”: [  ,
-      "correctAnswer": 2
-    },
+
     {
       "id": 195,
       "text": "AR Konstitusiyasına uyğun olaraq AR Milli Məclisi aşağıdakı məsələlərə dair ümumi qaydalar müəyyən etmir:",
-       “options”: [  "inzibati ərazi bölgüsü  ",
+       "options": [  "inzibati ərazi bölgüsü  ",
         "ticarət işi va birja fəaliyyati",
         "bank işi, mühasibat, sığorta"
       ],
       "correctAnswer": 1
     },
-    {
-      "id": 196,
-       "text": "AR Konstitusiyasına uyğun AR Milli Məclisi aşağıdakı məsələlərdən hansılara dair ümumi qaydalar müəyyən edərkən 83 səs çoxluğu ilə qanunlar qəbul edir?\n1) bələdiyyələrə seçkilər və bələdiyyələrin statusu\n2) referendum\n3) AR Milli Məclisinin işinin təşkili\n4) dövlətlərarası müqavilələrin təsdiq və ləğv edilməsi\n5) AR Milli Məclisinin deputatlarının statusu\n6) məhkəmə quruluşu ve hakimlərin statusu\n7) AR Prezidentinin seçkiləri  ",
-       “options”: [  ,
-      "correctAnswer": 3
-    },
+ 
     {
       "id": 197,
       "text": "AR Konstitusiyasına uyğun olaraq AR Milli Məclisi ümumi qaydalar müəyyən edərkən hansı aktı qəbul edir?",
-       “options”: [  "Qanun  ",
+       "options": [  "Qanun  ",
          "Qərar  ",
          "Qanun ve qərar  ",
          "Fərman  "
@@ -1823,7 +1661,7 @@
     {
       "id": 198,
       "text": "AR Konstitusiyasında yalnız hansı məsələyə dair qərarın AR Milli Məclisi tərəfindən 95 səs çoxluğu ilə qəbul edilməsi qaydası nəzərdə tutulmuşdur?",
-       “options”: [  "Referendum təyin edilmesi  ",
+       "options": [  "Referendum təyin edilmesi  ",
          "AR Prezidentinin vəzifədən kənarlaşdırılması  ",
         "Amnistiya",
         "Beynəlxalq müqavilələrin təsdiqi va ləğvi"
@@ -1833,7 +1671,7 @@
     {
       "id": 199,
       "text": "AR Konstitusiyasına uyğun olaraq doğru variantı seçin:",
-       “options”: [  "AR Konstitusiyasının 94-cü maddəsinin AR Milli Məclisinin müəyyən etdiyi ümumi qaydalar) I hissəsinə Konstitusiya qanunu ilə əlavələr edilə bilər.  ",
+       "options": [  "AR Konstitusiyasının 94-cü maddəsinin AR Milli Məclisinin müəyyən etdiyi ümumi qaydalar) I hissəsinə Konstitusiya qanunu ilə əlavələr edilə bilər.  ",
          "AR Konstitusiyasının 94-cü maddəsinin (AR Milli Məclisinin müəyyən etdiyi ümumi qaydalar) II hissesinə Konstitusiya qanunu ilə əlavələr edilə bilər.  ",
          "AR Konstitusiyasının 94-cü maddəsinin(AR Milli Məclisinin müəyyən etdiyi ümumi qaydalar) bütün hissələrinə Konstitusiya qanunu ile əlavələr edilə bilər.  ",
          "AR Konstitusiyasının 94-cü maddəsinin (AR Milli Məclisinin müəyyen etdiyi ümumi qaydalar) I hissəsinə Konstitusiya qanunu ilə əlavələr edilə bilər.  "
@@ -3919,7 +3757,5 @@
       ],
       "correctAnswer": 0
     }
-
-
   ]
 }
