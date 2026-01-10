@@ -4,15 +4,14 @@
   "questions": [
     {
       "id": 1100,
-      "question": "Gömrük İttifaqı nədir?",
+      "question": "AR GM-si hansı tarixdə qəbul olunub?",
       "options": [
-        "İki və ya daha çox ölkə arasında ticarət sazişi",
-        "Daxili tariflərin qaldırıldığı və xarici ticarət siyasətinin vahid olduğu iqtisadi birlik",
-        "Yalnız bir ölkənin gömrük sistemini əhatə edən birlik",
-        "Ölkələr arasında mədəni mübadiləni tənzimləyən saziş"
+        "01.01.2012",
+        "24.07.2012",
+        "15.09.2011",
+        "24.06.2011"
       ],
-      "correctAnswer": 1,
-      "explanation": "Gömrük İttifaqı, üzv ölkələr arasında gömrük rüsumlarının və ticarət məhdudiyyətlərinin aradan qaldırıldığı, eyni zamanda üçüncü ölkələrə qarşı vahid ticarət siyasətinin tətbiq edildiyi iqtisadi birlikdir."
+      "correctAnswer": 1
     },
     {
       "id": 1101,
