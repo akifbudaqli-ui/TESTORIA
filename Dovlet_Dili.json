@@ -3,207 +3,597 @@
   "name": "Dövlət Dili",
   "questions": [
     {
-      "id": 608,
-      "text": "Azərbaycan Respublikasının dövlət dili hansıdır?",
-      "options": ["Azərbaycan dili", "Türk dili", "Rus dili", "Fars dili"],
+      "id": 501,
+      "text": "“Dövlət dili haqqında” qanun Azərbaycan Respublikası Konstitusiyasına uyğun olaraq Azərbaycan Respublikasında:",
+      "options": [
+        "Azərbaycan dili və digər dillərin dövlət dili kimi hüquqi statusunu nizamlayır",
+        "Azərbaycan dilinin dövlət dili kimi hüquqi statusunu nizamlayır",
+        "Başqa dillərin dövlət dili kimi hüquqi statusunu nizamlayır",
+        "Azərbaycan və türk dilinin dövlət dili kimi hüquqi statusunu nizamlayır"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 502,
+      "text": "Azərbaycan Respublikası Konstitusiyasının neçənci maddəsinin neçənci hissəsinə uyğun olaraq Azərbaycan Respublikasının dövlət dili Azərbaycan dilidir?",
+      "options": [
+        "21-ci maddəsinin I hissəsinə",
+        "50-ci maddəsinin I hissəsinə",
+        "57-ci maddəsinin II hissəsinə",
+        "23-cü maddəsinin I hissəsinə"
+      ],
       "correctAnswer": 0
     },
     {
-      "id": 609,
-      "text": "Azərbaycan dilinin statusu Konstitusiyanın hansı maddəsində təsbit olunub?",
-      "options": ["Maddə 21", "Maddə 45", "Maddə 7", "Maddə 12"],
+      "id": 503,
+      "text": "Azərbaycan Respublikasının dövlət dili:",
+      "options": [
+        "Beynəlxalq müqavilələrə uyğun olaraq Azərbaycan dilidir",
+        "Qanunla müəyyən olunmuş hallarda Azərbaycan dili ilə yanaşı digər dillər də ola bilər",
+        "Yalnız Azərbaycan dilidir",
+        "Heç biri"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 504,
+      "text": "Azərbaycan Respublikasının dövlət dili kimi Azərbaycan dili hansı sahələrdə işlədilə bilər?",
+      "options": [
+        "Yalnız elmi-ictimai sahələrdə",
+        "Yalnız ölkənin ictimai sahələrində",
+        "Ölkənin siyasi, ictimai, iqtisadi, elmi və mədəni həyatının bəzi sahələrində",
+        "Ölkənin siyasi, ictimai, iqtisadi, elmi və mədəni həyatının bütün sahələrində"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 505,
+      "text": "Azərbaycan Respublikasında dövlət hakimiyyəti və yerli özünüidarəetmə orqanlarında dövlət dilinin tətbiqi ilə bağlı fəaliyyət hansı qanunvericilik aktına uyğun olaraq həyata keçirilir?",
+      "options": [
+        "“Dövlət dili haqqında” qanuna",
+        "Konstitusiyaya",
+        "Beynəlxalq müqavilələrə uyğun olaraq",
+        "Həmin orqanların normativ hüquqi aktlarına uyğun olaraq"
+      ],
       "correctAnswer": 0
     },
     {
-      "id": 610,
-      "text": "Dövlət dilinin qorunması və inkişafı ilə bağlı siyasəti kim müəyyən edir?",
-      "options": ["Milli Məclis", "Prezident", "Nazirlər Kabineti", "Dilçilik İnstitutu"],
-      "correctAnswer": 1
-    },
-    {
-      "id": 611,
-      "text": "Dövlət dili haqqında qanun nə vaxt qəbul olunub?",
-      "options": ["1991", "1992", "1995", "2002"],
+      "id": 506,
+      "text": "Hüquqi şəxslərdə, onların nümayəndəliklərində və filiallarında, idarələrdə dövlət dilinin tətbiqi ilə bağlı fəaliyyət hansı qanunvericilik aktına uyğun olaraq həyata keçirilir?",
+      "options": [
+        "Konstitusiyaya uyğun olaraq",
+        "Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrə uyğun olaraq",
+        "Həmin təşkilatların öz nizamnaməsinə uyğun olaraq",
+        "“Dövlət dili haqqında” qanuna"
+      ],
       "correctAnswer": 3
     },
     {
-      "id": 612,
-      "text": "Azərbaycan dilinin saflığının qorunması kimlərin vəzifəsidir?",
-      "options": ["Yalnız dövlət orqanlarının", "Yalnız vətəndaşların", "Hamının", "Yalnız müəllimlərin"],
-      "correctAnswer": 2
-    },
-    {
-      "id": 613,
-      "text": "Dövlət dili bilmək Azərbaycan Respublikası vətəndaşlarının hansı borcudur?",
-      "options": ["Əxlaqi borcu", "Konstitusiya borcu", "Seçim ixtiyarı", "Heç biri"],
-      "correctAnswer": 1
-    },
-    {
-      "id": 614,
-      "text": "Dövlət dili hansı sahələrdə məcburi tətbiq olunur?",
-      "options": ["Təhsil və elm", "İnzibati işlər", "Məhkəmə və qanunvericilik", "Hamısında"],
-      "correctAnswer": 3
-    },
-    {
-      "id": 615,
-      "text": "Azərbaycan dilinin qorunmasına nəzarəti kim həyata keçirir?",
-      "options": ["Milli Məclis", "Nazirlər Kabineti", "Dilçilik İnstitutu", "Müvafiq icra hakimiyyəti orqanı"],
-      "correctAnswer": 3
-    },
-    {
-      "id": 616,
-      "text": "Azərbaycan dilinin işlədilməsi qaydaları hansı normativ aktla tənzimlənir?",
-      "options": ["Məcəllə", "Qanun", "Əmr", "Sərəncam"],
-      "correctAnswer": 1
-    },
-    {
-      "id": 617,
-      "text": "Azərbaycan Respublikasında rəsmi yazışmalar hansı dildə aparılmalıdır?",
-      "options": ["Rus dili", "Türk dili", "Azərbaycan dili", "İngilis dili"],
-      "correctAnswer": 2
-    },
-    {
-      "id": 618,
-      "text": "Dövlət dili bilməyən şəxslər üçün dövlət hansı tədbirləri görür?",
-      "options": ["Cərimə tətbiq edir", "Maarifləndirir və öyrənmək imkanları yaradır", "Onları vətəndaşlıqdan məhrum edir", "Heç bir tədbir görmür"],
-      "correctAnswer": 1
-    },
-    {
-      "id": 619,
-      "text": "Azərbaycan dilində təhsil almaq hüququ kimlərə məxsusdur?",
-      "options": ["Yalnız vətəndaşlara", "Yalnız əcnəbilərə", "Hamıya", "Yalnız tələbələrə"],
-      "correctAnswer": 2
-    },
-    {
-      "id": 620,
-      "text": "Azərbaycan dilində kütləvi informasiya vasitələrinin fəaliyyəti necə təmin olunur?",
-      "options": ["Qadağan edilir", "Məhdudlaşdırılır", "Azad və qanunla qorunur", "Yalnız dövlətə məxsus olur"],
-      "correctAnswer": 2
-    },
-    {
-      "id": 621,
-      "text": "Dövlət dili hansı yazı qrafikası əsasında işlədilir?",
-      "options": ["Kiril əlifbası", "Latın qrafikası", "Ərəb əlifbası", "Orfoqrafik yazı"],
-      "correctAnswer": 1
-    },
-    {
-      "id": 622,
-      "text": "Azərbaycan dilinin qorunması məqsədilə dövlət hansı tədbirləri görür?",
-      "options": ["Yalnız cərimə tətbiq edir", "Maarifləndirmə və təhsil proqramları həyata keçirir", "Dili dəyişir", "Heç bir tədbir görmür"],
-      "correctAnswer": 1
-    },
-    {
-      "id": 623,
-      "text": "Dövlət dili haqqında qanunun tələblərinə əməl etməyənlərə hansı məsuliyyət tədbiri tətbiq olunur?",
-      "options": ["Cinayət məsuliyyəti", "İntizam məsuliyyəti", "İnzibati məsuliyyət", "Heç biri"],
-      "correctAnswer": 2
-    },
-    {
-      "id": 624,
-      "text": "Azərbaycan dilinin işlədilməsi ilə bağlı əsas qaydaları kim müəyyən edir?",
-      "options": ["Nazirlər Kabineti", "Milli Məclis", "Prezident", "Konstitusiya Məhkəməsi"],
+      "id": 507,
+      "text": "Siyasi partiyalarda, qeyri-hökumət təşkilatlarında (ictimai birlik və fondlarda), həmkarlar təşkilatlarında dövlət dilinin tətbiqi ilə bağlı fəaliyyət hansı qanunvericilik aktına uyğun olaraq həyata keçirilir?",
+      "options": [
+        "“Dövlət dili haqqında” qanuna",
+        "əmin təşkilatların öz nizamnaməsinə uyğun olaraq",
+        "Konstitusiyaya uyğun olaraq",
+        "Həmin təşkilatların qanunvericilik aktlarına uyğun olaraq"
+      ],
       "correctAnswer": 0
     },
     {
-      "id": 625,
-      "text": "Azərbaycan Respublikasında digər xalqların dillərinə münasibət necədir?",
-      "options": ["Qadağan edilir", "Yalnız məhdudlaşdırılır", "Onların sərbəst istifadəsi təmin olunur", "Heç bir münasibət yoxdur"],
-      "correctAnswer": 2
-    },
-    {
-      "id": 626,
-      "text": "Azərbaycan Respublikasında dövlət dili bilməyən vətəndaşların hüquqları necə qorunur?",
-      "options": ["Heç qorunmur", "Məhdudlaşdırılır", "Qanunla qorunur", "Yalnız müəyyən hallarda qorunur"],
-      "correctAnswer": 2
-    },
-    {
-      "id": 627,
-      "text": "Azərbaycan dilində vətəndaşlara hansı xidmətlər göstərilməlidir?",
-      "options": ["Yalnız təhsil xidməti", "Yalnız səhiyyə xidməti", "Yalnız hüquqi xidmətlər", "Bütün dövlət xidmətləri"],
-      "correctAnswer": 3
-    },
-    {
-      "id": 628,
-      "text": "Dövlət dili haqqında qanunun məqsədi nədir?",
-      "options": ["Dil azadlığını məhdudlaşdırmaq", "Dil inkişafını təmin etmək və qorumaq", "Yalnız təhsil sahəsini tənzimləmək", "Heç biri"],
-      "correctAnswer": 1
-    },
-    {
-      "id": 629,
-      "text": "Azərbaycan dilinin işlədilməsi ilə bağlı dövlətin vəzifəsi nədir?",
-      "options": ["Yalnız təhsil sahəsini inkişaf etdirmək", "Dil sahəsində tədbirlər görmək və inkişafı təmin etmək", "Heç bir vəzifəsi yoxdur", "Yalnız hüquqi sənədləri tənzimləmək"],
-      "correctAnswer": 1
-    },
-    {
-      "id": 630,
-      "text": "Azərbaycan Respublikasında dövlət dili hansı yazı ilə təsdiqlənib?",
-      "options": ["Kiril qrafikası ilə", "Latın qrafikası ilə", "Ərəb qrafikası ilə", "Qədim yazı ilə"],
-      "correctAnswer": 1
-    },
-    {
-      "id": 631,
-      "text": "Azərbaycan dilinin işlədilməsi qaydaları hansı sahələrdə tətbiq olunur?",
-      "options": ["Yalnız dövlət idarələrində", "Yalnız təhsil müəssisələrində", "Yalnız mədəniyyət sahəsində", "Bütün sahələrdə"],
-      "correctAnswer": 3
-    },
-    {
-      "id": 632,
-      "text": "Azərbaycan Respublikasında dövlət dili haqqında maarifləndirmə işləri kim tərəfindən aparılır?",
-      "options": ["Yalnız müəllimlər", "Dövlət orqanları və KİV", "Yalnız QHT-lər", "Heç kim"],
-      "correctAnswer": 1
-    },
-    {
-      "id": 633,
-      "text": "Azərbaycan Respublikasında dövlət dili ilə bağlı beynəlxalq əməkdaşlıq necə aparılır?",
-      "options": ["Qadağan edilir", "Heç bir əməkdaşlıq yoxdur", "Əməkdaşlıq edilir və dil təbliğ olunur", "Yalnız məhdud əməkdaşlıq var"],
-      "correctAnswer": 2
-    },
-    {
-      "id": 634,
-      "text": "Azərbaycan Respublikasında dövlət dili biliklərinin qiymətləndirilməsi necə aparılır?",
-      "options": ["Heç aparılmır", "Yalnız məktəblərdə", "Yalnız universitetlərdə", "Müvafiq imtahanlarla"],
-      "correctAnswer": 3
-    },
-    {
-      "id": 635,
-      "text": "Azərbaycan Respublikasında dövlət dili biliklərinin qiymətləndirilməsi hansı hallarda tələb olunur?",
-      "options": ["Yalnız vətəndaşlıq alarkən", "Dövlət qulluğuna qəbul zamanı", "Yalnız məktəbdə oxuyarkən", "Heç bir halda"],
-      "correctAnswer": 1
-    },
-    {
-      "id": 636,
-      "text": "Azərbaycan Respublikasında dövlət dili ilə bağlı siyasəti həyata keçirən əsas orqan hansıdır?",
-      "options": ["Milli Məclis", "Nazirlər Kabineti", "Prezident", "Təhsil Nazirliyi"],
-      "correctAnswer": 2
-    },
-    {
-      "id": 637,
-      "text": "Azərbaycan Respublikasında dövlət dili ilə bağlı normativ aktları kim qəbul edir?",
-      "options": ["Prezident", "Milli Məclis", "Nazirlər Kabineti", "Hamısı"],
-      "correctAnswer": 3
-    },
-    {
-      "id": 638,
-      "text": "Azərbaycan Respublikasında dövlət dili bilməyən əcnəbilərə qarşı münasibət necədir?",
-      "options": ["Vətəndaşlıq verilmir", "Onların öyrənməsi üçün şərait yaradılır", "Ölkədən çıxarılırlar", "Heç bir tədbir görülmür"],
-      "correctAnswer": 1
-    },
-    {
-      "id": 639,
-      "text": "Azərbaycan Respublikasında dövlət dili ilə bağlı əsas prinsiplər hansılardır?",
-      "options": ["Dil azadlığı və dövlət təminatı", "Məhdudiyyətlər və qadağalar", "Yalnız təhsil sahəsi", "Heç biri"],
+      "id": 508,
+      "text": "Kargüzarlıq işlərinin dövlət dilində aparılması müəyyən edilir:",
+      "options": [
+        "“Dövlət dili haqqında” qanuna uyğun olaraq",
+        "“Dövlət hakimiyyəti orqanlarında, idarə, təşkilat və müəssisələrində kargüzarlığın aparılmasına dair Təlimat”a uyğun olaraq",
+        "Konstitusiya ilə",
+        "Beynəlxalq müqavilələrlə"
+      ],
       "correctAnswer": 0
     },
     {
-      "id": 640,
-      "text": "Azərbaycan Respublikasında dövlət dili ilə bağlı hüquqların təmin olunmasına kim nəzarət edir?",
-      "options": ["Milli Məclis", "Məhkəmələr", "Müvafiq icra hakimiyyəti orqanları", "Hamısı"],
+      "id": 509,
+      "text": "Azərbaycan Respublikasının ərazisində fəaliyyət göstərən beynəlxalq təşkilatlarla (və ya onların nümayəndəlikləri ilə) və xarici dövlətlərin diplomatik nümayəndəlikləri ilə yazışmalar:",
+      "options": [
+        "Yalnız Azərbaycan Respublikasının dövlət dilində aparıla bilər",
+        "Azərbaycan Respublikasının dövlət dilində və ya müvafiq xarici dildə Azərbaycan dilinə tərcümə olunmaq şərtilə aparıla bilər",
+        "Müvafiq xarici dildə Azərbaycan dilinə tərcümə olunmaq şərtilə aparıla bilər",
+        "Rus və ingilis dilində"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 510,
+      "text": "Azərbaycan Respublikasında dövlət dili haqqında qanunvericilik ibarətdir:",
+      "options": [
+        "Azərbaycan Respublikasının Konstitusiyasından",
+        "Azərbaycan Respublikasında “Dövlət dili haqqında” qanunundan",
+        "Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdən",
+        "Hamısı"
+      ],
       "correctAnswer": 3
     },
     {
-      "id": 641,
-      "text": "Azərbaycan Respublikasında dövlət dilinə hörmət etməyən şəxslərə hansı tədbir görülür?",
-      "options": ["Heç biri", "İntizam tədbiri", "İnzibati cərimə", "Cinayət məsuliyyəti"],
+      "id": 511,
+      "text": "Dövlət dilinin işlənməsi, qorunması və inkişafı sahəsində dövlətin əsas vəzifələrindən biri yanlışdır?",
+      "options": [
+        "Qanunvericiliyə uyğun olaraq dövlət dili ilə bağlı hüquq qaydalarının müəyyənləşdirilməsi",
+        "Dövlət dilinin tətbiqi işinə, bu dilin işlənməsi və qorunması ilə bağlı qanunvericiliyin müddəalarına riayət olunmasının təmin edilməsi",
+        "Dövlət dilinin inkişaf proqramının hazırlanması və beynəlxalq fondların vәsaiti hesabına maliyyələşdirilməsinin təmin edilməsi",
+        "Dövlət dilinin saflığının qorunması, dilçilik elminin nәzәriyyәsi və praktikasının inkişafı üçün müvafiq şəraitin yaradılması və tədbirlərin həyata keçirilməsi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 512,
+      "text": "Dövlət dilinin işlənməsi, qorunması və inkişafı sahəsində dövlətin əsas vəzifələrindən biri yanlışdır:",
+      "options": [
+        "Xarici ölkələrdə yaşayan azərbaycanlıların Azərbaycan dilində təhsil almalarına, bu dildən sərbəst istifadə etmələrinə köməklik göstərilməsi",
+        "Dövlət dilinin inkişaf proqramının hazırlanması",
+        "Dövlət dilinin işlənməsi üçün zəruri olan maddi bazanın yaradılması",
+        "Dövlət orqanlarının səmərəli fəaliyyətinin təşkil edilməsi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 513,
+      "text": "Dövlət dilinin saflığının qorunması, dilçilik elminin nәzәriyyәsi və praktikasının inkişafı üçün müvafiq şəraitin yaradılması və tədbirlərin həyata keçirilməsi .... əsas vəzifəsi sayılır:",
+      "options": [
+        "Rəhbərin",
+        "Hər kəsin",
+        "Hüquqi şəxslərin",
+        "Dövlətin"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 514,
+      "text": "Azərbaycan Respublikasının dövlət hakimiyyəti və yerli özünüidarəetmə orqanlarının, dövlət qurumlarının keçirdiyi bütün rəsmi mərasim və tədbirlər:",
+      "options": [
+        "Dövlət dilində aparılır",
+        "Dövlət dili və ingilis dilində aparılır",
+        "Bütün dillərdə aparılır",
+        "Razılaşdırılmış dildə aparılır"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 515,
+      "text": "Azərbaycan Respublikasının təşkil etdiyi beynəlxalq səviyyəli rəsmi mərasimlər və tədbirlər, habelə müvafiq icra hakimiyyəti orqanları tərəfindən digər ölkələrdə keçirilən hər hansı rəsmi mərasim və tədbirlər:",
+      "options": [
+        "Yalnız dövlət dilində aparılır",
+        "Dövlət dili ilə yanaşı digər dillərdə də aparıla bilər",
+        "İngilis dilində və rus dilində aparılır",
+        "Hamısı"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 516,
+      "text": "Bir qayda olaraq Azərbaycan Respublikasında təhsil aparılır:",
+      "options": [
+        "Dövlət dilində və digər dillərdə",
+        "Razılaşdırılmış dilə uyğun",
+        "Dövlət dilində",
+        "Təhsil müəssisəsinin müəyyən etdiyi dildə aparılır"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 517,
+      "text": "Dövlət dilinin tədrisi məcburidir:",
+      "options": [
+        "Ölkədən kənarda başqa dillərdə aparılan təhsil müəssisələrinin fəaliyyəti zamanı",
+        "Azərbaycan Respublikasında başqa dillərdə təhsil müəssisələrinin fəaliyyəti zamanı",
+        "Ölkədən kənarda və Azərbaycan Respublikasında başqa dillərdə təhsil müəssisələrinin fəaliyyəti zamanı",
+        "Ölkədən kənarda yerləşən təhsil müəssisələrində"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 518,
+      "text": "“Dövlət dili haqqında” qanuna görə Azərbaycan Respublikasında ali və orta peşə-ixtisas təhsili müəssisələrinə qəbul zamanı:",
+      "options": [
+        "Azərbaycan dili fənnindən imtahan verilməlidir",
+        "Orta peşə-ixtisas təhsili müəssisələri istisna olmaqla bütün təhsil müəssisələrində Azərbaycan dili fənnindən imtahan verilməlidir",
+        "İngilis dili fənnindən imtahan verilməlidir",
+        "Yalnız dövlət dili ilə yanaşı digər dillərdə də imtahan verilməlidir"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 519,
+      "text": "“Dövlət dili haqqında” qanuna görə kimlər dövlət dilini mükəmməl bilməli və səlis danışıq qabiliyyətinə malik olmalıdırlar?",
+      "options": [
+        "Azərbaycan Respublikası ərazisində təsis edilən və fəaliyyət göstərən, dövlət dilində yayımlanan bütün televiziya və radio kanallarının aparıcıları",
+        "Azərbaycan Respublikası ərazisində yaşayan hər kəs",
+        "Azərbaycan Respublikası ərazisində təsis edilən və fəaliyyət göstərən bütün hüquqi şəxslər",
+        "Dövlət qulluqçuları"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 520,
+      "text": "“Dövlət dili haqqında” qanuna görə dövlət dili işlənilir:",
+      "options": [
+        "Əcnəbilərə xidmət göstərilməsi ilə bağlı müvafiq xidmət sahələrində",
+        "Azərbaycan Respublikası ərazisində bütün xidmət sahələrində, reklam və elanlarda",
+        "Azərbaycan Respublikasının ərazisində istehsal edilən, habelə ixrac edilən malların üzərindəki etiketlər və digər yazılarda",
+        "Hamısı"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 521,
+      "text": "“Dövlət dili haqqında” qanuna görə hansı hallarda dövlət dili ilə yanaşı digər dillər də tətbiq oluna bilər?",
+      "options": [
+        "Əcnəbilərə xidmət göstərilməsi ilə bağlı müvafiq xidmət sahələrində",
+        "Zəruri hallarda reklam və elanlarda (lövhələrdə, tablolarda, plakatlarda və sair)",
+        "Azərbaycan Respublikasının ərazisində istehsal edilən, habelə ixrac edilən malların üzərindəki etiketlər və digər yazılarda",
+        "Hamısı"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 522,
+      "text": "“Dövlət dili haqqında” qanuna görə Azərbaycan Respublikası vətəndaşlarının adları, atalarının adları və soyadları:",
+      "options": [
+        "Dövlət dilində yazılır",
+        "Dövlət dili ilə yanaşı digər dillərdə də yazılmalıdır",
+        "Qanunvericilikdə belə hal nəzərdə tutulmamışdır",
+        "Xarici dillərdə verilməsi Azərbaycan dilində səslənməsinə mane olmamalıdır"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 523,
+      "text": "“Dövlət dili haqqında” qanuna görə Azərbaycanın coğrafi adlarının xarici dillərdə verilməsi müəyyən edilməlidir:",
+      "options": [
+        "Yalnız Azərbaycan dilində səslənməsinə uyğun olaraq",
+        "Yalnız coğrafi adların beynəlxalq yazılış qaydalarına uyğun olaraq",
+        "Azərbaycan dilində səslənməsinə, coğrafi adların beynəlxalq yazılış qaydalarına uyğun olaraq",
+        "Qanunvericilikdə belə hal nəzərdə tutulmayıb"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 524,
+      "text": "Azərbaycan Respublikasının inzibati ərazi bölgüsünü təşkil edən inzibati ərazi vahidlərinin – şəhər, rayon, inzibati ərazi dairəsi, qəsəbə və kəndlərin adları dövlət dilində yazılmalıdır:",
+      "options": [
+        "\"Ərazi quruluşu və inzibati ərazi bölgüsü haqqında\" Azərbaycan Respublikası Qanununa uyğun olaraq",
+        "“Dövlət dili haqqında” qanuna görə",
+        "Beynəlxalq yazılış qaydalarına uyğun olaraq",
+        "Qanunvericilikdə belə hal nəzərdə tutulmayıb"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 525,
+      "text": "Notariat hərəkətlərinin aparılması üçün müraciət etmiş şəxsin dövlət dilini bilmədiyi təqdirdə başqa dillərdən istifadə edə bilməsi hansı qanunvericiliklə tənzimlənir?",
+      "options": [
+        "\"Ərazi quruluşu və inzibati ərazi bölgüsü haqqında\" Azərbaycan Respublikası Qanununa uyğun olaraq",
+        "“Dövlət dili haqqında” qanuna uyğun olaraq",
+        "Beynəlxalq yazılış qaydalarına uyğun olaraq",
+        "\"Notariat haqqında\" qanununa müvafiq olaraq"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 526,
+      "text": "Hansı qanunvericiliyə uyğun olaraq bütün növ məhkəmə icraatları dövlət dili ilə yanaşı digər dillərdə də aparıla bilər?",
+      "options": [
+        "“Dövlət dili haqqında” Azərbaycan Respublikasının qanuna uyğun olaraq",
+        "Azərbaycan Respublikasının Mülki- Prosessual Məcəlləsi ilə müəyyən edilmiş hallarda",
+        "\"Notariat haqqında\" qanununa müvafiq olaraq",
+        "Hamısı"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 527,
+      "text": "Hansı qanunvericiliyə uyğun olaraq İnzibati xətalar üzrə icraat digər dillərdə aparıla bilər?",
+      "options": [
+        "Azərbaycan Respublikasının Mülki- Prosessual Məcəlləsi ilə müəyyən edilmiş hallarda",
+        "“Dövlət dili haqqında” Azərbaycan Respublikasının qanuna uyğun olaraq",
+        "Azərbaycan Respublikasının Cinayət- Prosessual Məcəlləsi ilə müəyyən edilmiş hallarda",
+        "Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsi ilə müəyyən edilmiş hallarda"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 528,
+      "text": "Azərbaycan Respublikasının çoxtərəfli beynəlxalq müqavilələri hansı dildə tərtib olunmalıdır?",
+      "options": [
+        "Müqavilə bağlayan tərəflərin razılığı ilə müəyyən edilən dildə (dillərdə)",
+        "Azərbaycan dilində",
+        "İngilis dilində",
+        "Azərbaycan və digər dillərdə"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 529,
+      "text": "Azərbaycan Respublikasının ikitərəfli beynəlxalq müqavilələri tərtib olunmalıdır:",
+      "options": [
+        "Yalnız Azərbaycan dilində",
+        "Digər dillərlə yanaşı Azərbaycan dilində də",
+        "Müqavilə bağlayan tərəflərin razılığı ilə müəyyən edilən dildə (dillərdə)",
+        "Qanunvericilikdə belə hal nəzərdə tutulmayıb."
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 530,
+      "text": "Azərbaycan dilinin orfoqrafiya və orfoepiya normalarına əməl etməlidir:",
+      "options": [
+        "Hüquqi şəxslər",
+        "Vəzifəli şəxslər",
+        "Fiziki və hüquqi şəxslər",
+        "Hər biri"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 531,
+      "text": "Dövlət dili haqqında” qanunun pozulmasına görə kimlər məsuliyyət daşıyır?",
+      "options": [
+        "Hüquqi şəxslər",
+        "Vəzifəli şəxslər",
+        "Fiziki və hüquqi şəxslər",
+        "Vəzifəli, fiziki və hüquqi şəxslər"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 532,
+      "text": "“Azərbaycan Respublikasında dövlət dili haqqında” Azərbaycan Respublikasının qanununa görə hansı fikir yanlışdır?",
+      "options": [
+        "Azərbaycan Respublikası Azərbaycan dilinin dövlət dili olaraq işlədilməsini öz müstəqil dövlətçiliyinin başlıca əlamətlərindən biri sayır",
+        "Azərbaycan dövləti Azərbaycan dilinin tətbiqi, qorunması və inkişaf etdirilməsi qayğısına qalır",
+        "Azərbaycan Respublikası Dünya azərbaycanlılarının Azərbaycan dili ilə bağlı milli-mədəni özünüifadə ehtiyaclarının ödənilməsi üçün zəmin yaradır",
+        "“Azərbaycan Respublikasında dövlət dili haqqında” Azərbaycan Respublikasının qanunu Konstitusiyaya uyğun olaraq Azərbaycan Respublikasında Azərbaycan dilinin dövlət dili kimi hüquqi statusunu nizamlayır"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 533,
+      "text": "“Azərbaycan Respublikasında dövlət dili haqqında” Azərbaycan Respublikasının Qanununa əsasən düzgün deyil:",
+      "options": [
+        "Azərbaycan Respublikası dövlət dilinin işlənməsini, qorunmasını və inkişafını təmin edir.",
+        "Dövlət dilinin tətbiqinin normaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir.",
+        "Azərbaycan dili ölkənin siyasi, ictimai, iqtisadi, elmi və mədəni həyatının bütün sahələrində işlədilir.",
+        "Dövlət dilini bilmək hər bir şəxsin borcudur."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 534,
+      "text": "“Azərbaycan Respublikasında dövlət dili haqqında” Azərbaycan Respublikasının Qanununa əsasən Azərbaycan coğrafi adlarının xarici dillərdə verilərkən nəzərə alınmalıdır: 1. Azərbaycan dilinin orfoqrafik normaları 2. Anlaşıqlı (başa düşülən) olması 3. Azərbaycan dilində səslənməsi 4. Əcnəbi dildə səslənməsi 5. Beynəlxalq yazılış qaydalarına uyğunluğu",
+      "options": [
+        "1, 3",
+        "3, 5",
+        "1, 5",
+        "2, 4"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 535,
+      "text": "“Azərbaycan Respublikasında dövlət dili haqqında” Azərbaycan Respublikasının Qanununa əsasən inzibati ərazi vahidlərinin adları dövlət dili ilə yanaşı xarici dillərdə də yazıldığı hallarda inzibati ərazi vahidinin adı hansı qaydada yazılır?",
+      "options": [
+        "Dövlət dilində şaquli şəkildə xarici dildə isə üfüqi şəkildə verilməlidir",
+        "Əvvəlcə dövlət dilində və ondan sonra xarici dildə verilməlidir",
+        "Həm xarici dildə, həm də dövlət dilində şaquli şəkildə eyni sırada verilməlidir",
+        "Əvvəlcə xarici dildə və ondan sonra dövlət dilində verilməlidir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 536,
+      "text": "“Azərbaycan Respublikasında dövlət dili haqqında” Azərbaycan Respublikasının Qanununun dövlət dilinin televiziya və radio yayımlarında işlənməsi müddəaları ilə bağlı düzgündür:",
+      "options": [
+        "Televiziya və radio kanallarında dublyaj olunan filmlər və verilişlər dövlətin müəyyən etdiyi dil normalarına uyğun olmalıdır.",
+        "Azərbaycan Respublikasında fəaliyyət göstərən və dövlət dilində yayımlanan bütün televiziya və radio kanallarının işçiləri səlis danışıq qabiliyyətinə malik olmalıdırlar.",
+        "Azərbaycan Respublikası ərazisində bütün xidmət sahələrində, reklam və elanlarda dövlət dili işlənilmir.",
+        "Yalnız Azərbaycan Respublikası ərazisində təsis edilən bütün televiziya və radio kanallarının aparıcıları dövlət dilini mükəmməl bilməlidirlər."
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 537,
+      "text": "“Azərbaycan Respublikasında dövlət dili haqqında” Azərbaycan Respublikasının qanununa əsasən Dövlət dilini bilmək hər bir Azərbaycan Respublikası vətəndaşının .....?",
+      "options": [
+        "Hüququdur",
+        "Borcudur",
+        "Vəzifəsidir",
+        "Azadlığıdır"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 538,
+      "text": "“Azərbaycan Respublikasında dövlət dili haqqında” Azərbaycan Respublikasının qanununa əsasən Dövlət dilinin işlədilməsini, qorunmasını və inkişafını hansı subyekt təmin edir?",
+      "options": [
+        "Azərbaycan xalqı",
+        "Azərbaycan dövləti",
+        "Azərbaycan Respublikası",
+        "Azərbaycan Respublikası vətəndaşları"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 539,
+      "text": "“Azərbaycan Respublikasında dövlət dili haqqında” Azərbaycan Respublikasının qanununa görə hansı rəsmi mərasim və tədbirlər Azərbaycan Respublikasının dövlət dilində aparılmaya bilər?",
+      "options": [
+        "Azərbaycan Respublikasının dövlət hakimiyyəti orqanlarının keçirdiyi bütün",
+        "Yerli özünüidarəetmə orqanlarının keçirdiyi bütün",
+        "Dövlət qurumlarının keçirdiyi bütün",
+        "Azərbaycan Respublikasının təşkil etdiyi beynəlxalq səviyyəli"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 540,
+      "text": "“Azərbaycan Respublikasında dövlət dili haqqında” Azərbaycan Respublikasının qanununa görə hansı rəsmi mərasim və tədbirlər Azərbaycan Respublikasının dövlət dilində aparılır?",
+      "options": [
+        "Azərbaycan Respublikasının təşkil etdiyi beynəlxalq səviyyəli rəsmi mərasimlər",
+        "Azərbaycan Respublikasının təşkil etdiyi beynəlxalq səviyyəli rəsmi tədbirlər",
+        "Müvafiq icra hakimiyyəti orqanları tərəfindən digər ölkələrdə keçirilən hər hansı rəsmi mərasim və tədbir",
+        "Yerli özünüidarəetmə orqanlarının keçirdiyi bütün"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 541,
+      "text": "“Azərbaycan Respublikasında dövlət dili haqqında” Azərbaycan Respublikasının qanununa görə aşağıdakı fikirlərdən hansı yanlışdır?",
+      "options": [
+        "Azərbaycan Respublikasında təhsil dövlət dilində aparılır",
+        "Azərbaycan Respublikasında başqa dillərdə təhsil müəssisələrinin fəaliyyəti qanunvericiliklə müəyyən edilmiş qaydada həyata keçirilir",
+        "Başqa dillərdə fəaliyyət göstərən təhsil müəssisələrdə dövlət dilinin tədrisi məcburi deyil",
+        "Azərbaycan Respublikasında ali və orta peşə-ixtisas təhsili müəssisələrinə qəbul zamanı Azərbaycan dili fənnindən imtahan verilməlidir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 542,
+      "text": "“Azərbaycan Respublikasında dövlət dili haqqında” Azərbaycan Respublikasının qanununa əsasən “Dövlət dilinin televiziya və radio yayımlarında işlənməsi” maddəsi ilə bağlı aşağıdakı hansı müddəa doğrudur? (Tam və düzgün cavabı seçin)",
+      "options": [
+        "Mülkiyyət formasından asılı olaraq, Azərbaycan Respublikası ərazisində təsis edilən və fəaliyyət göstərən, dövlət dilində yayımlanan bütün televiziya və radio kanallarının aparıcıları dövlət dilini mükəmməl bilməli və səlis danışıq qabiliyyətinə malik olmalıdır",
+        "Mülkiyyət formasından asılı olmayaraq, Azərbaycan Respublikası ərazisində təsis edilən və fəaliyyət göstərən, dövlət dilində yayımlanan bütün televiziya və radio kanallarının işçiləri dövlət dilini mükəmməl bilməli və səlis danışıq qabiliyyətinə malik olmalıdır",
+        "Mülkiyyət formasından asılı olmayaraq, Azərbaycan Respublikası ərazisində təsis edilən və fəaliyyət göstərən, dövlət dilində yayımlanan bütün televiziya və radio kanallarının aparıcıları dövlət dilini mükəmməl bilməli və səlis danışıq qabiliyyətinə malik olmalıdır",
+        "Mülkiyyət formasından asılı olmayaraq, Azərbaycan Respublikası ərazisində təsis edilən və fəaliyyət göstərən bütün televiziya və radio kanallarının aparıcıları dövlət dilini mükəmməl bilməli və səlis danışıq qabiliyyətinə malik olmalıdır"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 543,
+      "text": "“Azərbaycan Respublikasında dövlət dili haqqında” Azərbaycan Respublikasının qanununa əsasən “Dövlət dilinin xidmət sahələrində, reklam və elanlarda işlənməsi” ilə bağlı hansı fikir yanlışdır?",
+      "options": [
+        "Azərbaycan Respublikası ərazisində bütün xidmət sahələrində, reklam və elanlarda dövlət dili işlənilir",
+        "Əcnəbilərə xidmət göstərilməsi ilə bağlı müvafiq xidmət sahələrində dövlət dili ilə yanaşı digər dillər də tətbiq oluna bilər",
+        "Zəruri hallarda elanlarda (lövhələrdə, tablolarda, plakatlarda və sair) dövlət dili ilə yanaşı, digər dillərdən də istifadə oluna bilər",
+        "Digər dillərin tutduğu sahə Azərbaycan dilindəki qarşılığının tutduğu sahəyə bərabər olmalı və Azərbaycan dilindəki yazıdan sonra gəlməlidir"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 544,
+      "text": "“Azərbaycan Respublikasında dövlət dili haqqında” Azərbaycan Respublikasının qanununa əsasən “Dövlət dilinin xidmət sahələrində, reklam və elanlarda işlənməsi” ilə bağlı hansı fikir yanlışdır?",
+      "options": [
+        "Reklamvericinin tələbinə əsasən reklam qurğularında yerləşdirilən reklamın mətnində Azərbaycan Respublikasının dövlət dili ilə yanaşı digər dillərdən istifadə oluna bilər",
+        "Xarici dildə olan mətn dövlət dilində olan mətndən sonra yerləşdirilməli, dövlət dilində olan mətnin tutduğu sahədən kiçik olmalı və reklamın yerləşdiyi ümumi sahənin yarısından çox olmamalıdır",
+        "Mətndə digər dillərdə istifadə olunan əmtəə nişanı və coğrafi göstərici müvafiq icra hakimiyyəti orqanı tərəfindən qeydə alındığı formada göstərilməlidir",
+        "Azərbaycan Respublikasının ərazisində bütün xidmət sahələrində, reklam və elanlarda dövlət dili dövlət dilinin normalarına uyğun olaraq tətbiq edilməlidir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 545,
+      "text": "“Azərbaycan Respublikasında dövlət dili haqqında” Azərbaycan Respublikasının qanununa görə hansı fikir yanlışdır?",
+      "options": [
+        "Azərbaycan Respublikasının ərazisində istehsal edilən, habelə ixrac edilən malların üzərindəki etiketlər və digər yazılar müvafiq xarici dillərlə yanaşı, dövlət dilində də olmalıdır",
+        "Azərbaycan Respublikasına idxal edilən mal və məhsulların üzərindəki etiketlər və adlar, onlardan istifadə qaydaları barədə izahat vərəqələri başqa dillərlə yanaşı, Azərbaycan dilinə tərcüməsi müşayiət olunmalıdır",
+        "“Ərazi quruluşu və inzibati ərazi bölgüsü haqqında” Azərbaycan Respublikası Qanununa uyğun olaraq Azərbaycan Respublikasının inzibati ərazi bölgüsünü təşkil edən inzibati ərazi vahidlərinin – şəhər, rayon, inzibati ərazi dairəsi, qəsəbə və kəndlərin adları dövlət dilində yazılmalı və onların dövlət dilinin normalarına uyğun olaraq yazılışı müvafiq qurum tərəfindən müəyyənləşdirilir",
+        "İnzibati ərazi vahidlərinin adları yalnız dövlət dilində yazılır"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 546,
+      "text": "“Azərbaycan Respublikasında dövlət dili haqqında” Azərbaycan Respublikasının qanununa görə hansı hallarda Azərbaycan Respublikasının beynəlxalq yazışmaları dövlət dili ilə yanaşı, müvafiq xarici dillərdən birində də aparıla bilər? (Dəqiq cavabı göstərin)",
+      "options": [
+        "Zəruri hallarda",
+        "Aparıla bilməz",
+        "Əvvəlcədən müəyyən olunan hallarda",
+        "Bütün hallarda"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 547,
+      "text": "“Azərbaycan Respublikasında dövlət dili haqqında” Azərbaycan Respublikasının qanununa əsasən hansı subyektlərin Azərbaycan dilinin orfoqrafiya və orfoepiya normalarına əməl etməli olduğu müəyyən edilməyib?",
+      "options": [
+        "Hüquqi şəxslər",
+        "Vəzifəli şəxslər",
+        "Fiziki şəxslər",
+        "Xarici hüquqi şəxslər"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 548,
+      "text": "“Azərbaycan Respublikasında dövlət dili haqqında” Azərbaycan Respublikasının qanununa əsasən Azərbaycan Respublikasının Dövlət Dil Komissiyası ilə razılaşdırmaqla Azərbaycan Respublikasının Nazirlər Kabineti hansı müddətdə yazı dili normalarını təsbit edən lüğətin (orfoqrafiya lüğətinin) nəşr olunmasını təmin edir?",
+      "options": [
+        "İldə bir dəfədən az olmayaraq",
+        "Üç ildə bir dəfədən az olmayaraq",
+        "Beş ildə bir dəfədən az olmayaraq",
+        "Yeddi ildə bir dəfədən az olmayaraq"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 549,
+      "text": "“Azərbaycan Respublikasında dövlət dili haqqında” Azərbaycan Respublikasının qanununa əsasən Azərbaycan dilinin orfoqrafiya və orfoepiya normaları hansı orqan tərəfindən təsdiq edilir? (Tam və dolğun cavabı müəyyən edin)",
+      "options": [
+        "Azərbaycan Respublikasının Dövlət Dil Komissiyası ilə razılaşdırılmaqla Azərbaycan Respublikasının Nazirlər Kabineti",
+        "Azərbaycan Respublikasının Nazirlər Kabineti",
+        "Azərbaycan Respublikasının Dövlət Dil Komissiyası",
+        "Azərbaycan Respublikasının Təhsil Nazirliyi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 550,
+      "text": "“Azərbaycan Respublikasında dövlət dili haqqında” Azərbaycan Respublikasının qanununa əsasən Azərbaycan yazı mədəniyyətinin tarixində mühüm rol oynamış ərəb və kril əlifbalarından istifadə edilə bilərmi?",
+      "options": [
+        "İstifadə edilə bilməz",
+        "Xüsusi hallarda (lüğətlərdə, elmi nəşrlərdə ədəbiyyat göstəricisi və s.) istifadə edilə bilər",
+        "Yalnız lüğətlərdə istifadə oluna bilər",
+        "Kril əlifbasından xüsusi hallarda istifadə mümkündür, ərəb əlifbasından isə istifadə edilə bilməz"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 551,
+      "text": "“Azərbaycan Respublikasında dövlət dili haqqında” Azərbaycan Respublikasının qanununa əsasən aşağıdakı sənədlərdən hansı dövlət dili ilə yanaşı xarici dildə də tərtib edilə bilər?",
+      "options": [
+        "Şəxsiyyət vəsiqəsi",
+        "Təhsil haqqında sənəd",
+        "Hərbi bilet",
+        "Əmək kitabçası"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 552,
+      "text": "“Azərbaycan Respublikasında dövlət dili haqqında” Azərbaycan Respublikasının qanununa əsasən Azərbaycan Respublikasının dövlət dili Azərbaycan Respublikası Konstitusiyasının neçənci bölməsində və fəslində təsbit olunub?",
+      "options": [
+        "I bölmə və xalq hakimiyyəti fəsli",
+        "I bölmə və dövlətin əsasları fəsli",
+        "II bölmə və vətəndaşların əsas vəzifələri fəsli",
+        "II bölmə və dövlətin əsasları fəsli"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 553,
+      "text": "“Azərbaycan Respublikasında dövlət dili haqqında” Azərbaycan Respublikasının qanunu nə vaxt qəbul olunub?",
+      "options": [
+        "22 dekabr 1992-ci il",
+        "30 sentyabr 2002-ci il",
+        "09 avqust 2001-ci il",
+        "25 dekabr 1991-ci il"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 554,
+      "text": "“Azərbaycan Respublikasında dövlət dili haqqında” Azərbaycan Respublikasının qanunu qüvvəyə mindiyi gündən hansı Qanun qüvvədən düşmüş hesab edilir?",
+      "options": [
+        "“Azərbaycan Respublikasında dövlət dili haqqında” Azərbaycan Respublikasının 12 dekabr 1992-ci il tarixli",
+        "“Azərbaycan Respublikasında dövlət dili haqqında” Azərbaycan Respublikasının 22 noyabr 1993-cü il tarixli",
+        "“Azərbaycan Respublikasında dövlət dili haqqında” Azərbaycan Respublikasının 22 dekabr 1992-ci il tarixli",
+        "“Azərbaycan Respublikasında dövlət dili haqqında” Azərbaycan Respublikasının 02 dekabr 1995-ci il tarixli"
+      ],
       "correctAnswer": 2
     }
   ]
