@@ -3,224 +3,334 @@
   "name": "Dövlət Gerbi",
   "questions": [
     {
-      "id": 642,
-      "text": "\"AR Dövlət Gerbindən istifadə qaydaları haqqında\" AR Qanununa görə, bu Qanun AR Dövlət Gerbindən istifadə qaydalarını nəyə uyğun olaraq müəyyən edir? 1.  AR Konstitusiyasının 23-cü maddəsinə (\"Azərbaycan dövlətinin rəmzləri\") uyğun olaraq 2.  \"AR Dövlət Gerbinin təsvirinin təsdiq edilməsi haqqında\" AR Qanununa uyğun olaraq 3.  \"AR Dövlət Gerbinin təsvirinin təsdiq edilməsi haqqında\" AR Konstitusiya Qanununa uyğun olaraq 4.  \"AR Dövlət Gerbi haqqında Əsasnamə\"yə uyğun olaraq 5.  AR Konstitusiyasının 75-ci maddəsinə (\"Dövlət rəmzlərinə hörmət\") uyğun olaraq",
+      "id": 574,
+      "text": "Azərbaycan Respublikası Dövlət gerbinin qabarıq təsviri vurulur:",
       "options": [
-        "A. 1; 2",
-        "B. 2; 4",
-        "C. 4; 5",
-        "D. 1; 3"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 643,
-      "text": "\"AR Dövlət Gerbindən istifadə qaydaları haqqında\" AR Qanununa görə, doğru olmayanı tapın:",
-      "options": [
-        "A. AR Konstitusiyasının 23-cü maddəsinin I hissəsinə əsasən, AR Dövlət Gerbi AR dövlət rəmzidir",
-        "B. AR Dövlət Gerbinin təsviri AR Konstitusiyasının 23-cü maddəsinə (\"Azərbaycan dövlətinin rəmzləri\") uyğun olaraq müəyyən edilir",
-        "C. AR Dövlət Gerbinin təsviri \"AR Dövlət Gerbinin təsvirinin təsdiq edilməsi haqqında\" AR Konstitusiya qanunu ilə müəyyən edilir",
-        "D. AR Konstitusiyasının 75-ci maddəsinə (\"Dövlət rəmzlərinə hörmət\") əsasən, hər bir vətəndaş AR Dövlət Gerbinə hörmət etməlidir. AR Dövlət Gerbinə hörmətsizliyin nümayiş etdirilməsi qanunla müəyyən edilmiş məsuliyyətə səbəb olur."
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 644,
-      "text": "\"AR Dövlət Gerbi haqqında qanunvericilik ibarətdir: 1.  AR Konstitusiyasından 2.  \"AR Dövlət Gerbinin təsvirinin təsdiq edilməsi haqqında\" AR Qanunundan 3.  \"AR Dövlət Gerbinin təsvirinin təsdiq edilməsi haqqında\" AR Konstitusiya Qanunundan 4.  AR tərəfdar çıxdığı beynəlxalq müqavilələrdən 5.  Bu qanundan 6.  Bu Qanuna uyğun qəbul edilmiş digər normativ hüquqi aktlardan",
-      "options": [
-        "A. 5; 6",
-        "B. 1; 2; 4; 5",
-        "C. 1; 3; 4; 5; 6",
-        "D. Hamısı"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 645,
-      "text": "\"AR Dövlət Gerbi ilə bağlı dövlətin vəzifələrindən biri yanlışdır:",
-      "options": [
-        "A. AR Dövlət Gerbinin mahiyyətini və əhəmiyyətini əhali arasında geniş təbliğ etmək və onları bu barədə maarifləndirmək",
-        "B. Gəncləri və təhsil alanları AR Dövlət Gerbinə hörmət ruhunda tərbiyələndirmək",
-        "C. AR hüdudları daxilində və ondan kənarda AR Dövlət Gerbi barədə qarşı təhqiredici hərəkətlərin qarşısının alınması üçün beynəlxalq hüquq normalarına və AR Cinayət Məcəlləsinə uyğun tədbirlər görmək",
-        "D. \"AR Dövlət Gerbindən istifadə qaydaları haqqında\" AR Qanununa riayət olunmasını təmin etmək"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 646,
-      "text": "Dövlət rəmzləri müəlliflik hüququnun obyekti deyildir\" müddəası nəyə əsaslanır?",
-      "options": [
-        "A. Bu Qanuna",
-        "B. \"Müəllif hüququ və əlaqəli hüquqlar haqqında\" AR Qanununa",
-        "C. AR Konstitusiyasının 23-cü maddəsinə",
-        "D. \"AR Dövlət Gerbinin təsvirinin təsdiq edilməsi haqqında\" AR Konstitusiya Qanununa"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 647,
-      "text": "\"AR Dövlət Gerbinin qabarıq təsvirinin istifadə olunduğu yerlərdən biri doğrudur:",
-      "options": [
-        "A. AR Milli Məclisinin xidməti otağına",
-        "B. Bütün dövlət orqanlarının (qurumlarının) binalarında",
-        "C. AR qanunvericiliyində nəzərdə tutulmuş hallarda dövlət orqanlarının (qurumlarının) binalarında",
-        "D. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanların (qurumların) binalarında"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 648,
-      "text": "\"AR Dövlət Gerbinin qabarıq təsviri vurulmur:",
-      "options": [
-        "A. AR Apellyasiya Məhkəmələrinin sədrlərinin xidməti otaqlarına",
-        "B. AR dövlət iqamətgahlarının binalarına",
-        "C. AR Prezident sarayına",
-        "D. AR Prezidentinin xidməti otağına"
+        "Azərbaycan Respublikası parlamentinin iclas salonuna",
+        "Bütün dövlət orqanlarının möhürlərinə",
+        "Prezidentin fərman və sərəncamlarının blanklarına",
+        "Bütün məhkəmə sədrlərinin xidməti kabinetinə"
       ],
       "correctAnswer": 0
     },
     {
-      "id": 649,
-      "text": "\"AR Dövlət Gerbinin qabarıq təsvirinin istifadə olunduğu yerlərdən biri yanlışdır:",
+      "id": 575,
+      "text": "Azərbaycan Respublikası Dövlət gerbinin qabarıq təsviri vurulduğu yerlərdən biri yanlışdır:",
       "options": [
-        "A. AR Milli Məclisinin və NMR Ali Məclisinin binasında",
-        "B. AR Milli Məclisinin və NMR Ali Məclisinin iclas salonunda",
-        "C. AR və NMR Ali Məclisinin sədrinin xidməti otağında",
-        "D. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanların (qurumların) binalarında"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 650,
-      "text": "\"AR Dövlət Gerbinin qabarıq təsviri aşağıdakılardan hansına vurulur? 1.  AR bütün məhkəmələrinin binalarına 2.  AR bütün məhkəmələrinin iclas salonlarina 3.  AR Konstitusiya Məhkəməsi sədrinin xidməti otağına 4.  AR Ali Məhkəməsi sədrinin xidməti otağına 5.  AR Ali Arbitraj Məhkəməsi sədrinin xidməti otağına 6.  AR bütün Apellyasiya məhkəmələrinin sədrlərinin xidməti otaqlarına 7.  AR diplomatik nümayəndəliklərinin və konsulluqlarının binalarına",
-      "options": [
-        "A. 2; 4; 5; 6; 7",
-        "B. 1; 2; 3; 4; 7",
-        "C. 1; 3; 4; 5; 6",
-        "D. Hamısı"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 651,
-      "text": "\"AR Dövlət Gerbinin qabarıq təsviri vurulur:",
-      "options": [
-        "A. Dövlət orqanlarının binalarının lövhələrində",
-        "B. Bütün dövlət orqanlarının binalarına",
-        "C. Mərkəzi icra hakimiyyəti orqanının müəyyən etdiyi orqanların (qurumların) binalarına",
-        "D. AR dövlət iqamətgahlarının binalarına"
+        "Dövlət iqamətgahlarının binalarına",
+        "Azərbaycan Respublikasının diplomatik nümayəndəliklərinin binalarına",
+        "Məhkəmələrin iclas salonlarına",
+        "Azərbaycan Respublikasının diplomatik nümayəndəlikləri rəhbərlərinin xidməti otaqlarına"
       ],
       "correctAnswer": 3
     },
     {
-      "id": 652,
-      "text": "\"AR Dövlət Gerbinin təsvirindən istifadə olunmur:",
+      "id": 576,
+      "text": "Azərbaycan Respublikası Dövlət gerbinin təsvirindən istifadə olunmur:",
       "options": [
-        "A. Hüquqi aktların blanklarında",
-        "B. Dövlətin adından verilən sənədlərin blanklarında",
-        "C. Hüquqi aktların və dövlətin adından verilən sənədlərin möhürlərində",
-        "D. AR kağız və metal pul nişanlarında"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 653,
-      "text": "\"AR Dövlət Gerbinin təsvirindən istifadə olunur: 1.  Hüquqi aktların və dövlətin adından verilən sənədlərin blanklarında və möhürlərində 2.  AR qiymətli kağızlarının möhürlərində 3.  AR vətəndaşının şəxsiyyət vəsiqəsində 4.  AR vətəndaşının pasportunda 5.  Dövlət orqanlarının (dövlətin adından hakimiyyət səlahiyyətlərini həyata keçirən qurumların) sənəd blanklarında və möhürlərində 6.  AR bütün məhkəmələrinin binalarında və məhkəmə iclaslarının salonlarında\"",
-      "options": [
-        "A. 1; 2; 6",
-        "B. 3; 4; 5",
-        "C. 2; 4; 5; 6",
-        "D. Hamısı"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 654,
-      "text": "\"AR Dövlət Gerbinin təsvirindən istifadə olunan yerlərdən hansı doğru deyil?",
-      "options": [
-        "A. Dövlət orqanlarının binalarının lövhələrində",
-        "B. Dövlət təltiflərinin təsvirində",
-        "C. AR diplomatik nümayəndəliklərinin və konsulluqlarının binalarında",
-        "D. Hamısı doğrudur"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 655,
-      "text": "\"AR Dövlət Gerbinin təsvirindən istifadə olunmur:",
-      "options": [
-        "A. AR Milli Məclisinin rəsmi nəşrlərində",
-        "B. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanın (qurumun) rəsmi nəşrlərində",
-        "C. AR sərhəd nişanlarında",
-        "D. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqanların (qurumların) binalarında"
+        "Dövlət orqanlarının möhürlərində",
+        "Azərbaycan Respublikasının kağız pul nişanlarında",
+        "Azərbaycan Respublikasının metal pul nişanlarında",
+        "Hamısında istifadə olunur"
       ],
       "correctAnswer": 3
     },
     {
-      "id": 656,
-      "text": "\"AR Dövlət Gerbinin təsvirinin dövlət orqanlarının binalarının lövhələrində və sərhəd nişanlarında istifadə olunması qaydaları kim tərəfindən müəyyən edilir?",
+      "id": 577,
+      "text": "Azərbaycan Respublikası Dövlət gerbinin təsvirindən istifadə olunmur:",
       "options": [
-        "A. Müvafiq icra hakimiyyəti orqanı",
-        "B. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum)",
-        "C. Mərkəzi icra hakimiyyəti orqanı",
-        "D. AR Prezidenti"
+        "Dövlət orqanlarının binalarının lövhələrində",
+        "Azərbaycan Respublikası vətəndaşına verilən xarici pasportlarda",
+        "Azərbaycan Respublikası parlamentinin rəsmi nəşrlərində",
+        "Bütün rəsmi nəşrlərdə"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 578,
+      "text": "Azərbaycan Respublikasının Dövlət Gerbinin təsviri müəyyən edilir:",
+      "options": [
+        "“Azərbaycan Respublikası Dövlət Gerbinin təsvirinin təsdiq edilməsi haqqında” Azərbaycan Respublikasının Konstitusiya Qanunu ilə",
+        "“Azərbaycan Respublikası Dövlət Gerbinin təsvirinin təsdiq edilməsi haqqında” Azərbaycan Respublikasının Qanunu ilə",
+        "Azərbaycan Respublikasının Konstitusiyası ilə",
+        "Qanunla təsdiq edilən Əsasnamə ilə"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 579,
+      "text": "“Azərbaycan Respublikası Dövlət Gerbindən istifadə qaydaları” haqqında” Azərbaycan Respublikasının Qanunu”na əsasən Azərbaycan Respublikası Dövlət gerbinin qabarıq təsviri vurulur: 1. Azərbaycan Respublikası Prezidentinin xidməti otağına 2. Azərbaycan Respublikası Milli Məclisinin Sədrinin xidməti otağına 3. Naxçıvan Muxtar Respublikası Ali Məclisinin sədrinin xidməti otağına 4. Azərbaycan Respublikası Konstitusiya Məhkəməsi sədrinin və Azərbaycan Respublikası Ali Məhkəməsi sədrinin xidməti otağına 5. Azərbaycan Respublikası Appelyasiya Məhkəməsi sədrinin xidməti otağına",
+      "options": [
+        "1,2,3,4,5",
+        "3,4,5",
+        "1,2,3,4",
+        "2,3,5"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 580,
+      "text": "Dövlət gerbinin qabarıq təsviri vurulduğu yerlərdən biri yanlışdır:",
+      "options": [
+        "Azərbaycan Respublikasının Prezident sarayına, dövlət iqamətgahlarının binalarına",
+        "Azərbaycan Respublikası Milli Məclisinin və Naxçıvan Muxtar Respublikası Ali Məclisinin binalarına və iclas salonlarına",
+        "Azərbaycan Respublikasının bütün məhkəmələrinin binalarına və məhkəmə iclaslarının salonlarına",
+        "Azərbaycan Respublikasının diplomatik nümayəndəliklərinin və konsulluqlarının rəhbərlərinin xidməti otaqlarına"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 581,
+      "text": "Dövlət Gerbinin qabarıq təsviri vurulmur:",
+      "options": [
+        "Azərbaycan Respublikası Prezidentinin müəyyən etdiyi orqanların( qurumların) binalarına",
+        "Azərbaycan Respublikasının bütün məhkəmələrinin binalarına",
+        "Azərbaycan Respublikasının Baş nazirinin xidməti otağına",
+        "Azərbaycan Respublikasının diplomatik nümayəndəliklərinin və konsulluqlarının binalarına"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 582,
+      "text": "“Azərbaycan Respublikası Dövlət Gerbindən istifadə qaydaları” haqqında” Azərbaycan Respublikasının Qanunu”na əsasən Azərbaycan Respublikası Dövlət Gerbinin təsvirindən istifadə olunur: 1. Hüquqi aktların və dövlətin adından verilən sənədlərin blanklarında 2. Azərbaycan Respublikasının kağız və metal pul nişanlarında, qiymətli kağızlarında 3. Azərbaycan Respublikası vətəndaşının şəxsiyyət vəsiqəsində və pasportunda 4. Dövlət orqanlarının (dövlətin adından hakimiyyət səlahiyyətlərini həyata keçirən qurumların) sənəd blanklarında və möhürlərində 5. Dövlət orqanlarının binalarının lövhələrində və dövlət təltiflərinin təsvirində 6. Azərbaycan Respublikasının sərhəd nişanlarında",
+      "options": [
+        "1,2,3,4,5,6",
+        "Yalnız 2,3,4,5",
+        "1,3,5",
+        "2,4,6"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 583,
+      "text": "“Azərbaycan Respublikası Dövlət Gerbindən istifadə qaydaları” haqqında” Azərbaycan Respublikasının Qanununa əsasən yanlış müddəanı müəyyən edin:",
+      "options": [
+        "Azərbaycan Respublikasının Dövlət Gerbinin təsviri olan möhürlərin və sənəd blanklarının hazırlanması, istifadə olunması, saxlanılması və məhv edilməsi qaydaları Azərbaycan Respublikasının Nazirlər Kabineti tərəfindən müəyyən edilir.",
+        "Azərbaycan Respublikasının Dövlət Gerbinin təsvirinin dövlət orqanlarının binalarının lövhələrində və sərhəd nişanlarında istifadə olunması qaydaları Azərbaycan Respublikasının Nazirlər Kabineti tərəfindən müəyyən edilir.",
+        "Azərbaycan Respublikasının Dövlət Gerbinin qabarıq təsvirinin istehsalı və vurulması qaydaları Azərbaycan Respublikasının Nazirlər Kabineti tərəfindən müəyyən edilir",
+        "Bu Qanundan başqa, Azərbaycan Respublikasının Dövlət Gerbinin təsvirindən istifadənin digər hallarını Azərbaycan Respublikasının Milli Məclisi müəyyən edir."
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 584,
+      "text": "Azərbaycan Respublikasının hüdudlarından kənarda Azərbaycan Respublikasının Dövlət Gerbi barədə təhqiredici hərəkətlərin qarşısının alınması məqsədilə tədbirlər görülür :",
+      "options": [
+        "Beynəlxalq hüquq normalarına və Azərbaycan Respublikasının Cinayət Məcəlləsinə uyğun olaraq",
+        "Beynəlxalq müqavilələrə və diplomatik qaydalara uyğun olaraq",
+        "Beynəlxalq hüquq normalarına və Azərbaycan Respublikasının Cinayət Məcəlləsinə uyğun olaraq",
+        "Azərbaycan Respublikasının Konstitusiyasına uyğun olaraq"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 585,
+      "text": "“Azərbaycan Respublikası Dövlət Gerbindən istifadə qaydaları” haqqında” Azərbaycan Respublikasının Qanununa əsasən Azərbaycan Respublikasının Dövlət Gerbi ilə bağlı dövlətin vəzifələri sırasına daxil deyil :",
+      "options": [
+        "Azərbaycan Respublikasının Dövlət Gerbinin mahiyyətini və əhəmiyyətini əhali arasında geniş təbliğ etmək və onları bu barədə maarifləndirmək",
+        "Gəncləri və təhsilalanları Azərbaycan Respublikasının Dövlət Gerbinə hörmət ruhunda tərbiyələndirmək",
+        "Azərbaycan Respublikasının hüdudlarından kənarda Azərbaycan Respublikasının Dövlət Gerbi barədə təhqiredici hərəkətlərin qarşısını almaq",
+        "Azərbaycan Respublikasına gələn əcnəbiləri Dövlət Gerbinin mənaları haqqında maarifləndirmək"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 586,
+      "text": "Dövlət Gerbinin təsvirindən istifadənin digər hallarını müəyyən edə bilər :",
+      "options": [
+        "Azərbaycan Respublikasının Nazirlər Kabineti",
+        "Azərbaycan Respublikasının Milli Məclis",
+        "Azərbaycan Respublikasının Prezidenti",
+        "Azərbaycan Respublikasının Konstitusiya Məhkəməsi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 587,
+      "text": "Azərbaycan Respublikası Dövlət gerbinin təsviri olan möhürlərin və sənəd blanklarının hazırlanması, istifadə olunması, saxlanılması və məhv edilməsi qaydaları müəyyən edilir:",
+      "options": [
+        "Azərbaycan Respublikasının Nazirlər Kabineti",
+        "Azərbaycan Respublikasının Milli Məclis",
+        "Azərbaycan Respublikasının Prezidenti",
+        "Azərbaycan Respublikasının Konstitusiya Məhkəməsi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 588,
+      "text": "“Azərbaycan Respublikası Dövlət Gerbindən istifadə qaydaları” haqqında” Azərbaycan Respublikasının Qanununa əsasən bu Qanunun tələblərini pozan şəxslər məsuliyyət daşıyırlar :",
+      "options": [
+        "Azərbaycan Respublikasının Mülki Məcəlləsinə, Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinə və Azərbaycan Respublikasının Cinayət Məcəlləsinə uyğun olaraq",
+        "“Azərbaycan Respublikasının Dövlət Gerbindən istifadə qaydaları haqqında” Azərbaycan Respublikasının Qanununa və beynəlxalq hüquq qaydalarına uyğun",
+        "“Etik davranış qaydaları haqqında” Azərbaycan Respublikasının Qanununa uyğun",
+        "“Azərbaycan Respublikasının Konstitusiyası”, “Dövlət qulluğu haqqında” Qanun və İnzibati Xətalar Məcəlləsinə uyğun"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 589,
+      "text": "“Azərbaycan Respublikasının Dövlət Gerbinin istifadə qaydaları haqqında” Azərbaycan Respublikasının Qanunu hansı hüquqi akta uyğun olaraq, Azərbaycan Respublikasının Dövlət Gerbindən istifadə qaydalarını müəyyən edir?",
+      "options": [
+        "Azərbaycan Respublikası Konstitusiyasının 21-ci maddəsinə",
+        "Azərbaycan Respublikası Konstitusiyasının 23-cü maddəsinə və “Azərbaycan Respublikası Dövlət Gerbinin təsvirinin təsdiq edilməsi haqqında” Azərbaycan Respublikasının Konstitusiya Qanununa",
+        "“Azərbaycan Respublikası Dövlət Gerbinin təsvirinin təsdiq edilməsi haqqında” Azərbaycan Respublikasının Qanununa",
+        "Azərbaycan Respublikasının Konstitusiyasının 23-cü maddəsinə və “Azərbaycan Respublikası Dövlət Gerbinin təsvirinin təsdiq edilməsi haqqında” Azərbaycan Respublikasının Qanununa"
       ],
       "correctAnswer": 1
     },
     {
-      "id": 657,
-      "text": "\"AR Dövlət Gerbinin təsvirindən istifadənin digər hallarını kim müəyyən edir?",
+      "id": 590,
+      "text": "“Azərbaycan Respublikasının Dövlət Gerbinin istifadə qaydaları haqqında” Azərbaycan Respublikasının Qanununa əsasən Azərbaycan Respublikasının Dövlət gerbinin təsviri hansı hüquqi aktla təsdiq edilmişdir?",
       "options": [
-        "A. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum)",
-        "B. Müvafiq icra hakimiyyəti orqanı",
-        "C. Mərkəzi icra hakimiyyəti orqanı",
-        "D. AR Prezidenti"
+        "Konstitusiya ilə",
+        "Konstitusiya qanunu ilə",
+        "Qanunla",
+        "Fərmanla"
       ],
-      "correctAnswer": 0
+      "correctAnswer": 1
     },
     {
-      "id": 658,
-      "text": "\"AR Dövlət Gerbinin təsviri olan möhürlərin və sənəd blanklarının hazırlanması, istifadə olunması, saxlanılması və məhv edilməsi qaydaları kim tərəfindən müəyyən olunur?",
+      "id": 591,
+      "text": "Azərbaycan Respublikası Konstitusiyasının 75-ci maddəsinə əsasən kim Azərbaycan Respublikasının Dövlət Gerbinə hörmət etməlidir?",
       "options": [
-        "A. Müvafiq icra hakimiyyəti orqanı",
-        "B. Mərkəzi icra hakimiyyəti orqanı",
-        "C. Müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum)",
-        "D. AR Prezidenti"
+        "Hər bir şəxs",
+        "Hər kəs",
+        "Hər bir vətəndaş",
+        "Fiziki və hüquqi şəxslər"
       ],
       "correctAnswer": 2
     },
     {
-      "id": 659,
-      "text": "Doğru olmayan bəndi tapın:",
+      "id": 592,
+      "text": "“Azərbaycan Respublikasının Dövlət Gerbinin istifadə qaydaları haqqında” Azərbaycan Respublikasının Qanununa görə Azərbaycan Respublikasının Dövlət Gerbi haqqında qanunvericilik aktlarına aid olmayan variant seçin:",
       "options": [
-        "A. AR Dövlət Gerbi oturulan və ayaq basılan yerlərdə təsvir edilə bilməz",
-        "B. AR Dövlət Gerbinin təhrifinə yol verilmir",
-        "C. AR bütün təhsil müəssisələrində yeni dərs ilinin birinci həftəsi AR digər rəmzləri ilə yanaşı, AR Dövlət Gerbinin öyrənilməsinə həsr edilir",
-        "D. AR Dövlət Gerbinin təsvirindən AR kağız və metal pul nişanlarında istifadə edilə bilər"
+        "Azərbaycan Respublikasının Konstitusiyası",
+        "Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələr",
+        "“Azərbaycan Respublikasının Dövlət Gerbindən istifadə qaydaları haqqında” Azərbaycan Respublikasının Qanunu",
+        "“Azərbaycan Respublikasının Dövlət Gerbindən istifadə qaydaları haqqında” Azərbaycan Respublikasının Konstitusiya Qanunu"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 593,
+      "text": "“Azərbaycan Respublikasının Dövlət Gerbinin istifadə qaydaları haqqında” Azərbaycan Respublikasının Qanununa əsasən biri Azərbaycan Respublikasının Dövlət Gerbi ilə bağlı dövlətin vəzifələrinə aid deyil:",
+      "options": [
+        "Azərbaycan Respublikasının hüdudlarından kənarda Azərbaycan Respublikasının Dövlət Gerbi barədə təhqiredici hərəkətlərin qarşısının alınması üçün Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinə uyğun tədbirlər görmək",
+        "Azərbaycan Respublikasının hüdudlarından kənarda Azərbaycan Respublikasının Dövlət Gerbi barədə təhqiredici hərəkətlərin qarşısının alınması üçün beynəlxalq hüquq normalarına uyğun tədbirlər görmək",
+        "Gəncləri və təhsilalanları Azərbaycan Respublikasının Dövlət Gerbinə hörmət ruhunda tərbiyələndirmək",
+        "Azərbaycan Respublikasının hüdudlarından kənarda Azərbaycan Respublikasının Dövlət Gerbi barədə təhqiredici hərəkətlərin qarşısının alınması üçün Azərbaycan Respublikasının Cinayət Məcəlləsinə uyğun tədbirlər görmək"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 594,
+      "text": "doğru deyil?",
+      "options": [
+        "Azərbaycan Respublikası Konstitusiyasının 69-cu maddəsinə əsasən, Azərbaycan Respublikasının vətəndaşları ilə yanaşı əcnəbilər və vətəndaşlığı olmayan şəxslər də Azərbaycan Respublikasının Dövlət Gerbinə hörmət etməlidir",
+        "Azərbaycan Respublikası Azərbaycan Respublikasının Dövlət Gerbini qeyri-qanunu istifadədən və ona zərər vuran digər hərəkətlərdən qoruyur",
+        "“Müəllif hüququ və əlaqəli hüquqlar haqqında” Azərbaycan Respublikasının Qanununa əsasən, dövlət rəmzləri müəlliflik hüququnun obyekti deyildir",
+        "Azərbaycan Respublikasının Dövlət Gerbi oturulan və ayaq basılan yerlərdə təsvir edilə bilməz"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 595,
+      "text": "Dövlət Gerbinin qabarıq təsvirinin vurulduğu yerlərə aiddir?",
+      "options": [
+        "Azərbaycan Respublikası Konstitusiya Məhkəməsi hakimlərinin xidməti otağı",
+        "Azərbaycan Respublikası Ali Məhkəməsi hakimlərinin xidməti otağı",
+        "Azərbaycan Respublikasının diplomatic nümayəndəlikləri başçılarının xidməti otağı",
+        "Naxçıvan Muxtar Respublikası Ali Məclisinin iclas salonu"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 596,
+      "text": "Dövlət Gerbinin qabarıq təsvirinin vurulduğu yerlərə aid deyil?",
+      "options": [
+        "Azərbaycan Respublikası Milli Məclisinin binası",
+        "Azərbaycan Respublikasının bütün məhkəmələrinin binaları",
+        "Azərbaycan Respublikası Prezidentinin xidməti otağı",
+        "Azərbaycan Respublikasının ticarət nümayəndəliklərinin binaları"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 597,
+      "text": "Dövlət Gerbinin təsvirindən istifadə olunmur?",
+      "options": [
+        "Azərbaycan Respublikası Milli Məclisinin rəsmi nəşrlərində",
+        "Hüquqi aktların blanklarında",
+        "Qanunla müəyyən edilmiş hallarda sərhəd nişanlarında",
+        "Dövlətin adından verilən sənədlərin blanklarında"
       ],
       "correctAnswer": 2
     },
     {
-      "id": 660,
-      "text": "\"AR Dövlət Gerbindən istifadə qaydaları haqqında\" AR Qanununa əsasən, bu Qanunun tələblərini pozan şəxslər: 1.  Mülki Məcəlləyə uyğun olaraq məsuliyyət daşıyırlar 2.  Mülki-Prosessual Məcəlləyə uyğun olaraq məsuliyyət daşıyırlar 3.  İnzibati Xətalar Məcəlləsinə uyğun olaraq məsuliyyət daşıyırlar 4.  Cinayət Məcəlləsinə uyğun olaraq məsuliyyət daşıyırlar 5.  İntizam məsuliyyətinə cəlb olunurlar 6.  İnzibati qaydada cərimə olunurlar 7.  Qanunla müəyyən qaydada cərimə olunurlar və ya onlar barəsində digər cinayət-hüquqi tədbirlər görülür",
+      "id": 598,
+      "text": "Dövlət gerbinin təsvirindən istifadə olunması ilə bağlı hansı fikir səhvdir?",
       "options": [
-        "A. 1; 3; 4",
-        "B. 2; 3; 7",
-        "C. 2; 5; 6",
-        "D. 1; 3; 7"
+        "Qanunla müəyyən edilmiş hallarda dövlət orqanlarının binalarının lövhələrində istifadə olunur",
+        "Dövlət təltiflərinin təsvirində istifadə olunur",
+        "Azərbaycan Respublikasının kağız və metal pul nişanlarında istifadə olunur",
+        "Azərbaycan Respublikasının qiymətli kağızlarında istifadə olunur"
       ],
       "correctAnswer": 0
     },
     {
-      "id": 661,
-      "text": "\"AR Dövlət Gerbindən istifadə qaydaları haqqında\" AR Qanunu hansı tarixdə və kim tərəfindən qəbul edilib?",
+      "id": 599,
+      "text": "fikirlərdən biri səhvdir:",
       "options": [
-        "A. 19 fevral 2019-cu ildə AR Milli Məclisi tərəfindən",
-        "B. 19 fevral 2019-cu ildə AR Prezidenti tərəfindən",
-        "C. 15 aprel 2019-cu ildə AR Milli Məclisi tərəfindən",
-        "D. 15 aprel 2019-cu ildə AR Prezidenti tərəfindən"
+        "Azərbaycan Respublikasının Dövlət Gerbinin təsvirindən istifadənin digər hallarını Azərbaycan Respublikasının Milli Məclisi müəyyən edir",
+        "Azərbaycan Respublikasının bütün təhsil müəssisələrində yeni dərs ilinin birinci dərsi Azərbaycan Respublikasının digər dövlət rəmzləri ilə yanaşı Azərbaycan Respublikasının Dövlət Gerbinin öyrənilməsinə həsr edilir",
+        "Azərbaycan Respublikasının Dövlət Gerbinə ehtiram bəsləyən hər bir şəxs Azərbaycan Respublikasının Dövlət Gerbinin təsvirindən “Azərbaycan Respublikasının Dövlət Gerbindən istifadə qaydaları haqqında” Azərbaycan Respublikası Qanununun tələblərinə uyğun istifadə edə bilər",
+        "Azərbaycan Respublikasının Dövlət Gerbinin təsvirinin dövlət orqanlarının binalarının lövhələrində və sərhəd nişanlarında istifadə olunması qaydaları müvafiq icra hakimiyyəti orqanının müəyyən etdiyi orqan (qurum) tərəfindən müəyyən edilir"
       ],
       "correctAnswer": 0
+    },
+    {
+      "id": 600,
+      "text": "“Azərbaycan Respublikasının Dövlət Gerbinin istifadə qaydaları haqqında” Azərbaycan Respublikasının Qanununun tələblərini pozan şəxslər hansı akta uyğun olaraq məsuliyyət daşımırlar?",
+      "options": [
+        "Azərbaycan Respublikasının Mülki Məcəlləsinə",
+        "Azərbaycan Respublikasının İnzibati Xətalar Məcəlləsinə",
+        "Azərbaycan Respublikasının Cinayət Məcəlləsinə",
+        "Azərbaycan Respublikasının Cinayət Prosessual Məcəlləsinə"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 601,
+      "text": "“Azərbaycan Respublikasının Dövlət Gerbinin istifadə qaydaları haqqında” Azərbaycan Respublikasının Qanunu qüvvəyə mindiyi gündən “Azərbaycan Respublikasının Dövlət gerbi haqqında Əsasnamənin təsdiq edilməsi barəsində” Azərbaycan Respublikasının Qanununun hansı maddəsi ləğv edilir?",
+      "options": [
+        "1-ci",
+        "2-ci və 3-cü",
+        "2-ci",
+        "1-ci və 2-ci"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 602,
+      "text": "“Azərbaycan Respublikasının Dövlət Gerbinin istifadə qaydaları haqqında” Azərbaycan Respublikasının Qanunu nə vaxt qəbul olunub?",
+      "options": [
+        "02. 03.1993-cü il",
+        "08. 07.1994-cü il",
+        "19. 02.2019-cu il",
+        "02. 03.2018-ci il"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 603,
+      "text": "Dövlət Gerbinin təsvirinin dövlət orqanlarının binalarının lövhələrində və sərhəd nişanlarında istifadə olunması qaydaları … tərəfindən müəyyən edilir?",
+      "options": [
+        "Azərbaycan Respublikasının Konstitusiya Məhkəməsi",
+        "Azərbaycan Respublikasının Milli Məclisi",
+        "Azərbaycan Respublikasının Nazirlər Kabineti",
+        "Azərbaycan Respublikasının Prezidenti"
+      ],
+      "correctAnswer": 2
     }
   ]
 }
