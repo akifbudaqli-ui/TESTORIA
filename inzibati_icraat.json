@@ -4,17 +4,6 @@
  "id":"İnzibati_icraat",
   "name": "İnzibati icraat",
   "questions": [
-    {
-      "text": "İnzibati_icraat üzrə nümunə sual 1?",
-      "options": ["A", "B", "C", "D"],
-      "correctAnswer": 0,
-      "explanation": "İzah 1"
-    },
-    {
-      "text": "İnzibati_icraat üzrə nümunə sual 2?",
-      "options": ["A", "B", "C", "D"],
-      "correctAnswer": 1,
-      "explanation": "İzah 2"
-    }
+   
   ]
 }
