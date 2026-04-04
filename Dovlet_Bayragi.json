@@ -3,1341 +3,213 @@
   "name": "Dövlət Bayrağı",
   "questions": [
     {
-      "id": 585,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı nə vaxt qəbul edilib?",
+      "id": 555,
+      "text": "Azərbaycan Respublikası onun ərazisindən kənarda Azərbaycan Respublikasının Dövlət bayrağı barədə təhqiredici hərəkətlərin qarşısının alınması məqsədilə tədbirlər görür:",
       "options": [
-        "1918-ci il 9 noyabr",
-        "1920-ci il 28 aprel",
-        "1991-ci il 18 oktyabr",
-        "1992-ci il 5 fevral"
+        "Beynəlxalq hüquq normalarına uyğun olaraq",
+        "Konstitusiyaya uyğun olaraq",
+        "Həmin ölkənin ərazisindəki qanunlara uyğun olaraq",
+        "Bütün cavablar doğrudur"
       ],
       "correctAnswer": 0
     },
     {
-      "id": 586,
-      "text": "Azərbaycan Xalq Cümhuriyyəti süqut etdikdən sonra Dövlət Bayrağı neçə ilə qadağan olundu?",
+      "id": 556,
+      "text": "Azərbaycan Respublikası Dövlət bayrağının daimi qaldırılmalı olduğu yerlərdən biri yanlışdır:",
       "options": [
-        "50 il",
-        "60 il",
-        "70 il",
-        "80 il"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 587,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı hansı formalı parçadan ibarətdir?",
-      "options": [
-        "Düzbucaqlı",
-        "Kvadrat",
-        "Üçbucaq",
-        "Oval"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 588,
-      "text": "Dövlət Bayrağının üzərində neçə rəngli zolaq var?",
-      "options": [
-        "İki",
-        "Üç",
-        "Dörd",
-        "Beş"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 589,
-      "text": "Dövlət Bayrağında yuxarı zolağın rəngi hansıdır?",
-      "options": [
-        "Yaşıl",
-        "Qırmızı",
-        "Mavi",
-        "Ağ"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 590,
-      "text": "Bayraqdakı qırmızı rəng nəyi ifadə edir?",
-      "options": [
-        "Türklüyü",
-        "Müasirliyi və inkişafı",
-        "İslamı",
-        "Qələbəni"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 591,
-      "text": "Bayraqdakı yaşıl rəng nəyi bildirir?",
-      "options": [
-        "İslamı",
-        "Türklüyü",
-        "Qələbəni",
-        "Azadlığı"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 592,
-      "text": "Bayraqdakı mavi rəng nəyi bildirir?",
-      "options": [
-        "Avropalılığı",
-        "Türklüyü",
-        "İslamı",
-        "Müasirliyi"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 593,
-      "text": "Dövlət Bayrağının üzərində neçəguşəli ulduz təsvir olunub?",
-      "options": [
-        "Beşgüşəli",
-        "Yeddiguşəli",
-        "Səkkizguşəli",
-        "Onikiguşəli"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 594,
-      "text": "Səkkizguşəli ulduz nəyi ifadə edir?",
-      "options": [
-        "Səkkiz türk boyunu",
-        "İslamı",
-        "Dövlətçiliyi",
-        "Müstəqilliyi"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 595,
-      "text": "Aypara hansı dini simvolizə edir?",
-      "options": [
-        "Xristianlığı",
-        "İslamı",
-        "Yəhudiliyi",
-        "Budizmi"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 596,
-      "text": "Dövlət Bayrağı haqqında Konstitusiya maddəsi hansıdır?",
-      "options": [
-        "Maddə 19",
-        "Maddə 20",
-        "Maddə 23",
-        "Maddə 25"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 597,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı haqqında qanun nə vaxt qəbul olunub?",
-      "options": [
-        "1990-cı il",
-        "1992-ci il",
-        "1995-ci il",
-        "2000-ci il"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 598,
-      "text": "Bayraq Meydanı hansı şəhərdə yerləşir?",
-      "options": [
-        "Gəncə",
-        "Bakı",
-        "Şuşa",
-        "Naxçıvan"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 599,
-      "text": "Bakıdakı Bayraq Meydanının hündürlüyü neçə metrdir?",
-      "options": [
-        "120",
-        "162",
-        "172",
-        "202"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 600,
-      "text": "Bayraq Meydanında asılmış Dövlət Bayrağının ölçüləri nə qədərdir?",
-      "options": [
-        "20x30 metr",
-        "25x35 metr",
-        "35x70 metr",
-        "50x100 metr"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 601,
-      "text": "Dövlət Bayrağı Günü nə vaxt qeyd olunur?",
-      "options": [
-        "18 oktyabr",
-        "12 noyabr",
-        "9 noyabr",
-        "31 dekabr"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 602,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı hansı hallarda endirilir?",
-      "options": [
-        "Matəm günlərində",
-        "Müstəqillik günlərində",
-        "Rəsmi bayramlarda",
-        "İdman yarışlarında"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 603,
-      "text": "Dövlət Bayrağı kimlərin üzərində qaldırılır?",
-      "options": [
-        "Yalnız Prezidentin",
-        "Yalnız dövlət orqanlarının",
-        "Dövlət orqanları və diplomatik nümayəndəliklərin",
-        "Bütün vətəndaşların"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 604,
-      "text": "Dövlət Bayrağı hansı hallarda xüsusi mühafizə olunur?",
-      "options": [
-        "Rəsmi tədbirlərdə",
-        "Diplomatik nümayəndəliklərdə",
-        "Hərbi hissələrdə",
-        "Hamısında"
+        "Naxçıvan Muxtar Respublikası Ali Məclisinin binası",
+        "Naxçıvan Muxtar Respublikası mərkəzi icra hakimiyyəti orqanlarının binası",
+        "Azərbaycan Respublikası Mərkəzi Bankın binası",
+        "Yerli özünüidarəetmə orqanlarının binası"
       ],
       "correctAnswer": 3
     },
     {
-      "id": 605,
-      "text": "Dövlət Bayrağının istifadəsi zamanı əsas qayda nədir?",
+      "id": 557,
+      "text": "Azərbaycan Respublikasının Dövlət bayrağı Azərbaycan Respublikasının diplomatik nümayəndəlikləri üzərində:",
       "options": [
-        "Bayraq həmişə təmiz və səliqəli olmalıdır",
-        "Bayraq yalnız dövlət orqanlarında istifadə olunmalıdır",
-        "Bayraq yalnız bayram günlərində qaldırılmalıdır",
-        "Bayraq yalnız beynəlxalq tədbirlərdə istifadə olunmalıdır"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 606,
-      "text": "Dövlət Bayrağına hörmətsizlik edən şəxs hansı məsuliyyət daşıyır?",
-      "options": [
-        "İnzibati",
-        "Cinayət",
-        "İntizam",
-        "Heç biri"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 607,
-      "text": "Dövlət Bayrağı ilə bağlı cinayət məsuliyyəti hansı məcəllədə göstərilir?",
-      "options": [
-        "Mülki Məcəllə",
-        "Cinayət Məcəlləsi",
-        "İnzibati Xətalar Məcəlləsi",
-        "Əmək Məcəlləsi"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 608,
-      "text": "Dövlət Bayrağı kimlərin iştirak etdiyi mərasimlərdə qaldırılır?",
-      "options": [
-        "Yalnız dövlət rəhbərlərinin",
-        "Yalnız idmançıların",
-        "Yalnız tələbələrin",
-        "Bütün rəsmi nümayəndə heyətlərinin"
+        "Beynəlxalq hüquq normalarına və diplomatik protokol qaydalarına uyğun olaraq daimi qaldırılır",
+        "Beynəlxalq adətlərə uyğun olaraq qaldırılır",
+        "“Azərbaycan Respublikası Dövlət bayrağının istifadəsi qaydaları haqqında” qanuna, beynəlxalq hüquq normalarına və diplomatik protokol qaydalarına uyğun olaraq daimi qaldırılır",
+        "Beynəlxalq hüquq normalarına və diplomatik protokol qaydalarına uyğun olaraq qaldırılır"
       ],
       "correctAnswer": 3
     },
     {
-      "id": 609,
-      "text": "Dövlət Bayrağı diplomatik nümayəndəliklərdə harada asılır?",
+      "id": 558,
+      "text": "Azərbaycan Respublikası Dövlət bayrağının daimi yerləşdirilməli olduğu yerlərdən biri yanlışdır:",
       "options": [
-        "Yalnız otaqlarda",
-        "Binaların üzərində",
-        "Həyətin girişində",
-        "Yalnız zalda"
+        "Naxçıvan Muxtar Respublikasının mərkəzi icra hakimiyyəti orqanları rəhbərlərinin iş otağında",
+        "Azərbaycan Respublikasının diplomatik nümayəndəlikləri və konsulluqlarının başçılarının iş otağında",
+        "Məhkəmə-Hüquq Şurası sədrinin iş otağında",
+        "Yerli icra orqanları rəhbərlərinin iş otağında"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 559,
+      "text": "Azərbaycan Respublikasının Dövlət bayrağı Azərbaycan Respublikası Prezidentinin, dövlət nümayəndə heyəti rəhbərlərinin, xidməti vəzifələrini yerinə yetirərkən diplomatik nümayəndəliklərin və konsulluqların rəhbərlərinin nəqliyyat vasitələri üzərində:",
+      "options": [
+        "Qaldırılır",
+        "Yerləşdirilir",
+        "İstifadə olunur",
+        "Daimi yerləşdirilir"
       ],
       "correctAnswer": 1
     },
     {
-      "id": 610,
-      "text": "Dövlət Bayrağı harada məcburi şəkildə qaldırılır?",
+      "id": 560,
+      "text": "Azərbaycan Respublikasının Dövlət bayrağı qanunvericiliklə müəyyənləşdirilmiş hallarda və qaydada andiçmə mərasimi keçirilən yerlərdə:",
       "options": [
-        "Məktəblərdə",
-        "Dövlət idarələrində",
-        "İdman zallarında",
-        "Bazar meydanlarında"
+        "Qaldırılır",
+        "Yerləşdirilir",
+        "İstifadə olunur",
+        "Təsvir olunur"
       ],
       "correctAnswer": 1
     },
     {
-      "id": 611,
-      "text": "Dövlət Bayrağı ilə bağlı qaydalar kim tərəfindən müəyyən olunur?",
+      "id": 561,
+      "text": "Azərbaycan Respublikası Dövlət bayrağının təsvirinin istifadə olunduğu yerlərdən biri yanlışdır:",
       "options": [
+        "Beynəlxalq uçuşları həyata keçirən Azərbaycan Respublikası mülki hava gəmilərinin üzərində",
+        "Azərbaycan Respublikasının hüdudlarından kənara uçuşlar üçün istifadə olunan hərbi nəqliyyat hava gəmilərinin üzərində",
+        "Azərbaycan Respublikası Dövlət Sərhəd Xidməti sərhəd gəmilərinin və qayıqlarının fərqləndirici nişanı kimi istifadə olunur",
+        "Yerli özünüidarə orqanlarının, qeyri-hökumət təşkilatlarının, müəssisələrin və idarələrin binaları, habelə yaşayış evləri üzərində"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 562,
+      "text": "Dərs ilinin birinci günü təhsil müəssisələrində:",
+      "options": [
+        "Dövlət bayrağı qaldırılır (asılır) və ya yerləşdirilir",
+        "Daimi qaldırılır",
+        "Dövlət bayrağının təsvirindən istifadə olunur",
+        "Heç biri doğru deyil"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 563,
+      "text": "Dövlət bayrağı qaldırılır (asılır) və ya yerləşdirilir:",
+      "options": [
+        "Azərbaycan Respublikasının Dövlət bayrağı Azərbaycan Respublikası Prezidentinin, dövlət nümayəndə heyəti rəhbərlərinin, xidməti vəzifələrini yerinə yetirərkən diplomatik nümayəndəliklərin və konsulluqların rəhbərlərinin nəqliyyat vasitələri üzərində (yerləsdirilir)",
+        "Azərbaycan Respublikasının Dövlət bayrağı qanunvericiliklə müəyyənləşdirilmiş hallarda və qaydada andiçmə mərasimi keçirilən yerlərdə (yerləsdirilir)",
+        "Azərbaycan Respublikasının diplomatik nümayəndəlikləri və konsulluqlarının başçılarının iş otaqlarında (yerləsdirilir)",
+        "Azərbaycan Respublikasının Dövlət bayrağı dövlət hakimiyyət orqanları tərəfindən keçirilən rəsmi tədbirlər və mərasimlər zamanı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 564,
+      "text": "Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulmuş matəm günlərində:",
+      "options": [
+        "Dövlət bayrağı tam olaraq endirilir",
+        "Dirəyinin yuxarı hissəsinə eni 10 santimetr olan qara lent bərkidilir",
+        "Dirəyinin aşağı hissəsinə eni 10 santimetr olan qırmızı lent bərkidilir",
+        "Dirəyinin ortasına eni 10 santimetr olan qara lent bərkidilir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 565,
+      "text": "Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulmuş matəm günlərində:",
+      "options": [
+        "Dövlət bayrağı bayraq dirəyinin yarısına qədər endirilir",
+        "Dövlət bayrağı tam olaraq endirilir",
+        "Dövlət bayrağı daimi qaldırılır",
+        "Belə hal nəzərdə tutulmayıb"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 566,
+      "text": "Azərbaycan Respublikasının Dövlət bayrağı qeyri-hökumət təşkilatlarının, siyasi partiyaların, müəssisə və idarələrin bayraqları ilə birgə qaldırılırsa (asılırsa) və ya yerləşdirilirsə:",
+      "options": [
+        "Həmin bayraqların ölçüsü Azərbaycan Respublikası Dövlət bayrağının ölçüsündən böyük olmalıdır",
+        "Həmin bayraqların ölçüsü Azərbaycan Respublikası Dövlət bayrağının ölçüsünə bərabər olmalıdır",
+        "Həmin bayraqların ölçüsü Azərbaycan Respublikası Dövlət bayrağının ölçüsündən böyük ola bilməz",
+        "Həmin bayraqların ölçüsü Azərbaycan Respublikası Dövlət bayrağının ölçüsündən kiçik ola bilməz"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 567,
+      "text": "Azərbaycan Respublikasının Dövlət bayrağı və onun təsviri, onların ölçülərindən asılı olmayaraq:",
+      "options": [
+        "Konstitusiyada müəyyən edilmiş tələblərə uyğun olmalıdır.",
+        "Prezidentin müəyyən etdiyi tələblərə uyğun olmalıdır",
+        "Nazirlər Kabinetinin müəyyən etdiyi tələblərə uyğun olmalıdır",
+        "Parlamentin müəyyən etdiyi tələblərə uyğun olmalıdır"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 568,
+      "text": "Azərbaycan Respublikası “Dövlət bayrağının istifadəsi qaydaları haqqında” qanuna əsasən əhali arasında Azərbaycan Respublikası Dövlət bayrağının mahiyyətinin və əhəmiyyətinin geniş təbliğ olunması, gənc nəslin Azərbaycan Respublikasının Dövlət bayrağına hörmət ruhunda tərbiyə edilməsi məqsədilə tədbirlər görür:",
+      "options": [
+        "Dövlət",
+        "Azərbaycan Respublikası",
         "Milli Məclis",
-        "Prezident",
-        "Nazirlər Kabineti",
-        "Konstitusiya Məhkəməsi"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 612,
-      "text": "Dövlət Bayrağı haqqında ilk dəfə rəsmi qərarı kim qəbul edib?",
-      "options": [
-        "Milli Şura",
-        "Azərbaycan Xalq Cümhuriyyəti hökuməti",
-        "Milli Məclis",
-        "Prezident"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 613,
-      "text": "Azərbaycan Xalq Cümhuriyyətinin ilk bayrağı hansı rəngdə idi?",
-      "options": [
-        "Yaşıl",
-        "Qırmızı",
-        "Mavi",
-        "Ağ"
+        "Nazirlər Kabineti"
       ],
       "correctAnswer": 1
     },
     {
-      "id": 614,
-      "text": "İlk bayrağın üzərində hansı təsvirlər var idi?",
+      "id": 569,
+      "text": "Azərbaycan Respublikası “Dövlət bayrağının istifadəsi qaydaları haqqında” qanuna əsasən Azərbaycan Respublikasının Dövlət bayrağı Azərbaycan Respublikasının Silahlı Qüvvələrinin və başqa silahlı birləşmələrinin hərbi hissə və hərbi gəmilərində aşağıdakı hallarda qaldırılır: 1. hərbi andiçmə mərasimində 2. hərbi hissələr (bölmələr) və ya hərbi gəmilər xarici dövlətin ərazisində (ərazi sularında) olduqda 3. matəm günlərində 4. Azərbaycan Respublikasının bayram günlərində",
       "options": [
-        "Aypara və səkkizguşəli ulduz",
-        "Sadəcə səkkizguşəli ulduz",
-        "Sadəcə aypara",
-        "Heç bir təsvir yox idi"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 615,
-      "text": "Hazırkı Dövlət Bayrağı nə vaxt bərpa olunub?",
-      "options": [
-        "1990",
-        "1991",
-        "1992",
-        "1993"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 616,
-      "text": "Azərbaycan Respublikasında Dövlət Bayrağı Günü nə vaxtdan qeyd olunur?",
-      "options": [
-        "2007",
-        "2008",
-        "2009",
-        "2010"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 617,
-      "text": "Dövlət Bayrağı Günü hansı qərarla təsis olunub?",
-      "options": [
-        "Milli Məclis qərarı ilə",
-        "Prezident sərəncamı ilə",
-        "Nazirlər Kabineti qərarı ilə",
-        "Konstitusiya dəyişiklikləri ilə"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 618,
-      "text": "Bayraq Meydanı layihəsi kim tərəfindən hazırlanıb?",
-      "options": [
-        "Dövlət Memarlıq Komitəsi",
-        "Əcəmi Memarlıq Bürosu",
-        "Amerikalı mühəndis Devid Çeyz",
-        "Azərbaycan Memarlar İttifaqı"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 619,
-      "text": "Bayraq Meydanının tikintisi hansı ildə başa çatıb?",
-      "options": [
-        "2007",
-        "2009",
-        "2010",
-        "2011"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 620,
-      "text": "Bayraq Meydanında yerləşən muzeydə nə sərgilənir?",
-      "options": [
-        "Azərbaycan tarixi",
-        "Dövlət rəmzləri",
-        "Milli musiqilər",
-        "Xalça nümunələri"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 621,
-      "text": "Dövlət Bayrağına dair qaydaları pozanlara hansı məsuliyyət tədbirləri tətbiq olunur?",
-      "options": [
-        "İnzibati və cinayət",
-        "Yalnız intizam",
-        "Yalnız inzibati",
-        "Heç biri"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 622,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı hansı binada daimi olaraq dalğalanır?",
-      "options": [
-        "Milli Məclis",
-        "Prezident Administrasiyası",
-        "Nazirlər Kabineti",
-        "Hamısında"
+        "Yalnız 1,4",
+        "Hamısı",
+        "1,3,4",
+        "1,2,4"
       ],
       "correctAnswer": 3
     },
     {
-      "id": 623,
-      "text": "Dövlət Bayrağı hansı hallarda yarıya qədər endirilir?",
+      "id": 570,
+      "text": "Xarici dövlətin bayrağı altında üzən gəmi Azərbaycan Respublikasının daxili sularında üzərkən və ya Azərbaycan Respublikasının limanında dayanarkən öz bayrağı ilə yanaşı Azərbaycan Respublikasının Dövlət bayrağını da qaldırmalıdır:",
       "options": [
-        "Matəm günlərində",
-        "Bayramlarda",
-        "Rəsmi tədbirlərdə",
-        "İdman yarışlarında"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 624,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı hansı məqsədlə digər ölkələrdə də qaldırılır?",
-      "options": [
-        "Diplomatik nümayəndəliklərdə",
-        "İdman yarışlarında",
-        "Mədəniyyət tədbirlərində",
-        "Hamısında"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 625,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı harada təsvir olunur?",
-      "options": [
-        "Rəsmi sənədlərdə",
-        "Pul nişanlarında",
-        "Medallarda",
-        "Hamısında"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 626,
-      "text": "Dövlət Bayrağının qaldırılması zamanı hansı musiqi səsləndirilir?",
-      "options": [
-        "Azərbaycan marşı",
-        "İstiqlal marşı",
-        "Bayraq marşı",
-        "Himnsiz keçirilir"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 627,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı hansı statusa malikdir?",
-      "options": [
-        "Milli atribut",
-        "Dövlət rəmzi",
-        "Mədəniyyət simvolu",
-        "Tarixi abidə"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 628,
-      "text": "Dövlət Bayrağı harada xüsusi mühafizə olunur?",
-      "options": [
-        "Bayraq Meydanında",
-        "Dövlət idarələrində",
-        "Hərbi hissələrdə",
-        "Hamısında"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 629,
-      "text": "Dövlət Bayrağı ilə bağlı qaydalar harada təsbit olunub?",
-      "options": [
-        "Konstitusiyada",
-        "Qanunvericilik aktlarında",
-        "Nazirlər Kabineti qərarlarında",
-        "Hamısında"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 630,
-      "text": "Dövlət Bayrağı hansı dövlət orqanlarında mütləq qaldırılır?",
-      "options": [
-        "Prezident Administrasiyasında",
-        "Milli Məclisdə",
-        "Nazirlər Kabinetində",
-        "Hamısında"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 631,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı hansı hüquqa əsaslanaraq istifadə olunur?",
-      "options": [
-        "Milli qanunlara",
-        "Beynəlxalq müqavilələrə",
-        "Ənənələrə",
-        "Hamısına"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 632,
-      "text": "Dövlət Bayrağı hansı hallarda beynəlxalq arenada qaldırılır?",
-      "options": [
-        "Diplomatik görüşlərdə",
-        "İdman yarışlarında",
-        "Mədəniyyət tədbirlərində",
-        "Hamısında"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 633,
-      "text": "Dövlət Bayrağı ilə bağlı qaydaların pozulması hansı məsuliyyət doğurur?",
-      "options": [
-        "İntizam",
-        "İnzibati",
-        "Cinayət",
-        "Hamısı"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 634,
-      "text": "Dövlət Bayrağı hansı dövlət sənədlərində təsvir olunur?",
-      "options": [
-        "Pasportda",
-        "Şəxsiyyət vəsiqəsində",
-        "Diplomlarda",
-        "Hamısında"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 635,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı hansı qurumlarda qaldırılmalıdır?",
-      "options": [
-        "Hərbi hissələrdə",
-        "Dövlət müəssisələrində",
-        "Təhsil müəssisələrində",
-        "Hamısında"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 636,
-      "text": "Dövlət Bayrağına zərər vurmaq hansı məsuliyyəti yaradır?",
-      "options": [
-        "İnzibati",
-        "Cinayət",
-        "İntizam",
-        "Heç biri"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 637,
-      "text": "Dövlət Bayrağının rənglərinin mənası harada izah olunub?",
-      "options": [
-        "Konstitusiyada",
-        "Qanunda",
-        "Tarixi sənədlərdə",
-        "Hamısında"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 638,
-      "text": "Dövlət Bayrağı Günü hansı statusa malikdir?",
-      "options": [
-        "Dövlət bayramı",
-        "Xalq bayramı",
-        "Yubiley günü",
-        "Qeyri-rəsmi gün"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 639,
-      "text": "Dövlət Bayrağı hansı ərazilərdə qaldırılır?",
-      "options": [
-        "Azərbaycan ərazisində",
-        "Xarici ölkələrdəki nümayəndəliklərdə",
-        "Beynəlxalq tədbirlərdə",
-        "Hamısında"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 640,
-      "text": "Dövlət Bayrağı hansı hallarda endirilə bilməz?",
-      "options": [
-        "Bayramlarda",
-        "Rəsmi tədbirlərdə",
-        "Qələbə günlərində",
-        "Hamısında"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 641,
-      "text": "Dövlət Bayrağı kimlər tərəfindən mühafizə olunur?",
-      "options": [
-        "Dövlət orqanları",
-        "Hüquq-mühafizə orqanları",
-        "Vətəndaşlar",
-        "Hamısı"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 642,
-      "text": "Dövlət Bayrağı hansı prinsiplərlə qaldırılmalıdır?",
-      "options": [
-        "Qanunçuluq",
-        "Hörmət",
-        "Şəffaflıq",
-        "Hamısı"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 643,
-      "text": "Dövlət Bayrağı hansı hallarda vətəndaşların evlərində asıla bilər?",
-      "options": [
-        "Bayram günlərində",
-        "Rəsmi tədbirlərdə",
-        "Qələbə günlərində",
-        "Hamısında"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 644,
-      "text": "Dövlət Bayrağı ilə bağlı maarifləndirmə işləri kim tərəfindən aparılır?",
-      "options": [
-        "Dövlət orqanları",
-        "Təhsil müəssisələri",
-        "Media",
-        "Hamısı"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 645,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı kim tərəfindən qorunur?",
-      "options": [
-        "Dövlət orqanları",
-        "Hərbi hissələr",
-        "Hüquq-mühafizə orqanları",
-        "Hamısı"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 646,
-      "text": "Dövlət Bayrağı hansı sahədə vətəndaşların vəzifəsidir?",
-      "options": [
-        "Qorumaq və hörmət etmək",
-        "İstifadə etmək",
-        "Qanunları öyrənmək",
-        "Maarifləndirmək"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 647,
-      "text": "Dövlət Bayrağı hansı hallarda təhqir hesab olunur?",
-      "options": [
-        "Yandırıldıqda",
-        "Cırıldıqda",
-        "Tapdalandıqda",
-        "Hamısında"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 648,
-      "text": "Dövlət Bayrağı hansı hallarda yarıya qədər endirilir?",
-      "options": [
-        "Matəm günlərində",
-        "Bayram günlərində",
-        "Qələbə günlərində",
-        "Xüsusi tədbirlərdə"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 649,
-      "text": "Dövlət Bayrağı ilə bağlı beynəlxalq protokolda əsas qayda nədir?",
-      "options": [
-        "Bayraq digər dövlətlərin bayraqları ilə bərabər dalğalanmalıdır",
-        "Bayraq hər zaman ən yüksəkdə olmalıdır",
-        "Bayraq yalnız rəsmi tədbirlərdə qaldırılmalıdır",
-        "Bayraq yalnız dövlət idarələrində olmalıdır"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 650,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı hansı sənəddə dövlət rəmzi kimi təsbit olunub?",
-      "options": [
-        "Konstitusiyada",
-        "Milli Məclis qərarında",
-        "Nazirlər Kabineti sərəncamında",
-        "Prezident fərmanında"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 651,
-      "text": "Dövlət Bayrağı hansı hallarda idman yarışlarında qaldırılır?",
-      "options": [
-        "Yalnız birinci yer qalibləri üçün",
-        "Yalnız beynəlxalq yarışlarda",
-        "Qalib gələn bütün yerlər üçün",
-        "Rəsmi açılış və bağlanış mərasimlərində"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 652,
-      "text": "Dövlət Bayrağı harada xüsusi rəmzi məna daşıyır?",
-      "options": [
-        "Qəhrəmanların məzarlarında",
-        "Milli Qəhrəmanların xatirə komplekslərində",
-        "Şəhidlər xiyabanında",
-        "Hamısında"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 653,
-      "text": "Dövlət Bayrağı hansı hallarda dövlət atributu kimi istifadə olunur?",
-      "options": [
-        "Rəsmi sənədlərdə",
-        "Məhkəmə zallarında",
-        "Hərbi hissələrdə",
-        "Hamısında"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 654,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı hansı bayramda xüsusi önəm daşıyır?",
-      "options": [
-        "Müstəqillik günü",
-        "Konstitusiya günü",
-        "Dövlət Bayrağı günü",
-        "Hamısında"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 655,
-      "text": "Dövlət Bayrağı ilə bağlı qaydaların pozulmasına görə məsuliyyət hansı qanunvericilikdə nəzərdə tutulub?",
-      "options": [
-        "Cinayət Məcəlləsində",
-        "İnzibati Xətalar Məcəlləsində",
-        "Qanunvericilik aktlarında",
-        "Hamısında"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 656,
-      "text": "Dövlət Bayrağı hansı hallarda vətəndaşların təşəbbüsü ilə qaldırılır?",
-      "options": [
-        "Bayramlarda",
-        "Matəm günlərində",
-        "İdman qələbələrində",
-        "Hamısında"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 657,
-      "text": "Dövlət Bayrağı hansı rənglərin birləşməsindən ibarətdir?",
-      "options": [
-        "Qırmızı, yaşıl, mavi",
-        "Ağ, qara, yaşıl",
-        "Mavi, qırmızı, yaşıl",
-        "Qırmızı, ağ, yaşıl"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 658,
-      "text": "Dövlət Bayrağı Günü hansı tarixdə təsis olunub?",
-      "options": [
-        "2007",
-        "2008",
-        "2009",
-        "2010"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 659,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı hansı ideyaları ifadə edir?",
-      "options": [
-        "Türklük, müasirlik, islam",
-        "Azadlıq, bərabərlik, qardaşlıq",
-        "Ədalət, inkişaf, müstəqillik",
-        "Mədəniyyət, dövlətçilik, müstəqillik"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 660,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı hansı simvolları özündə birləşdirir?",
-      "options": [
-        "Aypara və səkkizguşəli ulduz",
-        "Sadəcə aypara",
-        "Sadəcə səkkizguşəli ulduz",
-        "Heç biri"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 661,
-      "text": "Dövlət Bayrağı hansı dövlət binasında daima qaldırılır?",
-      "options": [
-        "Milli Məclis",
-        "Prezident Sarayı",
-        "Nazirlər Kabineti",
-        "Hamısında"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 662,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı hansı beynəlxalq təşkilatlarda nümayiş olunur?",
-      "options": [
-        "BMT",
-        "Avropa Şurası",
-        "Türk Dövlətləri Təşkilatı",
-        "Hamısında"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 663,
-      "text": "Dövlət Bayrağı ilə bağlı xüsusi tələblərə riayət etməyənlərə hansı tədbir görülür?",
-      "options": [
-        "İnzibati cərimə",
-        "İntizam tənbehi",
-        "Cinayət məsuliyyəti",
-        "Hamısı"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 664,
-      "text": "Dövlət Bayrağına hörmət etməyən şəxslərin məsuliyyəti hansı qanunla tənzimlənir?",
-      "options": [
-        "Cinayət Məcəlləsi",
-        "İnzibati Xətalar Məcəlləsi",
-        "Konstitusiya",
-        "Hamısı"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 665,
-      "text": "Dövlət Bayrağı hansı gün münasibətilə rəsmi tədbirlərdə xüsusi vurğulanır?",
-      "options": [
-        "9 noyabr",
-        "18 oktyabr",
-        "12 noyabr",
-        "31 dekabr"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 666,
-      "text": "Dövlət Bayrağı hansı orqanların iclaslarında mütləq asılır?",
-      "options": [
-        "Milli Məclis",
-        "Nazirlər Kabineti",
-        "Məhkəmə iclasları",
-        "Hamısında"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 667,
-      "text": "Dövlət Bayrağı hansı hallarda idmançılara təqdim olunur?",
-      "options": [
-        "Qələbə qazandıqda",
-        "Beynəlxalq yarışlarda",
-        "Mükafatlandırma mərasimlərində",
-        "Hamısında"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 668,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı hansı dövlət atributları ilə yanaşı təsbit olunub?",
-      "options": [
-        "Gerb və himn",
-        "Konstitusiya",
-        "Müstəqillik Aktı",
-        "Heç biri"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 669,
-      "text": "Dövlət Bayrağı diplomatik münasibətlərdə hansı statusa malikdir?",
-      "options": [
-        "Rəsmi dövlət rəmzi",
-        "Xatirə simvolu",
-        "Mədəni atribut",
-        "Heç biri"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 670,
-      "text": "Dövlət Bayrağı hansı hallarda dövlət rəhbərinin yanında daşıyır?",
-      "options": [
-        "Rəsmi səfərlərdə",
-        "Mərasimlərdə",
-        "Beynəlxalq görüşlərdə",
-        "Hamısında"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 671,
-      "text": "Dövlət Bayrağı hansı hallarda hərbi hissələrdə qaldırılır?",
-      "options": [
-        "Hərbi andiçmədə",
-        "Hərbi paradlarda",
-        "Matəm mərasimlərində",
-        "Hamısında"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 672,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı hansı rənglərdən ibarətdir?",
-      "options": [
-        "Mavi, qırmızı, yaşıl",
-        "Yaşıl, qırmızı, ağ",
-        "Qara, qırmızı, yaşıl",
-        "Mavi, ağ, qırmızı"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 673,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı hansı forma üzərində təsvir olunur?",
-      "options": [
-        "Düzbucaqlı",
-        "Kvadrat",
-        "Üçbucaq",
-        "Oval"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 674,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı hansı rəmzləri əks etdirir?",
-      "options": [
-        "Aypara və səkkizguşəli ulduz",
-        "Sadəcə aypara",
-        "Sadəcə səkkizguşəli ulduz",
-        "Heç biri"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 675,
-      "text": "Səkkizguşəli ulduzun mənası nədir?",
-      "options": [
-        "Səkkiz türk boyu",
-        "İslam",
-        "Müstəqillik",
-        "Azadlıq"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 676,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı hansı qanunverici aktla qəbul olunub?",
-      "options": [
-        "Milli Məclis qərarı ilə",
-        "Prezident fərmanı ilə",
-        "Nazirlər Kabineti qərarı ilə",
-        "Məhkəmə qərarı ilə"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 677,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı Günü hansı tarixdə təsis olunub?",
-      "options": [
-        "2007-ci il",
-        "2008-ci il",
-        "2009-cu il",
-        "2010-cu il"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 678,
-      "text": "Dövlət Bayrağı harada ən yüksək hündürlükdə qaldırılıb?",
-      "options": [
-        "Bayraq Meydanında",
-        "Milli Məclisdə",
-        "Prezident Sarayında",
-        "Naxçıvanda"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 679,
-      "text": "Dövlət Bayrağı ilə bağlı əsas qanunvericilik aktı hansıdır?",
-      "options": [
-        "Konstitusiya",
-        "Dövlət Bayrağı haqqında Qanun",
-        "Prezident fərmanı",
-        "Milli Məclis qərarı"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 680,
-      "text": "Dövlət Bayrağı Günü hansı statusa malikdir?",
-      "options": [
-        "Rəsmi dövlət bayramı",
-        "Qeyri-rəsmi gün",
-        "Yubiley",
-        "Xatirə günü"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 681,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı ilk dəfə harada təsdiqlənib?",
-      "options": [
-        "Gəncədə",
-        "Bakıda",
-        "Tiflisdə",
-        "Şuşada"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 682,
-      "text": "Dövlət Bayrağı hansı hallarda mütləq asılmalıdır?",
-      "options": [
-        "Dövlət idarələrində",
-        "Təhsil müəssisələrində",
-        "Diplomatik nümayəndəliklərdə",
-        "Hamısında"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 683,
-      "text": "Dövlət Bayrağı ilə bağlı qaydaları pozan şəxslər hansı məsuliyyətə cəlb olunur?",
-      "options": [
-        "İnzibati",
-        "Cinayət",
-        "İntizam",
-        "Hamısı"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 684,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı hansı prinsipləri ifadə edir?",
-      "options": [
-        "Türklük, müasirlik, islam",
-        "Azadlıq, bərabərlik, qardaşlıq",
-        "İnkişaf, ədalət, dövlətçilik",
+        "Beynəlxalq dəniz adətlərinə uyğun olaraq",
+        "“Dövlət bayrağı haqqında Əsasnaməyə” uyğun olaraq",
+        "“Dövlət bayrağından istifadə haqqında” Azərbaycan Respublikasının qanununa uyğun olaraq",
         "Hamısı"
       ],
       "correctAnswer": 0
     },
     {
-      "id": 685,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı neçə rəngdən ibarətdir?",
+      "id": 571,
+      "text": "“Dövlət bayrağının istifadə edilməsi qaydaları haqqında Azərbaycan Respublikasının qanunu” nə vaxt qəbul edilib?",
       "options": [
-        "İki",
-        "Üç",
-        "Dörd",
-        "Beş"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 686,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağının üzərində neçəguşəli ulduz var?",
-      "options": [
-        "Beşgüşəli",
-        "Yeddi guşəli",
-        "Səkkizguşəli",
-        "On guşəli"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 687,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağında hansı rəmzlər əks olunub?",
-      "options": [
-        "Aypara və ulduz",
-        "Sadəcə aypara",
-        "Sadəcə ulduz",
-        "Heç biri"
+        "8 iyun 2004-cü il",
+        "23 iyun 2005-ci il",
+        "16 mart 2008-ci il",
+        "23 fevral 1993-cı il"
       ],
       "correctAnswer": 0
     },
     {
-      "id": 688,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağında mavi rəng nəyi ifadə edir?",
+      "id": 572,
+      "text": "Azərbaycan Respublikası Dövlət bayrağının qaldırılmalı olduğu yerləri seçin: 1. Azərbaycan Respublikası Prezident sarayının və dövlət iqamətgahlarının üzərində 2. Səhmləri Azərbaycan Respublikasına məxsus olan müəssisə rəhbərlərinin olduğu binanın üzərində 3. Azərbaycan Respublikası Milli Məclisinin inzibati binasının üzərində 4. Azərbaycan Respublikasının Milli Məclisinin deputatlarının yaşadıqları evlərin üzərində 5. Naxçıvan Muxtar Respublikası Ali Məhkəməsinin inzibati binasının üzərində",
       "options": [
-        "Türklüyü",
-        "Müstəqilliyi",
-        "İslamı",
-        "Müasirliyi"
+        "1,2,3",
+        "3,4,5",
+        "1,3,5",
+        "2,4,5"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 573,
+      "text": "Azərbaycan Respublikası Dövlət bayrağının istifadəsinə dair məhdudiyyətləri seçin: 1. Masaların üstünə sərilmə 2. Kürsülərin üstünə sərilmə 3. Oturulan yerlərə qoyulma 4. Azərbaycan Respublikası Nazirlər Kabinetinin inzibati binasının üzərində qaldırılma 5. Azərbaycan Respublikasının diplomatik nümayəndəlikləri başçılarının iş otaqlarında yerləşdirilmə",
+      "options": [
+        "1,2,3",
+        "3,4,5",
+        "1,3,5",
+        "2,3,4"
       ],
       "correctAnswer": 0
-    },
-    {
-      "id": 689,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağında qırmızı rəng nəyi ifadə edir?",
-      "options": [
-        "Müstəqilliyi",
-        "Müasirliyi",
-        "Azadlığı",
-        "Türklüyü"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 690,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağında yaşıl rəng nəyi ifadə edir?",
-      "options": [
-        "İslamı",
-        "Türklüyü",
-        "Müasirliyi",
-        "Müstəqilliyi"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 691,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı ilk dəfə hansı ildə qəbul olunub?",
-      "options": [
-        "1918",
-        "1920",
-        "1991",
-        "1992"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 692,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı yenidən dövlət atributu kimi nə vaxt bərpa olunub?",
-      "options": [
-        "1988",
-        "1990",
-        "1991",
-        "1992"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 693,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı rəsmi olaraq hansı orqanda təsdiq edilib?",
-      "options": [
-        "Milli Məclis",
-        "Azərbaycan Xalq Cümhuriyyəti hökuməti",
-        "Nazirlər Kabineti",
-        "Prezident Administrasiyası"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 694,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı Günü hansı tarixdə qeyd olunur?",
-      "options": [
-        "18 oktyabr",
-        "12 noyabr",
-        "9 noyabr",
-        "31 dekabr"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 695,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı Meydanı haradadır?",
-      "options": [
-        "Gəncə",
-        "Naxçıvan",
-        "Bakı",
-        "Şuşa"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 696,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı Meydanında bayraq hansı hündürlükdə dalğalanır?",
-      "options": [
-        "120 metr",
-        "150 metr",
-        "162 metr",
-        "200 metr"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 697,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağının uzunluğu neçə metrdir?",
-      "options": [
-        "20",
-        "35",
-        "50",
-        "70"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 698,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağının eni neçə metrdir?",
-      "options": [
-        "10",
-        "15",
-        "17",
-        "20"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 699,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı Meydanında dirəyin çəkisi neçə tondur?",
-      "options": [
-        "150",
-        "200",
-        "220",
-        "250"
-      ],
-      "correctAnswer": 2
-    },
-    {
-      "id": 700,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı Meydanı hansı il açılıb?",
-      "options": [
-        "2009",
-        "2010",
-        "2011",
-        "2012"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 701,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı Günü hansı qanunvericilik aktı ilə təsdiq olunub?",
-      "options": [
-        "Milli Məclis qərarı ilə",
-        "Prezident fərmanı ilə",
-        "Nazirlər Kabineti sərəncamı ilə",
-        "Konstitusiya ilə"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 702,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı hansı qurum tərəfindən təsdiq olunmuş standartlara əsasən hazırlanır?",
-      "options": [
-        "Nazirlər Kabineti",
-        "Dövlət Standartlaşdırma Komitəsi",
-        "Milli Məclis",
-        "Prezident Administrasiyası"
-      ],
-      "correctAnswer": 1
-    },
-    {
-      "id": 703,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağının qorunması və istifadəsinə kim nəzarət edir?",
-      "options": [
-        "Nazirlər Kabineti",
-        "Milli Məclis",
-        "Hüquq-mühafizə orqanları",
-        "Hamısı"
-      ],
-      "correctAnswer": 3
-    },
-    {
-      "id": 704,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı hansı rəmzlərlə birlikdə dövlət atributudur?",
-      "options": [
-        "Gerb və himn",
-        "Sadəcə gerb",
-        "Sadəcə himn",
-        "Heç biri"
-      ],
-      "correctAnswer": 0
-    },
-    {
-      "id": 585,
-      "text": "Azərbaycan Respublikasının Dövlət Bayrağı neçə rəngdən ibarətdir?",
-      "options": [
-        "İki rəngdən",
-        "Üç rəngdən",
-        "Dörd rəngdən",
-        "Beş rəngdən"
-      ],
-      "correctAnswer": 1
     }
-    
   ]
 }
-
-
-
-
-
