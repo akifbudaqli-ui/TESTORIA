@@ -11,8 +11,7 @@
         "1991-ci il 18 oktyabr",
         "1992-ci il 5 fevral"
       ],
-      "correctAnswer": 0,
-      "explanation": "Bayraq 1918-ci il 9 noyabrda qəbul olunub."
+      "correctAnswer": 0
     },
     {
       "id": 586,
@@ -23,8 +22,7 @@
         "70 il",
         "80 il"
       ],
-      "correctAnswer": 2,
-      "explanation": "70 il qadağan olunmuşdu."
+      "correctAnswer": 2
     },
     {
       "id": 587,
@@ -35,8 +33,7 @@
         "Üçbucaq",
         "Oval"
       ],
-      "correctAnswer": 0,
-      "explanation": "Bayraq düzbucaqlı formalıdır."
+      "correctAnswer": 0
     },
     {
       "id": 588,
@@ -47,8 +44,7 @@
         "Dörd",
         "Beş"
       ],
-      "correctAnswer": 1,
-      "explanation": "Bayraq üç rəngli zolaqdan ibarətdir."
+      "correctAnswer": 1
     },
     {
       "id": 589,
@@ -59,8 +55,7 @@
         "Mavi",
         "Ağ"
       ],
-      "correctAnswer": 2,
-      "explanation": "Yuxarı zolaq mavi rəngdədir."
+      "correctAnswer": 2
     },
     {
       "id": 590,
@@ -71,8 +66,7 @@
         "İslamı",
         "Qələbəni"
       ],
-      "correctAnswer": 1,
-      "explanation": "Qırmızı rəng müasirliyi və inkişafı bildirir."
+      "correctAnswer": 1
     },
     {
       "id": 591,
@@ -83,8 +77,7 @@
         "Qələbəni",
         "Azadlığı"
       ],
-      "correctAnswer": 0,
-      "explanation": "Yaşıl rəng islamı ifadə edir."
+      "correctAnswer": 0
     },
     {
       "id": 592,
@@ -95,8 +88,7 @@
         "İslamı",
         "Müasirliyi"
       ],
-      "correctAnswer": 1,
-      "explanation": "Mavi rəng türklüyü bildirir."
+      "correctAnswer": 1
     },
     {
       "id": 593,
@@ -107,8 +99,7 @@
         "Səkkizguşəli",
         "Onikiguşəli"
       ],
-      "correctAnswer": 2,
-      "explanation": "Səkkizguşəli ulduz təsvir olunub."
+      "correctAnswer": 2
     },
     {
       "id": 594,
@@ -119,8 +110,7 @@
         "Dövlətçiliyi",
         "Müstəqilliyi"
       ],
-      "correctAnswer": 0,
-      "explanation": "Səkkiz türk boyunu ifadə edir."
+      "correctAnswer": 0
     },
     {
       "id": 595,
@@ -131,8 +121,7 @@
         "Yəhudiliyi",
         "Budizmi"
       ],
-      "correctAnswer": 1,
-      "explanation": "Aypara islamı simvolizə edir."
+      "correctAnswer": 1
     },
     {
       "id": 596,
@@ -143,8 +132,7 @@
         "Maddə 23",
         "Maddə 25"
       ],
-      "correctAnswer": 2,
-      "explanation": "Bayraq Konstitusiyanın 23-cü maddəsindədir."
+      "correctAnswer": 2
     },
     {
       "id": 597,
@@ -155,8 +143,7 @@
         "1995-ci il",
         "2000-ci il"
       ],
-      "correctAnswer": 1,
-      "explanation": "Qanun 1992-ci ildə qəbul olunub."
+      "correctAnswer": 1
     },
     {
       "id": 598,
@@ -167,8 +154,7 @@
         "Şuşa",
         "Naxçıvan"
       ],
-      "correctAnswer": 1,
-      "explanation": "Bayraq Meydanı Bakıda yerləşir."
+      "correctAnswer": 1
     },
     {
       "id": 599,
@@ -179,8 +165,7 @@
         "172",
         "202"
       ],
-      "correctAnswer": 1,
-      "explanation": "Meydanın hündürlüyü 162 metrdir."
+      "correctAnswer": 1
     },
     {
       "id": 600,
@@ -191,8 +176,7 @@
         "35x70 metr",
         "50x100 metr"
       ],
-      "correctAnswer": 2,
-      "explanation": "Bayrağın ölçüləri 35x70 metrdir."
+      "correctAnswer": 2
     },
     {
       "id": 601,
@@ -203,8 +187,7 @@
         "9 noyabr",
         "31 dekabr"
       ],
-      "correctAnswer": 2,
-      "explanation": "Dövlət Bayrağı Günü 9 noyabrda qeyd olunur."
+      "correctAnswer": 2
     },
     {
       "id": 602,
@@ -215,8 +198,7 @@
         "Rəsmi bayramlarda",
         "İdman yarışlarında"
       ],
-      "correctAnswer": 0,
-      "explanation": "Matəm günlərində endirilir."
+      "correctAnswer": 0
     },
     {
       "id": 603,
@@ -227,8 +209,7 @@
         "Dövlət orqanları və diplomatik nümayəndəliklərin",
         "Bütün vətəndaşların"
       ],
-      "correctAnswer": 2,
-      "explanation": "Dövlət orqanları və diplomatik nümayəndəliklərdə qaldırılır."
+      "correctAnswer": 2
     },
     {
       "id": 604,
@@ -239,8 +220,7 @@
         "Hərbi hissələrdə",
         "Hamısında"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bütün hallarda xüsusi mühafizə olunur."
+      "correctAnswer": 3
     },
     {
       "id": 605,
@@ -251,8 +231,7 @@
         "Bayraq yalnız bayram günlərində qaldırılmalıdır",
         "Bayraq yalnız beynəlxalq tədbirlərdə istifadə olunmalıdır"
       ],
-      "correctAnswer": 0,
-      "explanation": "Bayraq hər zaman təmiz və səliqəli saxlanmalıdır."
+      "correctAnswer": 0
     },
     {
       "id": 606,
@@ -263,8 +242,7 @@
         "İntizam",
         "Heç biri"
       ],
-      "correctAnswer": 1,
-      "explanation": "Cinayət məsuliyyəti nəzərdə tutulur."
+      "correctAnswer": 1
     },
     {
       "id": 607,
@@ -275,8 +253,7 @@
         "İnzibati Xətalar Məcəlləsi",
         "Əmək Məcəlləsi"
       ],
-      "correctAnswer": 1,
-      "explanation": "Cinayət Məcəlləsində nəzərdə tutulub."
+      "correctAnswer": 1
     },
     {
       "id": 608,
@@ -287,8 +264,7 @@
         "Yalnız tələbələrin",
         "Bütün rəsmi nümayəndə heyətlərinin"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bütün rəsmi nümayəndə heyətlərində qaldırılır."
+      "correctAnswer": 3
     },
     {
       "id": 609,
@@ -299,8 +275,7 @@
         "Həyətin girişində",
         "Yalnız zalda"
       ],
-      "correctAnswer": 1,
-      "explanation": "Binaların üzərində asılır."
+      "correctAnswer": 1
     },
     {
       "id": 610,
@@ -311,8 +286,7 @@
         "İdman zallarında",
         "Bazar meydanlarında"
       ],
-      "correctAnswer": 1,
-      "explanation": "Dövlət idarələrində məcburidir."
+      "correctAnswer": 1
     },
     {
       "id": 611,
@@ -323,8 +297,7 @@
         "Nazirlər Kabineti",
         "Konstitusiya Məhkəməsi"
       ],
-      "correctAnswer": 2,
-      "explanation": "Nazirlər Kabineti qaydaları müəyyən edir."
+      "correctAnswer": 2
     },
     {
       "id": 612,
@@ -335,8 +308,7 @@
         "Milli Məclis",
         "Prezident"
       ],
-      "correctAnswer": 0,
-      "explanation": "İlk qərar Milli Şura tərəfindən qəbul edilib."
+      "correctAnswer": 0
     },
     {
       "id": 613,
@@ -347,8 +319,7 @@
         "Mavi",
         "Ağ"
       ],
-      "correctAnswer": 1,
-      "explanation": "İlk bayraq qırmızı rəngdə idi."
+      "correctAnswer": 1
     },
     {
       "id": 614,
@@ -359,8 +330,7 @@
         "Sadəcə aypara",
         "Heç bir təsvir yox idi"
       ],
-      "correctAnswer": 0,
-      "explanation": "İlk bayrağın üzərində aypara və səkkizguşəli ulduz var idi."
+      "correctAnswer": 0
     },
     {
       "id": 615,
@@ -371,8 +341,7 @@
         "1992",
         "1993"
       ],
-      "correctAnswer": 2,
-      "explanation": "Hazırkı bayraq 1992-ci ildə bərpa olunub."
+      "correctAnswer": 2
     },
     {
       "id": 616,
@@ -383,8 +352,7 @@
         "2009",
         "2010"
       ],
-      "correctAnswer": 2,
-      "explanation": "Bayraq Günü 2009-cu ildən qeyd olunur."
+      "correctAnswer": 2
     },
     {
       "id": 617,
@@ -395,8 +363,7 @@
         "Nazirlər Kabineti qərarı ilə",
         "Konstitusiya dəyişiklikləri ilə"
       ],
-      "correctAnswer": 1,
-      "explanation": "Prezident sərəncamı ilə təsis olunub."
+      "correctAnswer": 1
     },
     {
       "id": 618,
@@ -407,8 +374,7 @@
         "Amerikalı mühəndis Devid Çeyz",
         "Azərbaycan Memarlar İttifaqı"
       ],
-      "correctAnswer": 2,
-      "explanation": "Layihə amerikalı mühəndis Devid Çeyz tərəfindən hazırlanıb."
+      "correctAnswer": 2
     },
     {
       "id": 619,
@@ -419,8 +385,7 @@
         "2010",
         "2011"
       ],
-      "correctAnswer": 2,
-      "explanation": "Tikinti 2010-cu ildə başa çatıb."
+      "correctAnswer": 2
     },
     {
       "id": 620,
@@ -431,8 +396,7 @@
         "Milli musiqilər",
         "Xalça nümunələri"
       ],
-      "correctAnswer": 1,
-      "explanation": "Muzeydə dövlət rəmzləri sərgilənir."
+      "correctAnswer": 1
     },
     {
       "id": 621,
@@ -443,8 +407,7 @@
         "Yalnız inzibati",
         "Heç biri"
       ],
-      "correctAnswer": 0,
-      "explanation": "İnzibati və cinayət məsuliyyəti var."
+      "correctAnswer": 0
     },
     {
       "id": 622,
@@ -455,8 +418,7 @@
         "Nazirlər Kabineti",
         "Hamısında"
       ],
-      "correctAnswer": 3,
-      "explanation": "Dövlət Bayrağı bütün əsas dövlət binalarında dalğalanır."
+      "correctAnswer": 3
     },
     {
       "id": 623,
@@ -467,8 +429,7 @@
         "Rəsmi tədbirlərdə",
         "İdman yarışlarında"
       ],
-      "correctAnswer": 0,
-      "explanation": "Matəm günlərində yarıya qədər endirilir."
+      "correctAnswer": 0
     },
     {
       "id": 624,
@@ -479,8 +440,7 @@
         "Mədəniyyət tədbirlərində",
         "Hamısında"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bayraq bütün bu hallarda qaldırılır."
+      "correctAnswer": 3
     },
     {
       "id": 625,
@@ -491,8 +451,7 @@
         "Medallarda",
         "Hamısında"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bayraq bütün rəsmi atributlarda təsvir olunur."
+      "correctAnswer": 3
     },
     {
       "id": 626,
@@ -503,8 +462,7 @@
         "Bayraq marşı",
         "Himnsiz keçirilir"
       ],
-      "correctAnswer": 0,
-      "explanation": "Azərbaycan marşı səsləndirilir."
+      "correctAnswer": 0
     },
     {
       "id": 627,
@@ -515,8 +473,7 @@
         "Mədəniyyət simvolu",
         "Tarixi abidə"
       ],
-      "correctAnswer": 1,
-      "explanation": "Bayraq dövlət rəmzidir."
+      "correctAnswer": 1
     },
     {
       "id": 628,
@@ -527,8 +484,7 @@
         "Hərbi hissələrdə",
         "Hamısında"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bayraq bütün bu yerlərdə mühafizə olunur."
+      "correctAnswer": 3
     },
     {
       "id": 629,
@@ -539,8 +495,7 @@
         "Nazirlər Kabineti qərarlarında",
         "Hamısında"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bütün bu sənədlərdə təsbit olunub."
+      "correctAnswer": 3
     },
     {
       "id": 630,
@@ -551,8 +506,7 @@
         "Nazirlər Kabinetində",
         "Hamısında"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bütün əsas dövlət orqanlarında qaldırılır."
+      "correctAnswer": 3
     },
     {
       "id": 631,
@@ -563,8 +517,7 @@
         "Ənənələrə",
         "Hamısına"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bütün bu hüquqi əsaslara söykənir."
+      "correctAnswer": 3
     },
     {
       "id": 632,
@@ -575,8 +528,7 @@
         "Mədəniyyət tədbirlərində",
         "Hamısında"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bayraq bütün bu hallarda qaldırılır."
+      "correctAnswer": 3
     },
     {
       "id": 633,
@@ -587,8 +539,7 @@
         "Cinayət",
         "Hamısı"
       ],
-      "correctAnswer": 3,
-      "explanation": "Pozuntuya görə bütün məsuliyyət növləri tətbiq oluna bilər."
+      "correctAnswer": 3
     },
     {
       "id": 634,
@@ -599,8 +550,7 @@
         "Diplomlarda",
         "Hamısında"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bayraq bütün rəsmi sənədlərdə təsvir olunur."
+      "correctAnswer": 3
     },
     {
       "id": 635,
@@ -611,8 +561,7 @@
         "Təhsil müəssisələrində",
         "Hamısında"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bayraq bütün bu qurumlarda qaldırılmalıdır."
+      "correctAnswer": 3
     },
     {
       "id": 636,
@@ -623,8 +572,7 @@
         "İntizam",
         "Heç biri"
       ],
-      "correctAnswer": 1,
-      "explanation": "Bayrağa zərər vurmaq cinayət məsuliyyəti yaradır."
+      "correctAnswer": 1
     },
     {
       "id": 637,
@@ -635,8 +583,7 @@
         "Tarixi sənədlərdə",
         "Hamısında"
       ],
-      "correctAnswer": 2,
-      "explanation": "Rənglərin mənası tarixi sənədlərdə göstərilib."
+      "correctAnswer": 2
     },
     {
       "id": 638,
@@ -647,8 +594,7 @@
         "Yubiley günü",
         "Qeyri-rəsmi gün"
       ],
-      "correctAnswer": 0,
-      "explanation": "Dövlət Bayrağı Günü dövlət bayramıdır."
+      "correctAnswer": 0
     },
     {
       "id": 639,
@@ -659,8 +605,7 @@
         "Beynəlxalq tədbirlərdə",
         "Hamısında"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bayraq bütün bu ərazilərdə qaldırılır."
+      "correctAnswer": 3
     },
     {
       "id": 640,
@@ -671,8 +616,7 @@
         "Qələbə günlərində",
         "Hamısında"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bayram və qələbə günlərində endirilə bilməz."
+      "correctAnswer": 3
     },
     {
       "id": 641,
@@ -683,8 +627,7 @@
         "Vətəndaşlar",
         "Hamısı"
       ],
-      "correctAnswer": 3,
-      "explanation": "Hamı tərəfindən mühafizə olunmalıdır."
+      "correctAnswer": 3
     },
     {
       "id": 642,
@@ -695,8 +638,7 @@
         "Şəffaflıq",
         "Hamısı"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bayraq bütün bu prinsiplərlə qaldırılmalıdır."
+      "correctAnswer": 3
     },
     {
       "id": 643,
@@ -707,8 +649,7 @@
         "Qələbə günlərində",
         "Hamısında"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bütün bu hallarda vətəndaşların evlərində asıla bilər."
+      "correctAnswer": 3
     },
     {
       "id": 644,
@@ -719,8 +660,7 @@
         "Media",
         "Hamısı"
       ],
-      "correctAnswer": 3,
-      "explanation": "Maarifləndirmə bütün bu qurumlar tərəfindən aparılır."
+      "correctAnswer": 3
     },
     {
       "id": 645,
@@ -731,8 +671,7 @@
         "Hüquq-mühafizə orqanları",
         "Hamısı"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bayraq bütün bu qurumlar tərəfindən qorunur."
+      "correctAnswer": 3
     },
     {
       "id": 646,
@@ -743,8 +682,7 @@
         "Qanunları öyrənmək",
         "Maarifləndirmək"
       ],
-      "correctAnswer": 0,
-      "explanation": "Bayrağa hörmət etmək və qorumaq hər kəsin vəzifəsidir."
+      "correctAnswer": 0
     },
     {
       "id": 647,
@@ -755,8 +693,7 @@
         "Tapdalandıqda",
         "Hamısında"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bayrağın yandırılması, cırılması, tapdanması təhqirdir."
+      "correctAnswer": 3
     },
     {
       "id": 648,
@@ -767,8 +704,7 @@
         "Qələbə günlərində",
         "Xüsusi tədbirlərdə"
       ],
-      "correctAnswer": 0,
-      "explanation": "Matəm günlərində yarıya qədər endirilir."
+      "correctAnswer": 0
     },
     {
       "id": 649,
@@ -779,8 +715,7 @@
         "Bayraq yalnız rəsmi tədbirlərdə qaldırılmalıdır",
         "Bayraq yalnız dövlət idarələrində olmalıdır"
       ],
-      "correctAnswer": 0,
-      "explanation": "Beynəlxalq protokolda bərabərlik əsas qaydadır."
+      "correctAnswer": 0
     },
     {
       "id": 650,
@@ -791,8 +726,7 @@
         "Nazirlər Kabineti sərəncamında",
         "Prezident fərmanında"
       ],
-      "correctAnswer": 0,
-      "explanation": "Bayraq Konstitusiyada təsbit olunub."
+      "correctAnswer": 0
     },
     {
       "id": 651,
@@ -803,8 +737,7 @@
         "Qalib gələn bütün yerlər üçün",
         "Rəsmi açılış və bağlanış mərasimlərində"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bayraq açılış və bağlanış mərasimlərində qaldırılır."
+      "correctAnswer": 3
     },
     {
       "id": 652,
@@ -815,8 +748,7 @@
         "Şəhidlər xiyabanında",
         "Hamısında"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bayraq bütün bu yerlərdə xüsusi rəmzi məna daşıyır."
+      "correctAnswer": 3
     },
     {
       "id": 653,
@@ -827,8 +759,7 @@
         "Hərbi hissələrdə",
         "Hamısında"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bayraq bütün bu hallarda atribut kimi istifadə olunur."
+      "correctAnswer": 3
     },
     {
       "id": 654,
@@ -839,8 +770,7 @@
         "Dövlət Bayrağı günü",
         "Hamısında"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bayraq bütün bu günlərdə önəm daşıyır."
+      "correctAnswer": 3
     },
     {
       "id": 655,
@@ -851,8 +781,7 @@
         "Qanunvericilik aktlarında",
         "Hamısında"
       ],
-      "correctAnswer": 3,
-      "explanation": "Məsuliyyət bütün bu hüquqi aktlarda nəzərdə tutulub."
+      "correctAnswer": 3
     },
     {
       "id": 656,
@@ -863,8 +792,7 @@
         "İdman qələbələrində",
         "Hamısında"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bayraq bütün bu hallarda vətəndaşlar tərəfindən qaldırılır."
+      "correctAnswer": 3
     },
     {
       "id": 657,
@@ -875,8 +803,7 @@
         "Mavi, qırmızı, yaşıl",
         "Qırmızı, ağ, yaşıl"
       ],
-      "correctAnswer": 2,
-      "explanation": "Bayraq mavi, qırmızı və yaşıl rənglərdən ibarətdir."
+      "correctAnswer": 2
     },
     {
       "id": 658,
@@ -887,8 +814,7 @@
         "2009",
         "2010"
       ],
-      "correctAnswer": 2,
-      "explanation": "Bayraq Günü 2009-cu ildə təsis olunub."
+      "correctAnswer": 2
     },
     {
       "id": 659,
@@ -899,8 +825,7 @@
         "Ədalət, inkişaf, müstəqillik",
         "Mədəniyyət, dövlətçilik, müstəqillik"
       ],
-      "correctAnswer": 0,
-      "explanation": "Bayraq türklük, müasirlik və islamı ifadə edir."
+      "correctAnswer": 0
     },
     {
       "id": 660,
@@ -911,8 +836,7 @@
         "Sadəcə səkkizguşəli ulduz",
         "Heç biri"
       ],
-      "correctAnswer": 0,
-      "explanation": "Bayraq aypara və səkkizguşəli ulduz simvollarını birləşdirir."
+      "correctAnswer": 0
     },
     {
       "id": 661,
@@ -923,8 +847,7 @@
         "Nazirlər Kabineti",
         "Hamısında"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bayraq bütün əsas dövlət binalarında daima qaldırılır."
+      "correctAnswer": 3
     },
     {
       "id": 662,
@@ -935,8 +858,7 @@
         "Türk Dövlətləri Təşkilatı",
         "Hamısında"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bayraq bütün beynəlxalq təşkilatlarda nümayiş olunur."
+      "correctAnswer": 3
     },
     {
       "id": 663,
@@ -947,8 +869,7 @@
         "Cinayət məsuliyyəti",
         "Hamısı"
       ],
-      "correctAnswer": 3,
-      "explanation": "Pozuntulara görə müxtəlif məsuliyyət tədbirləri tətbiq olunur."
+      "correctAnswer": 3
     },
     {
       "id": 664,
@@ -959,8 +880,7 @@
         "Konstitusiya",
         "Hamısı"
       ],
-      "correctAnswer": 3,
-      "explanation": "Məsuliyyət bütün bu qanunlarla tənzimlənir."
+      "correctAnswer": 3
     },
     {
       "id": 665,
@@ -971,8 +891,7 @@
         "12 noyabr",
         "31 dekabr"
       ],
-      "correctAnswer": 0,
-      "explanation": "9 noyabr – Dövlət Bayrağı Günü xüsusi qeyd olunur."
+      "correctAnswer": 0
     },
     {
       "id": 666,
@@ -983,8 +902,7 @@
         "Məhkəmə iclasları",
         "Hamısında"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bayraq bütün bu iclaslarda mütləq asılır."
+      "correctAnswer": 3
     },
     {
       "id": 667,
@@ -995,8 +913,7 @@
         "Mükafatlandırma mərasimlərində",
         "Hamısında"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bayraq bütün bu hallarda idmançılara təqdim olunur."
+      "correctAnswer": 3
     },
     {
       "id": 668,
@@ -1007,8 +924,7 @@
         "Müstəqillik Aktı",
         "Heç biri"
       ],
-      "correctAnswer": 0,
-      "explanation": "Bayraq gerb və himn ilə yanaşı təsbit olunub."
+      "correctAnswer": 0
     },
     {
       "id": 669,
@@ -1019,8 +935,7 @@
         "Mədəni atribut",
         "Heç biri"
       ],
-      "correctAnswer": 0,
-      "explanation": "Diplomatik münasibətlərdə bayraq dövlət rəmzi statusuna malikdir."
+      "correctAnswer": 0
     },
     {
       "id": 670,
@@ -1031,8 +946,7 @@
         "Beynəlxalq görüşlərdə",
         "Hamısında"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bayraq bütün bu hallarda dövlət rəhbərinin yanında olur."
+      "correctAnswer": 3
     },
     {
       "id": 671,
@@ -1043,8 +957,7 @@
         "Matəm mərasimlərində",
         "Hamısında"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bayraq bütün bu hallarda hərbi hissələrdə qaldırılır."
+      "correctAnswer": 3
     },
     {
       "id": 672,
@@ -1055,8 +968,7 @@
         "Qara, qırmızı, yaşıl",
         "Mavi, ağ, qırmızı"
       ],
-      "correctAnswer": 0,
-      "explanation": "Bayraq mavi, qırmızı və yaşıl rənglərdən ibarətdir."
+      "correctAnswer": 0
     },
     {
       "id": 673,
@@ -1067,8 +979,7 @@
         "Üçbucaq",
         "Oval"
       ],
-      "correctAnswer": 0,
-      "explanation": "Bayraq düzbucaqlı formalıdır."
+      "correctAnswer": 0
     },
     {
       "id": 674,
@@ -1079,8 +990,7 @@
         "Sadəcə səkkizguşəli ulduz",
         "Heç biri"
       ],
-      "correctAnswer": 0,
-      "explanation": "Bayraq aypara və səkkizguşəli ulduz rəmzlərini əks etdirir."
+      "correctAnswer": 0
     },
     {
       "id": 675,
@@ -1091,8 +1001,7 @@
         "Müstəqillik",
         "Azadlıq"
       ],
-      "correctAnswer": 0,
-      "explanation": "Səkkizguşəli ulduz səkkiz türk boyunu ifadə edir."
+      "correctAnswer": 0
     },
     {
       "id": 676,
@@ -1103,8 +1012,7 @@
         "Nazirlər Kabineti qərarı ilə",
         "Məhkəmə qərarı ilə"
       ],
-      "correctAnswer": 0,
-      "explanation": "Bayraq Milli Məclis qərarı ilə qəbul olunub."
+      "correctAnswer": 0
     },
     {
       "id": 677,
@@ -1115,8 +1023,7 @@
         "2009-cu il",
         "2010-cu il"
       ],
-      "correctAnswer": 2,
-      "explanation": "Bayraq Günü 2009-cu ildə təsis olunub."
+      "correctAnswer": 2
     },
     {
       "id": 678,
@@ -1127,8 +1034,7 @@
         "Prezident Sarayında",
         "Naxçıvanda"
       ],
-      "correctAnswer": 0,
-      "explanation": "Bayraq ən yüksək hündürlükdə Bayraq Meydanında qaldırılıb."
+      "correctAnswer": 0
     },
     {
       "id": 679,
@@ -1139,8 +1045,7 @@
         "Prezident fərmanı",
         "Milli Məclis qərarı"
       ],
-      "correctAnswer": 1,
-      "explanation": "Əsas qanunvericilik aktı Dövlət Bayrağı haqqında Qanundur."
+      "correctAnswer": 1
     },
     {
       "id": 680,
@@ -1151,8 +1056,7 @@
         "Yubiley",
         "Xatirə günü"
       ],
-      "correctAnswer": 0,
-      "explanation": "Bayraq Günü rəsmi dövlət bayramıdır."
+      "correctAnswer": 0
     },
     {
       "id": 681,
@@ -1163,8 +1067,7 @@
         "Tiflisdə",
         "Şuşada"
       ],
-      "correctAnswer": 0,
-      "explanation": "Bayraq ilk dəfə Gəncədə təsdiqlənib."
+      "correctAnswer": 0
     },
     {
       "id": 682,
@@ -1175,8 +1078,7 @@
         "Diplomatik nümayəndəliklərdə",
         "Hamısında"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bayraq bütün bu yerlərdə mütləq asılmalıdır."
+      "correctAnswer": 3
     },
     {
       "id": 683,
@@ -1187,8 +1089,7 @@
         "İntizam",
         "Hamısı"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bayraqla bağlı qaydaları pozanlar bütün məsuliyyətlərə cəlb olunur."
+      "correctAnswer": 3
     },
     {
       "id": 684,
@@ -1199,8 +1100,7 @@
         "İnkişaf, ədalət, dövlətçilik",
         "Hamısı"
       ],
-      "correctAnswer": 0,
-      "explanation": "Bayraq türklük, müasirlik və islamı ifadə edir."
+      "correctAnswer": 0
     },
     {
       "id": 685,
@@ -1211,8 +1111,7 @@
         "Dörd",
         "Beş"
       ],
-      "correctAnswer": 1,
-      "explanation": "Bayraq üç rəngdən ibarətdir."
+      "correctAnswer": 1
     },
     {
       "id": 686,
@@ -1223,8 +1122,7 @@
         "Səkkizguşəli",
         "On guşəli"
       ],
-      "correctAnswer": 2,
-      "explanation": "Bayraq üzərində səkkizguşəli ulduz var."
+      "correctAnswer": 2
     },
     {
       "id": 687,
@@ -1235,8 +1133,7 @@
         "Sadəcə ulduz",
         "Heç biri"
       ],
-      "correctAnswer": 0,
-      "explanation": "Bayraq üzərində aypara və səkkizguşəli ulduz var."
+      "correctAnswer": 0
     },
     {
       "id": 688,
@@ -1247,8 +1144,7 @@
         "İslamı",
         "Müasirliyi"
       ],
-      "correctAnswer": 0,
-      "explanation": "Mavi rəng türklüyü ifadə edir."
+      "correctAnswer": 0
     },
     {
       "id": 689,
@@ -1259,8 +1155,7 @@
         "Azadlığı",
         "Türklüyü"
       ],
-      "correctAnswer": 1,
-      "explanation": "Qırmızı rəng müasirliyi ifadə edir."
+      "correctAnswer": 1
     },
     {
       "id": 690,
@@ -1271,8 +1166,7 @@
         "Müasirliyi",
         "Müstəqilliyi"
       ],
-      "correctAnswer": 0,
-      "explanation": "Yaşıl rəng islamı ifadə edir."
+      "correctAnswer": 0
     },
     {
       "id": 691,
@@ -1283,8 +1177,7 @@
         "1991",
         "1992"
       ],
-      "correctAnswer": 0,
-      "explanation": "Bayraq ilk dəfə 1918-ci ildə qəbul olunub."
+      "correctAnswer": 0
     },
     {
       "id": 692,
@@ -1295,8 +1188,7 @@
         "1991",
         "1992"
       ],
-      "correctAnswer": 1,
-      "explanation": "Bayraq 1990-cı ildə dövlət atributu kimi bərpa olunub."
+      "correctAnswer": 1
     },
     {
       "id": 693,
@@ -1307,8 +1199,7 @@
         "Nazirlər Kabineti",
         "Prezident Administrasiyası"
       ],
-      "correctAnswer": 1,
-      "explanation": "Bayraq Azərbaycan Xalq Cümhuriyyəti hökumətində təsdiq olunub."
+      "correctAnswer": 1
     },
     {
       "id": 694,
@@ -1319,8 +1210,7 @@
         "9 noyabr",
         "31 dekabr"
       ],
-      "correctAnswer": 2,
-      "explanation": "Dövlət Bayrağı Günü 9 noyabrda qeyd olunur."
+      "correctAnswer": 2
     },
     {
       "id": 695,
@@ -1331,8 +1221,7 @@
         "Bakı",
         "Şuşa"
       ],
-      "correctAnswer": 2,
-      "explanation": "Dövlət Bayrağı Meydanı Bakıda yerləşir."
+      "correctAnswer": 2
     },
     {
       "id": 696,
@@ -1343,8 +1232,7 @@
         "162 metr",
         "200 metr"
       ],
-      "correctAnswer": 2,
-      "explanation": "Bayraq 162 metr hündürlükdə dalğalanır."
+      "correctAnswer": 2
     },
     {
       "id": 697,
@@ -1355,8 +1243,7 @@
         "50",
         "70"
       ],
-      "correctAnswer": 1,
-      "explanation": "Bayrağın uzunluğu 35 metrdir."
+      "correctAnswer": 1
     },
     {
       "id": 698,
@@ -1367,8 +1254,7 @@
         "17",
         "20"
       ],
-      "correctAnswer": 2,
-      "explanation": "Bayrağın eni 17 metrdir."
+      "correctAnswer": 2
     },
     {
       "id": 699,
@@ -1379,8 +1265,7 @@
         "220",
         "250"
       ],
-      "correctAnswer": 2,
-      "explanation": "Dirəyin çəkisi 220 tondur."
+      "correctAnswer": 2
     },
     {
       "id": 700,
@@ -1391,8 +1276,7 @@
         "2011",
         "2012"
       ],
-      "correctAnswer": 1,
-      "explanation": "Bayraq Meydanı 2010-cu ildə açılıb."
+      "correctAnswer": 1
     },
     {
       "id": 701,
@@ -1403,8 +1287,7 @@
         "Nazirlər Kabineti sərəncamı ilə",
         "Konstitusiya ilə"
       ],
-      "correctAnswer": 1,
-      "explanation": "Bayraq Günü Prezident fərmanı ilə təsdiq olunub."
+      "correctAnswer": 1
     },
     {
       "id": 702,
@@ -1415,8 +1298,7 @@
         "Milli Məclis",
         "Prezident Administrasiyası"
       ],
-      "correctAnswer": 1,
-      "explanation": "Bayraq Dövlət Standartlaşdırma Komitəsi tərəfindən təsdiqlənmiş qaydalarla hazırlanır."
+      "correctAnswer": 1
     },
     {
       "id": 703,
@@ -1427,8 +1309,7 @@
         "Hüquq-mühafizə orqanları",
         "Hamısı"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bayrağın qorunmasına və istifadəsinə bütün bu qurumlar nəzarət edir."
+      "correctAnswer": 3
     },
     {
       "id": 704,
@@ -1439,8 +1320,7 @@
         "Sadəcə himn",
         "Heç biri"
       ],
-      "correctAnswer": 0,
-      "explanation": "Bayraq gerb və himnlə birlikdə dövlət atributudur."
+      "correctAnswer": 0
     },
     {
       "id": 585,
@@ -1451,8 +1331,7 @@
         "Dörd rəngdən",
         "Beş rəngdən"
       ],
-      "correctAnswer": 1,
-      "explanation": "Azərbaycan bayrağı üç rəngdən ibarətdir: göy, qırmızı, yaşıl."
+      "correctAnswer": 1
     }
     
   ]
