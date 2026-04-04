@@ -10,8 +10,7 @@
         "C) AR-da dövlət qulluğu sahəsində dövlətlə dövlət qulluqçuları arasında yaranan münasibətləri və dövlət qulluqçularının hüquqi vəziyyəti ilə bağlı məsələləri tənzimləyir",
         "D) AR-da dövlət qulluğu sahəsində dövlətlə ictimai təşkilatlar arasında yaranan münasibətləri və dövlət qulluqçularınun hüquqi vəziyyəti ilə bağlı məsələləri tənzimləyir"
       ],
-      "correctAnswer": 2,
-      "explanation": "Qanunun məqsədi dövlət və dövlət qulluqçuları arasındakı münasibətləri tənzimləməkdir."
+      "correctAnswer": 2
     },
     {
       "text": "2. Dövlət qulluğu nədir?",
@@ -21,8 +20,7 @@
         "C) Dövlət qulluğu dövlət orqanlarının səmərəli fəaliyyətinin və dövlət qulluqçuları tərəfindən vəzifə səlahiyyətlərinin yerinə yetirilməsinin təmin edilməsi",
         "D) Dövlət qulluğu AR qanunvericilik aktları ilə müəyyən edilmiş hüdudlarda AR-nın məqsəd və funksiyalarını həyata keçirən, qanunvericiliyə uyğun olaraq yaradılmış və dövlət büdcəsindən maliyyələşdirilən dövlət qulluqçularının qurumudur"
       ],
-      "correctAnswer": 0,
-      "explanation": "Dövlət qulluğu Konstitusiyaya və qanunvericiliyə uyğun olaraq dövlət funksiyalarının həyata keçirilməsidir."
+      "correctAnswer": 0
     },
     {
       "text": "3. \"Dövlət qulluğu haqqında\" AR Qanunu kimə şamil edilir?",
@@ -32,8 +30,7 @@
         "C) Bu qanun icra, qanunvericilik və məhkəmə hakimiyyətləri orqanlarının aparatlarında rəhbər tutan şəxslərə şamil edilir",
         "D) Bu qanun icra, qanunvericilik və məhkəmə hakimiyyətləri orqanlarının aparatlarında dövlət qulluğu keçən şəxslərə şamil edilir"
       ],
-      "correctAnswer": 1,
-      "explanation": "Qanun dövlət qulluğu keçən şəxslərə şamil edilir."
+      "correctAnswer": 1
     },
     {
       "text": "4. Hansı orqanlarda qulluq dövlət qulluğunun xüsusi növüdür?",
@@ -43,8 +40,7 @@
         "C) 1, 2, 3",
         "D) 2, 3, 4"
       ],
-      "correctAnswer": 1,
-      "explanation": "Ədliyyə, Fövqəladə hallar və Prokurorluq orqanlarında qulluq dövlət qulluğunun xüsusi növüdür."
+      "correctAnswer": 1
     },
     {
       "text": "5. Hansı orqanlarda qulluq dövlət qulluğunun xüsusi növüdür?",
@@ -54,8 +50,7 @@
         "C) 1, 3, 5",
         "D) 2, 4, 5"
       ],
-      "correctAnswer": 0,
-      "explanation": "Sərhəd, Dövlət təhlükəsizliyi və Xarici kəşfiyyat xidmətlərində qulluq dövlət qulluğunun xüsusi növüdür."
+      "correctAnswer": 0
     },
     {
       "text": "6. Hansı orqanlarda qulluq dövlət qulluğunun xüsusi növüdür?",
@@ -65,8 +60,7 @@
         "C) 2, 3, 4",
         "D) 1, 2, 5"
       ],
-      "correctAnswer": 0,
-      "explanation": "Səfərbərlik, Xüsusi dövlət mühafizə xidməti, Daxili işlər, gömrük, vergi və xarici işlər orqanlarında qulluq xüsusi növə aiddir."
+      "correctAnswer": 0
     },
     {
       "text": "7. AR Mərkəzi Bankında dövlət qulluğunda çalışan şəxslərin dövlət qulluğu keçməsi \"Dövlət qulluğu haqqında\" AR qanununun hansı maddələri nəzərə alınmaqla, AR-nın başqa qanunları ilə tənzimlənir və bu orqanlarda qulluq dövlət qulluğunun xüsusi növüdür?",
@@ -76,8 +70,7 @@
         "C) 1, 3, 5, 6",
         "D) 3, 4, 5, 6"
       ],
-      "correctAnswer": 2,
-      "explanation": "Bu maddələr müvafiq qanunla tənzimlənir."
+      "correctAnswer": 2
     },
     {
       "text": "8. Hansı orqanın aparatlarında çalışan və hərbi və ya xüsusi rütbəsi olmayan şəxslərə \"Dövlət qulluğu haqqında\" AR qanunu şamil edilmir?",
@@ -87,8 +80,7 @@
         "C) Dövlət təhlükəsizliyi xidmətinin",
         "D) Prokurorluq orqanlarının"
       ],
-      "correctAnswer": 1,
-      "explanation": "Mərkəzi Bankın aparat işçilərinə bu qanun şamil edilmir."
+      "correctAnswer": 1
     },
     {
       "text": "9. Göstərilənlərdən hansı dövlət qulluqçusudur?",
@@ -98,8 +90,7 @@
         "C) bağban",
         "D) sürücü"
       ],
-      "correctAnswer": 3,
-      "explanation": "Sürücü yardımçı dövlət qulluğu vəzifəsini yerinə yetirir."
+      "correctAnswer": 3
     },
     {
       "text": "10. Dövlət qulluqçusu olmayan işçiləri seçin:",
@@ -109,8 +100,7 @@
         "C) 1, 2, 3",
         "D) 4, 5, 6"
       ],
-      "correctAnswer": 1,
-      "explanation": "Gözətçi, ocaqçı və fəhlə dövlət qulluqçusu hesab olunmurlar."
+      "correctAnswer": 1
     },
     {
       "text": "11. \"Dövlət qulluğu haqqında\" AR qanununda başqa hal nəzərdə tutulmayıbsa, bu Qanun hansı subyektlərə şamil olunmur?",
@@ -120,8 +110,7 @@
         "C) 1, 2, 7",
         "D) 1, 4, 5"
       ],
-      "correctAnswer": 3,
-      "explanation": "Prezident, hakimlər və ombudsman kimi şəxslərə bu qanun şamil edilmir."
+      "correctAnswer": 3
     },
     {
       "text": "12. \"Dövlət qulluğu haqqında\" AR qanunda başqa hal nəzərdə tutulmayıbsa, bu Qanun hansı subyektləra şamil olunmur?",
@@ -131,8 +120,7 @@
         "C) 2, 3, 4",
         "D) 1, 4, 5"
       ],
-      "correctAnswer": 2,
-      "explanation": "Qanun mərkəzi icra hakimiyyəti rəhbərləri, Mərkəzi Seçki Komissiyasının sədri və sədr müavinləri, həmçinin Hesablama Palatasının sədri və sədr müavininə şamil edilmir."
+      "correctAnswer": 2
     },
     {
       "text": "13. \"Dövlət qulluğu haqqında\" AR qanunda başqa hal nəzərdə tutulmayıbsa, bu Qanun hansı subyektlərə şamil olunmur?",
@@ -142,8 +130,7 @@
         "C) 1, 2, 5",
         "D) 1, 4, 5"
       ],
-      "correctAnswer": 2,
-      "explanation": "NMR Ali Məclisinin deputatları, NMR Baş naziri və AR Birinci vitse-prezidentinə qanun şamil edilmir."
+      "correctAnswer": 2
     },
     {
       "text": "14. \"Dövlət qulluğu haqqında\" AR qanunda başqa hal nəzərdə tutulmayıbsa, bu Qanun hansı subyektlərə şamil olunmur?",
@@ -153,8 +140,7 @@
         "C) 1, 2, 3, 4",
         "D) 1, 4, 5, 6"
       ],
-      "correctAnswer": 1,
-      "explanation": "Bu şəxslərə qanun şamil edilmir."
+      "correctAnswer": 1
     },
     {
       "text": "15. \"Dövlət qulluğu haqqında\" AR qanunda başqa hal nəzərdə tutulmayıbsa, bu Qanun hansı subyektlərə şamil olunmur?",
@@ -164,8 +150,7 @@
         "C) 1, 2, 3",
         "D) 1, 4, 5"
       ],
-      "correctAnswer": 2,
-      "explanation": "Vitse-prezidentlər, Milli Məclis deputatları və NMR Baş nazirinin müavinləri bu qanunun təsir dairəsinə düşmürlər."
+      "correctAnswer": 2
     },
     {
       "text": "16. \"Dövlət qulluğu haqqında\" AR qanunda başqa hal nəzərdə tutulmayıbsa, bu Qanun hansı subyektlərə şamil olunmur?",
@@ -175,8 +160,7 @@
         "C) 1, 2",
         "D) 1, 4"
       ],
-      "correctAnswer": 2,
-      "explanation": "Qanun Baş nazirin müavinləri və yerli icra hakimiyyəti orqanlarının rəhbərlərinə şamil edilmir."
+      "correctAnswer": 2
     },
     {
       "text": "17. \"Dövlət qulluğu haqqında\" AR qanununa görə doğrudur:",
@@ -186,8 +170,7 @@
         "C) Bu Qanun bütün hallarda müvafiq icra hakimiyyəti orqanlarının tabeliyində olan müassisələrin işçilərinə şamil edilir",
         "D) Bu Qanun müvafiq icra hakimiyyati orqanlarının tabeliyində olan müəssisələrin işçilarinə şamil edilmir."
       ],
-      "correctAnswer": 3,
-      "explanation": "Dövlət orqanlarının tabeliyindəki müəssisə işçiləri bu qanunun əhatəsinə düşmür."
+      "correctAnswer": 3
     },
     {
       "text": "18. Müvafiq icra hakimiyyəti orqanlarının tabeliyində olan müəssisələrin işçilərinin əmək münasibətləri hansı aktla tənzimlənir?",
@@ -197,8 +180,7 @@
         "C) Xidmət haqında Nizamnamə ilə",
         "D) AR Əmək Məcəlləsi ilə"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bu işçilərin əmək münasibətləri Əmək Məcəlləsi ilə tənzimlənir."
+      "correctAnswer": 3
     },
     {
       "text": "19. Dövlət qulluğunun vəzifələrindən biri yanlışdır:",
@@ -208,8 +190,7 @@
         "C) Dövlət qulluqçularının sosial və hüquqi müdafiəsi, onların özləri üçün ləyaqətli yaşayış səviyyəsinin təmin edilməsi",
         "D) Dövlət orqanlarının səmərəli fəaliyyətinin və dövlət qulluqçuları tərəfindən vəzifə səlahiyyətlərinin yerinə yetirilməsinin təmin edilməsi"
       ],
-      "correctAnswer": 2,
-      "explanation": "Dövlət qulluqçularının özlərinin deyil, vətəndaşların hüquqlarını qorumaq dövlət qulluğunun vəzifəsidir."
+      "correctAnswer": 2
     },
     {
       "text": "20. Dövlət qulluğunun prinsiplərindən biri yanlışdır:",
@@ -219,8 +200,7 @@
         "C) Dövlət qulluqçularının potensialının səmərəli istifadəsi, xidməti və peşəkarlıq səviyyəsinin artırılması məqsədi ilə onların rotasiyası",
         "D) Bütün vətəndaşların sosial və hüquqi müdafiəsi, onların özləri və ailələri üçün ləyaqətli yaşayış səviyyəsinin təmin edilməsi"
       ],
-      "correctAnswer": 3,
-      "explanation": "Bu, dövlətin ümumi sosial vəzifəsi ola bilər, lakin dövlət qulluğunun birbaşa prinsipi deyil."
+      "correctAnswer": 3
     },
     {
       "text": "21. Dövlət qulluğu hansı prinsiplərə əsaşlanır?",
@@ -230,8 +210,7 @@
         "C) 1, 3, 4",
         "D) 1, 3, 5"
       ],
-      "correctAnswer": 3,
-      "explanation": "Qanunçuluq, hakimiyyət səlahiyyətlərinin bölünməsi və hüquq bərabərliyi prinsipləri dövlət qulluğunun əsasını təşkil edir."
+      "correctAnswer": 3
     },
     {
       "text": "22. Dövlət qulluğu hansı prinsiplərə əsaslanır?",
@@ -241,8 +220,7 @@
         "C) 1, 3, 4",
         "D) 3, 4, 5"
       ],
-      "correctAnswer": 1,
-      "explanation": "Qəbulun şəffaflığı, nəzarət və hesabatlılıq və müsabiqə əsasında qəbul dövlət qulluğunun əsas prinsiplərindəndir."
+      "correctAnswer": 1
     },
     {
       "text": "23. Dövlət qulluğu hansı prinsiplarə əsaslanır?",
@@ -252,8 +230,7 @@
         "C) 4, 5",
         "D) 1, 6"
       ],
-      "correctAnswer": 1,
-      "explanation": "Hüquq bərabərliyi və vəzifələrə görə cavabdehlik prinsipləri dövlət qulluğunun əsasını təşkil edir."
+      "correctAnswer": 1
     },
     {
       "text": "24. Dövlət orqanlarında aşağıdakılardan hansı yaradıla bilər?",
@@ -263,8 +240,7 @@
         "C) Həmkarlar ittifaqları",
         "D) İctimai və siyasi birliklərin strukturları"
       ],
-      "correctAnswer": 2,
-      "explanation": "Dövlət orqanlarında yalnız həmkarlar ittifaqlarının yaradılmasına icazə verilir."
+      "correctAnswer": 2
     },
     {
       "text": "25. \"Dövlət qulluğu haqqında\" AR Qanununa əsasən doğrudur:",
@@ -274,8 +250,7 @@
         "C) Dövlət qulluqçuları vəzifə borclarını yerinə yetirərkən AR Konstitusiyasını qanunlarını və onlara müvafiq olaraq qəbul edilməmiş digər qanunvericilik aktlarını rəhbər tuturlar və siyasi partiyaların və ictimai birliklərin qərarlarının onlara dəxli yoxdur.",
         "D) Dövlət qulluqçuları vəzifə borclarını yerinə yetirərkən AR Konstitusiyasını qanunlarını və onlara müvafiq olaraq qəbul edilmiş digər qanunvericilik aktlarını rəhbər tuturlar və siyasi partiyaların və ictimai birliklərin qərarlarının onlara dəxli vardır."
       ],
-      "correctAnswer": 0,
-      "explanation": "Dövlət qulluqçuları siyasi partiyaların qərarlarına görə yox, yalnız qanunlara əməl etməlidirlər."
+      "correctAnswer": 0
     },
     {
       "text": "26. AR-da bu qanunun tətbiqinə nəzarəti hansı orqan həyata keçirir?",
@@ -285,8 +260,7 @@
         "C) Dövlət Qulluğunu İdarəetmə Şurası",
         "D) Milli Məclis"
       ],
-      "correctAnswer": 2,
-      "explanation": "Dövlət Qulluğunu İdarəetmə Şurası bu qanunun tətbiqinə nəzarət edir."
+      "correctAnswer": 2
     },
     {
       "text": "27. Dövlət qulluğunun normativ-metodiki təminatını hansı orqan həyata keçirir?",
@@ -296,8 +270,7 @@
         "C) Dövlət Qulluğunu idarəetmə Şurası",
         "D) AR Milli Məclisi"
       ],
-      "correctAnswer": 2,
-      "explanation": "Dövlət Qulluğunu İdarəetmə Şurası normativ-metodiki təminatı həyata keçirir."
+      "correctAnswer": 2
     },
     {
       "text": "28. AR-da dövlət qulluqçuları kateqoriyasına aid edilən şəxslərin siyahısını müayyən etməyi hansı orqan həyata keçirir?",
@@ -307,8 +280,7 @@
         "C) Dövlət Qulluğunu İdaractmə Şurası",
         "D) AR Milli Məclisi"
       ],
-      "correctAnswer": 2,
-      "explanation": "Dövlət Qulluğunu İdarəetmə Şurası dövlət qulluqçularının kateqoriya siyahısını müəyyən edir."
+      "correctAnswer": 2
     },
     {
       "text": "29. Dövlət qulluğunu idarəətmə orqanı hesab olunur:",
@@ -318,8 +290,7 @@
         "C) Dövlət qulluğu masələləri üzrə Aparat",
         "D) Prezident, Milli Məclis va Konstitusiya Məhkəməsindən ibarət komissiya"
       ],
-      "correctAnswer": 0,
-      "explanation": "Dövlət Qulluğunu İdarəetmə Şurası qanunla müəyyən edilmiş idarəetmə orqanıdır."
+      "correctAnswer": 0
     },
     {
       "text": "30. \"Dövlət qulluğu haqqında\" AR Qanununa uyğun olaraq doğru olmayan variant seçin:",
@@ -329,8 +300,7 @@
         "C) Dövlət Qulluğunu İdarəetmə Şurasının 6 üzvü AR Milli Məclisi tərəfindən təyin edilir.",
         "D) Şuranın səlahiyyətləri qanunla təsdiq edilir."
       ],
-      "correctAnswer": 2,
-      "explanation": "Şuranın üzvləri Milli Məclis tərəfindən deyil, qanunda nəzərdə tutulmuş qaydada təyin olunur."
+      "correctAnswer": 2
     },
     {
       "text": "31. Dövlət Qulluğunu İdarəetmə Şurasının səlahiyyətləri hansı aktla müəyyən olunur?",
@@ -340,8 +310,7 @@
         "C) Şuranın səlahiyyətləri qərarla təsdiq edilən Qanunnamə ilə müəyyən edilir.",
         "D) Şuranın səlahiyyətləri qanunla təsdiq edilən Əsasnamə ilə müəyyən edilir."
       ],
-      "correctAnswer": 3,
-      "explanation": "Şuranın səlahiyyətləri qanunla təsdiq edilən Əsasnamə ilə müəyyən olunur."
+      "correctAnswer": 3
     },
     {
       "text": "32. \"Dövlət qulluğu haqqında\" AR Qanununa uyğun olaraq doğrudur:",
@@ -351,8 +320,7 @@
         "C) Şura dövlət orqanıdır və onun üzvləri öz səlahiyyətlərini iqtisadi əsaslarla həyata keçirirlər.",
         "D) Şura dövlət orqanı deyil və onun üzvləri öz səlahiyyətlərini ictimai əsaslarla həyata keçirirlər."
       ],
-      "correctAnswer": 3,
-      "explanation": "Şura dövlət orqanı deyil, üzvləri isə öz səlahiyyətlərini ictimai əsaslarla həyata keçirir."
+      "correctAnswer": 3
     },
     {
       "text": "33. Şuranın qəbul etdiyi qərarların məcburiliyi təmin olunur?",
@@ -362,8 +330,7 @@
         "C) Şuranın qəbul etdiyi qərarların məcburiliyi hər bir vətəndaş üçün təmin olunur.",
         "D) Şuranın qəbul etdiyi qərarların məcburiliyi hər bir şəxs üçün təmin olunur."
       ],
-      "correctAnswer": 1,
-      "explanation": "Şuranın qərarları müvafiq dövlət qulluqçuları üçün məcburidir."
+      "correctAnswer": 1
     },
     {
       "text": "34. Şuranın qərarlarının məcburiliyi təmin olunur:",
@@ -373,8 +340,7 @@
         "C) 1, 2, 3",
         "D) 1, 4, 5"
       ],
-      "correctAnswer": 3,
-      "explanation": "Qərarlar Prezident, Milli Məclis sədri və Konstitusiya Məhkəməsi sədri tərəfindən təmin edilir."
+      "correctAnswer": 3
     },
     {
       "text": "35. Dövlət qulluğu haqqında qanunvericilik hansı aktlardan ibarətdir?",
@@ -384,8 +350,7 @@
         "C) Dövlət qulluğu haqqında qanunvericilik yalnız AR Konstitusiyasından, AR tərəfdar çıxdığı beynəlxalq müqavilələr, AR-nın dövlət qulluğunu hüquqi cəhətdən tənzim edən və dövlət qulluqçularının hüquqi vəziyyətinin xüsusiyyətlərini müəyyən edən digər qanunvericilik aktlarından ibarətdir.",
         "D) Dövlət qulluğu haqqunda qanunvericilik AR Konstitusiyasından, bu Qanundan, AR tərəfdar çıxdığı beynəlxalq müqavilələr, AR dövlət qulluğunu hüquqi cahətdən tənzim edən və dövlət qulluqçularının hüquqi vəziyyətinin xüsusiyyətlərini müəyyən edən digər qanunvericilik aktlarından ibarətdir."
       ],
-      "correctAnswer": 3,
-      "explanation": "Qanunvericilik Konstitusiya, qanun, beynəlxalq müqavilələr və digər normativ hüquqi aktlardan ibarətdir."
+      "correctAnswer": 3
     },
     {
       "text": "36. Dövlət orqanı anlayışı hansı bənddə düzgün təsbit olunmuşdur?",
@@ -395,8 +360,7 @@
         "C) Dövlət orqanı AR qanunvericilik aktları ilə müəyyən edilmiş hüdudlarda dövlətin məqsəd və funksiyalarını hayata keçirən, AR-nın dövlət büdcəsindən, NMR-nın dövlət büdcəsindən maliyyələşdirilən, AR Konstitusiyasına və AR qanunlarına uyğun olaraq yaradılan dövlət təsisatıdır",
         "D) Dövlət orqanı AR qanunvericilik aktları ilə müəyyən edilmiş hüdudlarda dövlətin məqsəd və funksiyalarını hayata keçirən, AR-nın dövlət büdcəsindən, NMR-nın büdcəsindən maliyyələşdirilən, AR Konstitusiyasına və AR qanunlarına uyğun olaraq yaradılan dövlət təsisatıdır"
       ],
-      "correctAnswer": 3,
-      "explanation": "Dövlət orqanı Konstitusiyaya və qanunlara uyğun yaradılan və büdcədən maliyyələşdirilən təsisatdır."
+      "correctAnswer": 3
     },
     {
       "text": "37. Dövlət orqanının bölməsi hesab olunur:",
@@ -406,8 +370,7 @@
         "C) Orqanın qanunvericilik aktlarında nəzərdə tutulmuş, yaxud müəyyən edilmiş qaydada təsis olunan elə struktur hissəsidir ki, özünə həvalə edilmiş funksiyalar çərçivəsində həmin orqanın səlahiyyətlərinin bir hissəsini həyata keçirir.",
         "D) Orqanın qanunvericilik aktlarında nəzərdə tutulmuş, yaxud müəyyən edilmiş qaydada təsis olunan elə struktur hissəsidir ki, özünə həvalə edilmiş funksiyalar çərçivəsində həmin orqanın səlahiyyətlərinin bir hissəsini həyata keçirir və normativ xarakterli aktlar qəbul edir."
       ],
-      "correctAnswer": 2,
-      "explanation": "Dövlət orqanının bölməsi onun səlahiyyətlərinin bir hissəsini həyata keçirən struktur vahididir."
+      "correctAnswer": 2
     },
     {
       "text": "38. Dövlət orqanları neçə kateqoriyadan ibarətdir?",
@@ -417,8 +380,7 @@
         "C) Ali-5 kateqoriya",
         "D) Ali-6 kateqoriya"
       ],
-      "correctAnswer": 2,
-      "explanation": "Dövlət orqanları Ali və 5 əsas kateqoriyaya bölünür."
+      "correctAnswer": 2
     },
     {
       "text": "39. Dövlət orqanları kateqoriyalar üzrə təsnifləşdirilərkən nəzərə alınmır:",
@@ -428,8 +390,7 @@
         "C) statusu",
         "D) iyerarxiyası"
       ],
-      "correctAnswer": 0,
-      "explanation": "Dövlət orqanları funksiyasına görə deyil, yurisdiksiyası, statusu və iyerarxiyasına görə təsnifləşdirilir."
+      "correctAnswer": 0
     },
     {
       "text": "40. Dövlət orqanları kateqoriyalar üzrə hansı səviyyədə təsnifatlaşdırılır?",
@@ -439,8 +400,7 @@
         "C) 3, 4, 5",
         "D) 1, 4, 5"
       ],
-      "correctAnswer": 3,
-      "explanation": "Dövlət orqanları ölkə, regional və yerli səviyyələrdə təsnifləşdirilir."
+      "correctAnswer": 3
     },
     {
       "text": "41. \"Dövlət qulluğu haqqında\" AR Qanununa uyğun olaraq əsas səlahiyyətləri AR Konstitusiyasının 7-ci maddəsinin III hissəsinə uyğun olaraq müəyyən edilən dövlət orqanları hansı kateqoriya dövlət orqanlarıdır:",
@@ -450,8 +410,7 @@
         "C) II kateqoriya",
         "D) II kateqoriya"
       ],
-      "correctAnswer": 0,
-      "explanation": "Konstitusiyanın 7-ci maddəsinin III hissəsi hakimiyyətin icra, qanunvericilik və məhkəməyə aid olduğunu müəyyən edir, bu isə ali kateqoriya orqanlardır."
+      "correctAnswer": 0
     },
     {
       "text": "42. Ali kateqoriya dövlət orqanlarıdır?",
@@ -461,8 +420,7 @@
         "C) 1, 3, 4",
         "D) 3, 4, 5"
       ],
-      "correctAnswer": 2,
-      "explanation": "Milli Məclis, Nazirlər Kabineti və Konstitusiya Məhkəməsi ali kateqoriya orqanlardır."
+      "correctAnswer": 2
     },
     {
       "text": "43. Ali kateqoriya dövlət orqanlarıdır?",
@@ -472,8 +430,7 @@
         "C) 1, 4",
         "D) 3, 4"
       ],
-      "correctAnswer": 2,
-      "explanation": "Ali Məhkəmə və qanunvericilik, icra və məhkəmə hakimiyyətinin ən yüksək orqanları ali kateqoriyaya aiddir."
+      "correctAnswer": 2
     },
     {
       "text": "44. Ali kateqoriya dövlət orqanıdır?",
@@ -483,8 +440,7 @@
         "C) Naxçıvan MR Ali Maclisi",
         "D) AR Hərbi Prokurorluğu"
       ],
-      "correctAnswer": 0,
-      "explanation": "Prezident Administrasiyası ali kateqoriya dövlət orqanıdır."
+      "correctAnswer": 0
     },
     {
       "text": "45. 1-ci kateqoriya dövlət orqanlarının əsas səlahiyyətləri hansı qanunvericilik aktları ilə müəyyən edilir?",
@@ -494,8 +450,7 @@
         "C) 1-ci kateqoriya dövlət orqanlarının əsas səlahiyyətləri AR Konstitusiyası, AR Konstitusiya qanunları və AR qanunları və AR tərəfdar çıxdığı beynəlxalq müqavilələrlə müəyyən edilir.",
         "D) 1-ci kateqoriya dövlət orqanlarınn əsas səlahiyyətləri AR Konstitusiyası, AR Konstitusiya qanunları və AR qanunları ilə müəyyən edilir"
       ],
-      "correctAnswer": 3,
-      "explanation": "1-ci kateqoriya orqanların səlahiyyətləri bu normativ hüquqi aktlarla müəyyən edilir."
+      "correctAnswer": 3
     },
     {
       "text": "46. 1-ci kateqoriya dövlət orqanlarına aid olan variantı seçin:",
@@ -505,8 +460,7 @@
         "C) 4, 5",
         "D) 1, 2"
       ],
-      "correctAnswer": 3,
-      "explanation": "NMR Ali Məclisi və ombudsmanın aparatı 1-ci kateqoriyaya aiddir."
+      "correctAnswer": 3
     },
     {
       "text": "47. 1-ci kateqoriya dövlət orqanlarına aiddir:",
@@ -516,8 +470,7 @@
         "C) 4, 5",
         "D) 1, 2"
       ],
-      "correctAnswer": 0,
-      "explanation": "Baş Prokurorluq və Məhkəmə-Hüquq Şurasının Aparatı 1-ci kateqoriya orqanlardır."
+      "correctAnswer": 0
     },
     {
       "text": "48. 1-ci kateqoriya dövlət orqanlarına aiddir:",
@@ -527,8 +480,7 @@
         "C) AR Hesablama Palatası",
         "D) NMR Hərbi Prokurorluğu"
       ],
-      "correctAnswer": 2,
-      "explanation": "Hesablama Palatası 1-ci kateqoriya dövlət orqanıdır."
+      "correctAnswer": 2
     },
     {
       "text": "49. 1-ci kateqoriya dövlət orqanlarına aiddir:",
@@ -538,8 +490,7 @@
         "C) AR Korrupsiyaya qarşı mübarizə üzrə Komissiyasının Katibliyi,",
         "D) Milli Televiziya və Radio Şurasının Aparatı"
       ],
-      "correctAnswer": 1,
-      "explanation": "Ombudsmanın aparatı 1-ci kateqoriya dövlət orqanıdır."
+      "correctAnswer": 1
     },
     {
       "text": "50. Əsas səlahiyyətləri AR Konstitusiyası, AR Konstitusiya qanunları, AR qanunları ilə və AR Konstitusiyasının 113-cü maddəsi ilə müəyyən edilən dövlət orqanları hansı kateqoriya dövlət orqanlarıdır?",
@@ -549,8 +500,7 @@
         "C) 5-ci kateqoriya dövlət orqanları",
         "D) 4-cü kateqoriya dövlət orqanları"
       ],
-      "correctAnswer": 1,
-      "explanation": "Konstitusiyanın 113-cü maddəsi Nazirlər Kabinetinin fəaliyyətini tənzimləyir, bu isə 2-ci kateqoriya orqanlara aid olan bir müddəadır."
+      "correctAnswer": 1
     },
     {
       "text": "51. 2-ci kateqoriya dövlət orqanlarına aiddir:",
@@ -560,8 +510,7 @@
         "C) 3, 5, 6",
         "D) 2, 4, 5"
       ],
-      "correctAnswer": 2,
-      "explanation": "NMR müvafiq icra hakimiyyəti orqanı, Ağır Cinayətlər Məhkəmələri və NMRespublikasının Hərbi Prokurorluğu 2-ci kateqoriyaya aiddir."
+      "correctAnswer": 2
     },
     {
       "text": "52. 2-ci kateqoriya dövlət orqanlarına aiddir:",
@@ -571,8 +520,7 @@
         "C) 3, 4",
         "D) 1, 4"
       ],
-      "correctAnswer": 2,
-      "explanation": "NMR Prokurorluğu və AR Korrupsiyaya qarşı mübarizə üzrə Komissiyasının Katibliyi 2-ci kateqoriya dövlət orqanlarıdır."
+      "correctAnswer": 2
     },
     {
       "text": "53. 2-ci kateqoriya dövlət orqanlarına aiddir:",
@@ -582,8 +530,7 @@
         "C) 2, 3, 4",
         "D) 1, 3, 5"
       ],
-      "correctAnswer": 1,
-      "explanation": "AR Hesablama Palatası, AR apelyasiya məhkəmələri və Milli Televiziya və Radio Şurasının Aparatı 2-ci kateqoriyaya aiddir."
+      "correctAnswer": 1
     },
     {
       "text": "54. 2-ci kateqoriya dövlət orqanlarına aiddir:",
@@ -593,8 +540,7 @@
         "C) Zərdab Rayon İcra Hakimiyyəti orqanı",
         "D) İnzibati-iqtisadi Məhkəmələr"
       ],
-      "correctAnswer": 0,
-      "explanation": "AR Prezidenti yanında Ali Attestasiya Komissiyası 2-ci kateqoriya dövlət orqanıdır."
+      "correctAnswer": 0
     },
     {
       "text": "55. 2-ci kateqoriya dövlət orqanlarına aid deyil:",
@@ -604,8 +550,7 @@
         "C) Bakı Şəhər İcra Hakimiyyəti",
         "D) NMR İnsan hüquqları üzrə müvəkkilinin (ombudsmanın) Aparatı"
       ],
-      "correctAnswer": 1,
-      "explanation": "NMR Televiziya və Radio Şurasının Aparatı 3-cü kateqoriyaya aiddir."
+      "correctAnswer": 1
     },
     {
       "text": "56. 3-cü kateqoriya dövlət orqanlarının əsas səlahiyyətləri hansı aktlarla müəyyən edilir?",
@@ -615,8 +560,7 @@
         "C) Fərmanla",
         "D) Qərarla"
       ],
-      "correctAnswer": 0,
-      "explanation": "3-cü kateqoriya orqanlarının səlahiyyətləri AR Konstitusiyasının müvafiq maddələri və qanunlarla müəyyən edilir."
+      "correctAnswer": 0
     },
     {
       "text": "57. 3-cü kateqoriya dövlət orqanlarına aiddir:",
@@ -626,8 +570,7 @@
         "C) 3,5",
         "D) 2, 4"
       ],
-      "correctAnswer": 1,
-      "explanation": "AR İnsan hüquqları üzrə müvəkkilinin (ombudsmanın) regional mərkəzləri və İnzibati-iqtisadi məhkəmələr 3-cü kateqoriyaya aiddir."
+      "correctAnswer": 1
     },
     {
       "text": "58. 3-cü kateqoriya dövlət orqanlarına aiddir:",
@@ -637,8 +580,7 @@
         "C) 3, 5",
         "D) 2, 4"
       ],
-      "correctAnswer": 1,
-      "explanation": "NMR Mərkəzi Seçki Komissiyasının Aparatı və Hərbi məhkəmələr 3-cü kateqoriyaya aiddir."
+      "correctAnswer": 1
     },
     {
       "text": "59. 3-cü kateqoriya dövlət orqanlarına aiddir:",
@@ -648,8 +590,7 @@
         "C) 3, 5",
         "D) 2, 4"
       ],
-      "correctAnswer": 2,
-      "explanation": "NMR Televiziya və Radio Şurasının Aparatı və Ağır cinayətlər məhkəmələri 3-cü kateqoriyaya aiddir."
+      "correctAnswer": 2
     },
     {
       "text": "60. 3-cü kateqoriya dövlət orqanlarına aiddir:",
@@ -659,8 +600,7 @@
         "C) 3, 5",
         "D) 2, 4"
       ],
-      "correctAnswer": 1,
-      "explanation": "Bakı şəhər prokurorluğu və NMR Hərbi Prokurorluğu 3-cü kateqoriyaya aiddir."
+      "correctAnswer": 1
     },
     {
       "text": "61. 3-cü kateqoriya dövlət orqanlarına aiddir:",
@@ -670,8 +610,7 @@
         "C) 3, 4",
         "D) 2, 4"
       ],
-      "correctAnswer": 0,
-      "explanation": "NMR mərkəzi icra hakimiyyəti orqanları və müvafiq icra hakimiyyəti orqanlarının yanında yaradılan dövlət agentlikləri 3-cü kateqoriyaya daxildir."
+      "correctAnswer": 0
     },
     {
       "text": "62. Əsas səlahiyyətləri AR Konstitusiyasının 113, 120 və 124-cü maddələri ilə və qanunla müəyyən edilən dövlət orqanları hansı kateqoriya dövlət orqanlarıdır:",
@@ -681,8 +620,7 @@
         "C) 4-cü kateqoriya dövlət orqanları",
         "D) 5-ci kateqoriya dövlət orqanları"
       ],
-      "correctAnswer": 2,
-      "explanation": "Bu maddələr 4-cü kateqoriya dövlət orqanlarının səlahiyyətlərini müəyyən edir."
+      "correctAnswer": 2
     },
     {
       "text": "63. 4-cü kateqoriya dövlət orqanlarına aid deyil:",
@@ -692,8 +630,7 @@
         "C) Qazax Rayon Hərbi prokurorluğu",
         "D) Dövlət Miqrasiya Xidməti"
       ],
-      "correctAnswer": 3,
-      "explanation": "Dövlət Miqrasiya Xidməti 3-cü kateqoriyaya aiddir."
+      "correctAnswer": 3
     },
     {
       "text": "64. 4-cü kateqoriya dövlət orqanlarına aid deyil:",
@@ -703,8 +640,7 @@
         "C) NMR mərkazi icra hakimiyati orqanlarının tabeliyində olan orqanlar",
         "D) Babək Rayon Prokurorluğu"
       ],
-      "correctAnswer": 1,
-      "explanation": "AR Maliyyə Nazirliyi 3-cü kateqoriyaya aiddir."
+      "correctAnswer": 1
     },
     {
       "text": "65. 4-cü kateqoriya dövlət orqanlarına aid deyil:",
@@ -714,8 +650,7 @@
         "C) Bakı Şəhər İcra Hakimiyyəti başçısının yanında olan orqanlar",
         "D) Ağsu Rayon Məhkəməsi"
       ],
-      "correctAnswer": 0,
-      "explanation": "Bakı Şəhər İcra Hakimiyyəti 3-cü kateqoriyaya aiddir."
+      "correctAnswer": 0
     },
     {
       "text": "66. 5-ci kateqoriya dövlət orqanlarının əsas səlahiyyətləri hansı qanunvericilik aktları ilə müəyyən edilir?",
@@ -725,8 +660,7 @@
         "C) AR Konstitusiyasının 113-cü və 124-cü maddələri ilə",
         "D) Fərmanla"
       ],
-      "correctAnswer": 2,
-      "explanation": "5-ci kateqoriya orqanlarının səlahiyyətləri AR Konstitusiyasının 113 və 124-cü maddələri ilə müəyyən edilir."
+      "correctAnswer": 2
     },
     {
       "text": "67. 5-ci kateqoriya dövlət orqanlarına aid deyil:",
@@ -736,8 +670,7 @@
         "C) Ağcabədi Rayon Məhkəməsi",
         "D) Yerli icra hakimiyyəti başçılarının inzibati ərazi dairələri üzrə nümayəndəlikləri və sahə inzibati ərazi dairələri üzrə nümayəndəlikləri"
       ],
-      "correctAnswer": 3,
-      "explanation": "Yerli icra hakimiyyəti başçılarının inzibati ərazi dairələri üzrə nümayəndəlikləri 5-ci kateqoriyaya aid deyil, onlar 5-ci kateqoriyadır."
+      "correctAnswer": 3
     },
     {
       "text": "68. 5-ci kateqoriya dövlət orqanlarına aid deyil:",
@@ -747,8 +680,7 @@
         "C) İnzibati ərazi dairələri üzrə nümayəndəlikləri və sahə inzibati ərazi dairələri üzrə nümayəndəlikləri",
         "D) Yerli icra hakimiyyəti başçılarının yanında avtomobil nəqliyyatı ilə sərnişindaşıma idarələri"
       ],
-      "correctAnswer": 2,
-      "explanation": "İnzibati ərazi dairələri üzrə nümayəndəlikləri 5-ci kateqoriyaya aiddir."
+      "correctAnswer": 2
     },
     {
       "text": "69. \"Dövlət qulluğu haqqında\" AR Qanununa əsasən doğrudur:",
@@ -758,8 +690,7 @@
         "C) Konkret dövlət orqanlarının və onların bölmələrinin müvafiq kateqoriyalara aidiyyati AR qanunları ilə bu Qanun əsasında müəyyən edilir.",
         "D) Konkret dövlət orqanlarının və onların bölmələrinin müvafiq kateqoriyalara aidiyyəti AR qanunvericiliyi ilə bu Qanun əsasında müəyyən edilir."
       ],
-      "correctAnswer": 3,
-      "explanation": "Dövlət orqanlarının kateqoriyalara aidiyyatı AR qanunvericiliyi və bu Qanun əsasında müəyyən edilir."
+      "correctAnswer": 3
     },
     {
       "text": "70. Dövlət qulluğu vəzifəsi nədir?",
@@ -769,8 +700,7 @@
         "C) Dövlət qulluğu vəzifəsi \"Dövlət qulluğu haqqında\" AR Qanunu ilə müəyyən edilən struktur quruluşu və ştat cədvəlinə uyğun olan ştat vahididir.",
         "D) Dövlət qulluğu vəzifəsi AR Prezidenti yanında Dövlət Qulluğu Məsələləri üzrə Komissiyasının normativ aktları ilə müəyyən edilən struktur quruluşu və ştat cədvəlinə uyğun olan ştat vahididir."
       ],
-      "correctAnswer": 1,
-      "explanation": "Dövlət qulluğu vəzifəsi dövlət orqanının normativ aktları ilə müəyyən edilən ştat vahididir."
+      "correctAnswer": 1
     },
     {
       "text": "71. \"Dövlət qulluğu haqqında\" AR Qanununa əsasən doğrudur:",
@@ -780,8 +710,7 @@
         "C) Dövlət qulluğu vəzifəsini tutan şəxsin səlahiyyət və funksiyalarının hüdudları həmin orqanın sektor müdirinin səlahiyyətindən asılı olaraq müəyyən edilir.",
         "D) Dövlət qulluğu vəzifəsini tutan şəxsin səlahiyyət və funksiyalarının hüdudlar həmin orqanun səlahiyyətindan asılı olaraq müəyyən edilir"
       ],
-      "correctAnswer": 3,
-      "explanation": "Dövlət qulluqçusunun səlahiyyətləri çalışdığı dövlət orqanının səlahiyyətlərindən asılıdır."
+      "correctAnswer": 3
     },
     {
       "text": "72. Dövlət orqanlarında vəzifələr hansı şərtlərdən asılı olaraq inzibati və yardımçı vəzifələrə bölünür?",
@@ -791,8 +720,7 @@
         "C) 3, 4, 5",
         "D) 1, 3, 5"
       ],
-      "correctAnswer": 2,
-      "explanation": "Vəzifələr səlahiyyət, məsuliyyət və tutulma üsullarından asılı olaraq bölünür."
+      "correctAnswer": 2
     },
     {
       "text": "73. Siyasi vəzifələri tutan şəxslərin hüquqi statusu hansı qanunvericilik aktları ilə müəyyən olunur?",
@@ -802,8 +730,7 @@
         "C) AR Dövlət Qulluğunu İdarəetmə Şurasının qəbul etdiyi qərarlarla",
         "D) Başqa qanunvericilik aktları ilə"
       ],
-      "correctAnswer": 3,
-      "explanation": "Siyasi vəzifə tutan şəxslərin statusu digər qanunvericilik aktları ilə müəyyən edilir."
+      "correctAnswer": 3
     },
     {
       "text": "74. \"Dövlət qulluğu haqqında\" AR Qanunun qüvvəsi siyasi vəzifələri tutan şəxslərə şamil olunurmu?",
@@ -813,8 +740,7 @@
         "C) \"Dövlət qulluğu haqqında\" AR Qanununda başqa hal nəzərdə tutulmayıbsa, bu Qanun siyasi vəzifələri tutan şəxsləra istisna hallarda şamil edilir.",
         "D) \"Dövlət qulluğu haqqında\" AR Qanununda başqa hal nəzərdə tutulmayıbsa, bu Qanun siyasi vəzifələri tutan şəxslərə bütün hallarda şamil edilir."
       ],
-      "correctAnswer": 0,
-      "explanation": "Siyasi vəzifə tutan şəxslərə bu qanun şamil edilmir."
+      "correctAnswer": 0
     },
     {
       "text": "75. \"Dövlət qulluğu haqqında\" AR Qanununa əsasən inzibati vəzifə nədir?",
@@ -824,8 +750,7 @@
         "C) Inzibati vəzifə 1-ci-2-ci kateqoriya dövlət orqanları aparatları rəhbərlərinin, onların müavinlərinin, habelə dövlət qulluğunda çalışan mütəxəssislərin vəzifələridir.",
         "D) Inzibati vəzifə 1-ci-5-ci kateqoriya dövlət orqanları bölmələri rəhbərlərinin, onların müavinlərinin, habelə dövlət qulluğunda çalışan mütəxəssislərin vəzifələridir."
       ],
-      "correctAnswer": 1,
-      "explanation": "İnzibati vəzifə Ali-5-ci kateqoriya dövlət orqanlarının rəhbərlərinin və mütəxəssislərin vəzifələridir."
+      "correctAnswer": 1
     },
     {
       "text": "76. İnzibati və ya yardımçı vəzifə tutan şəxsin hüquqi statusu nə ilə müəyyən edilir?",
@@ -835,8 +760,7 @@
         "C) İnzibati və ya yardımçı vəzifə tutan şəxsin hüquqi statusu işlədiyi dövlət orqanının səlahiyyətlərini müayyən edən qanunvericilik aktları ilə müəyyən edilir.",
         "D) Inzibati və ya yardımçı vəzifə tutan şəxsin hüquqi statusu müvafiq dövlət orqanı rəhbərinin öz səlahiyyətləri çərçivəsində qəbul etdiyi qanunvericilik aktları ilə müəyyən edilir."
       ],
-      "correctAnswer": 2,
-      "explanation": "İnzibati və ya yardımçı vəzifə tutan şəxsin hüquqi statusu işlədiyi dövlət orqanının səlahiyyətlərini müəyyən edən qanunvericilik aktları ilə müəyyən edilir."
+      "correctAnswer": 2
     },
     {
       "text": "77. \"Dövlət qulluğu haqqında\" AR Qanununa əsasən yardımçı vəzifələr nədir?",
@@ -846,8 +770,7 @@
         "C) Yardımçı vəzifələr 1-ci-5-ci kateqoriya dövlat orqanlarında texniki işləri həyata keçirən mütəxəssislərin vəzifələridir.",
         "D) Yardımçı vəzifələr Ali-7-ci kateqoriya dövlət orqanlarında texniki işləri həyata keçirən dövlət qulluqçularının vəzifələridir."
       ],
-      "correctAnswer": 0,
-      "explanation": "Yardımçı vəzifələr Ali-5-ci kateqoriya dövlət orqanlarında texniki işləri həyata keçirən dövlət qulluqçularının vəzifələridir."
+      "correctAnswer": 0
     },
     {
       "text": "78. Yardımçı vəzifələri seçin:",
@@ -857,8 +780,7 @@
         "C) 3, 4, 5",
         "D) 2, 3, 4"
       ],
-      "correctAnswer": 1,
-      "explanation": "Arxiv qeydiyyatçısı, sürücü və makinaçı yardımçı vəzifələrə aiddir."
+      "correctAnswer": 1
     },
     {
       "text": "79. Yardımçı vəzifələri seçin:",
@@ -868,8 +790,7 @@
         "C) 3, 4, 5, 6",
         "D) 1, 2, 5, 6"
       ],
-      "correctAnswer": 3,
-      "explanation": "Kargüzar, kuryer, arxiv qeydiyyatçısı və liftçi yardımçı vəzifələrə aiddir."
+      "correctAnswer": 3
     },
     {
       "text": "80. İnzibati vəzifələrin ali təsnifatına aid olanı müəyyən edin:",
@@ -879,8 +800,7 @@
         "C) 1, 2, 4",
         "D) 2, 3, 5"
       ],
-      "correctAnswer": 3,
-      "explanation": "Birinci vitse-prezidentin Katibliyinin rəisi, Prezident Administrasiya rəhbərinin vəzifəsi və Milli Məclis Aparat rəhbəri ali təsnifata daxildir."
+      "correctAnswer": 3
     },
     {
       "text": "81. İnzibati vəzifələrin ali təsnifatına aid olanı müəyyən edin:",
@@ -890,8 +810,7 @@
         "C) 1, 3",
         "D) 3, 4"
       ],
-      "correctAnswer": 0,
-      "explanation": "AR Prezidentinin İşlər müdiri və AR Ali Məhkəməsinin Aparat rəhbəri ali təsnifata daxildir."
+      "correctAnswer": 0
     },
     {
       "text": "82. İnzibati vəzifələrin ali təsnifatına aid olanı müəyyən edin:",
@@ -901,8 +820,7 @@
         "C) 2, 5",
         "D) 1, 5"
       ],
-      "correctAnswer": 2,
-      "explanation": "AR Konstitusiya Məhkəməsinin Aparat rəhbəri və AR Prezidentinin Xüsusi Tibb xidmətinin rəisi ali təsnifata daxildir."
+      "correctAnswer": 2
     },
     {
       "text": "83. İnzibati vəzifələrin birinci təsnifatına aid deyil:",
@@ -912,8 +830,7 @@
         "C) AR Nazirlər Kabinetində bölmə rəhbəri",
         "D) AR Birinci vitse-prezidentin katibliyin rəisi"
       ],
-      "correctAnswer": 3,
-      "explanation": "AR Birinci vitse-prezidentin katibliyin rəisi ali təsnifata daxildir."
+      "correctAnswer": 3
     },
     {
       "text": "84. İnzibati vəzifələrin birinci təsnifatına aid deyil:",
@@ -923,8 +840,7 @@
         "C) AR Milli Məclisinin Aparat rəhbərinin müavini",
         "D) AR Baş Prokurorluğunda Aparat rəhbəri"
       ],
-      "correctAnswer": 1,
-      "explanation": "AR Prezidentinin İşlər müdiri ali təsnifata daxildir."
+      "correctAnswer": 1
     },
     {
       "text": "85. \"Dövlət qulluğu haqqında\" AR Qanununa uyğun olaraq inzibati vəzifələrin birinci təsnifatına aid deyil:",
@@ -934,8 +850,7 @@
         "C) 2, 5",
         "D) 1, 5"
       ],
-      "correctAnswer": 3,
-      "explanation": "NMR Ali Məhkəməsində Aparat rəhbəri və Yasamal Rayon İcra Hakimiyyətində sektor müdiri birinci təsnifata aid deyil."
+      "correctAnswer": 3
     },
     {
       "text": "86. İnzibati vəzifələrin birinci təsnifatına aiddir:",
@@ -945,8 +860,7 @@
         "C) 1, 4",
         "D) 3, 4"
       ],
-      "correctAnswer": 3,
-      "explanation": "Hesablama Palatasında Aparat rəhbərinin müavini və Konstitusiya Məhkəməsinin aparat rəhbərlərinin müavinləri birinci təsnifata aiddir."
+      "correctAnswer": 3
     },
     {
       "text": "87. İnzibati vəzifələrin birinci təsnifatına aiddir:",
@@ -956,8 +870,7 @@
         "C) 1, 3",
         "D) 3, 5"
       ],
-      "correctAnswer": 0,
-      "explanation": "AR Ali Məhkəməsində bölmə rəhbərləri və AR İnsan Hüquqları üzrə müvəkkilinin (ombudsmanın) Aparati birinci təsnifata aiddir."
+      "correctAnswer": 0
     },
     {
       "text": "88. İnzibati vəzifələrin ikinci təsnifatına daxil deyil:",
@@ -967,8 +880,7 @@
         "C) Bakı şəhər İcra Hakimiyyəti başçısının birinci müavini",
         "D) AR Birinci vitse-prezidentin köməkçisi"
       ],
-      "correctAnswer": 3,
-      "explanation": "AR Birinci vitse-prezidentin köməkçisi birinci təsnifata daxildir."
+      "correctAnswer": 3
     },
     {
       "text": "89. İnzibati vəzifələrin ikinci təsnifatına daxildir:",
@@ -978,8 +890,7 @@
         "C) 3,4,5",
         "D) 1,5,6"
       ],
-      "correctAnswer": 2,
-      "explanation": "Baş Prokurorluqda Aparat rəhbərinin müavini, NMR Nazirlər Kabinetinin Aparat rəhbəri və AR İnsan Hüquqları üzrə müvəkkilinin (ombudsmanın) Aparatının bölmə rəhbəri ikinci təsnifata daxildir."
+      "correctAnswer": 2
     },
     {
       "text": "90. İnzibati vəzifələrin ikinci təsnifatına daxil deyil:",
@@ -989,8 +900,7 @@
         "C) Hesablama Palatasında Aparat rəhbərinin müavini",
         "D) NMR Prokurorluğunun Aparat rəhbəri"
       ],
-      "correctAnswer": 1,
-      "explanation": "AR Mərkəzi Seçki Komissiyasında Aparat rəhbəri birinci təsnifata daxildir."
+      "correctAnswer": 1
     },
     {
       "text": "91. İnzibati vəzifələrin ikinci təsnifatına daxil deyil:",
@@ -1000,8 +910,7 @@
         "C) NMR Təhsil Nazirliyində Aparat rəhbəri",
         "D) NMR İnsan Hüquqları üzrə müvəkkilinin (ombudsmanın) Aparat rəhbəri"
       ],
-      "correctAnswer": 0,
-      "explanation": "Məhkəmə-Hüquq Şurasının Aparat rəhbərinin müavini birinci təsnifata daxildir."
+      "correctAnswer": 0
     },
     {
       "text": "92. İnzibati vəzifələrin ikinci təsnifatına daxildir:",
@@ -1011,8 +920,7 @@
         "C) AR Konstitusiya Məhkəməsinin şöbə rəhbəri",
         "D) Məhkəmə-Hüquq Şurasının Aparat rəhbəri"
       ],
-      "correctAnswer": 2,
-      "explanation": "AR Konstitusiya Məhkəməsinin şöbə rəhbəri ikinci təsnifata daxildir."
+      "correctAnswer": 2
     },
     {
       "text": "93. İnzibati vəzifələrin üçüncü təsnifatı deyil:",
@@ -1022,8 +930,7 @@
         "C) AR Milli Məclisində sektor müdiri",
         "D) Hesablama Palatasında bölmə rəhbərinin müavini"
       ],
-      "correctAnswer": 0,
-      "explanation": "NMR Ali Məhkəməsində şöbə rəhbərinin müavini ikinci təsnifata daxildir."
+      "correctAnswer": 0
     },
     {
       "text": "94. İnzibati vəzifələrin üçüncü təsnifatı deyil:",
@@ -1033,8 +940,7 @@
         "C) NMR Ali Məhkəməsində şöbə rəhbəri",
         "D) AR Apellyasiya məhkəməsinin aparat rəhbəri"
       ],
-      "correctAnswer": 1,
-      "explanation": "AR Hərbi Prokurorluğunda bölmə rəhbəri ikinci təsnifata daxildir."
+      "correctAnswer": 1
     },
     {
       "text": "95. İnzibati vəzifələrin üçüncü təsnifatı deyil:",
@@ -1044,8 +950,7 @@
         "C) AR Korrupsiyaya qarşı mübarizə üzrə Komissiyasının Katibliyində bölmə rəhbəri",
         "D) Milli Televiziya və Radio Şurasının Aparat rəhbəri"
       ],
-      "correctAnswer": 2,
-      "explanation": "AR Korrupsiyaya qarşı mübarizə üzrə Komissiyasının Katibliyində bölmə rəhbəri ikinci təsnifata daxildir."
+      "correctAnswer": 2
     },
     {
       "text": "96. İnzibati vəzifələrin üçüncü təsnifatı deyil:",
@@ -1055,8 +960,7 @@
         "C) AR Baş Prokurorluğunda bölmə rəhbərlərinin müavinlərinin",
         "D) Məhkəmə-Hüquq Şurasının Aparat rəhbərinin müavini"
       ],
-      "correctAnswer": 3,
-      "explanation": "Məhkəmə-Hüquq Şurasının Aparat rəhbərinin müavini birinci təsnifata daxildir."
+      "correctAnswer": 3
     },
     {
       "text": "97. İnzibati vəzifələrin üçüncü təsnifatıdır:",
@@ -1066,8 +970,7 @@
         "C) AR İnsan Hüquqları üzrə müvəkkilinin (ombudsmanın) Aparatında bölmə rəhbərləri",
         "D) AR Prezidentinin Xüsusi Tibb xidmətinin rəisi"
       ],
-      "correctAnswer": 1,
-      "explanation": "AR Hərbi Prokurorluğunda aparat rəhbərlərinin müavini üçüncü təsnifata aiddir."
+      "correctAnswer": 1
     },
     {
       "text": "98. İnzibati vəzifələrin üçüncü təsnifatıdır:",
@@ -1077,8 +980,7 @@
         "C) AR Birinci vitse-prezidentinin köməkçisi",
         "D) AR Hesablama Palatasında Aparat rəhbəri"
       ],
-      "correctAnswer": 0,
-      "explanation": "AR Korrupsiyaya qarşı mübarizə üzrə Komissiyasının Katibliyinin aparat rəhbərinin müavini üçüncü təsnifata aiddir."
+      "correctAnswer": 0
     },
     {
       "text": "99. İnzibati vəzifələrin dördüncü təsnifatına aiddir:",
@@ -1088,8 +990,7 @@
         "C) 1, 2, 3",
         "D) 1, 4, 5"
       ],
-      "correctAnswer": 1,
-      "explanation": "Yerli İcra Hakimiyyəti başçılarının birinci müavini, Hesablama Palatasında sektor müdiri və NMR Ali Məhkəməsində bölmə rəhbərinin müavini dördüncü təsnifata aiddir."
+      "correctAnswer": 1
     },
     {
       "text": "100. İnzibati vəzifələrin dördüncü təsnifatına aiddir:",
@@ -1099,8 +1000,7 @@
         "C) 1, 2,6",
         "D) 1,4,5"
       ],
-      "correctAnswer": 0,
-      "explanation": "AR Mərkəzi Seçki Komissiyasında bölmə rəhbəri, AR Hərbi prokurorluğunda Bölmə rəhbərinin müavini və Yerli İcra Hakimiyyəti başçılarının müavini dördüncü təsnifata aiddir."
+      "correctAnswer": 0
     },
     {
       "text": "101. İnzibati vəzifələrin dördüncü təsnifatına aid deyil:",
@@ -1110,8 +1010,7 @@
         "C) AR Apellyasiya məhkəməsində bölmə rəhbəri",
         "D) Milli Televiziya və Radio Şurası Aparatının bölma rahbərinin müavini"
       ],
-      "correctAnswer": 0,
-      "explanation": "AR Baş prokurorluğunda aparıcı məsləhətçi 5-ci təsnifata aiddir."
+      "correctAnswer": 0
     },
     {
       "text": "102. İnzibati vəzifələrin beşinci təsnifatına aiddir:",
@@ -1121,8 +1020,7 @@
         "C) 1, 2",
         "D) 3, 4"
       ],
-      "correctAnswer": 1,
-      "explanation": "Ağır cinayətlər məhkəmələrində bölmə rəhbərlərinin müavini və Bilgəh qəsəbəsi inzibati ərazi dairəsi üzrə icra nümayəndəsi beşinci təsnifata aiddir."
+      "correctAnswer": 1
     },
     {
       "text": "103. İnzibati vəzifələrin beşinci təsnifatına aid deyil:",
@@ -1132,8 +1030,7 @@
         "C) AR Təhsil Nazirliyinin Xocalı Rayon Təhsil Şöbəsinin müdiri",
         "D) Bakı Şəhər Prokurorluğunun bölmə rəhbəri"
       ],
-      "correctAnswer": 0,
-      "explanation": "AR Mərkəzi Seçki Komissiyasında bölmə rəhbəri dördüncü təsnifata aiddir."
+      "correctAnswer": 0
     },
     {
       "text": "104. İnzibati vəzifələrin beşinci təsnifatına aiddir:",
@@ -1143,8 +1040,7 @@
         "C) 1, 3, 6",
         "D) 4, 5, 6"
       ],
-      "correctAnswer": 1,
-      "explanation": "NMR-da Ali Məhkəməsində sektor müdiri, Binəqədi Rayon İcra Hakimiyyəti Aparatında bölmə rəhbəri və Bakı Şəhər Ticarət və Xidmət Departamentinin direktoru (rəhbəri) beşinci təsnifata aiddir."
+      "correctAnswer": 1
     },
     {
       "text": "105. İnzibati vəzifələrin altıncı təsnifatına aiddir:",
@@ -1154,8 +1050,7 @@
         "C) AR Milli Məclisində sektor müdiri",
         "D) Hesablama Palatasında bölmə rəhbərinin müavini"
       ],
-      "correctAnswer": 0,
-      "explanation": "Dövlət Sosial Müdafiə Fondunun İmişli rayon bölməsinin sədr müavini altıncı təsnifata aiddir."
+      "correctAnswer": 0
     },
     {
       "text": "106. İnzibati vəzifələrin altıncı təsnifatına aid deyil:",
@@ -1165,8 +1060,7 @@
         "C) Peşə Təhsili üzrə Dövlət Agentliyində baş məsləhətçi",
         "D) Nizami Rayon Məhkəməsində hakim köməkçisi"
       ],
-      "correctAnswer": 1,
-      "explanation": "Dövlət Sosial Müdafiə Fondunda sektor müdiri dördüncü təsnifata aiddir."
+      "correctAnswer": 1
     },
     {
       "text": "107. İnzibati vəzifələrin yeddinci təsnifatına aiddir:",
@@ -1176,8 +1070,7 @@
         "C) AR Baş Prokurorluğunda bölmə rəhbərlərinin müavinlərinin",
         "D) Sabunçu Rayon İcra Hakimiyyətində sektor müdiri"
       ],
-      "correctAnswer": 1,
-      "explanation": "AR Konstitusiya Məhkəməsinin aparatinda mütəxəssis yeddinci təsnifata aiddir."
+      "correctAnswer": 1
     },
     {
       "text": "108. İnzibati vəzifələrin yeddinci təsnifatına aid deyil:",
@@ -1187,8 +1080,7 @@
         "C) AR Kənd Təsərrüfatı Nazirliyinin tabeliyində olan Abşeron Dövlət Aqrar İnkişaf Mərkəzində bölmə rəhbərinin müavini",
         "D) Yerli icra hakimiyyəti başçılarının yanında avtomobil nəqliyyatı ilə sərnişindaşıma idarələrinin rəhbərləri və müavinləri"
       ],
-      "correctAnswer": 0,
-      "explanation": "Bakı Şəhər Ticarət və Xidmət Departamentinin direktor müavini beşinci təsnifata aiddir."
+      "correctAnswer": 0
     },
     {
       "text": "109. İnzibati vəzifələrin neçə təsnifatı var?",
@@ -1198,8 +1090,7 @@
         "C) 1-7",
         "D) 1-4"
       ],
-      "correctAnswer": 1,
-      "explanation": "İnzibati vəzifələrin Ali, birinci, ikinci, üçüncü, dördüncü, beşinci, altıncı və yeddinci təsnifatları var. Cəmi 8 təsnifatdır. (Ali-7)."
+      "correctAnswer": 1
     },
     {
       "text": "110. Yardımçı vəzifələrin neçə təsnifatı var?",
@@ -1209,8 +1100,7 @@
         "C) Ali-7",
         "D) 1-8"
       ],
-      "correctAnswer": 0,
-      "explanation": "Yardımçı vəzifələrin dörd təsnifatı var: Birinci, İkinci, Üçüncü, Dördüncü."
+      "correctAnswer": 0
     },
     {
       "text": "111. Yardımçı vəzifələrin birinci təsnifatına hansı vəzifələr aiddir?",
@@ -1220,8 +1110,7 @@
         "C) 2-ci və 3-cü kateqoriya dövlət orqanlarında texniki vəzifələr",
         "D) 4-cü və 5-ci kateqoriya dövlət orqanlarında texniki vazifələr"
       ],
-      "correctAnswer": 1,
-      "explanation": "Yardımçı vəzifələrin birinci təsnifatına Ali kateqoriya dövlət orqanlarında texniki vəzifələr aiddir."
+      "correctAnswer": 1
     },
     {
       "text": "112. Yardımçı vəzifələrin ikinci təsnifatına hansı vəzifələr aiddir?",
@@ -1231,8 +1120,7 @@
         "C) 2-ci və 3-cü kateqoriya dövlət orqanlarında texniki vəzifələr",
         "D) 4-cü və 5-ci kateqoriya dövlət orqanlarında texniki vəzifələr"
       ],
-      "correctAnswer": 0,
-      "explanation": "Yardımçı vəzifələrin ikinci təsnifatına 1-ci kateqoriya dövlət orqanlarında texniki vəzifələr aiddir."
+      "correctAnswer": 0
     },
     {
       "text": "113. Yardımçı vəzifələrin üçüncü təsnifatına hansı vəzifələr aiddir?",
@@ -1242,8 +1130,7 @@
         "C) 2-ci və 3-cü kateqoriya dövlət orqanlarında texniki vəzifələr",
         "D) 4-cü və 5-ci kateqoriya dövlət orqanlarında texniki vəzifələr"
       ],
-      "correctAnswer": 2,
-      "explanation": "Yardımçı vəzifələrin üçüncü təsnifatına 2-ci və 3-cü kateqoriya dövlət orqanlarında texniki vəzifələr aiddir."
+      "correctAnswer": 2
     },
     {
       "text": "114. Yardımçı vəzifələrin dördüncü təsnifatına hansı vəzifələr aiddir?",
@@ -1253,8 +1140,7 @@
         "C) 2-ci və 3-cü kateqoriya dövlət orqanlarında texniki vəzifələr",
         "D) 4-cü və 5-ci kateqoriya dövlət orqanlarında texniki vəzifələr"
       ],
-      "correctAnswer": 3,
-      "explanation": "Yardımçı vəzifələrin dördüncü təsnifatına 4-cü və 5-ci kateqoriya dövlət orqanlarında texniki vəzifələr aiddir."
+      "correctAnswer": 3
     },
     {
       "text": "115. Dövlət orqanlarının aparatları (və ya onların fəaliyyətini təmin edən qurumlar) və onların bölmələri Ali-5-ci kateqoriya dövlət orqanlarının AR Konstitusiyası və qanunları ilə müəyyən edilmiş funksiya və səlahiyyətləri, habelə onların həyata keçirilməsi xüsusiyyətləri nəzərə alınaraq, hansı formada təsnifləşdirilir?",
@@ -1264,8 +1150,7 @@
         "C) Təminedici və yardımçı",
         "D) Yardımçı və xüsusi"
       ],
-      "correctAnswer": 0,
-      "explanation": "Dövlət orqanlarının aparatları funksiya və səlahiyyətlərinə görə inzibati və yardımçı vəzifələrə bölünür."
+      "correctAnswer": 0
     },
     {
       "text": "116. Dövlət orqanlarının aparatının və onun bölmələrinin adları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilir. Burada Müvafiq icra hakimiyyəti hansı orqandır?",
@@ -1275,8 +1160,7 @@
         "C) AR Milli Məclisi",
         "D) AR Dövlət İmtahan Mərkəzi"
       ],
-      "correctAnswer": 1,
-      "explanation": "Azərbaycan Respublikasının Prezidenti bu işi həyata keçirir."
+      "correctAnswer": 1
     },
     {
       "text": "117. \"Dövlət orqanlarının aparatı və ya onların fəaliyyətini təmin edən qurumlar\" dedikdə nə nəzərdə tutulur?",
@@ -1286,8 +1170,7 @@
         "C) dövlət orqanlarının aparatı vaə ya onların fəaliyyətini təmin edən qurumlar dedikdə dövlət orqanının vəzifə, funksiya və səlahiyyətlərinin həyata keçirilməsini təmin edən bütün şəxslərdən ibarət ixtisaslaşdırılmış bölmələrini özündə birləşdirən dövlət orqanının struktur vahidi nəzərdə tutulur.",
         "D) Dövlət orqanlarının aparatı va ya onların fəaliyyətini təmin edən qurumlar dedikdə dövlət orqanının vəzifə, funksiya və səlahiyyətlərinin həyata keçirilməsini tamin edən dövlət qulluqçularından ibarət ixtisaslaşdırılmış bölmələrini özündə birləşdirən dövlət orqanının struktur vahidi nəzərdə tutulur."
       ],
-      "correctAnswer": 3,
-      "explanation": "Dövlət orqanının aparatı funksiyaları yerinə yetirmək üçün ixtisaslaşdırılmış bölmələri özündə birləşdirən struktur vahididir."
+      "correctAnswer": 3
     },
     {
       "text": "118. İnzibati və yardımçı vəzifələrin təsnifat toplusuna nə daxildir?",
@@ -1297,8 +1180,7 @@
         "C) İnzinbati va yardımçı vəzifələrin təsnifat toplusuna vəzifələrin təsnifatları və adları, ixtisas dərəcələri və vəzifələrin tutulması şərtləri haqqında məlumatlar daxildir.",
         "D) Inzibati va yardımçı vəzifələrin təsnifat toplusuna vəzifələrin təsnifatları və adları və vəzifələrin tutulması şərtləri haqqında məlumatlar daxildir."
       ],
-      "correctAnswer": 2,
-      "explanation": "Təsnifat toplusuna vəzifələrin adları, ixtisas dərəcələri və tutulma şərtləri daxildir."
+      "correctAnswer": 2
     },
     {
       "text": "119. Dövlət orqanlarının ștat cədvəllərinin yaradılması və dövlət qulluqçularının vəzifə təlimatlarının hazırlanması üçün nə əsasdır?",
@@ -1308,8 +1190,7 @@
         "C) Dövlət orqanlarının ştat cədvəllərinin yaradılması və dövlət qulluqçularının vəzifə təlimatlarının hazırlanması Dövlət orqanının səlahiyyətlərini müəyyən edən AR Milli Məclisinin qərarları aktları əsasdır.",
         "D) Dövlət orqanlarının ştat cədvəllərinin yaradılması və dövlət qulluqçularının vəzifə təlimatlarının hazırlanması AR Nazirlər Kabinetinin qərarı əsasdır."
       ],
-      "correctAnswer": 0,
-      "explanation": "Ştat cədvəli və vəzifə təlimatlarının hazırlanması üçün inzibati və yardımçı vəzifələrin təsnifat toplusu əsasdır."
+      "correctAnswer": 0
     },
     {
       "text": "120. İnzibati və yardımçı vəzifələrin təsnifat toplusu hansı subyekt tərəfindən müəyyən edilir?",
@@ -1319,8 +1200,7 @@
         "C) AR Milli Məclisi",
         "D) AR Prezidenti"
       ],
-      "correctAnswer": 3,
-      "explanation": "İnzibati və yardımçı vəzifələrin təsnifat toplusu AR Prezidenti tərəfindən müəyyən edilir."
+      "correctAnswer": 3
     },
     {
       "text": "121. İnzibati və yardımçı vəzifələrə aid ixtisas tələbləri nayi ifadə edir?",
@@ -1330,8 +1210,7 @@
         "C) inzibati və yardımçı vəzifələrə aid ixtisas tələbləri vəzifə iddiasında olan şəxsin həmin vəzifənin öhdəsindən gəlməsi üçün dövlət qulluğuna yararlılığını təmin edir.",
         "D) inzibati və yardımçı vəzifələrə aid ixtisas tələbləri vəzifə iddiasında olan şəxsin həmin vəzifənin öhdəsindən gəlməsi üçün fiziki göstəricilərini təmin edir."
       ],
-      "correctAnswer": 0,
-      "explanation": "İxtisas tələbləri şəxsin vəzifəni icra etmək üçün səriştəsinin olmasını təmin edir."
+      "correctAnswer": 0
     },
     {
       "text": "122. \"Dövlət qulluğu haqqında\" AR Qanununa əsasən doğrudur:",
@@ -1341,8 +1220,7 @@
         "C) İnzibati vəzifə iddiasında olan şəxsin müvafiq ali təhsili olmalıdır.",
         "D) İnzibati vəzifə iddiasında olan şəxsin beynəlxalq ali təhsili olmalıdır."
       ],
-      "correctAnswer": 2,
-      "explanation": "İnzibati vəzifə tutmaq üçün şəxsin müvafiq sahə üzrə ali təhsili olmalıdır."
+      "correctAnswer": 2
     },
     {
       "text": "123. İnzibati vəzifə iddiasında olan şəxsin başqa ali təhsili olduqda, o, nə etməlidir?",
@@ -1352,8 +1230,7 @@
         "C) Həmin şəxsin başqa ali təhsili olduqda, o, ixtisasını dəyişdirib iddiasında olduğu inzibati vəzifənin profilini öyrənməlidir.",
         "D) Həmin şəxsin başqa ali təhsili olduqda, o, ixtisasını dəyişdirmədən iddiasında olduğu inzibati vəzifənin profilini öyrənməlidir."
       ],
-      "correctAnswer": 2,
-      "explanation": "İxtisasın dəyişdirilməsi və ya profilinin öyrənilməsi tələb olunur."
+      "correctAnswer": 2
     },
     {
       "text": "124. \"Dövlət qulluğu haqqında\" AR Qanununa əsasən doğrudur:",
@@ -1363,8 +1240,7 @@
         "C) Yardımçı vəzifə iddiasında olan şəxsin orta və ali təhsili olmalıdır.",
         "D) Yardımçı vəzifə iddiasında olan şəxsin tam orta təhsili olmalıdır."
       ],
-      "correctAnswer": 3,
-      "explanation": "Yardımçı vəzifə tutmaq üçün tam orta təhsil kifayətdir."
+      "correctAnswer": 3
     },
     {
       "text": "125. İnzibati və yardımçı vəzifələri tutmaq üçün əlavə tələblər hansı aktlarla müəyyən edilir?",
@@ -1374,8 +1250,7 @@
         "C) inzibati va yardımçı vəzifələri tutmaq üçün əlavə tələblər qanunvericiliklə və vəzifə təlimatları ilə habelə beynəlxalq müqavilələrlə müəyyən edilir.",
         "D) inzibati və yardımçı vəzifələri tutmaq üçün əlavə tələblər qanunvericiliklə və vəzifə təlimatları ilə müəyyən edilir."
       ],
-      "correctAnswer": 3,
-      "explanation": "Əlavə tələblər qanunvericilik və vəzifə təlimatları ilə müəyyən edilir."
+      "correctAnswer": 3
     },
     {
       "text": "126. Hansı şəxs dövlət qulluqçusu hesab olunur?",
@@ -1385,8 +1260,7 @@
         "C) Dövlət qulluqçusu Qanunla müəyyən edilmiş qaydada maaşlı (maaş yalnız dövlət büdcəsi vəsaitindən verilə bilər) dövlət qulluğu vəzifəsini tutan və inzibati və yardımçı vəzifə üzrə dövlət qulluğuna qəbul edilərkən AR-na sadiq olacağına and içən AR vətəndaşıdır.",
         "D) Dövlət qulluqçusu bu Qanunla müəyyən edilmiş qaydada maaşlı dövlət qulluğu vəzifəsini tutan və inzibati vəzifə üzrə dövlət qulluğuna qəbul edilərkən AR-na sadiq olacağına and içən vətəndaşdır."
       ],
-      "correctAnswer": 0,
-      "explanation": "Dövlət qulluqçusu maaşlı dövlət qulluğu vəzifəsini tutan və and içən AR vətəndaşıdır. (D cavabından fərq: AR dövlət büdcəsi və NMR büdcəsi qeyd olunur.)"
+      "correctAnswer": 0
     },
     {
       "text": "127. Dövlət qulluqçusunun maaşı hansı mənbələrdən verilə bilər?",
@@ -1396,8 +1270,7 @@
         "C) 1, 4",
         "D) 2, 3, 5, 7"
       ],
-      "correctAnswer": 2,
-      "explanation": "Dövlət qulluqçusunun maaşı AR dövlət büdcəsi və ya NMR büdcəsindən verilə bilər."
+      "correctAnswer": 2
     },
     {
       "text": "128. Hansı subyektlər dövlət vəzifəli şəxsdir?",
@@ -1407,8 +1280,7 @@
         "C) İnzibati və yardımçı vəzifə tutan və hakimiyyət səlahiyyətləri alan dövlət qulluqçusu dövlət vəzifəli şəxsdir.",
         "D) İnzibati vəzifə tutan və hakimniyyət səlahiyyətləri alan dövlət qulluqçusu dövlət vəzifəli şəxsdir."
       ],
-      "correctAnswer": 3,
-      "explanation": "Dövlət vəzifəli şəxs inzibati vəzifə tutan və hakimiyyət səlahiyyətləri alan dövlət qulluqçusudur."
+      "correctAnswer": 3
     },
     {
       "text": "129. Dövlət qulluqçusunun andı nəyi təsdiq edir?",
@@ -1418,8 +1290,7 @@
         "C) Dövlət qulluqçusunun andı dövlət orqanı ilə dövlət qulluqçusu arasında açıq hüquqi borc və sədaqət münasibətlərini təsdiq edir",
         "D) Dövlət qulluqçusunun andı AR Dövlət Qulluğunu İdarəetmə Şurası ilə dövlət qulluqçusu arasında açıq hüquqi borc və sədaqət münasibətlərini təsdiq edir"
       ],
-      "correctAnswer": 0,
-      "explanation": "And dövlət qulluqçusu ilə dövlət arasında borc və sədaqət münasibətlərini təsdiqləyir."
+      "correctAnswer": 0
     },
     {
       "text": "130. Dövlət qulluqçusunun andiçməsi necə hayata keçirilir?",
@@ -1429,8 +1300,7 @@
         "C) Dövlət qulluqçusunun andiçməsi təntənəli şəraitdə AR Dövlət bayrağı yanında, AR gerbinin təsviri olmaqla AR Konstitusiyasına əl basmaqla həyata keçirilir.",
         "D) Dövlət qulluqçusunun andiçməsi Təntənəli şəraitdə AR Dövlət bayrağı altında AR Konstitusiyasına və vəzifə təlimatlarına əl basmaqla həyata keçirilir."
       ],
-      "correctAnswer": 2,
-      "explanation": "Andiçmə mərasimi Dövlət bayrağı və gerbinin təsviri ilə birgə Konstitusiyaya əl basmaqla baş tutur."
+      "correctAnswer": 2
     },
     {
       "text": "131. \"Dövlət qulluğu haqqında\" AR Qanununa uyğun olaraq doğrudur:",
@@ -1440,8 +1310,7 @@
         "C) İlk dəfə dövlət qulluğuna qəbul edilmiş vətəndaş vəzifəsinin icrasına başlamamışdan sonra and içir.",
         "D) İlk dəfə daimi dövlət qulluğuna qəbul edilmiş vətəndaş vəzifəsinin icrasına başlamamışdan əvvəl and içir."
       ],
-      "correctAnswer": 3,
-      "explanation": "İlk dəfə daimi dövlət qulluğuna qəbul edilənlər vəzifəsinin icrasına başlamamışdan əvvəl and içirlər."
+      "correctAnswer": 3
     },
     {
       "text": "132. Dövlət qulluqçusunun andı maddəsinə aid deyil:",
@@ -1451,8 +1320,7 @@
         "C) Andiçmə istənilən qədər ola bilər.",
         "D) Yardımçı dövlat qulluğu vəzifasinə qəbul edilənlər and içmirlər."
       ],
-      "correctAnswer": 2,
-      "explanation": "Andiçmə yalnız bir dəfə həyata keçirilir."
+      "correctAnswer": 2
     },
     {
       "text": "133. Dövlət qulluqçusunun şəxsi işi maddəsinə görə doğru deyil:",
@@ -1462,8 +1330,7 @@
         "C) Dövlət qulluqçusunun şəxsi işinin aparılması ilə bağlı tələblərin pozulmasında təqsirli olan şəxslər AR İnzibati Prosessual Məcəlləsində nəzərdə tutulmuş qaydada məsuliyyət daşıyırlar.",
         "D) Dövlət qulluqçusunun şəxsi işinin aparılması qaydaları müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən olunur."
       ],
-      "correctAnswer": 2,
-      "explanation": "Şəxsi iş qaydalarının pozulmasına görə məsuliyyət İnzibati Prosessual Məcəllə ilə deyil, qanunvericiliklə müəyyən edilir."
+      "correctAnswer": 2
     },
     {
       "text": "134. Dövlət qulluqçusunun şəxsi işinin aparılması qaydaları hansı orqan tərəfindən müəyyən olunur?",
@@ -1473,8 +1340,7 @@
         "C) AR Milli Məclisi",
         "D) AR Dövlət İmtahan Mərkəzi"
       ],
-      "correctAnswer": 0,
-      "explanation": "Şəxsi işin aparılması qaydaları Nazirlər Kabineti tərəfindən müəyyən edilir."
+      "correctAnswer": 0
     },
     {
       "text": "135. Dövlət qulluqçusunun xidməti vəsiqəsi maddəsinə görə doğrudur:",
@@ -1484,8 +1350,7 @@
         "C) Dövlət qulluqçusuna qulluq keçdiyi dövlət orqanında xidməti vəsiqə verilir.",
         "D) Dövlət qulluqçusuna test imtahanı verdiyi dövlət orqanında xidməti vəsiqə verilir."
       ],
-      "correctAnswer": 2,
-      "explanation": "Xidməti vəsiqə dövlət qulluqçusuna işlədiyi dövlət orqanında verilir."
+      "correctAnswer": 2
     },
     {
       "text": "136. Xidməti vəsiqə nədir?",
@@ -1495,8 +1360,7 @@
         "C) Xidməti vəsiqə dövlət qulluqçusunun tutduğu dövlət qulluğu vəzifəsini və ona verilmiş ixtisas dərəcəsini, habelə mükafatlandırılmasını təsdiq edən rəsmi sənəddir.",
         "D) Xidməti vəsiqə dövlət qulluqusunun tutduğu dövlət qulluğu vəzifəsini və ona verilmiş ixtisas dərəcəsini və təsnifatını təsdiq edən rəsmi sənəddir."
       ],
-      "correctAnswer": 1,
-      "explanation": "Xidməti vəsiqə şəxsin adını, soyadını, tutduğu vəzifəni və ixtisas dərəcəsini təsdiq edən sənəddir."
+      "correctAnswer": 1
     },
     {
       "text": "137. Xidməti vəsiqənin nümunəsi hansı orqan tərəfindən müəyyən edilir?",
@@ -1506,8 +1370,7 @@
         "C) AR Milli Məclisi",
         "D) AR Dövlət İmtahan Mərkəzi"
       ],
-      "correctAnswer": 1,
-      "explanation": "Xidməti vəsiqənin nümunəsi AR Prezidenti tərəfindən təsdiq edilir."
+      "correctAnswer": 1
     },
     {
       "text": "138. Dövlət qulluqçusunun ixtisas dərəcəsi dövlət qulluqçusuna hansı hüquqları verir?",
@@ -1517,8 +1380,7 @@
         "C) 1, 4, 5",
         "D) 3, 4, 5"
       ],
-      "correctAnswer": 3,
-      "explanation": "İxtisas dərəcəsi elmi, pedaqoji və yaradıcılıq fəaliyyəti, əlavə haqq və sosial təminat hüququ verir."
+      "correctAnswer": 3
     },
     {
       "text": "139. \"Dövlət qulluğu haqqında\" AR Qanununa əsasən verilən ixtisas dərəcələri aiddir:",
@@ -1528,8 +1390,7 @@
         "C) inzibati vəzifələrin altıncı təsnifatına",
         "D) inzibati vəzifələrin dördüncü təsnifatına"
       ],
-      "correctAnswer": 0,
-      "explanation": "Dövlət qulluğunun müşaviri, kiçik müşaviri və 1-ci dərəcə dövlət qulluqçusu üçüncü təsnifata aiddir."
+      "correctAnswer": 0
     },
     {
       "text": "140. Göstərilənlərdən hansı inzibati vəzifələrin ali təsnifatı üzrə ən yüksək ixtisas dərəcəsi hesab edilir?",
@@ -1539,8 +1400,7 @@
         "C) dövlət qulluğunun baş müşaviri",
         "D) dövlət qulluğunun müşaviri"
       ],
-      "correctAnswer": 1,
-      "explanation": "Həqiqi dövlət müşaviri ali təsnifat üzrə ən yüksək ixtisas dərəcəsidir."
+      "correctAnswer": 1
     },
     {
       "text": "141. Göstərilənlərdən hansı inzibati vəzifələrin beşinci təsnifatı üzrə ən aşağı ixtisas dərəcəsi hesab edilir?",
@@ -1550,8 +1410,7 @@
         "C) dövlət qulluğunun kiçik müşaviri",
         "D) 2-ci dərəcə dövlət qulluqçusu"
       ],
-      "correctAnswer": 3,
-      "explanation": "2-ci dərəcə dövlət qulluqçusu beşinci təsnifat üzrə ən aşağı ixtisas dərəcəsidir."
+      "correctAnswer": 3
     },
     {
       "text": "142. Göstərilənlərdən hansı inzibati vəzifələrin altıncı təsnifatı üzrə ən yüksək ixtisas dərəcəsi hesab edilir?",
@@ -1561,8 +1420,7 @@
         "C) 1-ci dərəcə dövlət qulluqçusu",
         "D) 2-ci dərəcə dövlət qulluqçusu"
       ],
-      "correctAnswer": 1,
-      "explanation": "Dövlət qulluğunun kiçik müşaviri altıncı təsnifat üzrə ən yüksək ixtisas dərəcəsidir."
+      "correctAnswer": 1
     },
     {
       "text": "143. Göstərilənlərdən hansı inzibati vəzifələrin yeddinci təsnifatı üzrə ən aşağı ixtisas dərəcəsi hesab edilir?",
@@ -1572,8 +1430,7 @@
         "C) kiçik dövlət qulluqçusu",
         "D) 3-cü dərəcə dövlət qulluqçusu"
       ],
-      "correctAnswer": 2,
-      "explanation": "Kiçik dövlət qulluqçusu yeddinci təsnifat üzrə ən aşağı ixtisas dərəcəsidir."
+      "correctAnswer": 2
     },
     {
       "text": "144. Göstərilənlərdən biri inzibati vəzifələrin altıncı təsnifatı üzrə ixtisas dərəcəsi hesab edilmir?",
@@ -1583,8 +1440,7 @@
         "C) 2-ci dərəcə dövlət qulluqçusu",
         "D) 1-ci dərəcə dövlət qulluqçusu"
       ],
-      "correctAnswer": 0,
-      "explanation": "Kiçik dövlət qulluqçusu yeddinci təsnifat üzrə dərəcədir."
+      "correctAnswer": 0
     },
     {
       "text": "145. Göstərilənlərdən hansı inzibati vəzifələrin dördünçü təsnifatı üzrə ən aşağı ixtisas dərəcəsi hesab edilir?",
@@ -1594,8 +1450,7 @@
         "C) dövlət qulluğunun kiçik müşaviri",
         "D) 3-cü dərəcə dövlət qulluqçusu"
       ],
-      "correctAnswer": 1,
-      "explanation": "Dövlət qulluğunun baş müşaviri dördüncü təsnifat üzrə ən aşağı dərəcədir."
+      "correctAnswer": 1
     },
     {
       "text": "146. AR Nazirlər Kabinetinin Aparatında sektor müdiri vəzifəsinə (ilk dəfə dövlət qulluğuna qəbul olunaraq) təyin olunan şəxsə ilk öncə hansı ixtisas dərəcasi verilir:",
@@ -1605,8 +1460,7 @@
         "C) 1-ci dərəcə dövlət qulluqçusu",
         "D) dövlət qulluğunun kiçik müşaviri"
       ],
-      "correctAnswer": 0,
-      "explanation": "Nazirlər Kabinetinin Aparatında sektor müdiri vəzifəsinə təyin olunan şəxsə dövlət qulluğunun baş müşaviri dərəcəsi verilir."
+      "correctAnswer": 0
     },
     {
       "text": "147. AR Hesablama Palatasının Aparatında sektor müdiri vəzifəsinə (ilk dəfə dövlət qulluğuna qəbul olunaraq) təyin olunan şəxsə ilk öncə hansı ixtisas dərəcəsi verilir:",
@@ -1616,8 +1470,7 @@
         "C) 1-ci dərəcə dövlət qulluqçusu",
         "D) dövlət qulluğunun kiçik müşaviri"
       ],
-      "correctAnswer": 0,
-      "explanation": "Hesablama Palatasının Aparatında sektor müdiri vəzifəsinə təyin olunan şəxsə dövlət qulluğunun baş müşaviri dərəcəsi verilir."
+      "correctAnswer": 0
     },
     {
       "text": "148. NMR Ali Məhkəməsində Aparat rəhbərinin müavini vəzifəsinə (ilk dəfə dövlət qulluğuna qəbul olunaraq) təyin olunan şəxsə ilk öncə hansı ixtisas dərəcəsi verilir:",
@@ -1627,8 +1480,7 @@
         "C) kiçik dövlət qulluqqusu",
         "D) dövlət qulluğunun müşaviri"
       ],
-      "correctAnswer": 3,
-      "explanation": "NMR Ali Məhkəməsində Aparat rəhbərinin müavini vəzifəsinə təyin olunan şəxsə dövlət qulluğunun müşaviri dərəcəsi verilir."
+      "correctAnswer": 3
     },
     {
       "text": "149. AR Milli Məclisində bölmə rəhbəri vəzifəsinə (ilk dəfə dövlət qulluğuna qəbul olunaraq) tayin olunan şəxsə ilk öncə hansı ixtisas dərəcəsi verilir:",
@@ -1638,8 +1490,7 @@
         "C) 1-ci dərəcə dövlət müşaviri",
         "D) 2-ci dərəcə dövlət müşaviri"
       ],
-      "correctAnswer": 0,
-      "explanation": "AR Milli Məclisində bölmə rəhbəri vəzifəsinə təyin olunan şəxsə 3-cü dərəcə dövlət müşaviri dərəcəsi verilir."
+      "correctAnswer": 0
     },
     {
       "text": "150. AR Təhsil Nazirliyinin Xocalı Rayon Təhsil Şöbəsinin müdirinin müavini vəzifəsinə (ilk dəfə dövlət qulluğuna qəbul olunaraq) təyin olunan şəxsə ilk öncə hansı ixtisas dərəcəsi verilir:",
@@ -1649,8 +1500,7 @@
         "C) 2-ci dərəcə dövlət qulluqçusu",
         "D) 3-cü dərəcə dövlət qulluqçusu"
       ],
-      "correctAnswer": 2,
-      "explanation": "AR Təhsil Nazirliyinin Xocalı Rayon Təhsil Şöbəsinin müdirinin müavini vəzifəsinə təyin olunan şəxsə 2-ci dərəcə dövlət qulluqçusu dərəcəsi verilir."
+      "correctAnswer": 2
     }
     ]
 }
