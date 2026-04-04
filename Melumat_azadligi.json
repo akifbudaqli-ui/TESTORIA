@@ -11,8 +11,7 @@
         "50",
         "51"
       ],
-      "correctAnswer": 2,
-      "explanation": "Məlumat azadlığı Konstitusiyanın 50-ci maddəsində öz əksini tapmışdır."
+      "correctAnswer": 2
     },
     {
       "id": 802,
@@ -23,8 +22,7 @@
         "təqdimat formasından asılı olmayaraq yalnız fiziki və hüquqi şəxslər haqqında xəbərlər nəzərdə tutulur",
         "təqdimat formasından asılı olaraq yalnız cəmiyyətdə baş vermiş hadisələr və vəzifəli şəxslər haqqında xəbərlər nəzərdə tutulur"
       ],
-      "correctAnswer": 0,
-      "explanation": "Məlumat təqdimat formasından asılı olmayaraq təbiətdə, cəmiyyətdə və dövlətdə baş vermiş hadisələr, proseslər, faktlar və şəxslər haqqında xəbərlərdir[cite: 17, 18, 19, 20, 201, 202, 203, 204]."
+      "correctAnswer": 0
     },
     {
       "id": 803,
@@ -35,8 +33,7 @@
         "hüquqi şəxslərin",
         "vəzifəli şəxslərin"
       ],
-      "correctAnswer": 0,
-      "explanation": "Qanun hər kəsin məlumat əldə etmək üçün müraciət etmək hüququna malik olduğunu müəyyən edir[cite: 33, 251, 252]."
+      "correctAnswer": 0
     },
     {
       "id": 804,
@@ -47,8 +44,7 @@
         "“Məlumat azadlığı haqqında” qanunda nəzərdə tutulmuş hallarda",
         "hamısı"
       ],
-      "correctAnswer": 0,
-      "explanation": "Məlumat azadlığının məhdudlaşdırılmasına yalnız AR Konstitusiyasında nəzərdə tutulmuş hallarda yol verilir[cite: 40, 41, 269, 270, 271]."
+      "correctAnswer": 0
     },
     {
       "id": 805,
@@ -59,8 +55,7 @@
         "məlumat azadlığının həyata keçirilməsi ilə əlaqədar yaranan münasibətləri tənzimləyir",
         "hamısı doğrudur"
       ],
-      "correctAnswer": 2,
-      "explanation": "Qanun məlumat azadlığının həyata keçirilməsi ilə əlaqədar yaranan münasibətləri tənzimləyir[cite: 55, 56, 57, 280, 281, 282]."
+      "correctAnswer": 2
     },
     {
       "id": 806,
@@ -71,8 +66,7 @@
         "yalnız hüquqi şəxslər",
         "əcnəbi və vətəndaşlığı olmayan şəxslər"
       ],
-      "correctAnswer": 1,
-      "explanation": "Məlumat münasibətlərinin subyektləri fiziki və hüquqi şəxslərdir[cite: 62, 286, 287]."
+      "correctAnswer": 1
     },
     {
       "id": 807,
@@ -83,8 +77,7 @@
         "məlumatın açıqlığı və onun mübadilə edilməsinin azadlığı",
         "dövlət sirrinin mühafizəsi"
       ],
-      "correctAnswer": 3,
-      "explanation": "Dövlət sirrinin mühafizəsi məlumat azadlığının əsas prinsiplərinə daxil deyil[cite: 73, 302]."
+      "correctAnswer": 3
     },
     {
       "id": 808,
@@ -95,8 +88,7 @@
         "vətəndaşların həyatı və sağlamlığı üçün təhlükə yaradan fövqəladə hallar, təbii fəlakətlər və qəzalar barədə əhaliyə dərhal məlumat verilməsi ilə",
         "dövlət hakimiyyəti orqanlarında açıqlanması məhdudlaşdırılan məlumatın əldə edilməsi üçün informasiya xidmətinin yaradılması ilə"
       ],
-      "correctAnswer": 3,
-      "explanation": "Açıqlanması məhdudlaşdırılan məlumatların əldə edilməsi üçün xidmətin yaradılması məlumatın əldə edilməsi təminatlarına daxil deyil[cite: 87, 88, 89, 90, 337, 338, 339, 340]."
+      "correctAnswer": 3
     },
     {
       "id": 809,
@@ -107,8 +99,7 @@
         "kütləvi informasiya agentlikləri",
         "alınması məhdudlaşdırılan məlumatları əks etdirən sənədlər"
       ],
-      "correctAnswer": 2,
-      "explanation": "Kütləvi informasiya agentlikləri məlumatın mənbələrinə daxildir[cite: 96, 353, 354]."
+      "correctAnswer": 2
     },
     {
       "id": 810,
@@ -119,8 +110,7 @@
         "3",
         "4"
       ],
-      "correctAnswer": 1,
-      "explanation": "Əldə edilməsi qaydasına görə məlumatlar açıq və alınması məhdudlaşdırılan olmaqla iki cür olur[cite: 102, 377, 378]."
+      "correctAnswer": 1
     },
     {
       "id": 811,
@@ -131,8 +121,7 @@
         "internet informasiya ehtiyatları vasitəsilə",
         "dövlət–peşə sahələrinin təqdim edilməsi ilə"
       ],
-      "correctAnswer": 3,
-      "explanation": "Dövlət-peşə sahələrinin təqdim edilməsi açıq məlumatın əldə edilməsi yollarından biri deyil[cite: 111, 112, 392, 393]."
+      "correctAnswer": 3
     },
     {
       "id": 812,
@@ -143,8 +132,7 @@
         "Konstitusiya ilə",
         "hamısı"
       ],
-      "correctAnswer": 0,
-      "explanation": "Məlumatın əldə edilməsi üçün sorğunun verilməsi və ona baxılması \"İnformasiya əldə etmək haqqında\" AR Qanunu ilə tənzimlənir[cite: 117, 118, 473, 474, 475]."
+      "correctAnswer": 0
     },
     {
       "id": 813,
@@ -155,8 +143,7 @@
         "cavabdehin",
         "hər kəsin"
       ],
-      "correctAnswer": 2,
-      "explanation": "Məlumatın verilməməsinin qanuniliyini sübuta yetirmək vəzifəsi cavabdehin üzərinə düşür[cite: 128, 497, 498]."
+      "correctAnswer": 2
     },
     {
       "id": 814,
@@ -167,8 +154,7 @@
         "şəxsiyyət haqqında sənədləşdirilmiş və ya açıq elan edilmiş xəbər",
         "şəxsiyyət haqqında sənədləşdirilmədən açıq elan edilmiş xəbər"
       ],
-      "correctAnswer": 2,
-      "explanation": "Şəxsiyyət haqqında məlumat sənədləşdirilmiş və ya açıq elan edilmiş xəbərdir[cite: 135, 136, 509, 510, 511, 658, 659]."
+      "correctAnswer": 2
     },
     {
       "id": 815,
@@ -179,8 +165,7 @@
         "yalnız əqidəsi barədə",
         "şəxsiyyətin siyasi partiyaya üzvlüyü və ya bitərəf olması barədə"
       ],
-      "correctAnswer": 1,
-      "explanation": "Şəxsin dini mənsubiyyəti və əqidəsi barədə məlumat yalnız onun könüllü təqdim etdiyi halda dövlət orqanları tərəfindən toplanıla bilər[cite: 143, 144, 548, 549, 550, 551]."
+      "correctAnswer": 1
     },
     {
       "id": 816,
@@ -191,8 +176,7 @@
         "qanunla müəyyən edilmiş qaydada əməliyyat-axtarış fəaliyyəti zamanı əldə edilən məlumatlar",
         "bütün hallarda şəxsiyyətin onun haqqında məlumatın toplanması ilə əlaqədar hüquqları vardır"
       ],
-      "correctAnswer": 2,
-      "explanation": "Qanunla müəyyən edilmiş qaydada əməliyyat-axtarış fəaliyyəti zamanı əldə edilən məlumatlar istisna olmaqla, şəxsiyyətin özü haqqında məlumatların toplanması ilə bağlı hüquqları var[cite: 156, 157, 158]."
+      "correctAnswer": 2
     },
     {
       "id": 817,
@@ -203,8 +187,7 @@
         "qanunvericiliyə müvafiq surətdə dövlət orqanlarının topladığı məlumatların kənar şəxslər tərəfindən əldə etməsinə yol verilmir",
         "məlumatın aldatma, hədə-qorxu və başqa qanunsuz vasitələrlə toplanması məhkəmə istintaqı zamanı mümkündür"
       ],
-      "correctAnswer": 3,
-      "explanation": "Məlumatın aldatma, hədə-qorxu və digər qanunsuz vasitələrlə toplanması məhkəmə istintaqı zamanı da qadağandır[cite: 177, 178, 179]."
+      "correctAnswer": 3
     },
     {
       "id": 818,
@@ -215,8 +198,7 @@
         "Mülki məcəlləyə",
         "“Məlumat azadlığı haqqında” qanuna əsasən"
       ],
-      "correctAnswer": 2,
-      "explanation": "Açıq məlumatın verilməsi barədə müqavilə mülki qanunvericiliyə uyğun bağlanılır[cite: 185, 614, 615]."
+      "correctAnswer": 2
     },
     {
       "id": 819,
@@ -227,8 +209,7 @@
         "bələdiyyələr",
         "heç kəs"
       ],
-      "correctAnswer": 2,
-      "explanation": "Dövlət hakimiyyəti orqanları və bələdiyyələr müqavilənin olmamasına görə məlumatı verməkdən imtina edə bilməzlər[cite: 193, 621, 622, 623]."
+      "correctAnswer": 2
     },
     {
       "id": 820,
@@ -239,8 +220,7 @@
         "Təqdimat formasından asılı olaraq təbiətdə, cəmiyyətdə və dövlətdə baş vermiş hadisələr, proseslər, faktlar və şəxslər haqqında xəbərlər nəzərdə tutulur.",
         "Təqdimat formasından asılı olaraq yalnız cəmiyyətdə baş vermiş hadisələr və vəzifəli şəxslər haqqında xəbərlər nəzərdə tutulur."
       ],
-      "correctAnswer": 1,
-      "explanation": "Məlumat təqdimat formasından asılı olmayaraq təbiətdə, cəmiyyətdə və dövlətdə baş vermiş hadisələr, proseslər, faktlar və şəxslər haqqında xəbərlərdir[cite: 201, 202, 203, 204]."
+      "correctAnswer": 1
     },
     {
       "id": 821,
@@ -251,8 +231,7 @@
         "Məlumat azadlığın məhdudlaşdırılmasına yalnız AR Konstitusiyasında nəzərdə tutulmuş hallarda yol verilir.",
         "Məlumat azadlığından istifadə edilməsi qaydası AR Konstitusiyası və ona müvafiq olaraq AR Qanunları ilə müəyyən edilir."
       ],
-      "correctAnswer": 1,
-      "explanation": "Məlumat azadlığının məhdudlaşdırılmasına aidiyyəti üzrə yalnız AR Konstitusiyası ilə yol verilir[cite: 219, 220, 221]."
+      "correctAnswer": 1
     },
     {
       "id": 822,
@@ -263,8 +242,7 @@
         "AR Konstitusiyasının 50-ci və 94 cü maddəsinin birinci hissəsinə uyğun olaraq hər kəsin istədiyi məlumatı qanuni yolla axtarmaq, əldə etmək, ötürmək, hazırlamaq və yaymaq azadlığı vardır.",
         "AR Konstitusiyasının 50-ci maddəsinə uyğun olaraq hər kəsin istədiyi məlumatı qanuni yolla axtarmaq, əldə etmək, ötürmək, hazırlamaq və yaymaq azadlığı vardır."
       ],
-      "correctAnswer": 3,
-      "explanation": "AR Konstitusiyasının 50-ci maddəsinə uyğun olaraq hər kəsin istədiyi məlumatı qanuni yolla axtarmaq, əldə etmək, ötürmək, hazırlamaq və yaymaq azadlığı vardır[cite: 241, 242, 243, 244]."
+      "correctAnswer": 3
     },
     {
       "id": 823,
@@ -275,8 +253,7 @@
         "Hər kəsin məlumat əldə etmək üçün müradət etmək hüququ vardır.",
         "Yalnız vəzifəli şəxslərin məlumat əldə etmək üçün müradət etmək hüququ vardır."
       ],
-      "correctAnswer": 2,
-      "explanation": "Qanun hər kəsin məlumat əldə etmək üçün müraciət etmək hüququna malik olduğunu müəyyən edir[cite: 251, 252]."
+      "correctAnswer": 2
     },
     {
       "id": 824,
@@ -287,8 +264,7 @@
         "Məlumat azadlığının məhdudlaşdırılmasına Milli Məclisin qərarı ilə yol verilir.",
         "Məlumat azadlığının məhdudlaşdırılmasına yalnız AR Konstitusiyasında nəzərdə tutulmuş hallarda yol verilir."
       ],
-      "correctAnswer": 3,
-      "explanation": "Məlumat azadlığının məhdudlaşdırılmasına yalnız AR Konstitusiyasında nəzərdə tutulmuş hallarda yol verilir[cite: 269, 270, 271]."
+      "correctAnswer": 3
     },
     {
       "id": 825,
@@ -299,8 +275,7 @@
         "Bu qanun məlumat azadlığının həyata keçirilməsi ilə əlaqədar yaranan münasibətləri tənzimləyir.",
         "Hamısı doğrudur."
       ],
-      "correctAnswer": 2,
-      "explanation": "Bu qanun məlumat azadlığının həyata keçirilməsi ilə əlaqədar yaranan münasibətləri tənzimləyir[cite: 280, 281, 282]."
+      "correctAnswer": 2
     },
     {
       "id": 826,
@@ -311,8 +286,7 @@
         "Məlumat münasibətlərinin subyektləri yalnız hüquqi şəxslərdir.",
         "Məlumat münasibətlərinin subyektləri əcnəbi və vətəndaşlığı olmayan şəxslərdir."
       ],
-      "correctAnswer": 0,
-      "explanation": "Məlumat münasibətlərinin subyektləri fiziki və hüquqi şəxslərdir[cite: 286, 287]."
+      "correctAnswer": 0
     },
     {
       "id": 827,
@@ -323,8 +297,7 @@
         "şəxsiyyətin, cəmiyyətin və dövlətin təhlükəsizliyinin qorunması;",
         "dövlət sirrinin mühafizə edilməsi"
       ],
-      "correctAnswer": 3,
-      "explanation": "Dövlət sirrinin mühafizəsi məlumat azadlığının əsas prinsiplərinə daxil deyil[cite: 302]."
+      "correctAnswer": 3
     },
     {
       "id": 828,
@@ -335,8 +308,7 @@
         "hər kəsin şəxsi və ailə həyatının sirrinin saxlanması;",
         "şəxsiyyətin, cəmiyyətin və respublikanın təhlükəsizliyinin qorunması"
       ],
-      "correctAnswer": 2,
-      "explanation": "Hər kəsin şəxsi və ailə həyatının sirrinin saxlanması məlumat azadlığının həyata keçirilməsinin əsas prinsiplərindəndir[cite: 311, 312]."
+      "correctAnswer": 2
     },
     {
       "id": 829,
@@ -347,8 +319,7 @@
         "xüsusi hallarda dövlət təhlükəsizliyinə xətər yaradan fövqəladə hallar barədə əhaliyə dərhal məlumat verilməsi ilə;",
         "kütləvi informasiya vasitələrində, o cümlədən mətbuatda dövlət senzurasına yol verilməməsi ilə"
       ],
-      "correctAnswer": 3,
-      "explanation": "Kütləvi informasiya vasitələrində, o cümlədən mətbuatda dövlət senzurasına yol verilməməsi məlumatın əldə edilməsi yollarından biridir[cite: 328, 329, 330]."
+      "correctAnswer": 3
     },
     {
       "id": 830,
@@ -359,8 +330,7 @@
         "normativ-hüquqi aktların qanunvericilikdə nəzərdə tutulmuş qaydada əhalinin nəzərinə çatdırılması ilə;",
         "kütləvi informasiya vasitələrində, o cümlədən mətbuatda dövlət senzurasına yol verilməməsi ilə"
       ],
-      "correctAnswer": 1,
-      "explanation": "Açıqlanması məhdudlaşdırılan məlumatın əldə edilməsi üçün informasiya xidmətinin yaradılması məlumatın əldə edilməsi yollarına aid deyil[cite: 337, 338, 339, 340]."
+      "correctAnswer": 1
     },
     {
       "id": 831,
@@ -371,8 +341,7 @@
         "alınması məhdudlaşdınlan məlumatları əks etdirən sənədlər;",
         "açıq çıxışlar"
       ],
-      "correctAnswer": 2,
-      "explanation": "Alınması məhdudlaşdırılan məlumatları əks etdirən sənədlər məlumat mənbələrinə aid deyil[cite: 355, 356]."
+      "correctAnswer": 2
     },
     {
       "id": 832,
@@ -383,8 +352,7 @@
         "Məlumatın əldə edilməsi müvafiq qanunvericiliklə müəyyən edilmiş qaydada və üsullarla həyata keçirilir.",
         "Məlumatın əldə edilməsi\"İnformasiya əldə etmək haqqında\" AR qanunu ilə müəyyən edilmiş qaydada və üsullarla həyata keçirilir."
       ],
-      "correctAnswer": 2,
-      "explanation": "Məlumatın əldə edilməsi müvafiq qanunvericiliklə müəyyən edilmiş qaydada və üsullarla həyata keçirilir[cite: 367, 368, 369]."
+      "correctAnswer": 2
     },
     {
       "id": 833,
@@ -395,8 +363,7 @@
         "Açıq məlumata və qapalı məlumata bölünür.",
         "Açıq məlumata və gizli məlumata bölünür."
       ],
-      "correctAnswer": 0,
-      "explanation": "Məlumat əldə edilməsi qaydasına görə açıq və alınması məhdudlaşdırılan məlumatlara bölünür[cite: 377, 378]."
+      "correctAnswer": 0
     },
     {
       "id": 834,
@@ -407,8 +374,7 @@
         "qanunvericiliklə nəzərdə tutulan başqa üsullarla",
         "dövlət-peşə sahələrinin təqdim edilməsi ilə"
       ],
-      "correctAnswer": 3,
-      "explanation": "Dövlət-peşə sahələrinin təqdim edilməsi açıq məlumatların əldə edilməsi yollarından deyil[cite: 392, 393]."
+      "correctAnswer": 3
     },
     {
       "id": 835,
@@ -419,8 +385,7 @@
         "Açıq məlumatın alınması qaydası və şərtləri İnformasiya əldə etmək haqqında AR Qanunu, digər qanunvericilik aktları və ya müqavilə ilə (məlumatın verilməsi müqavilə əsasında həyata keçirilirsə) müəyyən olunur;",
         "Açıq məlumatın və alınması məhdudlaşdırılan məlumatın alınması qaydası və şərtləri bu qanunla, İnformasiya əldə etmək haqqında AR Qanunu, digər qanunvericilik aktları və ya müqavilə ilə (məlumatın verilməsi müqavilə əsasında həyata keçirilirsə) müəyyən olunur."
       ],
-      "correctAnswer": 1,
-      "explanation": "Açıq məlumatın alınması qaydası və şərtləri bu qanunla, “İnformasiya əldə etmək haqqında” AR Qanunu, digər qanunvericilik aktları və ya müqavilə ilə müəyyən olunur[cite: 402, 403, 404, 405, 406, 407]."
+      "correctAnswer": 1
     },
     {
       "id": 836,
@@ -431,8 +396,7 @@
         "Dövlət, peşə (vəkil, notariat, həkim), qulluq, bank, kommersiya, istintaq və məhkəmə sirləri, şəxslərin şəxsi və ailə həyatına, terror aktlanna aid olan məlumatlar aiddirlər.",
         "Dövlət, peşə (vəkil, notariat, həkim), qulluq, bank, kommersiya, istintaq və məhkəmə sirləri, şəxslərin sənədləşdirilmiş məlumatları, terror aktlanna aid olan məlumatlar aiddirlər."
       ],
-      "correctAnswer": 2,
-      "explanation": "Alınması məhdudlaşdırılan məlumatlara dövlət, peşə (vəkil, notariat, həkim), qulluq, bank, kommersiya, istintaq və məhkəmə sirləri, şəxslərin şəxsi və ailə həyatına, terror aktlarına aid olan məlumatlar daxildir[cite: 433, 434, 435, 436, 437]."
+      "correctAnswer": 2
     },
     {
       "id": 837,
@@ -443,8 +407,7 @@
         "Müvafiq icra Hakimiyyətinin fərmanı ilə müəyyən edilmiş hallarda alınması məhdudlaşdınlan məlumata aid edilir.",
         "Müvafiq qanunvericilik hakimiyətinin qəran ilə müəyyən edilmiş hallarda alınması məhdudlaşdınlan məlumata aid edilir."
       ],
-      "correctAnswer": 1,
-      "explanation": "Ətraf mühitə dair informasiya yalnız müvafiq qanunvericiliklə müəyyən edilmiş hallarda alınması məhdudlaşdırılan məlumata aid edilir[cite: 449, 450, 451]."
+      "correctAnswer": 1
     },
     {
       "id": 838,
@@ -455,8 +418,7 @@
         "Fərmanla tənzimlənir.",
         "\"informasiya əldə etmək haqqında\" qanunla və müqavilə ilə tənzimlənir."
       ],
-      "correctAnswer": 0,
-      "explanation": "Bu kimi məlumatlarla bağlı münasibətlər müvafiq qanunvericiliklə tənzimlənir[cite: 464]."
+      "correctAnswer": 0
     },
     {
       "id": 839,
@@ -467,8 +429,7 @@
         "Məlumatın əldə edilməsi üçün sorğunun verilməsi və məlumat əldə edilməsi haqqında sorğuya baxılması qaydası AR Konstitusiyasına əsasən tənzimlənir;",
         "Məlumatın əldə edilməsi üçün sorğunun verilməsi və məlumat əldə edilməsi haqqında sorğuya baxılması AR Konstitusiyası və \"İnformasiya əldə etmək haqqında\" AR Qanunu ilə tənzimlənir."
       ],
-      "correctAnswer": 0,
-      "explanation": "Məlumatın əldə edilməsi üçün sorğunun verilməsi və ona baxılması \"İnformasiya əldə etmək haqqında\" AR Qanunu ilə tənzimlənir[cite: 473, 474, 475]."
+      "correctAnswer": 0
     },
     {
       "id": 840,
@@ -479,8 +440,7 @@
         "Məlumatın verilməməsinin qanuniliyinin sübuta yetirilməsi vəzifəsi müraciət edənin üzərinə düşür.",
         "Məlumatın verilməməsinin qanuniliyinin sübuta yetirilməsi vəzifəsi vəzifəli şəxsin üzərinə düşür."
       ],
-      "correctAnswer": 1,
-      "explanation": "Məlumatın verilməməsinin qanuniliyini sübuta yetirmək vəzifəsi cavabdehin üzərinə düşür[cite: 497, 498]."
+      "correctAnswer": 1
     },
     {
       "id": 841,
@@ -491,8 +451,7 @@
         "Şəxsiyyət haqqında sənədləşdirilmiş və ya gizli elan edilmiş xəbər şəxsiyyət barədə məlumata aiddir.",
         "Şəxsiyyət haqqında məhdudlaşdırılmış və ya açıq elan edilmiş xəbər şəxsiyyət barədə məlumata aiddir."
       ],
-      "correctAnswer": 1,
-      "explanation": "Şəxsiyyət haqqında məlumat sənədləşdirilmiş və ya açıq elan edilmiş xəbərdir[cite: 509, 510, 511]."
+      "correctAnswer": 1
     },
     {
       "id": 842,
@@ -503,8 +462,7 @@
         "Şəxsiyyət haqqında sənədləşdirilmiş məlumat mənbəyi onun adma verilmiş,birbaşa rəhbəri tərəfindən imzalanmış sənədlər və öz səlahiyyətləri çərçivəsində orqanlar tərəfindən şəxsiyyət haqqında toplanmış məlumatlardır.",
         "Şəxsiyyət haqqmda sənədləşdirilmiş məlumat mənbəyi onun adma verilmiş, onun tərəfindən imzalanmış sənədlər və öz səlahiyyətləri çərçivəsində orqanlar tərəfindən şəxsiyyət haqqında toplanmış məlumatlardır."
       ],
-      "correctAnswer": 3,
-      "explanation": "Şəxsiyyət haqqında sənədləşdirilmiş məlumat mənbəyi onun adına verilmiş, onun tərəfindən imzalanmış sənədlər və öz səlahiyyətləri çərçivəsində orqanlar tərəfindən şəxsiyyət haqqında toplanmış məlumatlardır[cite: 539, 540, 541, 542, 543]."
+      "correctAnswer": 3
     },
     {
       "id": 843,
@@ -515,8 +473,7 @@
         "Şəxsiyyətin dini mənsubiyyəti barədə məlumat yalnız onun tərəfindən könüllü təqdim edildikdə dövlət orqanları tərəfindən toplana bilər.",
         "Şəxsiyyətin əqidəsi barədə məlumat yalnız onun tərəfindən könüllü təqdim edildikdə dövlət orqanları tərəfindən toplana bilər."
       ],
-      "correctAnswer": 0,
-      "explanation": "Şəxsiyyətin dini mənsubiyyəti və əqidəsi barədə məlumat yalnız onun tərəfindən könüllü təqdim edildikdə dövlət orqanları tərəfindən toplana bilər[cite: 548, 549, 550, 551]."
+      "correctAnswer": 0
     },
     {
       "id": 844,
@@ -527,8 +484,7 @@
         "yalnız könüllü təqdim edildikdə",
         "yalnız öz razılığı ilə"
       ],
-      "correctAnswer": 1,
-      "explanation": "Şəxsiyyətin siyasi partiyaya üzvlüyü və ya bitərəf olması barədə məlumat yalnız qanunla nəzərdə tutulmuş hallarda dövlət orqanlarına təqdim edilməlidir[cite: 569]."
+      "correctAnswer": 1
     },
     {
       "id": 845,
@@ -539,8 +495,7 @@
         "bütün hallarda şəxsiyyətin onun haqqmda toplanan məlumatlarla tanış olmaq hüququ vardır;",
         "məlumat toplanması vaxtı onun haqqmda toplanan məlumatın hansı məqsədlə və necə, həmin məlumatın kim tərəfindən istifadə olunmasını bilmək."
       ],
-      "correctAnswer": 3,
-      "explanation": "Şəxsiyyətin məlumat toplanması vaxtı onun haqqında toplanan məlumatın hansı məqsədlə və necə, həmin məlumatın kim tərəfindən istifadə olunmasını bilmək hüququ vardır[cite: 583, 584, 585, 586]."
+      "correctAnswer": 3
     },
     {
       "id": 846,
@@ -551,8 +506,7 @@
         "Qanunvericiliyə müvafiq surətdə dövlət orqanlarının topladığı məlumatların müstəsna hallarda kənar şəxslər tərəfindən əldə etməsinə yol verilir.",
         "Şəxslər haqqmda məlumatın saxlanılması qanuni məqsədlər üçün qanunvericiliklə müəyyən edilmiş zəruri olan müddətdən çox ola bilməz."
       ],
-      "correctAnswer": 2,
-      "explanation": "Qanunvericiliyə müvafiq surətdə dövlət orqanlarının topladığı məlumatların kənar şəxslər tərəfindən əldə edilməsinə yol verilmir[cite: 594, 595, 596, 597]."
+      "correctAnswer": 2
     },
     {
       "id": 847,
@@ -563,8 +517,7 @@
         "Məlumatın verilməsi barədə müqavilə mülki qanunvericiliyə uyğun bağlanır;",
         "Məlumatın verilməsi barədə müqavilə AR qanunvericiliyə uyğun bağlanır."
       ],
-      "correctAnswer": 2,
-      "explanation": "Məlumatın verilməsi barədə müqavilə mülki qanunvericiliyə uyğun bağlanır[cite: 614, 615]."
+      "correctAnswer": 2
     },
     {
       "id": 848,
@@ -575,8 +528,7 @@
         "Bələdiyyələr müqavilənin olmamasına görə məlumatı verməkdən imtina edə bilməzlər.",
         "Fiziki və hüquqi şəxslər müqavilənin olmamasına görə məlumatı verməkdən imtina edə bilməzlər."
       ],
-      "correctAnswer": 0,
-      "explanation": "Dövlət hakimiyyəti orqanları, bələdiyyələr müqavilənin olmamasına görə məlumatı verməkdən imtina edə bilməzlər[cite: 621, 622, 623]."
+      "correctAnswer": 0
     },
     {
       "id": 849,
@@ -587,8 +539,7 @@
         "Məlumat azadlığının həyata keçirilməsi fiziki şəxslərin hüquq və mənafelərinin pozulmasına səbəb olmamalıdır.",
         "Məlumat azadlığının həyata keçirilməsi dövlət orqanlarının və bələdiyyələrin hüquq və mənafelərinin pozulmasına səbəb olmamalıdır."
       ],
-      "correctAnswer": 1,
-      "explanation": "Məlumat azadlığının həyata keçirilməsi fiziki və hüquqi şəxslərin hüquq və mənafelərinin pozulmasına səbəb olmamalıdır[cite: 641, 642, 643]."
+      "correctAnswer": 1
     },
     {
       "id": 850,
@@ -599,8 +550,7 @@
         "şəxsiyyət haqqında sənədləşdirilmiş və ya açıq elan edilmiş xəbər",
         "şəxsiyyət haqqında sənədləşdirilmədən açıq elan edilmiş xəbər"
       ],
-      "correctAnswer": 2,
-      "explanation": "Şəxsiyyət barədə məlumat şəxsiyyət haqqında sənədləşdirilmiş və ya açıq elan edilmiş xəbərdir[cite: 658, 659]."
+      "correctAnswer": 2
     }
   ]
 }
