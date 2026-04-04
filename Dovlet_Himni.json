@@ -2,17 +2,6 @@
 "id":"Dovlet_Himni",
   "name": "Dövlət Himni",
   "questions": [
-    {
-      "text": "Dövlət_Himni üzrə nümunə sual 1?",
-      "options": ["A", "B", "C", "D"],
-      "correctAnswer": 0,
-      "explanation": "İzah 1"
-    },
-    {
-      "text": "Dövlət_Himni üzrə nümunə sual 2?",
-      "options": ["A", "B", "C", "D"],
-      "correctAnswer": 1,
-      "explanation": "İzah 2"
-    }
+
   ]
 }
