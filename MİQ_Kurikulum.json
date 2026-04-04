@@ -2,17 +2,6 @@
    "id": "MİQ_Kurikulum",
   "name": "MİQ(Kurikulum)",
   "questions": [
-    {
-      "text": "MİQ_Kurikulum üzrə nümunə sual 1?",
-      "options": ["A", "B", "C", "D"],
-      "correctAnswer": 0,
-      "explanation": "İzah 1"
-    },
-    {
-      "text": "MİQ_Kurikulum üzrə nümunə sual 2?",
-      "options": ["A", "B", "C", "D"],
-      "correctAnswer": 1,
-      "explanation": "İzah 2"
-    }
+
   ]
 }
