@@ -2,17 +2,6 @@
  "id":"Elektron_imza_ve_elektron_sened",
   "name": "Elektron imza və elektron sənəd",
   "questions": [
-    {
-      "text": "Elektron_imza_və_elektron_sənəd üzrə nümunə sual 1?",
-      "options": ["A", "B", "C", "D"],
-      "correctAnswer": 0,
-      "explanation": "İzah 1"
-    },
-    {
-      "text": "Elektron_imza_və_elektron_sənəd üzrə nümunə sual 2?",
-      "options": ["A", "B", "C", "D"],
-      "correctAnswer": 1,
-      "explanation": "İzah 2"
-    }
+
   ]
 }
