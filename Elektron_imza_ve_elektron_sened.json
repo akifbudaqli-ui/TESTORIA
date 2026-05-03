@@ -1,7 +1,655 @@
 {
  "id":"Elektron_imza_ve_elektron_sened",
   "name": "Elektron imza və elektron sənəd",
-  "questions": [
-
+ "questions": [
+    {
+      "id": 705,
+      "text": "Elektron sənəd nədir?",
+      "options": [
+        "Informasiya sistemində elektron sənədin nizamlanmış hərəkəti ilə bağlı informasiya prosesləri",
+        "Elektron sənədi Göndərən və Alan arasında elektron sənəd dövriyyəsi xidmətlərini göstərən informasiya prosesləri",
+        "Informasiya sistemində istifadə üçün elektron formada təqdim edilən və elektron imza ilə təsdiq olunmuş sənəd",
+        "Elektron sənəd dövriyyəsi vasitəçisi istisna olmaqla, elektron sənədin ünvanlandığı fiziki və hüquqi şəxs"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 706,
+      "text": "Elektron sənəd dövriyyəsi vasitəçisi nədir?",
+      "options": [
+        "Elektron sənədi Göndərən və Alan arasında elektron sənəd dövriyyəsi xidmətlərini göstərən fiziki və ya hüquqi şəxs",
+        "Elektron sənəd dövriyyəsi vasitəsi istisna olmaqla, elektron sənədin ünvanlandığı fiziki və ya hüquqi şəxs",
+        "Elektron sənəd dövriyyəsi vasitəsi istisna olmaqla, özü tərəfindən və ya adından elektron sənəd göndərilən fiziki və ya hüquqi şəxs",
+        "Digər verilənlərə əlavə edilən və ya onlarla məntiqi əlaqəli olan, imza sahibini identikləşdirməyə imkan verən verilənlər"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 707,
+      "text": "Aşağıdakı fikirlərdən hansı doğrudur?",
+      "options": [
+        "İmza sahibi bir neçə imza yaratma məlumatlarına malik ola bilər və onlar sertifikatlarında göstərilən münasibətlərdə istifadə edilir",
+        "Elektron imzanın yoxlanma qaydası həmin fiziki və ya hüquqi şəxs tərəfindən müəyyən edilir",
+        "İmza sahibi sertifikatı olmayan elektron imzadan istifadə edə bilməz",
+        "Elektron imza yaratma məlumatlarından istifadə etməklə imza vasitələri ilə yaradılan elektron imza güclüdür"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 708,
+      "text": "Elektron imza və elektron sənədin hüquqi qüvvəsi ilə bağlı verilənlərdən biri yalnışdır.",
+      "options": [
+        "Elektron formada və ya sertifikatsız olduğuna, sertifikatlaşdırılmamış imza vasitələri ilə yaradıldığına görə elektron imza etibarsız sayıla bilər",
+        "Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulmuş hallar istisna olmaqla, sertifikatlaşdırılmış imza vasitələri ilə yaradılmış və qüvvədə olan təkmil sertifikatlı gücləndirilmiş imza əl imzası ilə bərabər hüquqi qüvvəyə malik ola bilər",
+        "Məlumat bildirişin və elektron sənədin istifadəsi digər normativ hüquqi aktlarla tənzimlənir",
+        "Azərbaycan Respublikasının qanunvericiliyi ilə sənədin notariat qaydasında təsdiqi və ya dövlət qeydiyyatı tələb olunduğu hallar istisna olmaqla, elektron sənəd kağız daşıyıcıda olan sənədə bərabər tutulur və onunla eyni hüquqi qüvvəyə malikdir"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 709,
+      "text": "Dövlət hakimiyyəti və yerli özünüidarəetmə orqanlarının informasiya sistemlərində elektron sənəd mübadiləsi üçün hansı imza vasitəsindən istifadə edilir?",
+      "options": [
+        "Yalnız gücləndirilmiş imza",
+        "Yalnız sertifikatlaşdırılmış imza",
+        "Yalnız gücləndirilmiş imza və sertifikatlaşdırılmış imza",
+        "Yalnız kağız daşıyıcılar"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 710,
+      "text": "Dövlət hakimiyyəti və yerli özünüidarəetmə orqanları tərəfindən elektron imzadan istifadə qaydası kim tərəfindən müəyyənləşdirilir?",
+      "options": [
+        "Müvafiq icra hakimiyyəti orqanı tərəfindən",
+        "Imza sahibi tərəfindən",
+        "Yerli özünüidarəetmə orqanı tərəfindən",
+        "Fiziki və ya hüquqi şəxs tərəfindən"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 711,
+      "text": "Elektron sənəd hansı quruluşa malikdir?",
+      "options": [
+        "Sertifikatlaşdırılmış və sertifikatlaşdırılmamış",
+        "Ümumi və xüsusi",
+        "Məzmunlu və məzmunsuz",
+        "Sertifikatlaşdırılmış və sertifikatı bitmiş"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 712,
+      "text": "Elektron sənədin məzmunu və ünvanlandığı şəxs barədə məlumatlar onun hansı hissəsində qeyd edilir?",
+      "options": [
+        "Ümumi",
+        "Sertifikatlı",
+        "Xüsusi",
+        "İmzalı"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 713,
+      "text": "Elektron sənədə əlavə edilən elektron imza və vaxt göstəricisi elektron sənədin hansı hissəsində qeyd olunur?",
+      "options": [
+        "Ümumi",
+        "Sertifikatlı",
+        "Xüsusi",
+        "Imzalı"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 714,
+      "text": "Elektron sənəd hansı təqdimat formalarına malikdir?",
+      "options": [
+        "Imzalı və imzasız",
+        "Daxili və xarici",
+        "Ümumi və xüsusi",
+        "Giriş və çıxış"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 715,
+      "text": "Elektron sənədin əsli hansı təqdimat formasında ola bilər?",
+      "options": [
+        "Yalnız daxili",
+        "Yalnız xarici",
+        "Yalnız imzalı",
+        "Yalnız imzasız"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 716,
+      "text": "“Elektron imza və elektron sənəd haqqında” Azərbaycan Respublikasının Qanununa əsasən təkmil sertifikatda imza sahibinin səlahiyyətlərinə dair məlumatlar göstərildikdə gücləndirilmiş imza hansı imzaya bərabər tutulur?",
+      "options": [
+        "Şəxsin elektron daşıyıcıdakı və möhürlə təsdiq edilmiş əl imzasına",
+        "Şəxsin kağız daşıyıcısı üzərində və möhürlə təsdiq edilmiş əl imzasına",
+        "Şəxsin elektron daşıyıcıdakı və möhürlə təsdiq edilmiş əl imzasına",
+        "Heç bir imzaya bərabər tutula bilməz"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 717,
+      "text": "Aşağıdakılardan hansı fikir yalnışdır?",
+      "options": [
+        "Elektron sənədin elektron formada surəti ola bilməz",
+        "Eyni şəxs tərəfindən kağız daşıyıcıda və elektron formada tərtib edilmiş eyni məzmunlu sənədin hər biri müstəqildir və bərabər hüquqi qüvvəyə malikdir. Bu halda kağız daşıyıcıdakı sənəd elektron sənədin surəti sayılır",
+        "Elektron sənədin kağız daşıyıcıdakı nüsxəsində onun müvafiq elektron sənədin surəti olması qeyd edilməlidir",
+        "Elektron sənədin kağız daşıyıcıdan başqa digər maddi obyektdəki və ya kağız daşıyıcıdakı, lakin müvafiq qaydada təsdiq edilməmiş nüsxəsi onun surəti sayılmır"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 718,
+      "text": "“Elektron imza və elektron sənəd haqqında Azərbaycan Respublikasının Qanunu”na əsasən bu qanun üçün istifadə edilən əsas anlayışlarla bağlı verilənlərdən hansı biri yalnışdır?",
+      "options": [
+        "Elektron sənədi alan (bundan sonra – Alan) – elektron sənəd dövriyyəsi vasitəçisi istisna olmaqla, elektron sənədin ünvanlandığı fiziki və ya hüquqi şəxs",
+        "Elektron sənəd dövriyyəsi vasitəçisi (bundan sonra – Vasitəçi) – elektron sənədi Göndərən və Alan arasında elektron sənəd dövriyyəsi xidmətlərini göstərən fiziki və ya hüquqi şəxs",
+        "Elektron sənədin həqiqiliyi – elektron imzanın həqiqiliyinin yoxlanılması yolu ilə elektron sənədin tamlığının (zəruri rekvizitlərə malik olması) və bütövlüyünün (ötürülmə zamanı texniki xətaların və təhriflərin olmaması) təsdiq edilməsi",
+        "Vaxt göstəricisi – müəyyən vaxt anında məlumat bildirişinin ona təqdim edilməsi barədə akkreditə edilməmiş Mərkəzin elektron qeydi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 719,
+      "text": "“Elektron imza və elektron sənəd haqqında Azərbaycan Respublikasının Qanunu”na əsasən hansı hallarda sertifikatlaşdırılmış imza vasitələri ilə yaradılmış və qüvvədə olan təkmil sertifikatlı gücləndirilmiş imza əl imzası ilə bərabər hüquqi qüvvəyə malik olur?",
+      "options": [
+        "Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulmuş hallar istisna olmaqla",
+        "Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulmuş istisna hallarda",
+        "Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrə əsasən",
+        "Beynəlxalq hüquq normalarında nəzərdə tutulmuş prinsiplərə əsasən"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 720,
+      "text": "“Elektron imza və elektron sənəd haqqında Azərbaycan Respublikasının Qanunu”na əsasən hansı doğrudur?",
+      "options": [
+        "Azərbaycan Respublikasının qanunvericiliyi ilə sənədin notariat qaydasında təsdiqi və (və ya) dövlət qeydiyyatı tələb olunduğu hallarda elektron sənəd kağız daşıyıcıda olan sənədə bərabər tutulur və onunla eyni hüquqi qüvvəyə malikdir",
+        "Təkmil sertifikatda imza sahibinin səlahiyyətlərinə dair məlumatlar göstərildikdə bu Qanuna müvafiq olan gücləndirilmiş imza şəxsin kağız daşıyıcısı üzərindəki və möhürlə təsdiq edilmiş əl imzasına bərabər tutulur",
+        "Azərbaycan Respublikasının qanunvericiliyi ilə sənədin notariat qaydasında təsdiqi və ya dövlət qeydiyyatı tələb olunduqda elektron sənəd və ya onun bu Qanunun tələblərinə cavab verən surəti Azərbaycan Respublikasının Konstitusiyasına müvafiq olaraq qeydiyyata alınır və ya təsdiq edilir",
+        "Məlumat bildirişinin və elektron sənədin istifadəsi müvafiq icra hakimiyyəti orqanının rəyi ilə tənzimlənir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 721,
+      "text": "“Elektron imza və elektron sənəd haqqında Azərbaycan Respublikasının Qanunu”na əsasən elektron imza və elektron sənəd haqqında Azərbaycan Respublikasının qanunvericiliyi ibarətdir? Tam və düzgün olanı seçin! 1. Azərbaycan Respublikasının Konstitusiyasından 2. AR tərəfdar çıxdığı beynəlxalq müqavilələrdən 3. Beynəlxalq hüquq normalarından 4. AR Mülki Məcəlləsindən 5. “Elektron imza və elektron sənəd haqqında AR Qanunu”ndan 6. “Dövlət sirri haqqında”, “İnformasiya, informasiyalaşdırma və informasiyanın mühafizəsi haqqında” AR Qanunlarından 7. Digər normativ hüquqi aktlardan",
+      "options": [
+        "1, 2, 3, 4, 5, 7",
+        "1, 3, 4, 5, 6, 7",
+        "1, 2, 4, 5, 6, 7",
+        "1, 2, 3, 5, 6, 7"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 722,
+      "text": "“Elektron imza və elektron sənəd haqqında AR Qanunu”na əsasən aşağıdakılardan hansı doğru deyil?",
+      "options": [
+        "Elektron imza yaratma məlumatlarından istifadə etməklə imza vasitələri ilə yaradılan elektron imza yalnız öz sahibinə məxsusdur",
+        "İmza sahibi bir neçə imza yaratma məlumatlarına malik ola bilər, lakin onlar sertifikatlarında göstərilən münasibətlərdə istifadə edilir",
+        "Elektron sənədin və elektron imzanın həqiqiliyini təsdiq etmək və imza sahibinin şəxsiyyətini identikləşdirmək məqsədilə imzanın yoxlanılması həyata keçirilir. Yoxlama imza vasitələrindən istifadə edilməklə elektron imzanı yoxlama məlumatları əsasında aparılır",
+        "İmza sahibi sertifikatı olmayan elektron imzadan istifadə edərkən qarşı tərəfi xəbərdar etməyə borclu deyil"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 723,
+      "text": "“Elektron imza və elektron sənəd haqqında Azərbaycan Respublikasının Qanunu”na əsasən yalnış cavab hansı variantda verilmişdir?",
+      "options": [
+        "Dövlət hakimiyyəti və yerli özünüidarəetmə orqanları sahə üzrə akkreditə edilmiş Mərkəzin xidmətlərindən istifadə etməlidir",
+        "Dövlət hakimiyyəti və ya yerli özünüidarəetmə orqanlarına fiziki və ya hüquqi şəxsin göndərdiyi məlumat bildirişi onun gücləndirilmiş imzası ilə təsdiqlənməlidir",
+        "Dövlət hakimiyyəti və ya yerli özünüidarəetmə orqanlarına fiziki və ya hüquqi şəxsin göndərdiyi məlumat bildirişi onun sertifikatlaşdırılmış imzası ilə təsdiqlənməlidir",
+        "Dövlət hakimiyyəti və yerli özünüidarəetmə orqanları tərəfindən elektron imzadan istifadə qaydası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyənləşdirilir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 724,
+      "text": "“Elektron imza və elektron sənəd haqqında Azərbaycan Respublikasının Qanunu”na əsasən elektron sənədə dair tələblərdən deyil? Tam və düzgün variantı seçin!",
+      "options": [
+        "texniki və proqram vasitələrinin köməyi ilə yaradılmalı, saxlanılmalı, emal edilməli, ötürülməməli və qəbul edilməlidir",
+        "ümumi və xüsusi hissələrdən ibarət quruluşa malik olmalıdır",
+        "identikləşdirməyə imkan verən rekvizitlərə malik olmalıdır",
+        "texniki və proqram vasitələrinin köməyi ilə əyani qavranılan (vizual) şəkildə təqdim olunmalıdır"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 725,
+      "text": "“Elektron imza və elektron sənəd haqqında Azərbaycan Respublikasının Qanunu”na əsasən aşağıdakılardan hansı doğrudur?",
+      "options": [
+        "Elektron sənədin məzmunu onun xüsusi hissəsində qeyd edilir",
+        "Elektron sənədin məzmunu və ünvanlandığı şəxs barədə məlumatlar onun ümumi hissəsində qeyd edilir",
+        "Elektron sənədin ünvanlandığı şəxs barədə məlumatlar onun xüsusi hissəsində qeyd edilir",
+        "Elektron sənədə əlavə edilən elektron imza (imzalar) və vaxt göstəricisi (göstəriciləri) elektron sənədin ümumi hissəsində qeyd olunur"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 726,
+      "text": "“Elektron imza və elektron sənəd haqqında Azərbaycan Respublikasının Qanunu”na əsasən elektron sənədin təqdimat formaları haqqında deyilən fikirlərdən biri yalnışdır?",
+      "options": [
+        "Elektron sənəd daxili və xarici təqdimat formalarına malikdir",
+        "Elektron sənədin verilənlər daşıyıcısında yazılmış şəkli onun daxili təqdimat formasıdır",
+        "Elektron sənədin verilənlər daşıyıcısından fərqli digər maddi obyektdə (displeydə, kağızda və s.) əyani qavranılan (vizual) şəkildə əks etdirilməsi onun xarici təqdimat formasıdır",
+        "Elektron sənədin verilənlər daşıyıcısında yazılmış şəkli onun xarici təqdimat formasıdır"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 727,
+      "text": "“Elektron imza və elektron sənəd haqqında Azərbaycan Respublikasının Qanunu”na əsasən elektron sənədin surəti ilə bağlı aşağıda verilənlərdən hansı cavab doğru deyil?",
+      "options": [
+        "Elektron sənədin surəti onun kağız daşıyıcıda əks edilmiş daxili təqdimat formasının Azərbaycan Respublikasının qanunvericiliyində müəyyən olunmuş qaydada təsdiq edilməsi ilə hazırlanır",
+        "Elektron sənədin kağız daşıyıcıdakı nüsxəsində onun müvafiq elektron sənədin surəti olması qeyd edilməlidir",
+        "Elektron sənədin kağız daşıyıcıdan başqa digər maddi obyektdəki və ya kağız daşıyıcıdakı, lakin müvafiq qaydada təsdiq edilməmiş nüsxəsi onun surəti sayılmır",
+        "Elektron sənədin əsli və bu Qanunun tələblərinə cavab verən kağız daşıyıcı üzərindəki surəti eyni hüquqi qüvvəyə malikdir"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 728,
+      "text": "“Elektron imza və elektron sənəd haqqında Azərbaycan Respublikasının Qanunu”na əsasən elektron sənədin istifadəsi və dövriyyəsi nəyin əsasında həyata keçirilir? Tam və düzgün olan cavabı seçin! 1. AR qanunvericiliyi 2. AR tərəfdar çıxdığı beynəlxalq müqavilələr 3. AR Konstitusiyası 4. Elektron sənəd dövriyyəsi subyektləri arasında bağlanmış müqavilələr",
+      "options": [
+        "1, 3",
+        "2, 4",
+        "1, 4",
+        "3, 4"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 729,
+      "text": "“Elektron imza və elektron sənəd haqqında Azərbaycan Respublikasının Qanunu”na əsasən elektron sənəd dövriyyəsinin sənədləşdirilməsi Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş nəyin əsasında həyata keçirilir?",
+      "options": [
+        "elektron sənədlərin mübadiləsi qaydası",
+        "kargüzarlıq standartları və qaydaları",
+        "elektron sənədlərlə bağlı olan texniki-təşkilati tələblər",
+        "Korporativ informasiya sistemi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 730,
+      "text": "“Elektron imza və elektron sənəd haqqında Azərbaycan Respublikasının Qanunu”na əsasən korporativ informasiya sistemində elektron sənədin istifadəsi və dövriyyəsi nə ilə tənzimlənir?",
+      "options": [
+        "sistemin xarici normativ sənədləri ilə",
+        "beynəlxalq öhdəliklər nəzərə alınmaqla",
+        "Azərbaycan Respublikasının Konstitusiyası ilə",
+        "sistemin daxili normativ sənədləri ilə"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 731,
+      "text": "“Elektron imza və elektron sənəd haqqında Azərbaycan Respublikasının Qanunu”na əsasən aşağıda verilənlərdən biri elektron sənədin göndərilməsi və alınması ilə bağlı mülahizələrdən deyil?",
+      "options": [
+        "Şəxsən, habelə başqasının adından çıxış etmək səlahiyyəti olan şəxs tərəfindən göndərilmiş və ya özünün proqramlaşdırdığı qaydada fəaliyyət göstərən informasiya sisteminin avtomatik ötürdüyü elektron sənəd Göndərən tərəfindən göndərilmiş hesab edilir",
+        "Tərəflər arasındakı müqavilədə başqa hallar müəyyən edilməmişdirsə, Alan qəbul etdiyi elektron sənədin həqiqiliyinin təsdiqlənməsi nəticəsində onu Göndərənin yolladığına əmin olur və istənilən, o cümlədən avtomatik vasitələrlə alınmanı birmənalı təsdiq edən qaydada Göndərəni məlumatlandırır",
+        "Tərəflər arasındakı müqavilədə başqa hallar müəyyən edilməmişdirsə, Alandan Göndərənə təsdiqləmə çatanadək elektron sənəd alınmış hesab olunur",
+        "Təsdiqləmədə elektron sənədin tərəflər arasında razılaşdırılmış texniki tələblərə uyğun olması qeyd edilməlidir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 732,
+      "text": "“Elektron imza və elektron sənəd haqqında Azərbaycan Respublikasının Qanunu”na əsasən hansı hallarda elektron sənədi Göndərən tərəfindən göndərilməmiş hesab etməlidir? Tam və düzgün cavabı seçin! 1. elektron sənədin göndərilməməsi barədə bildiriş almışdırsa 2. elektron sənədin həqiqiliyi təsdiqlənmişdirsə 3. elektron sənədin həqiqiliyi təsdiqlənməmişdirsə 4. elektron sənədin həqiqiliyinin yoxlanması nəticəsində Alana bəlli olmuşdur və ya bəlli olmalı idi ki, qəbul edilmiş elektron sənəd başqa sənədin avtomatik təkrarıdır 5. elektron sənədin həqiqiliyinin yoxlanması nəticəsində Alana bəlli olmuşdur və ya bəlli olmalı idi ki, qəbul edilmiş elektron sənəd başqa sənədin avtomatik təkrarı deyil",
+      "options": [
+        "1, 3, 5",
+        "1, 3, 4",
+        "1, 2, 4",
+        "1, 2, 5"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 733,
+      "text": "“Elektron imza və elektron sənəd haqqında Azərbaycan Respublikasının Qanunu”na əsasən Göndərənin göstərdiyi və ya tərəflər arasında bağlanmış müqavilədə müəyyən edilmiş müddət ərzində təsdiqləmə alınmamışdırsa, bu halda hansı tədbir görülür?",
+      "options": [
+        "Göndərən bu barədə Alanı məlumatlandırmır, ancaq təsdiqləmənin göndərilməsi müddətini təyin edir",
+        "Göndərən bu barədə Alanı məlumatlandırır, ancaq təsdiqləmənin göndərilməsi müddətini təyin etməyi Alandan tələb edir .",
+        "Göndərən bu barədə Alanı məlumatlandırır və təsdiqləmənin göndərilməsi müddətini təyin edir",
+        "Göndərən bu barədə Alanı məlumatlandırır, ancaq təsdiqləməni göndərmir və dəlil kimi özündə saxlayır"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 734,
+      "text": "“Elektron imza və elektron sənəd haqqında Azərbaycan Respublikasının Qanunu”na əsasən aşağıda verilənlərdən hansı elektron sənədin göndərilmə və alınma vaxtı ilə bağlı mülahizələrdən deyil?",
+      "options": [
+        "Tərəflər arasında bağlanmış müqavilədə başqa hallar müəyyən edilməmişdirsə, elektron sənədin Göndərənin və ya onun adından çıxış edən şəxsin nəzarətində olmayan informasiya sisteminə daxil olduğu gün elektron sənədin göndərilmə vaxtı (tarix və vaxt) hesab edilir",
+        "Tərəflər arasında bağlanmış müqavilədə başqa hallar müəyyən edilməmişdirsə, elektron sənədin Göndərənin və ya onun adından çıxış edən şəxsin nəzarətində olmayan informasiya sisteminə daxil olduğu an elektron sənədin göndərilmə vaxtı (tarix və vaxt) hesab edilir",
+        "Tərəflər arasında müqavilədə başqa hallar müəyyən edilməmişdirsə, elektron sənədin Alanın göstərdiyi informasiya sisteminə daxil olduğu an elektron sənədin alınma vaxtı (tarix və vaxt) hesab edilir",
+        "Göndərilmə və alınma vaxtlarının mübahisəyə səbəb olacağı hallarda vaxt göstəricilərinin qeydiyyatı xidmətlərindən istifadə edilə bilər"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 735,
+      "text": "“Elektron imza və elektron sənəd haqqında Azərbaycan Respublikasının Qanunu”na əsasən elektron sənədin saxlanılma qaydası hansı şərtlər nəzərə alınmaqla, Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilir? 1. elektron sənəd yaradıldığı, ötürüldüyü və ya qəbul edildiyi quruluşu saxlasın 2. elektron sənəd onu Göndərəni, Alanı, göndərilmə və alınma vaxtını müəyyən etməyə imkan versin 3. elektron sənəddə olan informasiya növbəti istinad üçün istifadə edilə bilməsin 4. elektron sənəddə olan informasiya növbəti istinad üçün istifadə edilə bilsin 5. elektron sənədin saxlanılma müddəti kağız sənəd üçün nəzərdə tutulmuş müddətdən az olsun 6. elektron sənədin saxlanılma müddəti kağız sənəd üçün nəzərdə tutulmuş müddətdən az olmasın 7. qanunvericiliklə və tərəflərin razılığı ilə müəyyən edilən digər şərtlərə uyğun gəlsin.",
+      "options": [
+        "1, 2, 3, 6, 7",
+        "1, 2, 4, 5, 7",
+        "1, 2, 3, 5, 7",
+        "1, 2, 4, 6, 7"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 736,
+      "text": "“Elektron imza və elektron sənəd haqqında Azərbaycan Respublikasının Qanunu”na əsasən elektron sənədlərin saxlanılması üçün Azərbaycan Respublikasının qanunvericiliyinə müvafiq olaraq kimlərin xidmətlərindən istifadə edilə bilər?",
+      "options": [
+        "bütün vətəndaşların",
+        "digər hüquqi şəxslərin",
+        "digər fiziki şəxslərin",
+        "digər hüquqi və fiziki şəxslərin"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 737,
+      "text": "“Elektron imza və elektron sənəd haqqında Azərbaycan Respublikasının Qanunu”na əsasən aşağıda verilənlərdən hansı elektron sənədin mühafizəsi ilə bağlı müddəada öz əksini tapmamışdır?",
+      "options": [
+        "Elektron sənəd dövriyyəsi zamanı elektron sənədin mühafizəsi məqsədilə Azərbaycan Respublikasının qanunvericiliyinə müvafiq olan proqram və texniki vasitələrdən istifadə edilməlidir",
+        "Elektron sənəd dövriyyəsində istifadə edilən informasiya sistem və şəbəkələrində mühafizə tədbirlərinin lazımi səviyyəsi bu sistem və şəbəkələrin mülkiyyətçisi tərəfindən təmin edilir",
+        "Elektron sənəd dövriyyəsində istifadə edilən informasiya sistem və şəbəkələrində mühafizə tədbirlərinin lazımi səviyyəsi iştirakçıların razılaşmasına uyğun təmin edilir",
+        "Korporativ informasiya sistemlərində elektron sənəd dövriyyəsinin mühafizə tədbirlərinin lazımi səviyyəsi Azərbaycan Respublikası qanunvericiliyinin tələblərinə müvafiq olaraq bu sistemin mülkiyyətçisi tərəfindən və ya iştirakçıların razılaşmasına uyğun təmin edilir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 738,
+      "text": "“Elektron imza və elektron sənəd haqqında Azərbaycan Respublikasının Qanunu”na əsasən aşağıda verilən fikirlərdən hansı yalnışdır?",
+      "options": [
+        "Tərkibində dövlət, kommersiya, bank sirləri təşkil edən məlumatlar və digər konfidensial informasiyalar olan elektron sənədlərin istifadə qaydası və mühafizə tədbirləri Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilir",
+        "Tərkibində dövlət sirri təşkil edən məlumatlar olan elektron sənədlərin mübadiləsi üçün sertifikatlaşdırılmış və gücləndirilmiş elektron imza və elektron sənəd dövriyyəsi vasitələrindən istifadə olunmalıdır",
+        "Tərkibində dövlət sirri təşkil edən məlumatlar olan elektron sənədlərin mübadiləsi üçün yalnız sertifikatlaşdırılmış elektron imza və elektron sənəd dövriyyəsi vasitələrindən istifadə olunmalıdır",
+        "Tərkibində dövlət sirri təşkil edən məlumatlar olan elektron sənədlərin tərtibi, emalı və mübadiləsi üçün istifadə olunan informasiya sistemlərinin ekspertizası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyən edilmiş qaydada həyata keçirilir"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 739,
+      "text": "“Elektron imza və elektron sənəd haqqında Azərbaycan Respublikasının Qanunu”na əsasən kimlər Azərbaycan Respublikasının qanunvericiliyinə müvafiq olaraq elektron sənədlərin mühafizəsi üçün zəruri tədbirlərin görülməsini təmin etməlidirlər?",
+      "options": [
+        "Bu Qanununda nəzərdə tutulan elektron sənədlərlə işləməyə buraxılan şəxslər",
+        "Dövlət orqanının rəhbəri",
+        "Hüquq-mühafizə orqanları",
+        "Müvafiq icra hakimiyyəti orqanları"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 740,
+      "text": "“Elektron imza və elektron sənəd haqqında Azərbaycan Respublikasının Qanunu” nə vaxt qəbul edilib?",
+      "options": [
+        "10 aprel 2004-cü il",
+        "26 iyun 2001-ci il",
+        "9 mart 2004-cü il",
+        "9 mart 2002-ci il"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 741,
+      "text": "Elektron imza nədir?",
+      "options": [
+        "Verilənlərə əlavə edilən və ya onlarla məntiqi əlaqəli olan, imza sahibini identikləşdirməyə imkan verən verilənlər",
+        "İmza sahibinin nəzarəti altında olan elektron imza vasitələri ilə yaradılan və yalnız imza sahibinə məxsus olmaqla onu identikləşdirən, əlaqəli olduğu məlumat bildirişinin bütövlüyünü, dəyişməzliyini, təhrif olunmadığını və saxtalaşdırılmadığını müəyyən etməyə imkan verən elektron imza",
+        "İnformasiya sistemində istifadə üçün elektron formada təqdim edilən və elektron imza ilə təsdiq olunmuş sənəd",
+        "İnformasiya sistemində elektron sənədin nizamlanmış hərəkəti ilə bağlı informasiya prosesləri"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 742,
+      "text": "Gücləndirilmiş elektron imza nədir?",
+      "options": [
+        "Elektron sənəd dövriyyəsi vasitəsi istisna olmaqla, özü tərəfindən və ya adından elektron sənəd göndərilən fiziki və ya hüquqi şəxs",
+        "Digər verilənlərə əlavə edilən və ya onlarla məntiqi əlaqəli olan, imza sahibini identikləşdirməyə imkan verən verilənlər",
+        "İmza sahibinin nəzarəti altında olan elektron imza vasitələri ilə yaradılan və yalnız imza sahibinə məxsus olmaqla onu identikləşdirən, əlaqəli olduğu məlumat bildirişinin bütövlüyünü, dəyişməzliyini, təhrif olunmadığını və saxtalaşdırılmadığını müəyyən etməyə imkan verən elektron imza",
+        "İnformasiya sistemində elektron sənədin nizamlanmış hərəkəti ilə bağlı informasiya prosesləri"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 743,
+      "text": "Elektron imza hansı halda etibarsız sayıla bilər?",
+      "options": [
+        "Elektron formada olduğuna görə",
+        "Sertifikatsız olduğuna görə",
+        "Sertifikatlaşdırılmamış imza vasitələri ilə yaradıldığına görə",
+        "Heç biri"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 744,
+      "text": "“Elektron imza və elektron sənəd haqqında” Azərbaycan Respublikasının Qanununa əsasən Azərbaycan Respublikasının qanunvericiliyində nəzərdə tutulmuş hallar istisna olmaqla, sertifikatlaşdırılmış imza vasitələri ilə yaradılmış və qüvvədə olan təkmil sertifikatlı gücləndirilmiş imza hansı imza ilə bərabər hüquqi qüvvəyə malikdir?",
+      "options": [
+        "Əl imzası ilə",
+        "Elektron imza ilə",
+        "Elektron sənəd imzası ilə",
+        "Notariat təsdiqi ilə"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 745,
+      "text": "“Elektron imza və elektron sənəd haqqında” Azərbaycan Respublikasının Qanununa əsasən hansı hallar istisna olmaqla, elektron sənəd kağız daşıyıcıda olan sənədə bərabər tutulur və onunla eyni hüquqi qüvvəyə malikdir (dəqiq cavabı müəyyən edin)?",
+      "options": [
+        "Sənədin notariat qaydasında təsdiqi və (və ya) dövlət qeydiyyatı tələb olunduğu hallar",
+        "Sənədin notariat qaydasında təsdiqi və dövlət qeydiyyatı tələb olunduğu hallar",
+        "Yalnız sənədin notariat qaydasında təsdiqi",
+        "Yalnız dövlət qeydiyyatı tələb olunduğu hallar"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 746,
+      "text": "“Elektron imza və elektron sənəd haqqında” Azərbaycan Respublikasının Qanununa əsasən məlumat bildirişinin və elektron sənədin istifadəsi hansı akt ilə tənzimlənir?",
+      "options": [
+        "“Notariat haqqında” Azərbaycan Respublikasının qanunu ilə",
+        "Yalnız “Elektron imza və elektron sənəd haqqında” Azərbaycan Respublikasının qanunu ilə",
+        "“Elektron hökumət portal haqqında Əsasnamənin təsdiq edilməsi və elektron xidmətlərin genişləndirilməsi ilə bağlı tədbirlər barədə” Azərbaycan Respublikasının Prezidentinin fərmanı ilə",
+        "“Elektron imza və elektron sənəd haqqında” Azərbaycan Respublikasının qanunu və digər normativ hüquqi aktlarla"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 747,
+      "text": "“Elektron imza və elektron sənəd haqqında” Azərbaycan Respublikasının Qanununa əsasən hansı orqanların informasiya sistemlərində elektron sənəd mübadiləsi üçün ancaq gücləndirilmiş imzadan və sertifikatlaşdırılmış imza vasitələrindən istifadə edilir?",
+      "options": [
+        "Hüquqi şəxslərin",
+        "Dövlət hakimiyyəti və yerli özünüidarəetmə orqanlarının",
+        "Qeyri-hökumət təşkilatlarının",
+        "Əcnəbi və vətəndaşlığı olmayan şəxslərin"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 748,
+      "text": "“Elektron imza və elektron sənəd haqqında” Azərbaycan Respublikasının Qanununa görə “Elektron imzanın dövlət idarəçiliyi sahəsində istifadəsi” ilə bağlı aşağıdakılardan hansı yalnışdır?",
+      "options": [
+        "Dövlət hakimiyyəti və yerli özünüidarəetmə orqanları sahə üzrə akkreditə edilmiş Mərkəzin xidmətlərindən istifadə etməlidir",
+        "Dövlət hakimiyyəti və yerli özünüidarəetmə orqanlarının informasiya sistemlərində elektron sənəd mübadiləsi üçün ancaq gücləndirilmiş imzadan və sertifikatlaşdırılmış imza vasitələrindən istifadə edilir",
+        "Dövlət hakimiyyəti və ya yerli özünüidarəetmə orqanlarına fiziki və ya hüquqi şəxsin göndərdiyi məlumat bildirişi onun imzası ilə təsdiqlənməlidir",
+        "Dövlət hakimiyyəti və yerli özünüidarəetmə orqanları tərəfindən elektron imzadan istifadə qaydası müvafiq icra hakimiyyəti orqanı tərəfindən müəyyənləşdirilir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 749,
+      "text": "“Elektron imza və elektron sənəd haqqında” Azərbaycan Respublikasının Qanununa əsasən elektron sənədin xüsusi hissəsində nələr qeyd olunur?",
+      "options": [
+        "Elektron sənədin məzmunu",
+        "Sənədə əlavə edilən electron imza (imzalar) və vaxt göstəricisi (göstəriciləri)",
+        "Elektron sənədin ünvanladığı şəxs barədə məlumatlar",
+        "Elektron sənədin quruluşu barədə məlumatlar"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 750,
+      "text": "“Elektron imza və elektron sənəd haqqında” Azərbaycan Respublikasının Qanununa əsasən elektron sənədin verilənlər daşıyıcısında yazılmış şəkli onun hansı təqdimat formasıdır?",
+      "options": [
+        "Xarici",
+        "Daxili",
+        "Vizual",
+        "Elektron"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 751,
+      "text": "“Elektron imza və elektron sənəd haqqında” Azərbaycan Respublikasının Qanununa əsasən “Elektron sənədin təqdimat formaları” ilə bağlı hansı müddəa yalnışdır?",
+      "options": [
+        "Elektron sənəd daxili və xarici təqdimat formalarına malikdir",
+        "Elektron sənədin verilənlər daşıyıcısında yazılmış şəkli onun daxili təqdimat formasıdır",
+        "Elektron sənədin verilənlər daşıyıcısından fərqli digər maddi obyektdə (displeydə, kağızda və s.) əyani qavranılan (vizual) şəkildə əks etdirilməsi onun xarici təqdimat formasıdır",
+        "Elektron sənədin elektron formada surəti ola bilər"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 752,
+      "text": "“Elektron imza və elektron sənəd haqqında” Azərbaycan Respublikasının Qanununa əsasən “Elektron sənədin əsli” ilə bağlı hansı yalnışdır?",
+      "options": [
+        "Elektron sənədin əsli yalnız xarici təqdimat formasında ola bilər",
+        "Elektron sənədin daxili təqdimat formasında bir-biri ilə eyni olan bütün nüsxələri əsl hesab edilir və bərabər hüquqi qüvvəyə malikdir",
+        "Elektron sənədin elektron formada surəti ola bilməz",
+        "Eyni şəxs tərəfindən kağız daşıyıcıda və elektron formada tərtib edilmiş eyni məzmunlu sənədin hər biri müstəqildir və bərabər hüquqi qüvvəyə malikdir"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 753,
+      "text": "“Elektron imza və elektron sənəd haqqında” Azərbaycan Respublikasının Qanununa əsasən aşağıdakı fikirlərdən hansı yalnışdır?",
+      "options": [
+        "Tərəflər arasında müqavilədə başqa hallar müəyyən edilməmişdirsə, Alandan Göndərənə təsdiqləmə çatanadək elektron sənəd alınmamış hesab olunur",
+        "Elektron sənəd dövriyyəsinin sənədləşdirilməsi Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş electron imza sahibi tərəfindən həyata keçirilir",
+        "Korporativ informasiya sistemində elektron sənədin istifadəsi və dövriyyəsi sistemin daxili normativ sənədləri ilə tənzimlənir",
+        "Elektron sənədin göndərilmə və alınma vaxtları mübahisəyə səbəb olacağı hallarda vaxt göstəricilərinin qeydiyyatı xidmətlərindən istifadə edilə bilər"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 754,
+      "text": "“Elektron imza və elektron sənəd haqqında” Azərbaycan Respublikasının Qanununa əsasən tərkibində dövlət sirri təşkil edən məlumatlar olan elektron sənədlərin mübadiləsi üçün hansı vasitələrdən istifadə olunmalıdır?",
+      "options": [
+        "Yalnız sertifikatlaşdırılmış elektron imza",
+        "Yalnız sertifikatlaşdırılmamış elektron imza",
+        "Yalnız elektron sənəd dövriyyəsi",
+        "Yalnız sertifikatlaşdırılmış elektron imza və elektron sənəd dövriyyəsi"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 755,
+      "text": "“Elektron imza və elektron sənəd haqqında” Azərbaycan Respublikasının Qanununa əsasən tərkibində dövlət sirri təşkil edən məlumatlar olan elektron sənədlərin tərtibi, email və mübadiləsi üçün istifadə olunan informasiya sistemlərinin ekspertizası kim tərəfindən müəyyən edilmiş qaydada həyata keçirilir?",
+      "options": [
+        "Müvafiq icra hakimiyyəti orqanı tərəfindən",
+        "Fiziki və ya hüquqi şəxs tərəfindən",
+        "Şəxsin özü tərəfindən",
+        "Elektron imza sahibi tərəfindən"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 756,
+      "text": "“Elektron imza və elektron sənəd haqqında” Azərbaycan Respublikasının Qanununa əsasən aşağıdakı fikirlərdən hansı doğrudur?",
+      "options": [
+        "Elektron sənədlərin saxlanılması üçün Azərbaycan Respublikasının qanunvericiliyinə müvafiq olaraq digər hüquqi və fiziki şəxslərin xidmətlərindən istifadə edilə bilməz",
+        "Elektron sənəd dövriyyəsi zamanı elektron sənədin mühafizəsi məqsədilə Azərbaycan Respublikasının qanunvericiliyinə müvafiq olan proqram və texniki vasitələrdən istifadə edilə bilməz",
+        "Tərkibində dövlət, kommersiya, bank sirləri təşkil edən məlumatlar və digər konfidensial informasiyalar olan elektron sənədlərin istifadə qaydası və mühafizə tədbirləri Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilir",
+        "Elektron sənəd dövriyyəsində istifadə edilən informasiya sistem və şəbəkələrində mühafizə tədbirlərinin lazımi səviyyəsi elektron imza sahibi tərəfindən təmin edilir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 757,
+      "text": "“Elektron imza və elektron sənəd haqqında” Azərbaycan Respublikasının Qanununa əsasən “Elektron sənəd dövriyyəsinin təşkilinin əsasları” ilə bağlı hansı fikir doğru deyil?",
+      "options": [
+        "Elektron sənədin istifadəsi və dövriyyəsi Azərbaycan Respublikası qanunvericiliyi və ya elektron sənəd dövriyyəsi subyektləri arasında bağlanmış müqavilələr əsasında həyata keçirilir",
+        "Azərbaycan Respublikasının qanunvericiliyində və bağlanmış müqavilədə elektron sənədlərin mübadiləsi qaydası və onunla bağlı olan texniki-təşkilati tələblər (sənədlərin mübadilə forması, onların yoxlanılma proseduru, sənədin alınmasının təsdiqlənməsi üçün məqbul hesab edilən müddət, forma və sairə) müəyyən edilir",
+        "Elektron sənəd dövriyyəsinin sənədləşdirilməsi Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş sahə standartları və qaydaları əsasında həyata keçirilir",
+        "Korporativ informasiya sistemində elektron sənədin istifadəsi və dövriyyəsi sistemin daxili normativ sənədləri ilə tənzimlənir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 758,
+      "text": "“Elektron imza və elektron sənəd haqqında” Azərbaycan Respublikasının Qanununa əsasən hansı halda elektron sənəd göndərən tərəfindən göndərilmiş hesab edilmir?",
+      "options": [
+        "Şəxsən göndərilmiş",
+        "Başqasının adından çıxış etmək səlahiyyəti olan şəxs tərəfindən göndərilmiş",
+        "Başqasının proqramlaşdırdığı qaydada fəaliyyət göstərən informasiya sisteminin avtomatik ötürdüyü",
+        "Özünün proqramlaşdırdığı qaydada fəaliyyət göstərən informasiya sisteminin avtomatik ötürdüyü"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 759,
+      "text": "“Elektron imza və elektron sənəd haqqında” Azərbaycan Respublikasının Qanununa əsasən Alan aşağıdakı hansı halda elektron sənədi Göndərən tərəfindən göndərilmiş hesab etməlidir?",
+      "options": [
+        "Elektron sənədin göndərilməməsi barədə bildiriş almışdırsa",
+        "Elektron sənədin həqiqiliyi təsdiqlənməmişdirsə",
+        "Elektron sənədin həqiqiliyinin yoxlanması nəticəsində Alana bəlli olmuşdur və ya bəlli olmalı idi ki, qəbul edilmiş elektron sənəd başqa sənədin avtomatik təkrarıdır",
+        "Tərəflər arasındakı müqavilədə başqa hallar müəyyən edilməmişdirsə, Alan qəbul etdiyi elektron sənədin həqiqiliyinin təsdiqlənməsi nəticəsində onu Göndərənin yolladığına əmin olursa və istənilən, o cümlədən avtomatik vasitələrlə alınmanı birmənalı təsdiq edən qaydada Göndərəni məlumatlandırırsa"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 760,
+      "text": "“Elektron imza və elektron sənəd haqqında” Azərbaycan Respublikasının Qanununa əsasən tərəflər arasındakı müqavilədə başqa hallar müəyyən edilməmişdirsə, elektron sənəd hansı müddətədək alınmamış hesab olunur?",
+      "options": [
+        "Göndərəndən Alana təsdiqləmə çatanadək",
+        "Alandan Göndərənə təsdiqləmə çatanadək",
+        "Elektron sənəd tərəflər arasında razılaşdırılmış texniki tələblərə uyğun olmazsa",
+        "Alandan Göndərənə təsdiqləmə çatmayanadək"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 761,
+      "text": "“Elektron imza və elektron sənəd haqqında” Azərbaycan Respublikasının Qanununa əsasən elektron sənədin saxlanılma qaydasında hansı şərtlər nəzərə alınmır?",
+      "options": [
+        "Elektron sənəd yaradıldığı, ötürüldüyü və ya qəbul edildiyi quruluşu saxlasın",
+        "Elektron sənəd onu Göndərəni, Alanı, göndərilmə və alınma vaxtını müəyyən etməyə imkan versin",
+        "Elektron sənəddə olan informasiya növbəti istinad üçün istifadə edilə bilsin",
+        "Elektron sənədin saxlanılma müddəti kağız sənəd üçün nəzərdə tutulmuş müddətdən çox olmasın"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 762,
+      "text": "“Elektron imza və elektron sənəd haqqında” Azərbaycan Respublikasının Qanununa əsasən “Məzmununu konfidensial informasiya təşkil edən elektron sənədlər”lə bağlı aşağıdakılardan hansı yalnışdır?",
+      "options": [
+        "Tərkibində dövlət, kommersiya, bank sirrləri təşkil edən məlumatlar və digər konfidensial informasiyalar olan elektron sənədlərin istifadə qaydası və mühafizə tədbirləri Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilir",
+        "Tərkibində dövlət sirri təşkil edən məlumatlar olan elektron sənədlərin mübadiləsi üçün müxtəlif növ elektron imza və elektron sənəd dövriyyəsi vasitələrindən istifadə olunmalıdır",
+        "Konfidensial xarakterli elektron sənədlərlə işləməyə buraxılan şəxslər Azərbaycan Respublikasının qanunvericiliyinə müvafiq olaraq bu sənədlərin mühafizəsi üçün zəruri tədbirlərin görülməsini təmin etməlidir",
+        "Tərəflər arasında bağlanmış müqaviləyə əsasən elektron sənəd dövriyyəsini həyata keçirən subyektlər konfidensial informasiya məzmunlu elektron sənədlərə müraciət və onların mühafizəsi üsullarını Azərbaycan Respublikasının qanunvericiliyinə uyğun olaraq özləri müəyyən edirlər"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 763,
+      "text": "“Elektron imza və elektron sənəd haqqında” Azərbaycan Respublikasının Qanununa əsasən tərkibində dövlət sirri təşkil edən məlumatlar olan electron sənədlərin tərtibi, email və mübadiləsi üçün istifadə olunan informasiya sistemlərinin ekspertizasının keçirilməsi qaydalarını hansı subyekt tərəfindən müəyyən olunub?",
+      "options": [
+        "Prezident",
+        "Milli Məclis",
+        "Nazirlər Kabineti",
+        "Dövlət Təhlükəsizlik Xidməti"
+      ],
+      "correctAnswer": 2
+    }
   ]
 }
