@@ -1,7 +1,908 @@
 {
    "id": "Mehkemeler və hakimler",
   "name": "Məhkəmələr və hakimlər",
-  "questions": [
-
+   "questions": [
+    {
+      "id": 623,
+      "text": "Məhkəmələr və hakimlər haqqında” Azərbaycan Respublikasının Qanununa əsasən bu qanun yönəldilmişdir?",
+      "options": [
+        "Azərbaycan Respublikası Konstitusiyasında təsbit olunmuş ədalət mühakiməsini həyat keçirən məhkəmə hakimiyyəti yaratmağa",
+        "Azərbaycan Respublikası Konstitusiyasında təsbit olunmuş məhkəmə hakimiyyətinin müstəqilliyinin möhkəmləndirilməsinə",
+        "Azərbaycan Respublikası Konstitusiyasında təsbit olunmuş məhkəmə hakimiyyətinin legitimliyinin tanıdılmasına",
+        "Azərbaycan Respublikası Konstitusiyasında təsbit olunmuş müstəqil məhkəmə hakimiyyəti yaratmağa"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 624,
+      "text": "“Məhkəmələr və hakimlər haqqında” Azərbaycan Respublikasının Qanununa əsasən Azərbaycan Respublikasında hansı məhkəmələr fəaliyyət göstərirlər?",
+      "options": [
+        "Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələrdə nəzərdə tutulmuş",
+        "Azərbaycan Respublikasının qanunları ilə təsis edilmiş",
+        "Azərbaycan Respublikasının Konstitusiya qanunları ilə təsis edilmiş",
+        "Azərbaycan Respublikasının Mülki-prossessual qanunvericiliyində nəzərdə tutulmuş"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 625,
+      "text": "“Məhkəmələr və hakimlər haqqında” Azərbaycan Respublikasının Qanununa əsasən qadağandır: 1. Məhkəmələrin səlahiyyətlərinin dəyişdirilməsi məqsədilə müəyyən olunmamış hüquqi üsulların tətbiq edilməsi 2. ixtisaslaşmış məhkəmələrin yaradılması 3. fövqəladə məhkəmələrin yaradılması 4. xarici dövlətlərin məhkəmələrinin yaradılması 5. regional məhkəmələrin yaradılması 6. qanunda nəzərdə tutulmayan qaydada məhkəmələrin yaradılması",
+      "options": [
+        "1, 2, 3, 4, 5, 6",
+        "1, 2, 3, 4, 5",
+        "1, 3, 4, 6",
+        "1, 2, 3, 4, 6"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 626,
+      "text": "“Məhkəmələr və hakimlər haqqında” Azərbaycan Respublikasının Qanununa əsasən Azərbaycan Respublikası Konstitusiya Məhkəməsinin fəaliyyəti və hakimlərinin statusu müəyyən olunur:",
+      "options": [
+        "“Məhkəmələr və hakimlər haqqında” Azərbaycan Respublikasının Qanunu ilə",
+        "Azərbaycan Respublikasının Konstitusiyası ilə",
+        "“Konstitusiya Məhkəməsi haqqında” Azərbaycan Respublikasının qanunu ilə",
+        "Mülki -prosessual qanunvericiliklə"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 627,
+      "text": "Azərbaycan Respublikasının Konstitusiyasına görə düzgün olanları müəyyən edin : 1. Hər kəsin hüquq və azadlıqlarının inzibati qaydada və məhkəmədə müdafiəsinə təminat verilir. 2. Hər kəsin hüququ var ki, onun işinə qərəzsiz yanaşılsın və həmin işə inzibati icraat və məhkəmə prosesində ağlabatan müddətdə baxılsın. 3. Hər kəsin inzibati icraat və məhkəmə prosesində dinlənilmək hüququ vardır 4. Hər kəs dövlət orqanlarının, siyasi partiyaların, hüquqi şəxslərin, bələdiyyələrin və vəzifəli şəxslərin hərəkətlərindən və hərəkətsizliyindən inzibati qaydada və məhkəməyə şikayət edə bilər. 5. Hər kəsin onun işinə qanunla müəyyən edilmiş məhkəmədə baxılması hüququ vardır. Şəxsin razılığı olmadan onun işinə başqa məhkəmədə baxılmasına yol verilmir 6. Cinayətin törədilməsində təqsirləndirilən hər bir şəxs, onun təqsiri qanunla nəzərdə tutulan qaydada sübuta yetirilməyibsə və bu barədə məhkəmənin qanuni qüvvəyə minmiş hökmü yoxdursa belə təqsirli sayılır.",
+      "options": [
+        "1,2,3,6",
+        "2,4,5,6",
+        "Yalnız 1,2,3,4,5",
+        "6"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 628,
+      "text": "“Məhkəmələr və hakimlər haqqında” Azərbaycan Respublikasının Qanuna görə Azərbaycan Respublikası məhkəmələrinin fəaliyyəti nəyə yönəldilmişdir?",
+      "options": [
+        "Yalnız ədalət mühakiməsinin həyata keçirilməsinə",
+        "Yalnız qanunvericiliklə müəyyən edilmiş hallarda və qaydada məhkəmə nəzarətinin həyata keçirilməsinə",
+        "Yalnız ədalət mühakiməsinin və qanunvericiliklə müəyyən edilmiş hallarda və qaydada məhkəmə nəzarətinin həyata keçirilməsinə",
+        "Yalnız vətəndaşların və əcnəbilərin mülkiyyət hüququnun bərqərar olmasına"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 629,
+      "text": "“Məhkəmələr və hakimlər haqqında” Azərbaycan Respublikasının Qanuna əsasən düzgün müddəaları müəyyən edin: 1. Məhkəmələr ədalət mühakiməsini həyata keçirərkən mülkiyyət formasından asılı olmayaraq bütün müəssisə, idarə və təşkilatların, siyasi partiyaların, ictimai birliklərin, digər hüquqi şəxslərin hüquqlarını və qanuni mənafelərini hər cür qəsdlərdən və qanun pozuntularından müdafiə edir 2. Məhkəmələrdə işlərə ikinci instansiya, kassasiya və apelyasiya instansiyaları üzrə baxılır. 3. Azərbaycan Respublikası qanunvericiliyində nəzərdə tutulmuş hallarda və qaydada Azərbaycan Respublikası məhkəmələrində işlərə kollegial və hakim tərəfindən təkbaşına: birinci instansiya məhkəməsində işlərə təkbaşına və ya üç hakimdən ibarət tərkibdə, apelyasiya və kassasiya instansiyası məhkəməsində üç və ya daha çox hakimdən ibarət tərkibdə baxılır. 4. Məhkəmələrdə işlərə baxılarkən məhkəmə iclasının protokolu aparılır. Məhkəmə iclasının gedişini və məhkəmə istintaqı zamanı aparılan prosessual hərəkətləri qeyd etmək üçün texniki vasitələrdən istifadə edilə bilər.",
+      "options": [
+        "1,3,4",
+        "1,2,3",
+        "2,4",
+        "2"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 630,
+      "text": "Məhkəmələrdə baxılmış işlər üzrə qərarlar kimin adından çıxarılır?",
+      "options": [
+        "Azərbaycan Respublikası adından",
+        "Məhkəməyə sədrlik edən hakimin adından",
+        "Konstitusiya Məhkəməsi sədrinin adından",
+        "Azərbaycan Respublikası prezidentinin adından"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 631,
+      "text": "“Məhkəmələr və hakimlər haqqında” Azərbaycan Respublikasının Qanuna görə hansı məhkəmələrin bütün qərarları qəbul olunduğu gündən bir aydan gec olmayaraq elektron qaydada yayılmalıdır?",
+      "options": [
+        "Bütün məhkəmələrin",
+        "Kassasiya və apelyasiya instansiyası məhkəmələrinin",
+        "Ali məhkəmələrin",
+        "Məhkəmələrin qərarları elektron qaydada yayıla bilməz"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 632,
+      "text": "Məhkəmələr və hakimlər haqqında” Azərbaycan Respublikasının Qanuna əsasən səhvdir: 1. Kassasiya və apelyasiya instansiyası məhkəmələrinin bütün qərarları qəbul olunduğu gündən bir aydan gec olmayaraq elektron qaydada yayılır. Bu qərarlarla birlikdə aşağı instansiya məhkəmələrinin ləğv edilmiş və ya dəyişdirilmiş qərarları yayıla bilməz. 2. Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada qanuni qüvvəyə minmiş qərarlar Azərbaycan Respublikası ərazisində yaşayan yalnız ölkə vətəndaşları tərəfindən mütləq, vaxtında və dəqiq icra olunmalıdır. 3. Qanuni qüvvəyə minmiş məhkəmə qərarlarının icra edilməməsi Azərbaycan Respublikası qanunvericiliyi ilə nəzərdə tutulmuş məsuliyyətə səbəb olur. 4. Azərbaycan Respublikası məhkəmələrinin bütün hakimləri məhkəmə iclaslarını xüsusi geyimdə aparırlar. 5. Ədalət mühakiməsi hakimlərin müstəqilliyi təmin edilməklə, heç bir məhdudiyyət qoyulmadan, faktlara əsasən, qərəzsiz, ədalətlə və qanunlara müvafiq həyata keçirilir.",
+      "options": [
+        "1,2.4",
+        "2,3,4",
+        "3,4,5",
+        "2"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 633,
+      "text": "Kimlərin Azərbaycan Respublikasının Konstitusiyasında və digər qanunlarda nəzərdə tutulmuş hüquq və azadlıqlarının, hüquqi şəxslərin qanuni mənafelərinin hər cür qəsdlərdən və qanun pozuntularından məhkəmə icraatının istənilən mərhələsində məhkəmə müdafiəsi hüququ təmin olunur ?",
+      "options": [
+        "Yalnız Azərbaycan Respublikası vətəndaşlarının",
+        "Azərbaycan Respublikasındakı vətəndaşlığı olmayan şəxslərin",
+        "Yalnız Azərbaycan Respublikası vətəndaşlarının və onun ərazisində yaşayan xarici vətəndaşların",
+        "Azərbaycan Respublikası vətəndaşlarının, onun ərazisində yaşayan xarici vətəndaşların, habelə vətəndaşlığı olmayan şəxslərin"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 634,
+      "text": "Məhkəmələr və hakimlər haqqında” Azərbaycan Respublikasının Qanuna əsasən kimlər məhkəmə müdafiəsi hüququndan məhrum edilə bilər?",
+      "options": [
+        "Azərbaycan Respublikasındakı vətəndaşlığı olmayan şəxslər",
+        "Əcnəbilər",
+        "Azərbaycan Respublikasında yaşayan xarici vətəndaşlar",
+        "Heç kəs"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 635,
+      "text": "Azərbaycan Respublikası Konstitusiyasında nəzərdə tutulan təqsirsizlik prezumpsiyası maddəsinə əsasən düzgün deyil :",
+      "options": [
+        "Hər kəsin təqsirsizlik prezumpsiyası hüququ vardır. Cinayətin törədilməsində təqsirləndirilən hər bir şəxs, onun təqsiri qanunla nəzərdə tutulan qaydada sübuta yetirilməyibsə və bu barədə məhkəmənin qanuni qüvvəyə minmiş hökmü yoxdursa, təqsirsiz sayılır.",
+        "Şəxsin təqsirli olduğuna əsaslı şübhələr varsa, onun təqsirli bilinməsinə yol verilmir.",
+        "Cinayətin törədilməsində təqsirləndirilən şəxs özünün təqsirsizliyini sübuta yetirməyə borcludur.",
+        "Məhkəmənin hökmü olmasa, kimsə cinayətdə təqsirli sayıla bilməz."
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 636,
+      "text": "Bütün məhkəmələrdə işlərin icraatı aparılır :",
+      "options": [
+        "Növbəli şəkildə açıq və qapalı",
+        "Açıq",
+        "Hakimlərin istəyi ilə açıq",
+        "Qapalı"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 637,
+      "text": "Məhkəmələrdə işə qapalı iclasda baxılmasına hansı hallarda icazə verilir? 1. Məhkəmə açıq icraatın dövlət, peşə və kommersiya sirrinin açılmasına səbəb olacağını güman edərsə 2. Məhkəmə vətəndaşların şəxsi və ya ailə həyatının məxfiliyini qorumaq zərurətinin mövcudluğunu müəyyən edərsə 3. Məhkəmə təqsirləndirilən şəxsin hakim qarşısına çıxarılmasını təmin edə bilmirsə 4. Məhkəmə əcnəbi və yaxud vətəndaşlığı olmayan şəxsi mühakimə edərsə",
+      "options": [
+        "1, 2",
+        "3, 4",
+        "1, 3",
+        "2, 4"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 638,
+      "text": "Məhkəmələr işlərə baxarkən nəyi rəhbər tuturlar?",
+      "options": [
+        "Yalnız Azərbaycan Respublikasının Konstitusiyasını",
+        "Azərbaycan Respublikasının Konstitusiyasını və qanunlarını",
+        "Müvafiq məhkəmənin daxili normativ aktlarını",
+        "Azərbaycan Respublikası Konstitusiya Məhkəməsinin qərarlarını"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 639,
+      "text": "Hansı halda məhkəmə iclasının protokolu aparılır?",
+      "options": [
+        "Məhkəmələrdə işlərə baxılarkən",
+        "Məhkəmə qərarının elan olunması zamanı",
+        "Məhkəmə qərar qəbul edərkən",
+        "Hakimin tələbi olduqda"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 640,
+      "text": "Verilən məhkəmələrdən hansında işlərə azı 3 hakimdən ibarət tərkibdə baxılır?",
+      "options": [
+        "Naxçıvan Muxtar Respublikasının Ali Məhkəməsində",
+        "Şirvan Şəhər Məhkəməsində",
+        "Sumqayıt Kommersiya Məhkəməsində",
+        "Tərtər Hərbi Məhkəməsində"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 641,
+      "text": "Azərbaycan Respublikasının məhkəmə sisteminə daxil olan məhkəmələrin hakimlərinin ümumi sayı verilənlərdən hansı tərəfindən müəyyənləşdirilir?",
+      "options": [
+        "Azərbaycan Respublikasının Ali Məhkəməsi tərəfindən",
+        "Azərbaycan Respublikasının Nazirlər Kabineti tərəfindən",
+        "Azərbaycan Respublikasının Məhkəmə-Hüquq Şurası tərəfindən",
+        "Azərbaycan Respublikasının Prezidenti tərəfindən"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 642,
+      "text": "Şirvan Apelyasiya Məhkəməsində işlərə hansı tərkibdə baxılır?",
+      "options": [
+        "Yalnız 3 hakimdən ibarət tərkibdə",
+        "Təkbaşına və ya üç hakimdən ibarət tərkibdə",
+        "Üç və ya daha çox hakimdən ibarət tərkibdə",
+        "Yalnız təkbaşına"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 643,
+      "text": "Hansı hallarda məhkəmələrin qərarları açıq elan edilir?",
+      "options": [
+        "İnzibati xarakterli işlərə baxılması ilə əlaqədar olduqda",
+        "Yalnız birinci instansiya məhkəmələrinin icraatına dair olduqda",
+        "Qanunla müəyyən olunmuş hallar istisna olmaqla digər hallarda",
+        "Bütün hallarda"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 644,
+      "text": "Hansı hallarda hüquqi yardım dövlət hesabına göstərilir?",
+      "options": [
+        "Bütün hallarda",
+        "Qanunla müəyyən olunmuş hallarda",
+        "Qanunla müəyyən olunmuş hallar istisna olmaqla digər hallarda",
+        "Heç bir halda"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 645,
+      "text": "Bakı Ağır Cinayətlər Məhkəməsində işlərə hansı tərkibdə baxılır?",
+      "options": [
+        "Təkbaşına və ya üç hakimdən ibarət tərkibdə",
+        "Üç və ya daha çox hakimdən ibarət tərkibdə",
+        "Yalnız 3 hakimdən ibarət tərkibdə",
+        "Yalnız kollegial qaydada"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 646,
+      "text": "Hansı məhkəmə qərarlarının icra edilməməsi Azərbaycan Respublikası qanunvericiliyi ilə nəzərdə tutulmuş məsuliyyətə səbəb olur?",
+      "options": [
+        "Məhkəmələrin bütün qərarlarının",
+        "Qanuni qüvvəyə minmiş qərarların",
+        "Yuxarı instansiya məhkəmələrinin bütün qərarlarının",
+        "Yalnız kassasiya instansiyası məhkəməsi qərarlarının"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 647,
+      "text": "Gəncə Apelyasiya Məhkəməsinin hansı qərarları qəbul olunduğu gündən başlayaraq bir aydan gec olmayaraq yayılır?",
+      "options": [
+        "Bütün qərarları",
+        "Yalnız ləğv edilmiş qərarları",
+        "Heç biri, çünki qüvvəyə mindiyi gündən yayılır",
+        "Qanunla müəyyən edilmiş bəzi qərarları"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 648,
+      "text": "Birinci instansiya məhkəmələrinin qərarları hansı qaydada açıqlanır?",
+      "options": [
+        "30 gündən gec olmayaraq",
+        "1 aydan gec olmayaraq",
+        "Qanunvericilikdə müəyyən edilmiş qaydada",
+        "Yuxarı instansiya məhkəmələrinin qərarlarında göstərilmiş qaydada"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 649,
+      "text": "Azərbaycan Respublikasının məhkəmələrində işlərə hansı qaydada baxılır?",
+      "options": [
+        "Təkbaşına və ya kollegial qaydada",
+        "Üç və ya daha çox hakimdən ibarət tərkibdə",
+        "Üç hakimdən ibarət tərkibdə",
+        "Yalnız kollegial qaydada"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 650,
+      "text": "Hansı hallarda məhkəmələrin üzərinə başqa vəzifələr qoyula bilər?",
+      "options": [
+        "Qanunla müəyyən edilmiş hallarda",
+        "Heç bir halda",
+        "Qanunla müəyyən edilmiş hallar istisna olmaqla digər hallarda",
+        "Azərbaycan Respublikasının Konstitusiyasında nəzərdə tutulmuş hallarda"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 651,
+      "text": "Hansı hallarda məhkəmələrdə işlərin icraatı qapalı aparılır?",
+      "options": [
+        "Heç bir halda",
+        "Azərbaycan Respublikasının Konstitusiyasında nəzərdə tutulmuş hallarda",
+        "Bütün hallarda",
+        "Yalnız yuxarı instansiya məhkəmələrində"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 652,
+      "text": "Hansı vaxtdan etibarən şəxsin müdafiəçinin köməyindən istifadə etmək hüququna təminat verilir?",
+      "options": [
+        "Həbsə alındığı gündən",
+        "Tutulduğu gündən",
+        "Cinayət törədilməsində ittiham edildiyi andan",
+        "Yalnız şəxsin razılığı olduğu andan"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 653,
+      "text": "Məhkəmələr ədalət mühakiməsini həyata keçirərkən hər cür qəsdlərdən və qanun pozuntularından müdafiə edir: 1. Azərbaycan Respublikası Konstitusiyasında təsbit edilmiş insan və vətəndaş hüquq və azadlıqlarını, 2. Mülkiyyət formasından asılı olmayaraq bütün müəssisə, idarə və təşkilatların hüquqlarını və qanuni mənafelərini, 3. Siyasi partiyaların, ictimai birliklərin, digər hüquqi şəxslərin hüquqlarını və qanuni mənafelərini, 4. Beynəlxalq hüquqla müəyyənləşdirilmiş insan və vətəndaş hüquq və azadlıqlarını",
+      "options": [
+        "1, 2, 3, 4",
+        "1, 2, 3, 4, 5",
+        "1, 2, 3",
+        "1, 2, 5"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 654,
+      "text": "“Məhkəmələr və hakimlər haqqında” Azərbaycan Respublikasının Qanunun “Məhkəmələrdə işlərə baxılması” maddəsinə əsasən doğru fikirləri müəyyənləşdirin (Tam və düzgün variantlar): 1. Məhkəmələrdə işlərə birinci instansiya, apelyasiya və kassasiya instansiyaları üzrə baxılır, 2. Azərbaycan Respublikası qanunvericiliyində nəzərdə tutulmuş hallarda və qaydada Azərbaycan Respublikası məhkəmələrində işlərə kollegial və hakim tərəfindən təkbaşına baxılır, 3. Birinci instansiya məhkəməsində işlərə hakim tərəfindən yalnız təkbaşına baxılır, 4. Apelyasiya və kassasiya instansiyası məhkəməsində üç və ya daha çox hakimlərdən ibarət tərkibdə baxılır, 5. Birinci instansiya məhkəməsində işlərə üç nəfərdən ibarət tərkibdə baxılır",
+      "options": [
+        "1, 2, 3, 4",
+        "1, 2, 3, 4, 5",
+        "1, 2, 4, 5",
+        "1, 2, 5"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 655,
+      "text": "Məhkəmə icraatının aparıldığı dil hansı aktla müəyyən edilir?",
+      "options": [
+        "Azərbaycan Respublikasının Konstitusiyası ilə",
+        "Azərbaycan Respublikasının qanunları ilə",
+        "Konstitusiya qanunu ilə",
+        "Məhkəmələr və hakimlər haqqında Qanunla"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 656,
+      "text": "Hansı işlər üzrə qərarlar çıxarırlar?",
+      "options": [
+        "Baxılmaqda olan işlər üzrə",
+        "Tamamlanmış işlər üzrə",
+        "Baxılmış işlər üzrə",
+        "Xitam verilmiş işlər üzrə"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 657,
+      "text": "Məhkəmə aktları hansılardır? 1. Qətnamə 2. Əmrlər 3. Qərardadlar 4. Hökmlər 5. Fərmanlar 6. Qərarlar",
+      "options": [
+        "1, 2, 3, 4, 5, 6",
+        "1, 2, 3, 4, 5,",
+        "1, 3, 4, 6",
+        "1, 2, 3, 4, 6"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 658,
+      "text": "Məhkəmələr işlərə baxarkən rəhbər tuturlar: 1. Azərbaycan Respublikasının Konstitusiyanı 2. Azərbaycan Respublikasının qanunlarını 3. Hamılıqla qəbul edilmiş hüquq normalarını 4. Digər qanunvericilik aktlarını 5. Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələri 6. Məhkəmə-hüquq şurasının aktlarını",
+      "options": [
+        "1, 2, 4, 5",
+        "1, 2, 3, 5, 6",
+        "1, 2, 3, 4, 6",
+        "1, 2, 3, 4, 5"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 659,
+      "text": "Məhkəmələrdə işlərə baxılarkən:",
+      "options": [
+        "Məhkəmə iclasının qeydləri aparılır",
+        "Məhkəmə iclasının video müşahidəsi aparılır",
+        "Məhkəmə iclasının stenoqramı aparılır",
+        "Məhkəmə iclasının protokolu aparılır"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 660,
+      "text": "Məhkəmə iclasının gedişini və məhkəmə istintaqı zamanı aparılan prosessual hərəkətləri qeyd etmək üçün hansı vasitələrdən istifadə edilə bilər?",
+      "options": [
+        "Proqram təminatı vasitələrindən",
+        "Texniki vasitələrdən",
+        "Xüsusi vasitələrdən",
+        "Səsyazma qurğularından"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 661,
+      "text": "Məhkəmələrin qərarları ilə bağlı müddəalardan hansıları doğrudur? 1. Məhkəmələr baxılmış işlər üzrə Azərbaycan Respublikasının adından qətnamələr, hökmlər, qərardadlar və qərarlar çıxarırlar 2. Kassasiya və apelyasiya instansiyası məhkəmələrinin bütün qərarları qəbul olunduğu gündən 20 gündən gec olmayaraq elektron qaydada yayılır 3. Bu qərarlarla birlikdə aşağı instansiya məhkəmələrinin ləğv edilmiş və ya dəyişdirilmiş qərarları da yayılmalıdır 4. Birinci instansiya məhkəmələrinin qanuni qüvvəyə minmiş qərarları qanunvericiliklə müəyyən edilmiş üsullarla açıqlanır 5. Qanuni qüvvəyə minmiş qərarlar Azərbaycan Respublikası ərazisində bütün fiziki və hüquqi şəxslər tərəfindən mütləq, vaxtında və dəqiq icra olunmalıdır 6. Qanuni qüvvəyə minmiş məhkəmə qərarlarının icra edilməməsi Azərbaycan Respublikasının tərəfdar çıxdığı beynəlxalq müqavilələri ilə nəzərdə tutulmuş məsuliyyətə səbəb olur",
+      "options": [
+        "1, 2, 4, 5",
+        "1, 2, 3, 5, 6",
+        "1, 3, 4, 5, 6",
+        "1, 3, 4, 5"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 662,
+      "text": "Ədalət mühakiməsinin həyata keçirilməsinə dair əsas müddəalar hansılardır? 1. Hər kəsin qanun və məhkəmə qarşısında hüquq bərabərliyi 2. Ədalət mühakiməsinin hakimlərin müstəqilliyi təmin edilməklə, heç bir məhdudiyyət qoyulmadan, faktlara əsasən, qərəzsiz, ədalətlə və qanunlara müvafiq həyata keçirilməsi 3. Məhkəmə icraatına müdaxilənin və məhkəməyə hörmətsizlik göstərilməsinin yolverilməzliyi 4. Müdafiə hüququnun təmin edilməsi 5. Hər kəsin ədalət mühakiməsi qarşısında nisbi bərabərliyi",
+      "options": [
+        "1, 2, 4, 5",
+        "1, 2, 3, 4",
+        "1, 3, 4, 5",
+        "1, 4, 5"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 663,
+      "text": "Ədalət mühakiməsinin həyata keçirilməsinə dair əsas müddəalar hansılardır? 1. Ədalət mühakiməsinin obyektivliyinin təmin edilməsi 2. Təqsirsizlik prezumpsiyasının təmin edilməsi 3. Tərəflərin müdafiə imkanlarının bərabərləşdirilməsi 4. Məhkəmə icraatının açıq aparılması 5. Məhkəmə icraatının çəkişmə prinsipi əsasında həyata keçirilməsi",
+      "options": [
+        "1, 2, 3, 4, 5",
+        "1, 2, 3, 4",
+        "2, 3, 4, 5",
+        "2, 4, 5"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 664,
+      "text": "Ədalət mühakiməsi həyata keçirilir: 1. Hakimlərin müstəqilliyi təmin edilməklə 2. Hakimlərin obyektivliyi təmin edilməklə 3. Heç bir məhdudiyyət qoyulmadan 4. Faktlara və mülahizələrə əsasən 5. Qərəzsiz, ədalətlə və qanunlara müvafiq",
+      "options": [
+        "1, 3, 5",
+        "1, 2, 3, 4",
+        "2, 3, 4, 5",
+        "2, 4, 5"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 665,
+      "text": "Hər hansı bir şəxs tərəfindən hansı hərəkətlərin edilməsi yolverilməzdir? 1. Hər hansı bir səbəbdən bilavasitə, yaxud dolayı yolla məhkəmə icraatına məhdudiyyət qoyulması 2. Məhkəmə icraatına təsir, hədə və müdaxilə edilməsi 3. Məhkəməyə hörmətsizlik göstərilməsi 4. Məhkəmə qərarlarının şikayət edilməsi 5. Məhkəməyə aşkar etinasızlıq göstərildiyini bildirən hərəkətlər edilməsi",
+      "options": [
+        "1, 2, 3, 4, 5",
+        "1, 2, 3, 5",
+        "2, 3, 4, 5",
+        "2, 4, 5"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 666,
+      "text": "Müdafiə hüquqlarının təmin edilməsilə bağlı müddəalardan hansıları doğrudur? 1. Azərbaycan Respublikası vətəndaşlarının Azərbaycan Respublikasının Konstitusiyasında və digər qanunlarında nəzərdə tutulmuş hüquq və azadlıqlarının, hüquqi şəxslərin qanuni mənafelərinin hər cür qəsdlərdən və qanun pozuntularından məhkəmə icraatının istənilən mərhələsində məhkəmə müdafiəsi hüququ təmin olunur. 2. Heç kəs məhkəmə müdafiəsi hüququndan məhrum edilə bilməz. 3. Şübhə edilən, təqsirləndirilən şəxsin Azərbaycan Respublikası qanunvericiliyində nəzərdə tutulmuş vasitələrlə müdafiə hüququna, o cümlədən tutulduğu, həbsə alındığı, cinayət törədilməsində ittiham olunduğu andan müdafiəçinin köməyindən istifadə etmək hüququna təminat verilir. 4. Azərbaycan Respublikası Konstitusiyasının 61-ci maddəsinin II hissəsinə uyğun olaraq qanunla nəzərdə tutulmuş hallarda hüquqi yardım ödənişsiz, dövlət hesabına göstərilir.",
+      "options": [
+        "1, 2, 3, 4",
+        "1, 2, 3",
+        "2, 3, 4",
+        "1, 3, 4"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 667,
+      "text": "“Məhkəmələr və hakimlər haqqında” Azərbaycan Respublikasının Qanununa əsasən aşağıdakı müddəalardan hansılar doğrudur? 1. Ədalət mühakiməsi həyata keçirilərkən Azərbaycan Respublikası Konstitusiyasının 63-cü maddəsində nəzərdə tutulmuş təqsirsizlik prezumpsiyası prinsiplərinə riayət olunması təmin edilir 2. Azərbaycan Respublikası Konstitusiyasının 127-ci maddəsinin V hissəsinə əsasən işlərə məhkəmənin qapalı iclaslarında baxılması halları istisna olmaqla, bütün məhkəmələrdə işlərin icraatı qapalı aparılır 3. Qanunda nəzərdə tutulmuş hallar istisna olmaqla, cinayət işlərinin qiyabi məhkəmə icraatına yol verilmir 4. Bütün hallarda məhkəmənin qərarları açıq elan edilir 5. Azərbaycan Respublikasında məhkəmə icraatı tərəflərin hüquq bərabərliyi təmin olunmaqla Azərbaycan Respublikası Konstitusiyasının 127-ci maddəsinin VII hissəsinə uyğun olaraq çəkişmə prinsipi əsasında həyata keçirilir 6. Məhkəmə icraatının aparıldığı dili bilməyən şəxslərin hüquqlarının hər hansı şəkildə məhdudlaşdırılması yolverilməzdir 7. Azərbaycan Respublikasının qanunvericiliyi ilə nəzərdə tutulmuş hallarda hər kəsin tərcüməçinin xidmətlərindən pullu istifadə etmək hüququ təmin edilir",
+      "options": [
+        "1, 2, 3, 4, 5, 6, 7",
+        "1, 2, 4, 5, 6",
+        "2, 3, 4, 5, 6",
+        "1, 3, 4, 5, 6"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 668,
+      "text": "Azərbaycan Respublikasının məhkəmə sisteminə daxil olan hansı məhkəmələr vardır? 1. Rayon (şəhər) məhkəmələri 2. Regional məhkəmələr 3. Ağır cinayətlər məhkəmələri 4. Xüsusilə ağır cinayətlər məhkəmələri 5. Naxçıvan Muxtar Respublikasının Konstitusiya Məhkəməsi 6. Naxçıvan Muxtar Respublikasının ağır cinayətlər məhkəməsi",
+      "options": [
+        "1, 2, 3, 4, 5, 6",
+        "1, 3, 4, 5, 6",
+        "1, 3, 6",
+        "1, 3, 4, 6"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 669,
+      "text": "Ədalət mühakiməsini həyata keçirən Azərbaycan Respublikasının məhkəmə sisteminə daxil olan hansı məhkəmələr vardır? 1. Azərbaycan Respublikasının Konstitusiya Məhkəməsi 2. Azərbaycan Respublikasının Ali Məhkəməsi 3. Naxçıvan Muxtar Respublikasının Ali Məhkəməsi 4. Hərbi məhkəmələr 5. Hərbi cinayət məhkəmələri 6. Apelyasiya məhkəmələri",
+      "options": [
+        "1, 2, 3, 4, 5, 6",
+        "2, 3, 4, 6",
+        "1, 3, 4, 5, 6",
+        "1, 3, 4, 6"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 670,
+      "text": ". “Məhkəmələr və hakimlər haqqında” Azərbaycan Respublikasının Qanununa əsasən aşağıdakı müddəalardan hansılar doğrudur? 1. Azərbaycan Respublikasının məhkəmə sistemi daxilində qanunla müəyyən edilmiş qaydada digər məhkəmələr də yaradıla bilər 2. Azərbaycan Respublikasının məhkəmə sisteminə daxil olan məhkəmələrin hakimlərinin ümumi sayı Azərbaycan Respublikasının Prezidenti tərəfindən müəyyənləşdirilir 3. Azərbaycan Respublikasının məhkəmə sisteminə daxil olan məhkəmələrin hakimlərinin ümumi sayı Azərbaycan Respublikasının Milli Məclisi tərəfindən müəyyənləşdirilir 4. Azərbaycan Respublikasının məhkəmə sisteminə daxil olan məhkəmələrin hakimlərinin ümumi sayı Azərbaycan Respublikası Məhkəmə-Hüquq Şurası tərəfindən müəyyənləşdirilir 5. Azərbaycan Respublikasının hər bir məhkəməsi müstəqil hüquqi şəxsdir 6. Azərbaycan Respublikasının hər bir məhkəməsinin Azərbaycan Respublikası Dövlət gerbinin təsviri olan möhürü vardır",
+      "options": [
+        "1, 2, 5, 6",
+        "2, 3, 4, 6",
+        "1, 3, 4, 5, 6",
+        "1, 3, 4, 6"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 671,
+      "text": "Birinci instansiya məhkəmələr hansılardır? 1. Rayon məhkəməsi 2. Ağır cinayətlər məhkəməsi 3. Apelyasiya məhkəmələri 4. İnzibati-iqtisadi məhkəmə 5. Naxçıvan Muxtar Respublikasının ağır cinayətlər məhkəməsi",
+      "options": [
+        "1, 2, 5",
+        "2, 3, 4",
+        "1, 3, 4, 5",
+        "1, 2, 4, 5"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 672,
+      "text": "Yuxarı instansiya məhkəmələr hansılardır?",
+      "options": [
+        "Rayon məhkəməsi",
+        "Ağır cinayətlər məhkəməsi",
+        "Apelyasiya məhkəmələri",
+        "Naxçıvan Muxtar Respublikasının ağır cinayətlər məhkəməsi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 673,
+      "text": "“Məhkəmələr və hakimlər haqqında” Azərbaycan Respublikasının qanununun məqsədi nədir?",
+      "options": [
+        "Azərbaycan Respublikasında qanunun aliliyini təmin etmək məqsədilə Azərbaycan Respublikası Konstitusiyasında təsbit olunmuş müstəqil məhkəmə hakimiyyəti yaratmaq",
+        "Azərbaycan Respublikasında ədalət mühakiməsinin həyata keçirilməsini təmin etmək məqsədilə Azərbaycan Respublikası qanunlarında təsbit olunmuş müstəqil məhkəmə hakimiyyəti yaratmaq",
+        "Azərbaycan Respublikasında insan və vətəndaş hüquq və azadlıqlarını təmin etmək məqsədilə Azərbaycan Respublikası Konstitusiyasında təsbit olunmuş müstəqil məhkəmə hakimiyyəti yaratmaq",
+        "Azərbaycan Respublikasında ədalət mühakiməsinin həyata keçirilməsini təmin etmək məqsədilə Azərbaycan Respublikası Konstitusiyasında təsbit olunmuş müstəqil məhkəmə hakimiyyəti yaratmaq"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 674,
+      "text": "Məhkəmələr hansı hüquqi akt əsasında təsis olunurlar?",
+      "options": [
+        "Konstitusiya",
+        "Konstitusiya qanunu",
+        "Qanun",
+        "Fərman"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 675,
+      "text": "“Məhkəmələr və hakimlər haqqında” Azərbaycan Respublikasının qanununa görə hansı formada məhkəmələrin yaradılması mümkündür?",
+      "options": [
+        "Fövqəladə məhkəmələrin yaradılması",
+        "Xarici dövlətlərin məhkəmələrinin yaradılması",
+        "“Məhkəmələr və hakimlər haqqında” Azərbaycan Respublikasının qanununda nəzərdə tutulmayan qaydada məhkəmələrin yaradılması",
+        "Hərbi məhkəmələrin yaradılması"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 676,
+      "text": "Biri məhkəmələrin vəzifəsi deyil:",
+      "options": [
+        "Ədalət mühakiməsinin həyata keçirilməsi",
+        "Bütün hallarda məhkəmə nəzarətinin həyata keçirilməsi",
+        "Azərbaycan Respublikasının Konstitusiyasında nəzərdə tutulmuş digər vəzifələrin həyata keçirilməsi",
+        "“Məhkəmələr və hakimlər haqqında” Azərbaycan Respublikasının qanununda nəzərdə tutulmuş digər vəzifələrin həyata keçirilməsi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 677,
+      "text": "Məhkəmələr işlərə baxılması üçün belə bir instansiya növü nəzərdə tutulmayıb:",
+      "options": [
+        "Birinci instansiya",
+        "İkinci instansiya",
+        "Apelyasiya instansiyası",
+        "Kassasiya instansiyası"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 678,
+      "text": "Apelyasiya və kassasiya instansiyası məhkəməsində işlərə hansı tərkibdə baxılır (Tam və doğru cavabı seçin)?",
+      "options": [
+        "Yalnız üç hakimdən ibarət",
+        "Təkbaşına",
+        "Üç və ya daha çox hakimdən ibarət",
+        "Təkbaşına və ya üç hakimdən ibarət"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 679,
+      "text": "Birinci instansiya məhkəməsində işlərə hansı tərkibdə baxılır (Tam və doğru cavabı seçin)?",
+      "options": [
+        "Təkbaşına və ya üç hakimdən ibarət",
+        "Yalnız üç hakimdən ibarət",
+        "Təkbaşına",
+        "Üç və ya daha çox hakimdən ibarət"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 680,
+      "text": "Kassasiya və apelyasiya instansiyası məhkəmələrinin bütün qərarları qəbul olunduğu gündən hansı müddətdə elektron qaydada yayılır (dəqiq cavabı müəyyən edin)?",
+      "options": [
+        "Bir aydan gec olmayaraq",
+        "Bir həftədən gec olmayaraq",
+        "İki həftədən gec olmayaraq",
+        "On beş gündən gec olmayaraq"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 681,
+      "text": "Azərbaycan Respublikası Konstitusiyasının 25-ci maddəsinə uyğun olaraq Azərbaycan Respublikasında ədalət mühakiməsi irqindən, milliyətindən, dinindən, dilindən, cinsindən, mənşəyindən, əmlak vəziyyətindən, qulluq mövqeyindən, əqidəsindən, siyasi partiyalara, həmkarlar ittifaqına və digər ictimai birliklərə mənsubiyyətindən asılı olmayaraq kimlərin qanun və məhkəmə qarşısında hüquq bərabərliyi əsasında həyata keçirilir (tam və dolğun cavabı müəyyən edin)?",
+      "options": [
+        "Hər bir vətəndaşın",
+        "Hər bir şəxsin",
+        "Hər kəsin",
+        "Hamısı"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 682,
+      "text": "Ədalət mühakiməsi hakimlərin müstəqilliyini təmin etməklə heç bir məhdudiyyət qoyulmadan hansı qaydada keçirilmir?",
+      "options": [
+        "Faktlara əsasən",
+        "Qərəzsiz",
+        "Ədalətlə",
+        "Qərarlara müvafiq"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 683,
+      "text": "Hər hansı bir şəxs tərəfindən, hər hansı bir səbəbdən bilavasitə, yaxud dolayı hansı hərəkətləri edilməsi yolverilməzdir və Azərbaycan Respublikasının qanunvericiliyinə müvafiq surətdə məsuliyyətə səbəb olur?",
+      "options": [
+        "Məhkəmə icraatına məhdudiyyət qoyulması, təsir, hədə və müdaxilə edilməsi",
+        "Məhkəməyə hörmətsizlik göstərilməsi",
+        "Aşkar etinasızlıq göstərdiyini bildirən hərəkətlər edilməsi",
+        "Hamısı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 684,
+      "text": "Şübhə edilən, təqsirləndirilən şəxsin müdafiəçinin köməyindən istifadə etmək hüququna hansı müddətdən təminat verilir?",
+      "options": [
+        "Tutulduğu andan",
+        "Həbsə alındığı andan",
+        "Cinayət törədilməsində ittiham olunduğu andan",
+        "Hamısı"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 685,
+      "text": "Ədalət mühakiməsi həyata keçirilərkən hansı prinsipə riayət olunması təmin edilir?",
+      "options": [
+        "Qanunun aliliyi",
+        "Təqsirsizlik prezumpsiyası",
+        "Həqiqətin müəyyən edilməsi",
+        "Sübutların müəyyən edilməsi"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 686,
+      "text": "Aşağıdakılardan hansı doğru deyil?",
+      "options": [
+        "İşə qapalı iclasda baxılmasına yalnız o halda icazə verilir ki, məhkəmə açıq icraatın dövlət, peşə və kommersiya sirrinin açılmasına səbəb olacağına güman edir, ya da vətəndaşların şəxsi və ailə həyatının məxfiliyini qorumaq zərurətinin mövcudluğunu müəyyən edir",
+        "Azərbaycan Respublikası Konstitusiyasının 127-ci maddəsinin V hissəsinə görə məhkəmənin qapalı iclaslarında baxılması halları istisna olmaqla, bütün məhkəmələrdə işlərin icraatı açıq aparılır",
+        "Qanunda nəzərdə tutulmuş hallar istisna olmaqla, cinayət işlərinin qiyabi məhkəmə icraatına yol verilmir",
+        "Qanunda nəzərdə tutulmuş hallar istisna olmaqla, məhkəmənin qərarları açıq elan edilir"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 687,
+      "text": "Azərbaycan Respublikasında məhkəmə icraatı tərəflərin hüquq bərabərliyi təmin olunmaqla hansı prinsip əsasında həyata keçirilir?",
+      "options": [
+        "Çəkişmə",
+        "Qanunun aliliyi",
+        "Müzakirə",
+        "Həqiqətin müəyyən edilməsi"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 688,
+      "text": "Aşağıdakılardan hansı doğru deyil?",
+      "options": [
+        "Məhkəmə icraatının aparıldığı dil Azərbaycan Respublikasının Konstitusiyasının 127-ci maddəsinin X hissəsində müəyyən edilib",
+        "Məhkəmə icraatının aparıldığı dili bilməyən şəxslərin hüquqlarının hər hansı şəkildə məhdudlaşdırılması yolverilməzdir",
+        "Azərbaycan Respublikasının qanunvericiliyi ilə nəzərdə tutulmuş hallarda hər kəsin tərcüməçinin xidmətlərindən pulsuz istifadə etmək hüququ təmin edilir",
+        "Azərbaycan Respublikasında məhkəmə icraatı yalnız Azərbaycan Respublikasının dövlət dilində aparılır"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 689,
+      "text": "Aşağıdakılardan hansı Azərbaycan Respublikasının məhkəmə sisteminə daxil olan məhkəmə deyil?",
+      "options": [
+        "Naxçıvan Muxtar Respublikasının ağır cinayətlər məhkəməsi",
+        "Hərbi məhkəmələr",
+        "Naxçıvan Muxtar Respublikasının apelyasiya məhkəməsi",
+        "Naxçıvan Muxtar Respublikasının Ali Məhkəməsi"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 690,
+      "text": "Aşağıdakılardan hansı doğru deyil?",
+      "options": [
+        "Azərbaycan Respublikasının məhkəmə sistemi daxilində digər məhkəmələr yaradıla bilməz",
+        "Azərbaycan Respublikasının məhkəmə sisteminə daxil olan məhkəmələrin hakimlərinin sayı Azərbaycan Respublikasının Konstitusiyasının 109-cu maddəsinin 32-ci bəndinə uyğun müəyyənləşdirilir",
+        "Azərbaycan Respublikasının Prezidenti Konstitusiya ilə Azərbaycan Respublikasının Milli Məclisinin və məhkəmə orqanlarının səlahiyyətlərinə aid edilməyən digər məsələləri icra qaydasında həll edir",
+        "Azərbaycan Respublikasının hər bir məhkəməsi müstəqil hüquqi şəxsdir və onun Azərbaycan Respublikası Dövlət gerbinin təsviri olan möhürü vardır"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 691,
+      "text": "...... uyğun olaraq məhkəmələrin səlahiyyətlərinin dəyişdirilməsi məqsədilə müəyyən olunmamış hüquqi üsulların tətbiq edilməsi və fövqəladə məhkəmələrin, eləcə də xarici dövlətlərin, yaxud bu qanunla nəzərdə tutulmayan qaydada məhkəmələrin yaradılması qadağandır. Nöqtələrin yerinə aşağıdakılardan hansı yazılmalıdır?",
+      "options": [
+        "Azərbaycan Respublikası Konstitusiyasının 124-cü maddəsinin VI hissəsinə",
+        "Azərbaycan Respublikası Konstitusiyasının 125-ci maddəsinin VI hissəsinə",
+        "Azərbaycan Respublikası Konstitusiyasının 126-cı maddəsinin VI hissəsinə",
+        "Azərbaycan Respublikası Konstitusiyasının 127-ci maddəsinin VI hissəsinə"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 692,
+      "text": "Məhkəmələr baxılmış işlər üzrə Azərbaycan Respublikası adından çıxarmırlar?",
+      "options": [
+        "Qətnamələr",
+        "Qərardadlar",
+        "Qərarlar",
+        "Qanunlar"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 693,
+      "text": "Məhkəmələrin bütün qərarları qəbul olunduğu gündən nə qədər müddətdə anonimləşdirilməklə elektron qaydada yayılmalıdır?",
+      "options": [
+        "30 gündən gec olmayaraq",
+        "30 iş günü ərzində",
+        "Bir aydan gec olmayaraq",
+        "Üç aydan gec olmayaraq"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 694,
+      "text": "“Məhkəmələr və hakimlər haqqında” qanunun 5-ci maddəsinə əsasən Azərbaycan Respublikasının qanunvericiliyi ilə müəyyən edilmiş qaydada qanuni qüvvəyə minmiş məhkəmə qərarları Azərbaycan Respublikası ərazisində bütün fiziki və hüquqi şəxslər tərəfindən necə icra olunmalıdır?",
+      "options": [
+        "Mütləq, vaxtında və dəqiq",
+        "Ədalətli, şəffaf və operativ",
+        "Müstəsna, açıq və aydın",
+        "Qərəzsiz, şəffaf və ədalətli"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 695,
+      "text": "Azərbaycan Respublikası Konstitusiyasının ...... uyğun olaraq Azərbaycan Respublikasında ədalət mühakiməsi irqindən, miliyyətindən, dinindən, dilindən, cinsindən, mənşəyindən, əmlak vəziyyətindən, qulluq mövqeyindən, əqidəsindən, siyasi partiyalara, həmkarlar ittifaqına və digər ictimai birliklərə mənsubiyyətindən asılı olmayaraq hər bir şəxsin qanun və məhkəmə qarşısında hüquq bərabərliyi əsasında həyata keçirilir. Nöqtələrin yerinə aşağıdakılardan hansı yazılmalıdır?",
+      "options": [
+        "23-cü maddəsinə",
+        "25-ci maddəsinə",
+        "27-ci maddəsinə",
+        "35-ci maddəsinə"
+      ],
+      "correctAnswer": 1
+    },
+    {
+      "id": 696,
+      "text": "Hər hansı bir şəxs tərəfindən, hər hansı bir səbəbdən bilavasitə, yaxud dolayı yolla məhkəmə icraatına məhdudiyyət qoyulması, təsir, hədə və müdaxilə edilməsi, habelə məhkəməyə hörmətsizlik göstərilməsi, yaxud aşkar etinasızlıq göstərildiyini bildirən hərəkətlər edilməsi yolverilməzdir və ...... məsuliyyətə səbəb olur. Nöqtələrin yerinə aşağıdakılardan hansı yazılmalıdır?",
+      "options": [
+        "Azərbaycan Respublikasının Konstitusiyasına müvafiq surətdə",
+        "“Məhkəmələr və hakimlərin fəaliyyətinin müdafiəsi” haqqında qanuna müvafiq surətdə",
+        "“Məhkəmələr və hakimlər haqqında” qanuna müvafiq surətdə",
+        "Azərbaycan Respublikasının qanunvericiliyinə müvafiq surətdə"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 697,
+      "text": "Aşağıda göstərilənlərdən biri doğrudur:",
+      "options": [
+        "Azərbaycan Respublikasının Konstitusiyasının 60-cı maddəsinin II hissəsinə uyğun olaraq qanunla nəzərdə tutulmuş hallar istisna olmaqla, hüquqi yardım ödənişsiz, dövlət hesabına göstərilir",
+        "Azərbaycan Respublikasının Konstitusiyasının 60-cı maddəsinin II hissəsinə uyğun olaraq qanunla nəzərdə tutulmuş hallarda hüquqi yardım ödənişsiz, dövlət hesabına göstərilir",
+        "Azərbaycan Respublikasının Konstitusiyasının 61-ci maddəsinin II hissəsinə uyğun olaraq qanunla nəzərdə tutulmuş hallarda hüquqi yardım ödənişsiz, dövlət hesabına göstərilir",
+        "Azərbaycan Respublikasının Konstitusiyasının 61-ci maddəsinin II hissəsinə uyğun olaraq qanunla nəzərdə tutulmuş hallar istisna olmaqla, hüquqi yardım ödənişsiz, dövlət hesabına göstərilir"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 698,
+      "text": "Ədalət mühakiməsi həyata keçirilərkən Azərbaycan Respublikası Konstitusiyasının ...... nəzərdə tutulmuş təqsirsizlik prezumpsiyası prinsipinə riayət olunması təmin edilir. Nöqtələrin yerinə aşağıdakılardan biri yazılmalıdır:",
+      "options": [
+        "61-ci maddəsində",
+        "62-ci maddəsində",
+        "63-cü maddəsində",
+        "64-cü maddəsində"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 699,
+      "text": "Azərbaycan Respublikasının Konstitusiyasının ...... əsasən işlərə məhkəmənin qapalı iclaslarında baxılması halları istisna olmaqla, bütün məhkəmələrdə işlərin icraatı açıq aparılır. Nöqtələrinin yerinə aşağıdakılardan hansı yazılmalıdır?",
+      "options": [
+        "125-ci maddəsinin V hissəsinə",
+        "126-cı maddəsinin V hissəsinə",
+        "127-ci maddəsinin V hissəsinə",
+        "128-ci maddəsinin V hissəsinə"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 700,
+      "text": "Qanunda nəzərdə tutulmuş hallar istisna olmaqla, ...... qiyabi məhkəmə icraatına yol verilmir. Nöqtələrin yerinə aşağıdakılardan hansı yazılmalıdır?",
+      "options": [
+        "Cinayət işlərinin",
+        "Mülki işlərin",
+        "İnzibati işlərin",
+        "İntizam işlərinin"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 701,
+      "text": "Azərbaycan Respublikasının məhkəmə sisteminə daxil olan məhkəmələrin hakimlərinin ümumi sayı nəyə uyğun olaraq müəyyənləşdirilir?",
+      "options": [
+        "Azərbaycan Respublikası Konstitusiyasına",
+        "“Məhkəmələr və hakimlər haqqında “ Azərbaycan Respublikasının qanununa",
+        "Azərbaycan Respublikasının qanunlarına",
+        "Azərbaycan Respublikasının qanunvericiliyinə"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "id": 702,
+      "text": "Azərbaycan Respublikasının məhkəmə sisteminə daxil olan məhkəmələrin hakimlərinin ümumi sayı kim tərəfindən müəyyənləşdirilir?",
+      "options": [
+        "Azərbaycan Respublikasının Ali Məhkəməsi",
+        "Azərbaycan Respublikasının Konstitusiya Məhkəməsi",
+        "Azərbaycan Respublikasının Milli Məclisi",
+        "Azərbaycan Respublikasının Prezidenti"
+      ],
+      "correctAnswer": 3
+    },
+    {
+      "id": 703,
+      "text": "Azərbaycan Respublikasının hər bir məhkəməsi müstəqil hüquqi şəxsdir və onun ...... olan möhürü var. Nöqtələrin yerinə aşağıdakılardan hansı yazılmalıdır?",
+      "options": [
+        "Azərbaycan Respublikasının Dövlət bayrağının təsviri",
+        "Azərbaycan Respublikasının Dövlət himninin təsviri",
+        "Azərbaycan Respublikasının Dövlət gerbinin təsviri",
+        "Azərbaycan Respublikasının Dövlət rəmzlərinin hər birinin təsviri"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "id": 704,
+      "text": "Azərbaycan Respublikasının məhkəmə sisteminə daxil olan məhkəmələrin hakimlərinin ümumi sayı Azərbaycan Respublikasının Konstitusiyasının ...... uyğun olaraq müəyyənləşdirilir. Nöqtələrin yerinə uyğun gələn ifadəni göstərin.",
+      "options": [
+        "101-ci maddəsinin 3-cü bəndinə",
+        "94-cü maddənin 6-cı bəndinə",
+        "95-ci maddənin 12-ci bəndinə",
+        "109-cu maddənin 32-ci bəndinə"
+      ],
+      "correctAnswer": 3
+    }
   ]
 }
